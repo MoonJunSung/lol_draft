@@ -1,0 +1,2910 @@
+{
+  "top": [
+    {
+      "id": "soaz_2014_eu lcs",
+      "name": "sOAZ",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sOAZ_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2014)"
+    },
+    {
+      "id": "darien_2014_eu lcs",
+      "name": "Darien",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darien_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "youngbuck_2014_eu lcs",
+      "name": "YoungBuck",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YoungBuck_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "wickd_2014_eu lcs",
+      "name": "Wickd",
+      "team": "Alliance",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wickd_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Alliance (2014)"
+    },
+    {
+      "id": "fredy122_2014_eu lcs",
+      "name": "fredy122",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fredy122_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2014)"
+    },
+    {
+      "id": "kev1n_2014_eu lcs",
+      "name": "Kev1n",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kev1n_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "mimer_2014_eu lcs",
+      "name": "Mimer",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mimer_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "xaxus_2014_eu lcs",
+      "name": "Xaxus",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xaxus_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2014)"
+    },
+    {
+      "id": "balis_2014_na lcs",
+      "name": "BalIs",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BalIs_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2014)"
+    },
+    {
+      "id": "dyrus_2014_na lcs",
+      "name": "Dyrus",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dyrus_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "innox_2014_na lcs",
+      "name": "Innox",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Innox_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "benny_2014_na lcs",
+      "name": "Benny",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Benny_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "quas_2014_na lcs",
+      "name": "Quas",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quas_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "darshan_2014_na lcs",
+      "name": "Darshan",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darshan_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "nien_2014_na lcs",
+      "name": "Nien",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nien_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "cruzer_2014_na lcs",
+      "name": "Cruzer",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cruzer_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "zorozero_2014_eu lcs",
+      "name": "Zorozero",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zorozero_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "zorozero_2014_eu lcs",
+      "name": "Zorozero",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zorozero_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ninjas in Pyjamas (2014)"
+    },
+    {
+      "id": "odoamne_2014_eu lcs",
+      "name": "Odoamne",
+      "team": "Cloud9 Eclipse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cloud9 Eclipse (2014)"
+    },
+    {
+      "id": "ippon_2014_eu lcs",
+      "name": "Ippon",
+      "team": "Denial eSports.Europe",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ippon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Denial eSports.Europe (2014)"
+    },
+    {
+      "id": "godlike_2014_na lcs",
+      "name": "GodLike",
+      "team": "LMQ",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodLike_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "LMQ (2014)"
+    },
+    {
+      "id": "yazuki_2014_na lcs",
+      "name": "Yazuki",
+      "team": "Cloud9 Tempest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yazuki_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Tempest (2014)"
+    },
+    {
+      "id": "westrice_2014_na lcs",
+      "name": "Westrice",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westrice_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "seraph_2014_na lcs",
+      "name": "SERAPH",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SERAPH_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "westrice_2014_na lcs",
+      "name": "Westrice",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westrice_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "darshan_2014_na lcs",
+      "name": "Darshan",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darshan_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "cabochard_2014_eu lcs",
+      "name": "Cabochard",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cabochard_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "kubon_2014_eu lcs",
+      "name": "Kubon",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kubon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "odoamne_2014_eu lcs",
+      "name": "Odoamne",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "cris_2014_na lcs",
+      "name": "Cris",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cris_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "jaeger_2014_eu lcs",
+      "name": "Jaeger",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jaeger_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "wizardry_2014_na lcs",
+      "name": "Wizardry",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wizardry_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "vizicsacsi_2014_eu lcs",
+      "name": "Vizicsacsi",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vizicsacsi_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2014)"
+    },
+    {
+      "id": "calitrlolz_2014_na lcs",
+      "name": "CaliTrlolz",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CaliTrlolz_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2014)"
+    },
+    {
+      "id": "cris_2014_na lcs",
+      "name": "Cris",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cris_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "darkblight_2014_na lcs",
+      "name": "Darkblight",
+      "team": "Call Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darkblight_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Call Gaming (2014)"
+    },
+    {
+      "id": "solo_2014_na lcs",
+      "name": "Solo",
+      "team": "Zenith Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Zenith Esports (2014)"
+    },
+    {
+      "id": "rhux_2014_na lcs",
+      "name": "Rhux",
+      "team": "Final Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rhux_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Final Five (2014)"
+    },
+    {
+      "id": "westrice_2014_na lcs",
+      "name": "Westrice",
+      "team": "compLexity.White",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westrice_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.White (2014)"
+    },
+    {
+      "id": "chumpjohn_2014_na lcs",
+      "name": "ChumpJohn",
+      "team": "Infinity Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ChumpJohn_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Infinity Esports (2014)"
+    },
+    {
+      "id": "flaresz_2014_na lcs",
+      "name": "Flaresz",
+      "team": "Team LoLPro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flaresz_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team LoLPro (2014)"
+    },
+    {
+      "id": "engo_2014_na lcs",
+      "name": "Engo",
+      "team": "Fission Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Engo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Fission Esports (2014)"
+    },
+    {
+      "id": "ckg_2014_na lcs",
+      "name": "ckg",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ckg_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2014)"
+    },
+    {
+      "id": "tonington_2014_na lcs",
+      "name": "Tonington",
+      "team": "Noble Truth",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tonington_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Noble Truth (2014)"
+    },
+    {
+      "id": "kubon_2014_eu lcs",
+      "name": "Kubon",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kubon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2014)"
+    },
+    {
+      "id": "beansu_2014_eu lcs",
+      "name": "beansu",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/beansu_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "werlyb_2014_eu lcs",
+      "name": "Werlyb",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Werlyb_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2014)"
+    },
+    {
+      "id": "zvene_2014_eu lcs",
+      "name": "Zvene",
+      "team": "Ascension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zvene_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ascension (2014)"
+    },
+    {
+      "id": "i kenny u_2014_na lcs",
+      "name": "i KeNNy u",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/i KeNNy u_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "hauntzer_2014_na lcs",
+      "name": "Hauntzer",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "ippon_2014_eu lcs",
+      "name": "Ippon",
+      "team": "Tricked Esport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ippon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Tricked Esport (2014)"
+    },
+    {
+      "id": "xaxus_2014_eu lcs",
+      "name": "Xaxus",
+      "team": "n!faculty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xaxus_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "n!faculty (2014)"
+    },
+    {
+      "id": "jwaow_2014_eu lcs",
+      "name": "Jwaow",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jwaow_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2014)"
+    },
+    {
+      "id": "ts maybenickname_2014_eu lcs",
+      "name": "TS MaybeNickName",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS MaybeNickName_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "ts k3nst3r_2014_eu lcs",
+      "name": "TS K3nSt3r",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS K3nSt3r_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "steve_2014_eu lcs",
+      "name": "Steve",
+      "team": "ThunderBot SPARTA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steve_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "ThunderBot SPARTA (2014)"
+    },
+    {
+      "id": "woulou_2014_eu lcs",
+      "name": "WouLou",
+      "team": "Different Dimension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WouLou_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Different Dimension (2014)"
+    },
+    {
+      "id": "mc zeclipse_2014_eu lcs",
+      "name": "MC Zeclipse",
+      "team": "Meloncats",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MC Zeclipse_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Meloncats (2014)"
+    },
+    {
+      "id": "cejlon_2014_eu lcs",
+      "name": "Cejlon",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cejlon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "idyiom_2014_eu lcs",
+      "name": "Idyiom",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Idyiom_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "maknoon_2014_na lcs",
+      "name": "MakNooN",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MakNooN_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "cyanide_2014_eu lcs",
+      "name": "Cyanide",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cyanide_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2014)"
+    },
+    {
+      "id": "diamondprox_2014_eu lcs",
+      "name": "Diamondprox",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diamondprox_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "amazing_2014_eu lcs",
+      "name": "Amazing",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Amazing_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "shook_2014_eu lcs",
+      "name": "Shook",
+      "team": "Alliance",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Alliance (2014)"
+    },
+    {
+      "id": "svenskeren_2014_eu lcs",
+      "name": "Svenskeren",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Svenskeren_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2014)"
+    },
+    {
+      "id": "araneae_2014_eu lcs",
+      "name": "Araneae",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Araneae_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "impaler_2014_eu lcs",
+      "name": "Impaler",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impaler_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "jankos_2014_eu lcs",
+      "name": "Jankos",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2014)"
+    },
+    {
+      "id": "meteos_2014_na lcs",
+      "name": "Meteos",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2014)"
+    },
+    {
+      "id": "theoddone_2014_na lcs",
+      "name": "TheOddOne",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TheOddOne_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "snoopeh_2014_na lcs",
+      "name": "Snoopeh",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Snoopeh_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "zuna_2014_na lcs",
+      "name": "Zuna",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zuna_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "iwdominate_2014_na lcs",
+      "name": "IWDominate",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IWDominate_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "nintendudex_2014_na lcs",
+      "name": "NintendudeX",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NintendudeX_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "link_2014_na lcs",
+      "name": "Link",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Link_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "crumbz_2014_na lcs",
+      "name": "Crumbz",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crumbz_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "dexter_2014_na lcs",
+      "name": "Dexter",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dexter_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "hulberto_2014_eu lcs",
+      "name": "Hulberto",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hulberto_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "nickwu_2014_na lcs",
+      "name": "Nickwu",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nickwu_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "xmithie_2014_na lcs",
+      "name": "Xmithie",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "thinkcard_2014_na lcs",
+      "name": "Thinkcard",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thinkcard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "kottenx_2014_eu lcs",
+      "name": "Kottenx",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kottenx_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "hulberto_2014_eu lcs",
+      "name": "Hulberto",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hulberto_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ninjas in Pyjamas (2014)"
+    },
+    {
+      "id": "santorin_2014_eu lcs",
+      "name": "Santorin",
+      "team": "Cloud9 Eclipse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cloud9 Eclipse (2014)"
+    },
+    {
+      "id": "kikis_2014_eu lcs",
+      "name": "Kikis",
+      "team": "Denial eSports.Europe",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Denial eSports.Europe (2014)"
+    },
+    {
+      "id": "noname_2014_na lcs",
+      "name": "NONAME",
+      "team": "LMQ",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NONAME_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "LMQ (2014)"
+    },
+    {
+      "id": "kez_2014_na lcs",
+      "name": "Kez",
+      "team": "Cloud9 Tempest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Tempest (2014)"
+    },
+    {
+      "id": "brokenshard_2014_na lcs",
+      "name": "Brokenshard",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Brokenshard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "airwaks_2014_eu lcs",
+      "name": "Airwaks",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Airwaks_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "amazing_2014_na lcs",
+      "name": "Amazing",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Amazing_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "brokenshard_2014_na lcs",
+      "name": "Brokenshard",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Brokenshard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "kez_2014_na lcs",
+      "name": "Kez",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "helios_2014_na lcs",
+      "name": "Helios",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helios_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "loulex_2014_eu lcs",
+      "name": "Loulex",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loulex_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "brokenshard_2014_eu lcs",
+      "name": "Brokenshard",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Brokenshard_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "thinkcard_2014_na lcs",
+      "name": "Thinkcard",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thinkcard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "kold_2014_eu lcs",
+      "name": "Kold",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kold_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "saintvicious_2014_na lcs",
+      "name": "Saintvicious",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Saintvicious_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "kikis_2014_eu lcs",
+      "name": "Kikis",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "santorin_2014_na lcs",
+      "name": "Santorin",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "gilius_2014_eu lcs",
+      "name": "Gilius",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2014)"
+    },
+    {
+      "id": "porpoise_2014_na lcs",
+      "name": "Porpoise",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Porpoise_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2014)"
+    },
+    {
+      "id": "impaler_2014_na lcs",
+      "name": "Impaler",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impaler_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "iucid_2014_na lcs",
+      "name": "Iucid",
+      "team": "Call Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Iucid_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Call Gaming (2014)"
+    },
+    {
+      "id": "mimo_2014_na lcs",
+      "name": "MiMo",
+      "team": "Zenith Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MiMo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Zenith Esports (2014)"
+    },
+    {
+      "id": "shorterace_2014_na lcs",
+      "name": "ShorterACE",
+      "team": "Final Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShorterACE_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Final Five (2014)"
+    },
+    {
+      "id": "kez_2014_na lcs",
+      "name": "Kez",
+      "team": "compLexity.White",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.White (2014)"
+    },
+    {
+      "id": "xsojin_2014_na lcs",
+      "name": "xSojin",
+      "team": "Infinity Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xSojin_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Infinity Esports (2014)"
+    },
+    {
+      "id": "thinkcard_2014_na lcs",
+      "name": "Thinkcard",
+      "team": "Team LoLPro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thinkcard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team LoLPro (2014)"
+    },
+    {
+      "id": "azingy_2014_na lcs",
+      "name": "Azingy",
+      "team": "Fission Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Azingy_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Fission Esports (2014)"
+    },
+    {
+      "id": "inori_2014_na lcs",
+      "name": "Inori",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Inori_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2014)"
+    },
+    {
+      "id": "razelock_2014_na lcs",
+      "name": "Razelock",
+      "team": "Noble Truth",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Razelock_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Noble Truth (2014)"
+    },
+    {
+      "id": "xayoo_2014_eu lcs",
+      "name": "Xayoo",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xayoo_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2014)"
+    },
+    {
+      "id": "kold_2014_eu lcs",
+      "name": "Kold",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kold_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "fr3deric_2014_eu lcs",
+      "name": "Fr3deric",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fr3deric_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2014)"
+    },
+    {
+      "id": "wrdn_2014_eu lcs",
+      "name": "WRDN",
+      "team": "Ascension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WRDN_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ascension (2014)"
+    },
+    {
+      "id": "cloudnguyen_2014_na lcs",
+      "name": "CloudNguyen",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CloudNguyen_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "mowarth_2014_eu lcs",
+      "name": "Mowarth",
+      "team": "Tricked Esport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mowarth_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Tricked Esport (2014)"
+    },
+    {
+      "id": "obvious_2014_eu lcs",
+      "name": "Obvious",
+      "team": "n!faculty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Obvious_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "n!faculty (2014)"
+    },
+    {
+      "id": "k0u_2014_eu lcs",
+      "name": "k0u",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/k0u_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2014)"
+    },
+    {
+      "id": "ts k3nst3r_2014_eu lcs",
+      "name": "TS K3nSt3r",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS K3nSt3r_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "ts maybenickname_2014_eu lcs",
+      "name": "TS MaybeNickName",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS MaybeNickName_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "shaunz_2014_eu lcs",
+      "name": "Shaunz",
+      "team": "ThunderBot SPARTA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shaunz_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "ThunderBot SPARTA (2014)"
+    },
+    {
+      "id": "anonpsycko_2014_eu lcs",
+      "name": "Anonpsycko",
+      "team": "Different Dimension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Anonpsycko_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Different Dimension (2014)"
+    },
+    {
+      "id": "gilius_2014_eu lcs",
+      "name": "Gilius",
+      "team": "Meloncats",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Meloncats (2014)"
+    },
+    {
+      "id": "idyiom_2014_eu lcs",
+      "name": "Idyiom",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Idyiom_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "shiage_2014_eu lcs",
+      "name": "Shiage",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiage_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "nintendudex_2014_na lcs",
+      "name": "NintendudeX",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NintendudeX_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    },
+    {
+      "id": "loulex_2014_eu lcs",
+      "name": "Loulex",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loulex_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "h0r0_2014_eu lcs",
+      "name": "H0R0",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H0R0_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "xpeke_2014_eu lcs",
+      "name": "xPeke",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xPeke_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2014)"
+    },
+    {
+      "id": "alex ich_2014_eu lcs",
+      "name": "Alex Ich",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex Ich_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "cowtard_2014_eu lcs",
+      "name": "cowTard",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/cowTard_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "froggen_2014_eu lcs",
+      "name": "Froggen",
+      "team": "Alliance",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Froggen_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Alliance (2014)"
+    },
+    {
+      "id": "jesiz_2014_eu lcs",
+      "name": "Jesiz",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jesiz_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2014)"
+    },
+    {
+      "id": "kerp_2014_eu lcs",
+      "name": "Kerp",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kerp_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "moopz_2014_eu lcs",
+      "name": "Moopz",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Moopz_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "overpow_2014_eu lcs",
+      "name": "Overpow",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Overpow_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2014)"
+    },
+    {
+      "id": "hai_2014_na lcs",
+      "name": "Hai",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2014)"
+    },
+    {
+      "id": "bjergsen_2014_na lcs",
+      "name": "Bjergsen",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "pobelter_2014_na lcs",
+      "name": "Pobelter",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "mancloud_2014_na lcs",
+      "name": "mancloud",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/mancloud_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "voyboy_2014_na lcs",
+      "name": "Voyboy",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Voyboy_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "shiphtur_2014_na lcs",
+      "name": "Shiphtur",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiphtur_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "hotshotgg_2014_na lcs",
+      "name": "HotshotGG",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HotshotGG_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "scarra_2014_na lcs",
+      "name": "scarra",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/scarra_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "chauster_2014_na lcs",
+      "name": "Chauster",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chauster_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "link_2014_na lcs",
+      "name": "Link",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Link_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "nukeduck_2014_eu lcs",
+      "name": "Nukeduck",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "reginaid_2014_na lcs",
+      "name": "ReginaId",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ReginaId_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "nulu_2014_eu lcs",
+      "name": "Nulu",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "goldenglue_2014_na lcs",
+      "name": "Goldenglue",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "nukeduck_2014_eu lcs",
+      "name": "Nukeduck",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ninjas in Pyjamas (2014)"
+    },
+    {
+      "id": "febiven_2014_eu lcs",
+      "name": "FEBIVEN",
+      "team": "Cloud9 Eclipse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cloud9 Eclipse (2014)"
+    },
+    {
+      "id": "niq_2014_eu lcs",
+      "name": "niQ",
+      "team": "Denial eSports.Europe",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/niQ_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Denial eSports.Europe (2014)"
+    },
+    {
+      "id": "xiaoweixiao_2014_na lcs",
+      "name": "xiaoweixiao",
+      "team": "LMQ",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaoweixiao_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "LMQ (2014)"
+    },
+    {
+      "id": "bischu_2014_na lcs",
+      "name": "Bischu",
+      "team": "Cloud9 Tempest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bischu_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Tempest (2014)"
+    },
+    {
+      "id": "pr0lly_2014_na lcs",
+      "name": "pr0lly",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pr0lly_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "niq_2014_eu lcs",
+      "name": "niQ",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/niQ_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "pr0lly_2014_na lcs",
+      "name": "pr0lly",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pr0lly_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "shiphtur_2014_na lcs",
+      "name": "Shiphtur",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiphtur_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "mancloud_2014_na lcs",
+      "name": "mancloud",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/mancloud_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "mazzerin_2014_eu lcs",
+      "name": "Mazzerin",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mazzerin_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "soren_2014_eu lcs",
+      "name": "Soren",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soren_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "febiven_2014_eu lcs",
+      "name": "FEBIVEN",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "keane_2014_na lcs",
+      "name": "Keane",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keane_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "fox_2014_eu lcs",
+      "name": "Fox",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fox_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "ringer_2014_na lcs",
+      "name": "Ringer",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ringer_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "powerofevil_2014_eu lcs",
+      "name": "PowerOfEvil",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PowerOfEvil_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2014)"
+    },
+    {
+      "id": "slooshi_2014_na lcs",
+      "name": "Slooshi",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Slooshi_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2014)"
+    },
+    {
+      "id": "jesiz_2014_na lcs",
+      "name": "Jesiz",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jesiz_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "environmental_2014_na lcs",
+      "name": "Environmental",
+      "team": "Call Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Environmental_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Call Gaming (2014)"
+    },
+    {
+      "id": "easy_2014_na lcs",
+      "name": "Easy",
+      "team": "Zenith Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Easy_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Zenith Esports (2014)"
+    },
+    {
+      "id": "gate_2014_na lcs",
+      "name": "Gate",
+      "team": "Final Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Final Five (2014)"
+    },
+    {
+      "id": "goldenglue_2014_na lcs",
+      "name": "Goldenglue",
+      "team": "compLexity.White",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.White (2014)"
+    },
+    {
+      "id": "arcsecond_2014_na lcs",
+      "name": "Arcsecond",
+      "team": "Infinity Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Arcsecond_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Infinity Esports (2014)"
+    },
+    {
+      "id": "yusui_2014_na lcs",
+      "name": "Yusui",
+      "team": "Team LoLPro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yusui_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team LoLPro (2014)"
+    },
+    {
+      "id": "abou222_2014_na lcs",
+      "name": "Abou222",
+      "team": "Fission Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Abou222_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Fission Esports (2014)"
+    },
+    {
+      "id": "wolfe_2014_na lcs",
+      "name": "Wolfe",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wolfe_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2014)"
+    },
+    {
+      "id": "leonard_2014_na lcs",
+      "name": "Leonard",
+      "team": "Noble Truth",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leonard_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Noble Truth (2014)"
+    },
+    {
+      "id": "takefun_2014_eu lcs",
+      "name": "Takefun",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Takefun_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2014)"
+    },
+    {
+      "id": "godbro_2014_eu lcs",
+      "name": "Godbro",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Godbro_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "ptt_2014_eu lcs",
+      "name": "ptt",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ptt_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2014)"
+    },
+    {
+      "id": "saulius_2014_eu lcs",
+      "name": "Saulius",
+      "team": "Ascension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Saulius_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ascension (2014)"
+    },
+    {
+      "id": "tiridus_2014_eu lcs",
+      "name": "Tiridus",
+      "team": "Tricked Esport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tiridus_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Tricked Esport (2014)"
+    },
+    {
+      "id": "sozpurefect_2014_eu lcs",
+      "name": "SozPurefect",
+      "team": "n!faculty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SozPurefect_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "n!faculty (2014)"
+    },
+    {
+      "id": "ocelote_2014_eu lcs",
+      "name": "ocelote",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ocelote_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2014)"
+    },
+    {
+      "id": "ts heavenstrike_2014_eu lcs",
+      "name": "TS Heavenstrike",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS Heavenstrike_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "shlaya_2014_eu lcs",
+      "name": "ShLaYa",
+      "team": "ThunderBot SPARTA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShLaYa_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "ThunderBot SPARTA (2014)"
+    },
+    {
+      "id": "lolleros_2014_eu lcs",
+      "name": "Lolleros",
+      "team": "Different Dimension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lolleros_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Different Dimension (2014)"
+    },
+    {
+      "id": "abaria_2014_eu lcs",
+      "name": "Abaria",
+      "team": "Meloncats",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Abaria_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Meloncats (2014)"
+    },
+    {
+      "id": "shiage_2014_eu lcs",
+      "name": "Shiage",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiage_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "sâyn_2014_eu lcs",
+      "name": "Sâyn",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sâyn_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "huhi_2014_na lcs",
+      "name": "huhi",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    },
+    {
+      "id": "ryu_2014_eu lcs",
+      "name": "Ryu",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryu_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "rekkles_2014_eu lcs",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2014)"
+    },
+    {
+      "id": "genja_2014_eu lcs",
+      "name": "Genja",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Genja_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "forg1ven_2014_eu lcs",
+      "name": "FORG1VEN",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "tabzz_2014_eu lcs",
+      "name": "Tabzz",
+      "team": "Alliance",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tabzz_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Alliance (2014)"
+    },
+    {
+      "id": "candypanda_2014_eu lcs",
+      "name": "CandyPanda",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CandyPanda_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2014)"
+    },
+    {
+      "id": "creaton_2014_eu lcs",
+      "name": "Creaton",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Creaton_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "mrrallez_2014_eu lcs",
+      "name": "MrRallez",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MrRallez_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "celaver_2014_eu lcs",
+      "name": "Celaver",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Celaver_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2014)"
+    },
+    {
+      "id": "sneaky_2014_na lcs",
+      "name": "Sneaky",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sneaky_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2014)"
+    },
+    {
+      "id": "wildturtle_2014_na lcs",
+      "name": "WildTurtle",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "yellowpete_2014_na lcs",
+      "name": "yellowpete",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yellowpete_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "xmithie_2014_na lcs",
+      "name": "Xmithie",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "cop_2014_na lcs",
+      "name": "Cop",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cop_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "apollo_2014_na lcs",
+      "name": "Apollo",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "doublelift_2014_na lcs",
+      "name": "Doublelift",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "imaqtpie_2014_na lcs",
+      "name": "Imaqtpie",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Imaqtpie_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "fury_2014_eu lcs",
+      "name": "Fury",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fury_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "zuna_2014_na lcs",
+      "name": "Zuna",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zuna_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "robertxlee_2014_na lcs",
+      "name": "ROBERTxLEE",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ROBERTxLEE_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "freeze_2014_eu lcs",
+      "name": "Freeze",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Freeze_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ninjas in Pyjamas (2014)"
+    },
+    {
+      "id": "hjarnan_2014_eu lcs",
+      "name": "Hjarnan",
+      "team": "Cloud9 Eclipse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hjarnan_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cloud9 Eclipse (2014)"
+    },
+    {
+      "id": "woolite_2014_eu lcs",
+      "name": "Woolite",
+      "team": "Denial eSports.Europe",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Woolite_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Denial eSports.Europe (2014)"
+    },
+    {
+      "id": "vas1lii_2014_na lcs",
+      "name": "Vas1lii",
+      "team": "LMQ",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vas1lii_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "LMQ (2014)"
+    },
+    {
+      "id": "altec_2014_na lcs",
+      "name": "Altec",
+      "team": "Cloud9 Tempest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Tempest (2014)"
+    },
+    {
+      "id": "robertxlee_2014_na lcs",
+      "name": "ROBERTxLEE",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ROBERTxLEE_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "woolite_2014_eu lcs",
+      "name": "Woolite",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Woolite_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "robertxlee_2014_na lcs",
+      "name": "ROBERTxLEE",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ROBERTxLEE_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "altec_2014_na lcs",
+      "name": "Altec",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "chaox_2014_na lcs",
+      "name": "Chaox",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chaox_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "hjarnan_2014_eu lcs",
+      "name": "Hjarnan",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hjarnan_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "mabrey_2014_na lcs",
+      "name": "Mabrey",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mabrey_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "p1noy_2014_eu lcs",
+      "name": "P1noy",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/P1noy_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "haydal_2014_eu lcs",
+      "name": "Haydal",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haydal_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "mash_2014_na lcs",
+      "name": "Mash",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mash_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "vardags_2014_eu lcs",
+      "name": "Vardags",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vardags_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2014)"
+    },
+    {
+      "id": "maplestreet_2014_na lcs",
+      "name": "Maplestreet",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maplestreet_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2014)"
+    },
+    {
+      "id": "rakin_2014_na lcs",
+      "name": "Rakin",
+      "team": "Call Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rakin_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Call Gaming (2014)"
+    },
+    {
+      "id": "frosty_2014_na lcs",
+      "name": "Frosty",
+      "team": "Zenith Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Frosty_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Zenith Esports (2014)"
+    },
+    {
+      "id": "prototype_2014_na lcs",
+      "name": "Prototype",
+      "team": "Final Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Prototype_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Final Five (2014)"
+    },
+    {
+      "id": "mabrey_2014_na lcs",
+      "name": "Mabrey",
+      "team": "compLexity.White",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mabrey_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.White (2014)"
+    },
+    {
+      "id": "hoofspark_2014_na lcs",
+      "name": "Hoofspark",
+      "team": "Infinity Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hoofspark_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Infinity Esports (2014)"
+    },
+    {
+      "id": "apollo_2014_na lcs",
+      "name": "Apollo",
+      "team": "Team LoLPro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team LoLPro (2014)"
+    },
+    {
+      "id": "i am the irs_2014_na lcs",
+      "name": "I Am The IRS",
+      "team": "Fission Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/I Am The IRS_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Fission Esports (2014)"
+    },
+    {
+      "id": "otter_2014_na lcs",
+      "name": "otter",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/otter_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2014)"
+    },
+    {
+      "id": "nocturnal_2014_na lcs",
+      "name": "Nocturnal",
+      "team": "Noble Truth",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nocturnal_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Noble Truth (2014)"
+    },
+    {
+      "id": "celaver_2014_eu lcs",
+      "name": "Celaver",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Celaver_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2014)"
+    },
+    {
+      "id": "steeelback_2014_eu lcs",
+      "name": "Steeelback",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "adryh_2014_eu lcs",
+      "name": "Adryh",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adryh_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2014)"
+    },
+    {
+      "id": "darkside_2014_eu lcs",
+      "name": "DarkSide",
+      "team": "Ascension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DarkSide_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ascension (2014)"
+    },
+    {
+      "id": "cop_2014_na lcs",
+      "name": "Cop",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cop_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "sa1na_2014_eu lcs",
+      "name": "SA1NA",
+      "team": "Tricked Esport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SA1NA_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Tricked Esport (2014)"
+    },
+    {
+      "id": "sedrion_2014_eu lcs",
+      "name": "Sedrion",
+      "team": "n!faculty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sedrion_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "n!faculty (2014)"
+    },
+    {
+      "id": "yuuki60_2014_eu lcs",
+      "name": "Yuuki60",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuuki60_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2014)"
+    },
+    {
+      "id": "ts siralphaq_2014_eu lcs",
+      "name": "TS SirAlphaQ",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TS SirAlphaQ_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "nono_2014_eu lcs",
+      "name": "Nono",
+      "team": "ThunderBot SPARTA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nono_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "ThunderBot SPARTA (2014)"
+    },
+    {
+      "id": "dom1nant_2014_eu lcs",
+      "name": "Dom1nant",
+      "team": "Different Dimension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dom1nant_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Different Dimension (2014)"
+    },
+    {
+      "id": "krykiet_2014_eu lcs",
+      "name": "Krykiet",
+      "team": "Meloncats",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Krykiet_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Meloncats (2014)"
+    },
+    {
+      "id": "sâyn_2014_eu lcs",
+      "name": "Sâyn",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sâyn_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "tarky_2014_eu lcs",
+      "name": "Tarky",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarky_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "nien_2014_na lcs",
+      "name": "Nien",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nien_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    }
+  ],
+  "support": [
+    {
+      "id": "yellowstar_2014_eu lcs",
+      "name": "YellOwStaR",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YellOwStaR_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2014)"
+    },
+    {
+      "id": "edward_2014_eu lcs",
+      "name": "Edward",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edward_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "unlimited_2014_eu lcs",
+      "name": "Unlimited",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unlimited_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2014)"
+    },
+    {
+      "id": "nyph_2014_eu lcs",
+      "name": "Nyph",
+      "team": "Alliance",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nyph_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Alliance (2014)"
+    },
+    {
+      "id": "nrated_2014_eu lcs",
+      "name": "nRated",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/nRated_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2014)"
+    },
+    {
+      "id": "jree_2014_eu lcs",
+      "name": "Jree",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jree_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2014)"
+    },
+    {
+      "id": "migxa_2014_eu lcs",
+      "name": "Migxa",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Migxa_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "vander_2014_eu lcs",
+      "name": "Vander",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2014)"
+    },
+    {
+      "id": "lemonnation_2014_na lcs",
+      "name": "LemonNation",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LemonNation_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2014)"
+    },
+    {
+      "id": "xpecial_2014_na lcs",
+      "name": "Xpecial",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xpecial_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "krepo_2014_na lcs",
+      "name": "Krepo",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Krepo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "bloodwater_2014_na lcs",
+      "name": "BloodWater",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BloodWater_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "zekent_2014_na lcs",
+      "name": "Zekent",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zekent_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "daydreamin_2014_na lcs",
+      "name": "Daydreamin",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Daydreamin_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "aphromoo_2014_na lcs",
+      "name": "aphromoo",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "kiwikid_2014_na lcs",
+      "name": "KiWiKiD",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KiWiKiD_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2014)"
+    },
+    {
+      "id": "saintvicious_2014_na lcs",
+      "name": "Saintvicious",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Saintvicious_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "zuna_2014_na lcs",
+      "name": "Zuna",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zuna_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "sheep_2014_na lcs",
+      "name": "Sheep",
+      "team": "XDG Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheep_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "XDG Gaming (2014)"
+    },
+    {
+      "id": "bunny fufuu_2014_na lcs",
+      "name": "Bunny FuFuu",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bunny FuFuu_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "ken_2014_na lcs",
+      "name": "Ken",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ken_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Evil Geniuses (2014)"
+    },
+    {
+      "id": "mithy_2014_eu lcs",
+      "name": "Mithy",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mithy_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ninjas in Pyjamas (2014)"
+    },
+    {
+      "id": "voidle_2014_eu lcs",
+      "name": "Voidle",
+      "team": "Cloud9 Eclipse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Voidle_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cloud9 Eclipse (2014)"
+    },
+    {
+      "id": "superaze_2014_eu lcs",
+      "name": "SuperAZE",
+      "team": "Denial eSports.Europe",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SuperAZE_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Denial eSports.Europe (2014)"
+    },
+    {
+      "id": "mor_2014_na lcs",
+      "name": "Mor",
+      "team": "LMQ",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mor_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "LMQ (2014)"
+    },
+    {
+      "id": "gleeb_2014_na lcs",
+      "name": "Gleeb",
+      "team": "Cloud9 Tempest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gleeb_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Tempest (2014)"
+    },
+    {
+      "id": "bubbadub_2014_na lcs",
+      "name": "Bubbadub",
+      "team": "compLexity.Black",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bubbadub_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.Black (2014)"
+    },
+    {
+      "id": "wewillfailer_2014_eu lcs",
+      "name": "wewillfailer",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/wewillfailer_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "gleeb_2014_na lcs",
+      "name": "Gleeb",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gleeb_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "xpecial_2014_na lcs",
+      "name": "Xpecial",
+      "team": "Team Curse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xpecial_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Curse (2014)"
+    },
+    {
+      "id": "bubbadub_2014_na lcs",
+      "name": "Bubbadub",
+      "team": "compLexity Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bubbadub_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity Gaming (2014)"
+    },
+    {
+      "id": "kasing_2014_eu lcs",
+      "name": "Kasing",
+      "team": "SUPA HOT CREW",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kasing_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SUPA HOT CREW (2014)"
+    },
+    {
+      "id": "hiiva_2014_eu lcs",
+      "name": "Hiiva",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hiiva_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2014)"
+    },
+    {
+      "id": "lustboy_2014_na lcs",
+      "name": "Lustboy",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lustboy_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2014)"
+    },
+    {
+      "id": "big_2014_na lcs",
+      "name": "Big",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Big_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2014)"
+    },
+    {
+      "id": "aod_2014_eu lcs",
+      "name": "AoD",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AoD_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "bunny fufuu_2014_na lcs",
+      "name": "Bunny FuFuu",
+      "team": "Curse Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bunny FuFuu_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Curse Academy (2014)"
+    },
+    {
+      "id": "zytan_2014_eu lcs",
+      "name": "Zytan",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zytan_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "sheep_2014_na lcs",
+      "name": "Sheep",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheep_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2014)"
+    },
+    {
+      "id": "hylissang_2014_eu lcs",
+      "name": "Hylissang",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2014)"
+    },
+    {
+      "id": "dodo_2014_na lcs",
+      "name": "Dodo",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dodo_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2014)"
+    },
+    {
+      "id": "stunt_2014_na lcs",
+      "name": "Stunt",
+      "team": "Call Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stunt_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Call Gaming (2014)"
+    },
+    {
+      "id": "k1_2014_na lcs",
+      "name": "k1",
+      "team": "Zenith Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/k1_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Zenith Esports (2014)"
+    },
+    {
+      "id": "rule18_2014_na lcs",
+      "name": "Rule18",
+      "team": "Final Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rule18_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Final Five (2014)"
+    },
+    {
+      "id": "lohpally_2014_na lcs",
+      "name": "Lohpally",
+      "team": "compLexity.White",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lohpally_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "compLexity.White (2014)"
+    },
+    {
+      "id": "hanjaro_2014_na lcs",
+      "name": "Hanjaro",
+      "team": "Infinity Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hanjaro_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Infinity Esports (2014)"
+    },
+    {
+      "id": "keith_2014_na lcs",
+      "name": "Keith",
+      "team": "Team LoLPro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team LoLPro (2014)"
+    },
+    {
+      "id": "indivisible_2014_na lcs",
+      "name": "Indivisible",
+      "team": "Fission Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Indivisible_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Fission Esports (2014)"
+    },
+    {
+      "id": "bodydrop_2014_na lcs",
+      "name": "Bodydrop",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bodydrop_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2014)"
+    },
+    {
+      "id": "ralara_2014_na lcs",
+      "name": "Ralara",
+      "team": "Noble Truth",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ralara_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Noble Truth (2014)"
+    },
+    {
+      "id": "libik_2014_eu lcs",
+      "name": "Libik",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Libik_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2014)"
+    },
+    {
+      "id": "barneyd_2014_eu lcs",
+      "name": "BarneyD",
+      "team": "SK Gaming Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BarneyD_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming Prime (2014)"
+    },
+    {
+      "id": "rydle_2014_eu lcs",
+      "name": "Rydle",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rydle_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2014)"
+    },
+    {
+      "id": "angelas_2014_eu lcs",
+      "name": "Angelas",
+      "team": "Ascension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Angelas_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Ascension (2014)"
+    },
+    {
+      "id": "niko3333_2014_eu lcs",
+      "name": "Niko3333",
+      "team": "Tricked Esport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Niko3333_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Tricked Esport (2014)"
+    },
+    {
+      "id": "mountain_2014_eu lcs",
+      "name": "MounTain",
+      "team": "n!faculty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MounTain_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "n!faculty (2014)"
+    },
+    {
+      "id": "kasing_2014_eu lcs",
+      "name": "Kasing",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kasing_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2014)"
+    },
+    {
+      "id": "vio_2014_eu lcs",
+      "name": "Vio",
+      "team": "Team Strix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vio_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Team Strix (2014)"
+    },
+    {
+      "id": "lounet_2014_eu lcs",
+      "name": "Lounet",
+      "team": "ThunderBot SPARTA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lounet_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "ThunderBot SPARTA (2014)"
+    },
+    {
+      "id": "wildpanda_2014_eu lcs",
+      "name": "WildPanda",
+      "team": "Different Dimension",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildPanda_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Different Dimension (2014)"
+    },
+    {
+      "id": "dioud_2014_eu lcs",
+      "name": "Dioud",
+      "team": "Meloncats",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dioud_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Meloncats (2014)"
+    },
+    {
+      "id": "tarky_2014_eu lcs",
+      "name": "Tarky",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarky_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "cejlon_2014_eu lcs",
+      "name": "Cejlon",
+      "team": "Cyber Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cejlon_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "Cyber Gaming (2014)"
+    },
+    {
+      "id": "chunkyfresh_2014_na lcs",
+      "name": "Chunkyfresh",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chunkyfresh_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    },
+    {
+      "id": "voidle_2014_eu lcs",
+      "name": "Voidle",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Voidle_profileicon.png",
+      "years": "2014",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2014)"
+    },
+    {
+      "id": "gleeb_2014_na lcs",
+      "name": "Gleeb",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gleeb_profileicon.png",
+      "years": "2014",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2014)"
+    }
+  ]
+}

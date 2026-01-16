@@ -1,0 +1,3639 @@
+{
+  "top": [
+    {
+      "id": "theshy_2020_lpl",
+      "name": "TheShy",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "khan_2020_lpl",
+      "name": "Khan",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Khan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "fearness_2020_lpl",
+      "name": "fearness",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fearness_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "flandre_2020_lpl",
+      "name": "Flandre",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flandre_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "xiaobai_2020_lpl",
+      "name": "Xiaobai",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaobai_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "holder_2020_lpl",
+      "name": "Holder",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Holder_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "breathe_2020_lpl",
+      "name": "Breathe",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breathe_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "zoom_2020_lpl",
+      "name": "Zoom",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zoom_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "cube_2020_lpl",
+      "name": "Cube",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cube_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "kingen_2020_lpl",
+      "name": "Kingen",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kingen_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "ale_2020_lpl",
+      "name": "Ale",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ale_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "aliez_2020_lpl",
+      "name": "Aliez",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aliez_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "jinoo_2020_lpl",
+      "name": "Jinoo",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinoo_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "clx_2020_lpl",
+      "name": "clx",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/clx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "crazy_2020_lpl",
+      "name": "Crazy",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crazy_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "bin_2020_lpl",
+      "name": "Bin",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bin_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "369_2020_lpl",
+      "name": "369",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/369_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "morgan_2020_lpl",
+      "name": "Morgan",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morgan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "langx_2020_lpl",
+      "name": "Langx",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Langx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "wunder_2020_lec",
+      "name": "Wunder",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wunder_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "orome_2020_lec",
+      "name": "Orome",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Orome_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2020)"
+    },
+    {
+      "id": "sacre_2020_lec",
+      "name": "Sacre",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sacre_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "cabochard_2020_lec",
+      "name": "Cabochard",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cabochard_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "finn_2020_lec",
+      "name": "Finn",
+      "team": "Rogue",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Finn_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Rogue (2020)"
+    },
+    {
+      "id": "dan dan_2020_lec",
+      "name": "Dan Dan",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dan Dan_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "expect_2020_lec",
+      "name": "Expect",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Expect_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "odoamne_2020_lec",
+      "name": "Odoamne",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "bwipo_2020_lec",
+      "name": "Bwipo",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bwipo_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2020)"
+    },
+    {
+      "id": "alphari_2020_lec",
+      "name": "Alphari",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alphari_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "licorice_2020_lcs",
+      "name": "Licorice",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Licorice_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2020)"
+    },
+    {
+      "id": "impact_2020_lcs",
+      "name": "Impact",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "ruin_2020_lcs",
+      "name": "Ruin",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruin_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "huni_2020_lcs",
+      "name": "Huni",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "ssumday_2020_lcs",
+      "name": "Ssumday",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "hauntzer_2020_lcs",
+      "name": "Hauntzer",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "soaz_2020_lcs",
+      "name": "sOAZ",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sOAZ_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "v1per_2020_lcs",
+      "name": "V1per",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/V1per_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "kumo_2020_lcs",
+      "name": "Kumo",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kumo_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "brokenblade_2020_lcs",
+      "name": "BrokenBlade",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BrokenBlade_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "roach_2020_lck",
+      "name": "Roach",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roach_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "nuguri_2020_lck",
+      "name": "Nuguri",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuguri_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "sohwan_2020_lck",
+      "name": "SoHwan",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoHwan_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "rascal_2020_lck",
+      "name": "Rascal",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rascal_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "summit_2020_lck",
+      "name": "Summit",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Summit_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "ikssu_2020_lck",
+      "name": "ikssu",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ikssu_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "sw0rd_2020_lck",
+      "name": "Sw0rd",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sw0rd_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "kiin_2020_lck",
+      "name": "Kiin",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kiin_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "cuvee_2020_lck",
+      "name": "CuVee",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CuVee_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "canna_2020_lck",
+      "name": "Canna",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Canna_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "chovy_2020_lck",
+      "name": "Chovy",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chovy_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "doran_2020_lck",
+      "name": "Doran",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doran_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "ray_2020_lck",
+      "name": "Ray",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ray_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "lonely_2020_lck",
+      "name": "Lonely",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lonely_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "gimgoon_2020_lpl",
+      "name": "GimGoon",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "705_2020_lpl",
+      "name": "705",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/705_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "lies_2020_lpl",
+      "name": "Lies",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lies_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "biubiu_2020_lpl",
+      "name": "Biubiu",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biubiu_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "xiaoxiang_2020_lpl",
+      "name": "Xiaoxiang",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaoxiang_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "add_2020_lpl",
+      "name": "ADD",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ADD_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "aodi_2020_lpl",
+      "name": "Aodi",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aodi_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "ventair_2020_lec",
+      "name": "Ventair",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ventair_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "solo_2020_lcs",
+      "name": "Solo",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "melody_2020_lpl",
+      "name": "melody",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/melody_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "hoya_2020_lck",
+      "name": "HOYA",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HOYA_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "mole_2020_lpl",
+      "name": "Mole",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mole_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "fenfen_2020_lpl",
+      "name": "Fenfen",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenfen_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "untara_2020_lck",
+      "name": "Untara",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Untara_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "chenlun17_2020_lpl",
+      "name": "chenlun17",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/chenlun17_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "rich_2020_lck",
+      "name": "Rich",
+      "team": "Team Dynamics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rich_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Team Dynamics (2020)"
+    },
+    {
+      "id": "thal_2020_lck",
+      "name": "Thal",
+      "team": "Seorabeol Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thal_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Seorabeol Gaming (2020)"
+    },
+    {
+      "id": "biubiu_2020_lpl",
+      "name": "Biubiu",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biubiu_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "aliez_2020_lpl",
+      "name": "Aliez",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aliez_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "new_2020_lpl",
+      "name": "New",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/New_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "garvey_2020_lpl",
+      "name": "Garvey",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Garvey_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "langx_2020_lpl",
+      "name": "Langx",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Langx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "cjj_2020_lpl",
+      "name": "CJJ",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CJJ_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "jnx_2020_lec",
+      "name": "JNX",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JNX_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "kryze_2020_lec",
+      "name": "Kryze",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kryze_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "v1per_2020_lcs",
+      "name": "V1per",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/V1per_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "dudu_2020_lck",
+      "name": "DuDu",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DuDu_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "chelizi_2020_lpl",
+      "name": "Chelizi",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chelizi_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "smeb_2020_lck",
+      "name": "Smeb",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smeb_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "705_2020_lpl",
+      "name": "705",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/705_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "lourlo_2020_lcs",
+      "name": "Lourlo",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lourlo_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "allorim_2020_lcs",
+      "name": "Allorim",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Allorim_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "rjs_2020_lcs",
+      "name": "RJS",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RJS_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "huni_2020_lcs",
+      "name": "Huni",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "ning_2020_lpl",
+      "name": "Ning",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ning_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "tian_2020_lpl",
+      "name": "Tian",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tian_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "peanut_2020_lpl",
+      "name": "Peanut",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "xx_2020_lpl",
+      "name": "Xx",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "leyan_2020_lpl",
+      "name": "Leyan",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leyan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "wei_2020_lpl",
+      "name": "Wei",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wei_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "haro_2020_lpl",
+      "name": "Haro",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haro_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "h4cker_2020_lpl",
+      "name": "H4cker",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H4cker_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "kanavi_2020_lpl",
+      "name": "Kanavi",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kanavi_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "chieftain_2020_lpl",
+      "name": "Chieftain",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chieftain_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "meteor_2020_lpl",
+      "name": "Meteor",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteor_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "bless_2020_lpl",
+      "name": "bless",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/bless_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "xiaopeng_2020_lpl",
+      "name": "xiaopeng",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaopeng_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "xiaohan_2020_lpl",
+      "name": "xiaohan",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaohan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "jiejie_2020_lpl",
+      "name": "Jiejie",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiejie_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "sofm_2020_lpl",
+      "name": "SofM",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SofM_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "karsa_2020_lpl",
+      "name": "Karsa",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karsa_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "beishang_2020_lpl",
+      "name": "beishang",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/beishang_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "xlb_2020_lpl",
+      "name": "XLB",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XLB_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "aix_2020_lpl",
+      "name": "Aix",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aix_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "jankos_2020_lec",
+      "name": "Jankos",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "shad0w_2020_lec",
+      "name": "Shad0w",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shad0w_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2020)"
+    },
+    {
+      "id": "trick_2020_lec",
+      "name": "Trick",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "skeanz_2020_lec",
+      "name": "Skeanz",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Skeanz_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "inspired_2020_lec",
+      "name": "Inspired",
+      "team": "Rogue",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Inspired_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Rogue (2020)"
+    },
+    {
+      "id": "razork_2020_lec",
+      "name": "Razork",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Razork_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "caedrel_2020_lec",
+      "name": "Caedrel",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caedrel_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "gilius_2020_lec",
+      "name": "Gilius",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "selfmade_2020_lec",
+      "name": "Selfmade",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Selfmade_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2020)"
+    },
+    {
+      "id": "xerxe_2020_lec",
+      "name": "Xerxe",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xerxe_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "blaber_2020_lcs",
+      "name": "Blaber",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blaber_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2020)"
+    },
+    {
+      "id": "shernfire_2020_lcs",
+      "name": "Shernfire",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shernfire_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "griffin_2020_lcs",
+      "name": "Griffin",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Griffin_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "armao_2020_lcs",
+      "name": "Armao",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Armao_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "meteos_2020_lcs",
+      "name": "Meteos",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "closer_2020_lcs",
+      "name": "Closer",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Closer_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "xmithie_2020_lcs",
+      "name": "Xmithie",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "santorin_2020_lcs",
+      "name": "Santorin",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "svenskeren_2020_lcs",
+      "name": "Svenskeren",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Svenskeren_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "dardoch_2020_lcs",
+      "name": "Dardoch",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dardoch_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "cuzz_2020_lck",
+      "name": "Cuzz",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cuzz_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "canyon_2020_lck",
+      "name": "Canyon",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Canyon_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "bon0_2020_lck",
+      "name": "bon0",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/bon0_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "clid_2020_lck",
+      "name": "Clid",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clid_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "onfleek_2020_lck",
+      "name": "OnFleek",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/OnFleek_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "flawless_2020_lck",
+      "name": "Flawless",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flawless_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "tarzan_2020_lck",
+      "name": "Tarzan",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarzan_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "spirit_2020_lck",
+      "name": "Spirit",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spirit_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "haru_2020_lck",
+      "name": "Haru",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haru_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "pyosik_2020_lck",
+      "name": "Pyosik",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pyosik_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "malrang_2020_lck",
+      "name": "Malrang",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Malrang_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "lurox_2020_lec",
+      "name": "Lurox",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lurox_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "dread_2020_lck",
+      "name": "Dread",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dread_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "broxah_2020_lcs",
+      "name": "Broxah",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Broxah_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "akaadian_2020_lcs",
+      "name": "Akaadian",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Akaadian_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "as6_2020_lpl",
+      "name": "As6",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/As6_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "junjia_2020_lpl",
+      "name": "JunJia",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JunJia_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "weiyan_2020_lpl",
+      "name": "WeiYan",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WeiYan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "daylight_2020_lpl",
+      "name": "Daylight",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Daylight_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "punch_2020_lck",
+      "name": "Punch",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Punch_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "ellim_2020_lck",
+      "name": "Ellim",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ellim_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "beyond_2020_lck",
+      "name": "Beyond",
+      "team": "Team Dynamics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Beyond_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Team Dynamics (2020)"
+    },
+    {
+      "id": "kakao_2020_lck",
+      "name": "KaKAO",
+      "team": "Seorabeol Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KaKAO_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Seorabeol Gaming (2020)"
+    },
+    {
+      "id": "weiwei_2020_lpl",
+      "name": "Weiwei",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Weiwei_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "l3est16_2020_lpl",
+      "name": "l3est16",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/l3est16_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "youdang_2020_lpl",
+      "name": "Youdang",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Youdang_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "clarence_2020_lec",
+      "name": "Clarence",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clarence_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "spica_2020_lcs",
+      "name": "Spica",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spica_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "potluck_2020_lcs",
+      "name": "Potluck",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Potluck_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "cad_2020_lck",
+      "name": "CaD",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CaD_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "leyan_2020_lpl",
+      "name": "Leyan",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leyan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "kuma_2020_lck",
+      "name": "Kuma",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuma_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "contractz_2020_lcs",
+      "name": "Contractz",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Contractz_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "dardoch_2020_lcs",
+      "name": "Dardoch",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dardoch_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "youngjae_2020_lck",
+      "name": "YoungJae",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YoungJae_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "fragas_2020_lcs",
+      "name": "Fragas",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fragas_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "rookie_2020_lpl",
+      "name": "Rookie",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "doinb_2020_lpl",
+      "name": "Doinb",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "yuuki_2020_lpl",
+      "name": "Yuuki",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuuki_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "maple_2020_lpl",
+      "name": "Maple",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maple_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "cryin_2020_lpl",
+      "name": "Cryin",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cryin_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "wuming_2020_lpl",
+      "name": "Wuming",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wuming_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "ruby_2020_lpl",
+      "name": "Ruby",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruby_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "icon_2020_lpl",
+      "name": "ICON",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ICON_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "yagao_2020_lpl",
+      "name": "Yagao",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yagao_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "forge_2020_lpl",
+      "name": "Forge",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Forge_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "fofo_2020_lpl",
+      "name": "FoFo",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FoFo_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "xiye_2020_lpl",
+      "name": "xiye",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiye_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "mole_2020_lpl",
+      "name": "Mole",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mole_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "scout_2020_lpl",
+      "name": "Scout",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "angel_2020_lpl",
+      "name": "Angel",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Angel_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "knight_2020_lpl",
+      "name": "Knight",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Knight_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "jett_2020_lpl",
+      "name": "Jett",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jett_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "xiaohu_2020_lpl",
+      "name": "Xiaohu",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohu_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "twila_2020_lpl",
+      "name": "Twila",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Twila_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "perkz_2020_lec",
+      "name": "Perkz",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "humanoid_2020_lec",
+      "name": "Humanoid",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Humanoid_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2020)"
+    },
+    {
+      "id": "jnx_2020_lec",
+      "name": "JNX",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JNX_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "saken_2020_lec",
+      "name": "SAKEN",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SAKEN_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "larssen_2020_lec",
+      "name": "Larssen",
+      "team": "Rogue",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Larssen_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Rogue (2020)"
+    },
+    {
+      "id": "febiven_2020_lec",
+      "name": "FEBIVEN",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "mickey_2020_lec",
+      "name": "Mickey",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mickey_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "abbedagge_2020_lec",
+      "name": "Abbedagge",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Abbedagge_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "nemesis_2020_lec",
+      "name": "Nemesis",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nemesis_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2020)"
+    },
+    {
+      "id": "nukeduck_2020_lec",
+      "name": "Nukeduck",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "nisqy_2020_lcs",
+      "name": "Nisqy",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nisqy_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2020)"
+    },
+    {
+      "id": "jensen_2020_lcs",
+      "name": "Jensen",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "crown_2020_lcs",
+      "name": "Crown",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "froggen_2020_lcs",
+      "name": "Froggen",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Froggen_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "ryoma_2020_lcs",
+      "name": "Ryoma",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryoma_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "goldenglue_2020_lcs",
+      "name": "Goldenglue",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "eika_2020_lcs",
+      "name": "Eika",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eika_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "powerofevil_2020_lcs",
+      "name": "PowerOfEvil",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PowerOfEvil_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "jiizuke_2020_lcs",
+      "name": "Jiizuke",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiizuke_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "bjergsen_2020_lcs",
+      "name": "Bjergsen",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "faker_2020_lck",
+      "name": "Faker",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faker_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "showmaker_2020_lck",
+      "name": "ShowMaker",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShowMaker_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "kuro_2020_lck",
+      "name": "Kuro",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuro_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "bdd_2020_lck",
+      "name": "Bdd",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bdd_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "dove_2020_lck",
+      "name": "Dove",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dove_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "keine_2020_lck",
+      "name": "Keine",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keine_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "ucal_2020_lck",
+      "name": "Ucal",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ucal_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "fly_2020_lck",
+      "name": "Fly",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "tempt_2020_lck",
+      "name": "Tempt",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tempt_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "quad_2020_lck",
+      "name": "Quad",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quad_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "naehyun_2020_lck",
+      "name": "Naehyun",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Naehyun_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "chovy_2020_lck",
+      "name": "Chovy",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chovy_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "ssun_2020_lck",
+      "name": "SSUN",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SSUN_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "fate_2020_lck",
+      "name": "FATE",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FATE_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "pobelter_2020_lcs",
+      "name": "Pobelter",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "cover_2020_lck",
+      "name": "Cover",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cover_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "nulu_2020_lec",
+      "name": "Nulu",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "zeka_2020_lpl",
+      "name": "Zeka",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zeka_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "teacherma_2020_lpl",
+      "name": "Teacherma",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Teacherma_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "clx_2020_lpl",
+      "name": "clx",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/clx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "lava_2020_lck",
+      "name": "Lava",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lava_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "fenfen_2020_lpl",
+      "name": "Fenfen",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenfen_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "kuzan_2020_lck",
+      "name": "Kuzan",
+      "team": "Team Dynamics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuzan_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Team Dynamics (2020)"
+    },
+    {
+      "id": "danchung_2020_lck",
+      "name": "DanChung",
+      "team": "Seorabeol Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DanChung_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Seorabeol Gaming (2020)"
+    },
+    {
+      "id": "xiye_2020_lpl",
+      "name": "xiye",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiye_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "fenfen_2020_lpl",
+      "name": "Fenfen",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenfen_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "caps_2020_lec",
+      "name": "Caps",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caps_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "milica_2020_lec",
+      "name": "Milica",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Milica_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "zazee_2020_lec",
+      "name": "ZaZee",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ZaZee_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "special_2020_lec",
+      "name": "Special",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Special_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "damonte_2020_lcs",
+      "name": "Damonte",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Damonte_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "ucal_2020_lck",
+      "name": "Ucal",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ucal_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "mickey_2020_lck",
+      "name": "Mickey",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mickey_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "mireu_2020_lck",
+      "name": "Mireu",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mireu_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "cryin_2020_lpl",
+      "name": "Cryin",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cryin_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "insanity_2020_lcs",
+      "name": "Insanity",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Insanity_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "fenix_2020_lcs",
+      "name": "Fenix",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenix_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "goldenglue_2020_lcs",
+      "name": "Goldenglue",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "irma_2020_lpl",
+      "name": "irma",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/irma_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "clozer_2020_lck",
+      "name": "Clozer",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clozer_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "tuesday_2020_lcs",
+      "name": "Tuesday",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tuesday_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "puff_2020_lpl",
+      "name": "Puff",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Puff_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "lwx_2020_lpl",
+      "name": "Lwx",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lwx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "kramer_2020_lpl",
+      "name": "Kramer",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kramer_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "asura_2020_lpl",
+      "name": "Asura",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Asura_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "wink_2020_lpl",
+      "name": "Wink",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wink_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "zwuji_2020_lpl",
+      "name": "ZWuJi",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ZWuJi_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "smlz_2020_lpl",
+      "name": "Smlz",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smlz_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "loken_2020_lpl",
+      "name": "LokeN",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LokeN_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "iboy_2020_lpl",
+      "name": "iBoy",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/iBoy_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "jinjiao_2020_lpl",
+      "name": "Jinjiao",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinjiao_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "gala_2020_lpl",
+      "name": "GALA",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GALA_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "y4_2020_lpl",
+      "name": "y4",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/y4_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "hope_2020_lpl",
+      "name": "Hope",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hope_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "weiwei_2020_lpl",
+      "name": "Weiwei",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Weiwei_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "photic_2020_lpl",
+      "name": "Photic",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Photic_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "elk_2020_lpl",
+      "name": "Elk",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Elk_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "betty_2020_lpl",
+      "name": "Betty",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betty_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "caps_2020_lec",
+      "name": "Caps",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caps_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "carzzy_2020_lec",
+      "name": "Carzzy",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Carzzy_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2020)"
+    },
+    {
+      "id": "crownie_2020_lec",
+      "name": "Crownie",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crownie_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "comp_2020_lec",
+      "name": "Comp",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Comp_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "hans sama_2020_lec",
+      "name": "Hans Sama",
+      "team": "Rogue",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hans Sama_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Rogue (2020)"
+    },
+    {
+      "id": "bvoy_2020_lec",
+      "name": "Bvoy",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bvoy_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "patrik_2020_lec",
+      "name": "Patrik",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Patrik_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "forg1ven_2020_lec",
+      "name": "FORG1VEN",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "rekkles_2020_lec",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2020)"
+    },
+    {
+      "id": "upset_2020_lec",
+      "name": "Upset",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Upset_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "zven_2020_lcs",
+      "name": "Zven",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2020)"
+    },
+    {
+      "id": "doublelift_2020_lcs",
+      "name": "Doublelift",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "stixxay_2020_lcs",
+      "name": "Stixxay",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stixxay_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "johnsun_2020_lcs",
+      "name": "Johnsun",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Johnsun_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "cody sun_2020_lcs",
+      "name": "Cody Sun",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cody Sun_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "fbi_2020_lcs",
+      "name": "FBI",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FBI_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "altec_2020_lcs",
+      "name": "Altec",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "wildturtle_2020_lcs",
+      "name": "WildTurtle",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "bang_2020_lcs",
+      "name": "Bang",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bang_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "kobbe_2020_lcs",
+      "name": "Kobbe",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kobbe_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "teddy_2020_lck",
+      "name": "Teddy",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Teddy_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "nuclear_2020_lck",
+      "name": "Nuclear",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuclear_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "aiming_2020_lck",
+      "name": "Aiming",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aiming_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "ruler_2020_lck",
+      "name": "Ruler",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "leo_2020_lck",
+      "name": "Leo",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leo_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "hybrid_2020_lck",
+      "name": "HyBriD",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HyBriD_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "viper_2020_lck",
+      "name": "Viper",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "ssol_2020_lck",
+      "name": "Ssol",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssol_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "mystic_2020_lck",
+      "name": "Mystic",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mystic_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "vsta_2020_lck",
+      "name": "Vsta",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vsta_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "deft_2020_lck",
+      "name": "Deft",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deft_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "trigger_2020_lck",
+      "name": "Trigger",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trigger_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "route_2020_lck",
+      "name": "Route",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Route_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "innaxe_2020_lec",
+      "name": "Innaxe",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Innaxe_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "lava_2020_lck",
+      "name": "Lava",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lava_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "zenit_2020_lck",
+      "name": "Zenit",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zenit_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "tactical_2020_lcs",
+      "name": "Tactical",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tactical_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "apollo_2020_lcs",
+      "name": "Apollo",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "wind_2020_lcs",
+      "name": "Wind",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wind_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "huanfeng_2020_lpl",
+      "name": "huanfeng",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huanfeng_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "light_2020_lpl",
+      "name": "Light",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Light_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "ghost_2020_lck",
+      "name": "Ghost",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ghost_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "jackeylove_2020_lpl",
+      "name": "JackeyLove",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JackeyLove_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "deokdam_2020_lck",
+      "name": "deokdam",
+      "team": "Team Dynamics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/deokdam_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Team Dynamics (2020)"
+    },
+    {
+      "id": "sangyoon_2020_lck",
+      "name": "Sangyoon",
+      "team": "Seorabeol Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sangyoon_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Seorabeol Gaming (2020)"
+    },
+    {
+      "id": "hans samd_2020_lpl",
+      "name": "Hans SamD",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hans SamD_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "helper_2020_lpl",
+      "name": "Helper",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helper_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "wings_2020_lpl",
+      "name": "Wings",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wings_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "qiuqiu_2020_lpl",
+      "name": "QiuQiu",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/QiuQiu_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "perkz_2020_lec",
+      "name": "Perkz",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "kobbe_2020_lec",
+      "name": "Kobbe",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kobbe_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "doublelift_2020_lcs",
+      "name": "Doublelift",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "viper_2020_lck",
+      "name": "Viper",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "neon_2020_lec",
+      "name": "Neon",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neon_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "wynn_2020_lpl",
+      "name": "wynn",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/wynn_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "mash_2020_lcs",
+      "name": "Mash",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mash_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "xiaguang_2020_lpl",
+      "name": "Xiaguang",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaguang_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "p1noy_2020_lec",
+      "name": "P1noy",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/P1noy_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "gala_2020_lpl",
+      "name": "GALA",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GALA_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "pqy_2020_lpl",
+      "name": "pqy",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pqy_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "eric_2020_lpl",
+      "name": "Eric",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eric_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "khan_2020_lpl",
+      "name": "Khan",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Khan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "gumayusi_2020_lck",
+      "name": "Gumayusi",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gumayusi_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    }
+  ],
+  "support": [
+    {
+      "id": "southwind_2020_lpl",
+      "name": "Southwind",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Southwind_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "crisp_2020_lpl",
+      "name": "Crisp",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crisp_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2020)"
+    },
+    {
+      "id": "chance_2020_lpl",
+      "name": "Chance",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chance_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "duan_2020_lpl",
+      "name": "Duan",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "shiauc_2020_lpl",
+      "name": "ShiauC",
+      "team": "eStar",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShiauC_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "eStar (2020)"
+    },
+    {
+      "id": "ley_2020_lpl",
+      "name": "Ley",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ley_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "cold_2020_lpl",
+      "name": "COLD",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/COLD_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "lvmao_2020_lpl",
+      "name": "LvMao",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LvMao_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2020)"
+    },
+    {
+      "id": "maestro_2020_lpl",
+      "name": "Maestro",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maestro_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "xinmo_2020_lpl",
+      "name": "XinMo",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XinMo_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2020)"
+    },
+    {
+      "id": "mark_2020_lpl",
+      "name": "Mark",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mark_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "poge_2020_lpl",
+      "name": "poge",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/poge_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "meiko_2020_lpl",
+      "name": "Meiko",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meiko_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2020)"
+    },
+    {
+      "id": "swordart_2020_lpl",
+      "name": "SwordArt",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Suning (2020)"
+    },
+    {
+      "id": "qiuqiu_2020_lpl",
+      "name": "QiuQiu",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/QiuQiu_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "missing_2020_lpl",
+      "name": "MISSING",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MISSING_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2020)"
+    },
+    {
+      "id": "ming_2020_lpl",
+      "name": "Ming",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ming_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2020)"
+    },
+    {
+      "id": "mikyx_2020_lec",
+      "name": "Mikyx",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mikyx_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2020)"
+    },
+    {
+      "id": "kaiser_2020_lec",
+      "name": "Kaiser",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaiser_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2020)"
+    },
+    {
+      "id": "limit_2020_lec",
+      "name": "LIMIT",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LIMIT_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2020)"
+    },
+    {
+      "id": "jactroll_2020_lec",
+      "name": "JACTROLL",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JACTROLL_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "vander_2020_lec",
+      "name": "Vander",
+      "team": "Rogue",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Rogue (2020)"
+    },
+    {
+      "id": "denyk_2020_lec",
+      "name": "denyk",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/denyk_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "tore_2020_lec",
+      "name": "Tore",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tore_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2020)"
+    },
+    {
+      "id": "dreams_2020_lec",
+      "name": "Dreams",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dreams_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "hylissang_2020_lec",
+      "name": "Hylissang",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2020)"
+    },
+    {
+      "id": "destiny_2020_lec",
+      "name": "destiny",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/destiny_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "vulcan_2020_lcs",
+      "name": "Vulcan",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vulcan_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2020)"
+    },
+    {
+      "id": "corejj_2020_lcs",
+      "name": "CoreJJ",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2020)"
+    },
+    {
+      "id": "smoothie_2020_lcs",
+      "name": "Smoothie",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2020)"
+    },
+    {
+      "id": "aphromoo_2020_lcs",
+      "name": "aphromoo",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2020)"
+    },
+    {
+      "id": "stunt_2020_lcs",
+      "name": "Stunt",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stunt_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "keith_2020_lcs",
+      "name": "Keith",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "hakuho_2020_lcs",
+      "name": "Hakuho",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hakuho_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "ignar_2020_lcs",
+      "name": "IgNar",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2020)"
+    },
+    {
+      "id": "zeyzal_2020_lcs",
+      "name": "Zeyzal",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zeyzal_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2020)"
+    },
+    {
+      "id": "biofrost_2020_lcs",
+      "name": "Biofrost",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biofrost_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    },
+    {
+      "id": "effort_2020_lck",
+      "name": "Effort",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Effort_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "hoit_2020_lck",
+      "name": "Hoit",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hoit_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "beryl_2020_lck",
+      "name": "BeryL",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BeryL_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2020)"
+    },
+    {
+      "id": "tusin_2020_lck",
+      "name": "TusiN",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TusiN_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "kellin_2020_lck",
+      "name": "Kellin",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kellin_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "gorilla_2020_lck",
+      "name": "GorillA",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GorillA_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "secret_2020_lck",
+      "name": "Secret",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Secret_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "sanghyeon_2020_lck",
+      "name": "sanghyeon",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sanghyeon_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "jelly_2020_lck",
+      "name": "Jelly",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jelly_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "lehends_2020_lck",
+      "name": "Lehends",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lehends_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2020)"
+    },
+    {
+      "id": "keria_2020_lck",
+      "name": "Keria",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keria_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DRX (2020)"
+    },
+    {
+      "id": "mia_2020_lck",
+      "name": "Mia",
+      "team": "SeolHaeOne Prince",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mia_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "SeolHaeOne Prince (2020)"
+    },
+    {
+      "id": "joker_2020_lck",
+      "name": "Joker",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Joker_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "steeelback_2020_lec",
+      "name": "Steeelback",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "life_2020_lck",
+      "name": "Life",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Life_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2020)"
+    },
+    {
+      "id": "ben_2020_lck",
+      "name": "Ben",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ben_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2020)"
+    },
+    {
+      "id": "huhi_2020_lcs",
+      "name": "huhi",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2020)"
+    },
+    {
+      "id": "yuyanjia_2020_lpl",
+      "name": "yuyanjia",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yuyanjia_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2020)"
+    },
+    {
+      "id": "clx_2020_lpl",
+      "name": "clx",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/clx_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "hang_2020_lpl",
+      "name": "Hang",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hang_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2020)"
+    },
+    {
+      "id": "killua_2020_lpl",
+      "name": "Killua",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Killua_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "iwandy_2020_lpl",
+      "name": "Iwandy",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Iwandy_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2020)"
+    },
+    {
+      "id": "guger_2020_lck",
+      "name": "GuGer",
+      "team": "Team Dynamics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GuGer_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Team Dynamics (2020)"
+    },
+    {
+      "id": "wadid_2020_lck",
+      "name": "Wadid",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wadid_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2020)"
+    },
+    {
+      "id": "nova_2020_lck",
+      "name": "Nova",
+      "team": "Seorabeol Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nova_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Seorabeol Gaming (2020)"
+    },
+    {
+      "id": "ppgod_2020_lpl",
+      "name": "ppgod",
+      "team": "Victory Five",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ppgod_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Victory Five (2020)"
+    },
+    {
+      "id": "mitsuki_2020_lpl",
+      "name": "Mitsuki",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mitsuki_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "mark_2020_lpl",
+      "name": "Mark",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mark_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2020)"
+    },
+    {
+      "id": "labrov_2020_lec",
+      "name": "Labrov",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Labrov_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2020)"
+    },
+    {
+      "id": "nukes_2020_lec",
+      "name": "Nukes",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukes_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "FC Schalke 04 Esports (2020)"
+    },
+    {
+      "id": "doss_2020_lec",
+      "name": "Doss",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doss_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Misfits Gaming (2020)"
+    },
+    {
+      "id": "sora_2020_lpl",
+      "name": "Sora",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sora_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2020)"
+    },
+    {
+      "id": "gate_2020_lcs",
+      "name": "Gate",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2020)"
+    },
+    {
+      "id": "kuri_2020_lck",
+      "name": "Kuri",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuri_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "T1 (2020)"
+    },
+    {
+      "id": "kaixuan_2020_lpl",
+      "name": "Kaixuan",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaixuan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2020)"
+    },
+    {
+      "id": "yui_2020_lpl",
+      "name": "Yui",
+      "team": "Dominus Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yui_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Dominus Esports (2020)"
+    },
+    {
+      "id": "fate_2020_lpl",
+      "name": "fate",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fate_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "sanghyeon_2020_lck",
+      "name": "sanghyeon",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sanghyeon_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2020)"
+    },
+    {
+      "id": "baolan_2020_lpl",
+      "name": "Baolan",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Baolan_profileicon.png",
+      "years": "2020",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2020)"
+    },
+    {
+      "id": "poome_2020_lcs",
+      "name": "Poome",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Poome_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2020)"
+    },
+    {
+      "id": "smeb_2020_lck",
+      "name": "Smeb",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smeb_profileicon.png",
+      "years": "2020",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2020)"
+    },
+    {
+      "id": "jactroll_2020_lec",
+      "name": "JACTROLL",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JACTROLL_profileicon.png",
+      "years": "2020",
+      "league": "LEC",
+      "seasonTeam": "Origen (2020)"
+    },
+    {
+      "id": "treatz_2020_lcs",
+      "name": "Treatz",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Treatz_profileicon.png",
+      "years": "2020",
+      "league": "LCS",
+      "seasonTeam": "TSM (2020)"
+    }
+  ]
+}

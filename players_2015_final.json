@@ -1,0 +1,3792 @@
+{
+  "top": [
+    {
+      "id": "duke_2015_lck",
+      "name": "Duke",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duke_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "marin_2015_lck",
+      "name": "MaRin",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaRin_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "ziv_2015_lms",
+      "name": "Ziv",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ziv_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "hanshao_2015_lms",
+      "name": "HanShao",
+      "team": "Machi Crew",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HanShao_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Crew (2015)"
+    },
+    {
+      "id": "ccb_2015_lms",
+      "name": "CCB",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CCB_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "morning_2015_lms",
+      "name": "Morning",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morning_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "smeb_2015_lck",
+      "name": "Smeb",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smeb_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "lilac_2015_lck",
+      "name": "Lilac",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lilac_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "cuvee_2015_lck",
+      "name": "CuVee",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CuVee_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "trace_2015_lck",
+      "name": "TrAce",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TrAce_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "maplesnow_2015_lms",
+      "name": "MapleSnow",
+      "team": "DarlingYou",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MapleSnow_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "DarlingYou (2015)"
+    },
+    {
+      "id": "lofs_2015_lms",
+      "name": "LOFS",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LOFS_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "stanley_2015_lms",
+      "name": "Stanley",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stanley_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "ssumday_2015_lck",
+      "name": "Ssumday",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "shy_2015_lck",
+      "name": "Shy",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shy_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "wickd_2015_eu lcs",
+      "name": "Wickd",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wickd_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "huni_2015_eu lcs",
+      "name": "Huni",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "werlyb_2015_eu lcs",
+      "name": "Werlyb",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Werlyb_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "mimer_2015_eu lcs",
+      "name": "Mimer",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mimer_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "youngbuck_2015_eu lcs",
+      "name": "YoungBuck",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YoungBuck_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "odoamne_2015_eu lcs",
+      "name": "Odoamne",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "fredy122_2015_eu lcs",
+      "name": "fredy122",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fredy122_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "overpow_2015_eu lcs",
+      "name": "Overpow",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Overpow_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "cabochard_2015_eu lcs",
+      "name": "Cabochard",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cabochard_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "vizicsacsi_2015_eu lcs",
+      "name": "Vizicsacsi",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vizicsacsi_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "dyrus_2015_na lcs",
+      "name": "Dyrus",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dyrus_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "balis_2015_na lcs",
+      "name": "BalIs",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BalIs_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "cris_2015_na lcs",
+      "name": "Cris",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cris_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "gamsu_2015_na lcs",
+      "name": "Gamsu",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gamsu_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "flaresz_2015_na lcs",
+      "name": "Flaresz",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flaresz_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "hauntzer_2015_na lcs",
+      "name": "Hauntzer",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "rhux_2015_na lcs",
+      "name": "Rhux",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rhux_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "quas_2015_na lcs",
+      "name": "Quas",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quas_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "benny_2015_na lcs",
+      "name": "Benny",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Benny_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "calitrlolz_2015_na lcs",
+      "name": "CaliTrlolz",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CaliTrlolz_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "impact_2015_na lcs",
+      "name": "Impact",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "darshan_2015_na lcs",
+      "name": "Darshan",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darshan_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "avalon_2015_na lcs",
+      "name": "Avalon",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Avalon_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "maplesnow_2015_lms",
+      "name": "MapleSnow",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MapleSnow_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "steak_2015_lms",
+      "name": "Steak",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steak_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "cowardlydog_2015_lms",
+      "name": "CowardlyDog",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CowardlyDog_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "kev1n_2015_eu lcs",
+      "name": "Kev1n",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kev1n_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "jwaow_2015_eu lcs",
+      "name": "Jwaow",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jwaow_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "achie_2015_lms",
+      "name": "Achie",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Achie_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "kubon_2015_eu lcs",
+      "name": "Kubon",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kubon_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2015)"
+    },
+    {
+      "id": "morsu_2015_eu lcs",
+      "name": "Morsu",
+      "team": "Copenhagen Wolves Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morsu_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+    },
+    {
+      "id": "chunkyfresh_2015_na lcs",
+      "name": "Chunkyfresh",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chunkyfresh_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2015)"
+    },
+    {
+      "id": "seraph_2015_na lcs",
+      "name": "SERAPH",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SERAPH_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "apple_2015_lck",
+      "name": "Apple",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apple_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "lego77_2015_lck",
+      "name": "Lego77",
+      "team": "Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lego77_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Winners (2015)"
+    },
+    {
+      "id": "cvmax_2015_lck",
+      "name": "cvMax",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/cvMax_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "soul_2015_lck",
+      "name": "Soul",
+      "team": "Prime Clan",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soul_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Prime Clan (2015)"
+    },
+    {
+      "id": "kakarot_2015_lck",
+      "name": "KaKaRoT",
+      "team": "Xenics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KaKaRoT_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Xenics (2015)"
+    },
+    {
+      "id": "ikssu_2015_lck",
+      "name": "ikssu",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ikssu_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "3z_2015_lms",
+      "name": "3z",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/3z_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "soul_2015_lck",
+      "name": "Soul",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soul_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "zonda_2015_lms",
+      "name": "Zonda",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zonda_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "bobo_2015_lms",
+      "name": "BoBo",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BoBo_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "mmd_2015_lms",
+      "name": "MMD",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MMD_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "soaz_2015_eu lcs",
+      "name": "sOAZ",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sOAZ_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2015)"
+    },
+    {
+      "id": "jwaow_2015_eu lcs",
+      "name": "Jwaow",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jwaow_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "steve_2015_eu lcs",
+      "name": "Steve",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steve_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "flaresz_2015_na lcs",
+      "name": "Flaresz",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flaresz_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2015)"
+    },
+    {
+      "id": "maplesnow_2015_lms",
+      "name": "MapleSnow",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MapleSnow_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "yue_2015_lms",
+      "name": "Yue",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yue_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "lenny_2015_eu lcs",
+      "name": "Lenny",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lenny_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "expession_2015_lck",
+      "name": "Expession",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Expession_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "helper_2015_lck",
+      "name": "Helper",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helper_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "achie_2015_lms",
+      "name": "Achie",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Achie_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "soar_2015_lck",
+      "name": "SoaR",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoaR_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "may_2015_lms",
+      "name": "May",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/May_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "jaeger_2015_eu lcs",
+      "name": "Jaeger",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jaeger_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2015)"
+    },
+    {
+      "id": "beansu_2015_eu lcs",
+      "name": "beansu",
+      "team": "MOUZ NXT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/beansu_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MOUZ NXT (2015)"
+    },
+    {
+      "id": "chunkyfresh_2015_na lcs",
+      "name": "Chunkyfresh",
+      "team": "Team Imagine",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chunkyfresh_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Imagine (2015)"
+    },
+    {
+      "id": "cube_2015_lck",
+      "name": "Cube",
+      "team": "Dark Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cube_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Dark Wolves (2015)"
+    },
+    {
+      "id": "crazy_2015_lck",
+      "name": "Crazy",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crazy_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "watch_2015_lck",
+      "name": "Watch",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Watch_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "bengi_2015_lck",
+      "name": "Bengi",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bengi_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "albis_2015_lms",
+      "name": "Albis",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Albis_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "hanji_2015_lms",
+      "name": "HanJi",
+      "team": "Machi Crew",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HanJi_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Crew (2015)"
+    },
+    {
+      "id": "jcain_2015_lms",
+      "name": "Jcain",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jcain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "winds_2015_lms",
+      "name": "Winds",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Winds_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "hojin_2015_lck",
+      "name": "Hojin",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hojin_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "wisdom_2015_lck",
+      "name": "Wisdom",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wisdom_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "eve_2015_lck",
+      "name": "Eve",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eve_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "chaser_2015_lck",
+      "name": "Chaser",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chaser_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "illusion_2015_lms",
+      "name": "ILLusion",
+      "team": "DarlingYou",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ILLusion_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "DarlingYou (2015)"
+    },
+    {
+      "id": "empt2y_2015_lms",
+      "name": "Empt2y",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Empt2y_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "dinter_2015_lms",
+      "name": "DinTer",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DinTer_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "score_2015_lck",
+      "name": "Score",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Score_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "ambition_2015_lck",
+      "name": "Ambition",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ambition_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "shook_2015_eu lcs",
+      "name": "Shook",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "reignover_2015_eu lcs",
+      "name": "Reignover",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "fr3deric_2015_eu lcs",
+      "name": "Fr3deric",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fr3deric_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "h0r0_2015_eu lcs",
+      "name": "H0R0",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H0R0_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "airwaks_2015_eu lcs",
+      "name": "Airwaks",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Airwaks_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "loulex_2015_eu lcs",
+      "name": "Loulex",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loulex_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "svenskeren_2015_eu lcs",
+      "name": "Svenskeren",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Svenskeren_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "jankos_2015_eu lcs",
+      "name": "Jankos",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "diamondprox_2015_eu lcs",
+      "name": "Diamondprox",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diamondprox_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "kikis_2015_eu lcs",
+      "name": "Kikis",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "santorin_2015_na lcs",
+      "name": "Santorin",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "meteos_2015_na lcs",
+      "name": "Meteos",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "impaler_2015_na lcs",
+      "name": "Impaler",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impaler_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "crumbz_2015_na lcs",
+      "name": "Crumbz",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crumbz_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "shorterace_2015_na lcs",
+      "name": "ShorterACE",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShorterACE_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "saintvicious_2015_na lcs",
+      "name": "Saintvicious",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Saintvicious_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "rush_2015_na lcs",
+      "name": "Rush",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rush_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "iwdominate_2015_na lcs",
+      "name": "IWDominate",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IWDominate_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "xmithie_2015_na lcs",
+      "name": "Xmithie",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "porpoise_2015_na lcs",
+      "name": "Porpoise",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Porpoise_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "helios_2015_na lcs",
+      "name": "Helios",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helios_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "cloudnguyen_2015_na lcs",
+      "name": "CloudNguyen",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CloudNguyen_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "mountain_2015_lms",
+      "name": "Mountain",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mountain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "illusion_2015_lms",
+      "name": "ILLusion",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ILLusion_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "karsa_2015_lms",
+      "name": "Karsa",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karsa_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "hanji_2015_lms",
+      "name": "HanJi",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HanJi_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "smurph_2015_lms",
+      "name": "Smurph",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smurph_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "peanut_2015_lck",
+      "name": "Peanut",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "ares_2015_lck",
+      "name": "Ares",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ares_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "azingy_2015_na lcs",
+      "name": "Azingy",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Azingy_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "tom_2015_lck",
+      "name": "Tom",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tom_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "vii_2015_lms",
+      "name": "VII",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/VII_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "wtheaven_2015_na lcs",
+      "name": "WTHeaven",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WTHeaven_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "winged_2015_lck",
+      "name": "Winged",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Winged_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "xayoo_2015_eu lcs",
+      "name": "Xayoo",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xayoo_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2015)"
+    },
+    {
+      "id": "kirei_2015_eu lcs",
+      "name": "Kirei",
+      "team": "Copenhagen Wolves Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kirei_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+    },
+    {
+      "id": "nintendudex_2015_na lcs",
+      "name": "NintendudeX",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NintendudeX_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2015)"
+    },
+    {
+      "id": "kez_2015_na lcs",
+      "name": "Kez",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "tusin_2015_lck",
+      "name": "TusiN",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TusiN_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "neo_2015_lck",
+      "name": "Neo",
+      "team": "Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neo_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Winners (2015)"
+    },
+    {
+      "id": "lira_2015_lck",
+      "name": "Lira",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lira_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "catch_2015_lck",
+      "name": "Catch",
+      "team": "Prime Clan",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Catch_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Prime Clan (2015)"
+    },
+    {
+      "id": "ark_2015_lck",
+      "name": "ARK",
+      "team": "Xenics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ARK_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Xenics (2015)"
+    },
+    {
+      "id": "illusion_2015_lms",
+      "name": "ILLusion",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ILLusion_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "catch_2015_lck",
+      "name": "Catch",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Catch_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "m4_2015_lms",
+      "name": "M4",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/M4_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "domo_2015_lms",
+      "name": "Domo",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Domo_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "marilyn_2015_lms",
+      "name": "marilyn",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/marilyn_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "yo_2015_lms",
+      "name": "yo",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yo_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "wisdom_2015_lck",
+      "name": "Wisdom",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wisdom_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "achie_2015_lms",
+      "name": "Achie",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Achie_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "refra1n_2015_lms",
+      "name": "REFRA1N",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/REFRA1N_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "amazing_2015_eu lcs",
+      "name": "Amazing",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Amazing_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2015)"
+    },
+    {
+      "id": "dexter_2015_eu lcs",
+      "name": "Dexter",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dexter_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "move_2015_na lcs",
+      "name": "Move",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Move_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "kold_2015_na lcs",
+      "name": "Kold",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kold_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2015)"
+    },
+    {
+      "id": "zonda_2015_lms",
+      "name": "Zonda",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zonda_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "morning_2015_lms",
+      "name": "Morning",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morning_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "helios_2015_na lcs",
+      "name": "Helios",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helios_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "willy_2015_lms",
+      "name": "Willy",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Willy_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "rd_2015_lms",
+      "name": "RD",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RD_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "refra1n_2015_lms",
+      "name": "REFRA1N",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/REFRA1N_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "lilac_2015_lck",
+      "name": "Lilac",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lilac_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "hanji_2015_lms",
+      "name": "HanJi",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HanJi_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "kawa_2015_lms",
+      "name": "Kawa",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kawa_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "shook_2015_eu lcs",
+      "name": "Shook",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "hai_2015_na lcs",
+      "name": "Hai",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "gilius_2015_eu lcs",
+      "name": "Gilius",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "trick_2015_lck",
+      "name": "Trick",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "neo_2015_lck",
+      "name": "Neo",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neo_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "bliss_2015_lck",
+      "name": "BlisS",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BlisS_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "betongjocke_2015_eu lcs",
+      "name": "betongJocke",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/betongJocke_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "h0r0_2015_eu lcs",
+      "name": "H0R0",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H0R0_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "kikis_2015_eu lcs",
+      "name": "Kikis",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2015)"
+    },
+    {
+      "id": "dan_2015_eu lcs",
+      "name": "Dan",
+      "team": "MOUZ NXT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dan_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MOUZ NXT (2015)"
+    },
+    {
+      "id": "shrimp_2015_na lcs",
+      "name": "Shrimp",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shrimp_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "galen_2015_na lcs",
+      "name": "Galen",
+      "team": "Team Imagine",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Galen_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Imagine (2015)"
+    },
+    {
+      "id": "krvavy_2015_lck",
+      "name": "Krvavy",
+      "team": "Dark Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Krvavy_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Dark Wolves (2015)"
+    },
+    {
+      "id": "flawless_2015_lck",
+      "name": "Flawless",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flawless_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "ryan_2015_lck",
+      "name": "Ryan",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryan_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "ggoong_2015_lck",
+      "name": "Ggoong",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ggoong_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "faker_2015_lck",
+      "name": "Faker",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faker_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "easyhoon_2015_lck",
+      "name": "Easyhoon",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Easyhoon_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "westdoor_2015_lms",
+      "name": "Westdoor",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westdoor_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "leemid_2015_lms",
+      "name": "LeeMid",
+      "team": "Machi Crew",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LeeMid_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Crew (2015)"
+    },
+    {
+      "id": "ysera_2015_lms",
+      "name": "Ysera",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ysera_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "chawy_2015_lms",
+      "name": "Chawy",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chawy_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "kuro_2015_lck",
+      "name": "Kuro",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuro_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "frozen_2015_lck",
+      "name": "Frozen",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Frozen_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "bliss_2015_lck",
+      "name": "BlisS",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BlisS_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "gbm_2015_lck",
+      "name": "GBM",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GBM_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "coocoodai_2015_lms",
+      "name": "CooCooDai",
+      "team": "DarlingYou",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CooCooDai_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "DarlingYou (2015)"
+    },
+    {
+      "id": "aries_2015_lms",
+      "name": "Aries",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aries_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "toyz_2015_lms",
+      "name": "Toyz",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Toyz_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "nagne_2015_lck",
+      "name": "Nagne",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nagne_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "coco_2015_lck",
+      "name": "Coco",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Coco_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "froggen_2015_eu lcs",
+      "name": "Froggen",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Froggen_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "febiven_2015_eu lcs",
+      "name": "FEBIVEN",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "ptt_2015_eu lcs",
+      "name": "ptt",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ptt_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "blizer300_2015_eu lcs",
+      "name": "Blizer300",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blizer300_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "soren_2015_eu lcs",
+      "name": "Soren",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soren_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "ryu_2015_eu lcs",
+      "name": "Ryu",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryu_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "fox_2015_eu lcs",
+      "name": "Fox",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fox_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "nukeduck_2015_eu lcs",
+      "name": "Nukeduck",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "niq_2015_eu lcs",
+      "name": "niQ",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/niQ_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "powerofevil_2015_eu lcs",
+      "name": "PowerOfEvil",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PowerOfEvil_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "bjergsen_2015_na lcs",
+      "name": "Bjergsen",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "hai_2015_na lcs",
+      "name": "Hai",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "jesiz_2015_na lcs",
+      "name": "Jesiz",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jesiz_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "shiphtur_2015_na lcs",
+      "name": "Shiphtur",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiphtur_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "pobelter_2015_na lcs",
+      "name": "Pobelter",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "keane_2015_na lcs",
+      "name": "Keane",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keane_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "xiaoweixiao_2015_na lcs",
+      "name": "xiaoweixiao",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaoweixiao_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "fenix_2015_na lcs",
+      "name": "Fenix",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenix_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "link_2015_na lcs",
+      "name": "Link",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Link_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "slooshi_2015_na lcs",
+      "name": "Slooshi",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Slooshi_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "nulu_2015_eu lcs",
+      "name": "Nulu",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "coocoodai_2015_lms",
+      "name": "CooCooDai",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CooCooDai_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "maple_2015_lms",
+      "name": "Maple",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maple_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "kawai_2015_lms",
+      "name": "Kawai",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kawai_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "leemid_2015_lms",
+      "name": "LeeMid",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LeeMid_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "k_2015_lms",
+      "name": "K",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "betsy_2015_eu lcs",
+      "name": "Betsy",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betsy_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "mancloud_2015_na lcs",
+      "name": "mancloud",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/mancloud_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "tank_2015_lck",
+      "name": "Tank",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tank_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "ace_2015_lck",
+      "name": "Ace",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ace_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "takefun_2015_eu lcs",
+      "name": "Takefun",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Takefun_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2015)"
+    },
+    {
+      "id": "cozq_2015_eu lcs",
+      "name": "CozQ",
+      "team": "Copenhagen Wolves Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CozQ_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+    },
+    {
+      "id": "huhi_2015_na lcs",
+      "name": "huhi",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2015)"
+    },
+    {
+      "id": "alex ich_2015_na lcs",
+      "name": "Alex Ich",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex Ich_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "night_2015_lck",
+      "name": "NighT",
+      "team": "Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NighT_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Winners (2015)"
+    },
+    {
+      "id": "mickey_2015_lck",
+      "name": "Mickey",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mickey_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "sasin_2015_lck",
+      "name": "SaSin",
+      "team": "Prime Clan",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SaSin_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Prime Clan (2015)"
+    },
+    {
+      "id": "candy_2015_lck",
+      "name": "Candy",
+      "team": "Xenics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Candy_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Xenics (2015)"
+    },
+    {
+      "id": "mission_2015_lms",
+      "name": "Mission",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mission_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "breaker_2015_lms",
+      "name": "Breaker",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breaker_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "crown_2015_lck",
+      "name": "Crown",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "sasin_2015_lck",
+      "name": "SaSin",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SaSin_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "do it_2015_lck",
+      "name": "DO IT",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DO IT_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "achie_2015_lms",
+      "name": "Achie",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Achie_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "grail_2015_lms",
+      "name": "Grail",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Grail_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "stone_2015_lms",
+      "name": "Stone",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stone_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "xpeke_2015_eu lcs",
+      "name": "xPeke",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xPeke_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2015)"
+    },
+    {
+      "id": "jensen_2015_na lcs",
+      "name": "Jensen",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "bischu_2015_na lcs",
+      "name": "Bischu",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bischu_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "pobelter_2015_na lcs",
+      "name": "Pobelter",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "innox_2015_na lcs",
+      "name": "Innox",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Innox_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2015)"
+    },
+    {
+      "id": "kuzan_2015_lck",
+      "name": "Kuzan",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuzan_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "apex_2015_lms",
+      "name": "Apex",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apex_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "edge_2015_lck",
+      "name": "Edge",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edge_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "candy_2015_lms",
+      "name": "Candy",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Candy_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "mancloud_2015_na lcs",
+      "name": "mancloud",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/mancloud_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "goldenglue_2015_na lcs",
+      "name": "Goldenglue",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "ninja_2015_na lcs",
+      "name": "Ninja",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ninja_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "maplesnow_2015_lms",
+      "name": "MapleSnow",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MapleSnow_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "gate_2015_na lcs",
+      "name": "Gate",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "perkz_2015_eu lcs",
+      "name": "Perkz",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2015)"
+    },
+    {
+      "id": "jinsh_2015_eu lcs",
+      "name": "Jinsh",
+      "team": "MOUZ NXT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinsh_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MOUZ NXT (2015)"
+    },
+    {
+      "id": "pekin woof_2015_na lcs",
+      "name": "Pekin Woof",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pekin Woof_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "mancloud_2015_na lcs",
+      "name": "mancloud",
+      "team": "Team Imagine",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/mancloud_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Imagine (2015)"
+    },
+    {
+      "id": "kyle_2015_lck",
+      "name": "Kyle",
+      "team": "Dark Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kyle_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Dark Wolves (2015)"
+    },
+    {
+      "id": "athena_2015_lck",
+      "name": "Athena",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Athena_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "ohq_2015_lck",
+      "name": "Ohq",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ohq_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "bang_2015_lck",
+      "name": "Bang",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bang_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "an_2015_lms",
+      "name": "An",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/An_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "honeyrain_2015_lms",
+      "name": "HoneyRain",
+      "team": "Machi Crew",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HoneyRain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Crew (2015)"
+    },
+    {
+      "id": "3z_2015_lms",
+      "name": "3z",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/3z_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "guger_2015_lms",
+      "name": "GuGer",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GuGer_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "pray_2015_lck",
+      "name": "PraY",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PraY_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "sonstar_2015_lck",
+      "name": "Sonstar",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sonstar_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "fury_2015_lck",
+      "name": "Fury",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fury_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "pilot_2015_lck",
+      "name": "Pilot",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pilot_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "unlimited_2015_lms",
+      "name": "Unlimited",
+      "team": "DarlingYou",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unlimited_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "DarlingYou (2015)"
+    },
+    {
+      "id": "tbn_2015_lms",
+      "name": "tbN",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/tbN_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "godjj_2015_lms",
+      "name": "GodJJ",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodJJ_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "arrow_2015_lck",
+      "name": "Arrow",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Arrow_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "space_2015_lck",
+      "name": "Space",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Space_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "zefa_2015_lck",
+      "name": "Zefa",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zefa_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "rekkles_2015_eu lcs",
+      "name": "Rekkles",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "steeelback_2015_eu lcs",
+      "name": "Steeelback",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "adryh_2015_eu lcs",
+      "name": "Adryh",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adryh_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "mrrallez_2015_eu lcs",
+      "name": "MrRallez",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MrRallez_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "freeze_2015_eu lcs",
+      "name": "Freeze",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Freeze_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "hjarnan_2015_eu lcs",
+      "name": "Hjarnan",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hjarnan_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "forg1ven_2015_eu lcs",
+      "name": "FORG1VEN",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "woolite_2015_eu lcs",
+      "name": "Woolite",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Woolite_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "p1noy_2015_eu lcs",
+      "name": "P1noy",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/P1noy_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "vardags_2015_eu lcs",
+      "name": "Vardags",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vardags_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "cpt jack_2015_lck",
+      "name": "Cpt Jack",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cpt Jack_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "wildturtle_2015_na lcs",
+      "name": "WildTurtle",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "sneaky_2015_na lcs",
+      "name": "Sneaky",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sneaky_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "mash_2015_na lcs",
+      "name": "Mash",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mash_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "corejj_2015_na lcs",
+      "name": "CoreJJ",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "altec_2015_na lcs",
+      "name": "Altec",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "cop_2015_na lcs",
+      "name": "Cop",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cop_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "apollo_2015_na lcs",
+      "name": "Apollo",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "keith_2015_na lcs",
+      "name": "Keith",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "doublelift_2015_na lcs",
+      "name": "Doublelift",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "maplestreet_2015_na lcs",
+      "name": "Maplestreet",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maplestreet_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "piglet_2015_na lcs",
+      "name": "Piglet",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "unlimited_2015_lms",
+      "name": "Unlimited",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unlimited_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "se7en_2015_lms",
+      "name": "Se7en",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Se7en_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "nl_2015_lms",
+      "name": "NL",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NL_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "honeyrain_2015_lms",
+      "name": "HoneyRain",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HoneyRain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "corgi_2015_lms",
+      "name": "CorGi",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CorGi_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "rd_2015_lms",
+      "name": "RD",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RD_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "paragon_2015_na lcs",
+      "name": "Paragon",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Paragon_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "ysera_2015_lms",
+      "name": "Ysera",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ysera_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "celaver_2015_eu lcs",
+      "name": "Celaver",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Celaver_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2015)"
+    },
+    {
+      "id": "vizility_2015_eu lcs",
+      "name": "Vizility",
+      "team": "Copenhagen Wolves Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vizility_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+    },
+    {
+      "id": "nien_2015_na lcs",
+      "name": "Nien",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nien_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2015)"
+    },
+    {
+      "id": "knight_2015_na lcs",
+      "name": "Knight",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Knight_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "roar_2015_lck",
+      "name": "Roar",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roar_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "gankzero_2015_lck",
+      "name": "GankZero",
+      "team": "Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GankZero_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Winners (2015)"
+    },
+    {
+      "id": "sangyoon_2015_lck",
+      "name": "Sangyoon",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sangyoon_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "nuclear_2015_lck",
+      "name": "Nuclear",
+      "team": "Prime Clan",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuclear_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Prime Clan (2015)"
+    },
+    {
+      "id": "stitch_2015_lck",
+      "name": "Stitch",
+      "team": "Xenics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stitch_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Xenics (2015)"
+    },
+    {
+      "id": "nuclear_2015_lck",
+      "name": "Nuclear",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuclear_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "dan_2015_lck",
+      "name": "Dan",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dan_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "bebe_2015_lms",
+      "name": "BeBe",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BeBe_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "raison_2015_lms",
+      "name": "Raison",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raison_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "dee_2015_lms",
+      "name": "Dee",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dee_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "rekkles_2015_eu lcs",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "zven_2015_eu lcs",
+      "name": "Zven",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2015)"
+    },
+    {
+      "id": "forg1ven_2015_eu lcs",
+      "name": "FORG1VEN",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "tabzz_2015_eu lcs",
+      "name": "Tabzz",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tabzz_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "candypanda_2015_eu lcs",
+      "name": "CandyPanda",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CandyPanda_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "lattman_2015_na lcs",
+      "name": "Lattman",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lattman_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "altec_2015_na lcs",
+      "name": "Altec",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "otter_2015_na lcs",
+      "name": "otter",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/otter_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2015)"
+    },
+    {
+      "id": "nien_2015_na lcs",
+      "name": "Nien",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nien_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "mrrallez_2015_eu lcs",
+      "name": "MrRallez",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MrRallez_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "k_2015_lms",
+      "name": "K",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "stitch_2015_lms",
+      "name": "Stitch",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stitch_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "kramer_2015_lms",
+      "name": "Kramer",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kramer_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "breeze_2015_lms",
+      "name": "Breeze",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breeze_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "emperor_2015_na lcs",
+      "name": "Emperor",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Emperor_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "paragon_2015_lck",
+      "name": "Paragon",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Paragon_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "keith_2015_na lcs",
+      "name": "Keith",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "moopz_2015_eu lcs",
+      "name": "Moopz",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Moopz_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "godkwai_2015_lms",
+      "name": "GodKwai",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodKwai_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "jesiz_2015_eu lcs",
+      "name": "Jesiz",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jesiz_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2015)"
+    },
+    {
+      "id": "sedrion_2015_eu lcs",
+      "name": "Sedrion",
+      "team": "MOUZ NXT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sedrion_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MOUZ NXT (2015)"
+    },
+    {
+      "id": "steeelback_2015_na lcs",
+      "name": "Steeelback",
+      "team": "Team Imagine",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Imagine (2015)"
+    },
+    {
+      "id": "chelly_2015_lck",
+      "name": "Chelly",
+      "team": "Dark Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chelly_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Dark Wolves (2015)"
+    },
+    {
+      "id": "police_2015_lck",
+      "name": "Police",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Police_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    },
+    {
+      "id": "loken_2015_lck",
+      "name": "LokeN",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LokeN_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    }
+  ],
+  "support": [
+    {
+      "id": "cain_2015_lck",
+      "name": "Cain",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cain_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "wolf_2015_lck",
+      "name": "Wolf",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wolf_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "greentea_2015_lms",
+      "name": "GreenTea",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GreenTea_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "melon_2015_lms",
+      "name": "Melon",
+      "team": "Machi Crew",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Melon_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Crew (2015)"
+    },
+    {
+      "id": "k_2015_lms",
+      "name": "K",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "chieh_2015_lms",
+      "name": "Chieh",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chieh_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "gorilla_2015_lck",
+      "name": "GorillA",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GorillA_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2015)"
+    },
+    {
+      "id": "tusin_2015_lck",
+      "name": "TusiN",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TusiN_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "wraith_2015_lck",
+      "name": "Wraith",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wraith_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "chei_2015_lck",
+      "name": "Chei",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chei_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "rain_2015_lms",
+      "name": "Rain",
+      "team": "DarlingYou",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "DarlingYou (2015)"
+    },
+    {
+      "id": "chunx_2015_lms",
+      "name": "Chunx",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chunx_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2015)"
+    },
+    {
+      "id": "olleh_2015_lms",
+      "name": "Olleh",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2015)"
+    },
+    {
+      "id": "hachani_2015_lck",
+      "name": "Hachani",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hachani_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "madlife_2015_lck",
+      "name": "MadLife",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MadLife_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "piccaboo_2015_lck",
+      "name": "Piccaboo",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piccaboo_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2015)"
+    },
+    {
+      "id": "pure_2015_lck",
+      "name": "Pure",
+      "team": "NaJin e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pure_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "NaJin e-mFire (2015)"
+    },
+    {
+      "id": "nyph_2015_eu lcs",
+      "name": "Nyph",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nyph_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "yellowstar_2015_eu lcs",
+      "name": "YellOwStaR",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YellOwStaR_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2015)"
+    },
+    {
+      "id": "rydle_2015_eu lcs",
+      "name": "Rydle",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rydle_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "nisbeth_2015_eu lcs",
+      "name": "Nisbeth",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nisbeth_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "unlimited_2015_eu lcs",
+      "name": "Unlimited",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unlimited_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "voidle_2015_eu lcs",
+      "name": "Voidle",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Voidle_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "nrated_2015_eu lcs",
+      "name": "nRated",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/nRated_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "vander_2015_eu lcs",
+      "name": "Vander",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2015)"
+    },
+    {
+      "id": "edward_2015_eu lcs",
+      "name": "Edward",
+      "team": "Gambit Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edward_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gambit Gaming (2015)"
+    },
+    {
+      "id": "hylissang_2015_eu lcs",
+      "name": "Hylissang",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2015)"
+    },
+    {
+      "id": "lustboy_2015_na lcs",
+      "name": "Lustboy",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lustboy_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2015)"
+    },
+    {
+      "id": "lemonnation_2015_na lcs",
+      "name": "LemonNation",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LemonNation_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2015)"
+    },
+    {
+      "id": "sheep_2015_na lcs",
+      "name": "Sheep",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheep_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "kiwikid_2015_na lcs",
+      "name": "KiWiKiD",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KiWiKiD_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2015)"
+    },
+    {
+      "id": "gleeb_2015_na lcs",
+      "name": "Gleeb",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gleeb_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "bunny fufuu_2015_na lcs",
+      "name": "Bunny FuFuu",
+      "team": "Gravity",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bunny FuFuu_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Gravity (2015)"
+    },
+    {
+      "id": "adrian_2015_na lcs",
+      "name": "Adrian",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adrian_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "xpecial_2015_na lcs",
+      "name": "Xpecial",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xpecial_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2015)"
+    },
+    {
+      "id": "aphromoo_2015_na lcs",
+      "name": "aphromoo",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2015)"
+    },
+    {
+      "id": "dodo_2015_na lcs",
+      "name": "Dodo",
+      "team": "Team 8",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dodo_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team 8 (2015)"
+    },
+    {
+      "id": "rain_2015_lms",
+      "name": "Rain",
+      "team": "Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rain_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Never Give Up (2015)"
+    },
+    {
+      "id": "swordart_2015_lms",
+      "name": "SwordArt",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2015)"
+    },
+    {
+      "id": "melon_2015_lms",
+      "name": "Melon",
+      "team": "Dream or Reality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Melon_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Dream or Reality (2015)"
+    },
+    {
+      "id": "kasing_2015_eu lcs",
+      "name": "Kasing",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kasing_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2015)"
+    },
+    {
+      "id": "ysera_2015_lms",
+      "name": "Ysera",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ysera_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "yolo_2015_na lcs",
+      "name": "yolo",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yolo_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "krepo_2015_eu lcs",
+      "name": "Krepo",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Krepo_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "fixer_2015_lck",
+      "name": "Fixer",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fixer_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "noxiak_2015_eu lcs",
+      "name": "Noxiak",
+      "team": "MeetYourMakers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Noxiak_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MeetYourMakers (2015)"
+    },
+    {
+      "id": "altec_2015_na lcs",
+      "name": "Altec",
+      "team": "Winterfox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Winterfox (2015)"
+    },
+    {
+      "id": "rd_2015_lms",
+      "name": "RD",
+      "team": "Logitech G Snipers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RD_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Logitech G Snipers (2015)"
+    },
+    {
+      "id": "kwon_2015_na lcs",
+      "name": "Kwon",
+      "team": "Team Coast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kwon_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Coast (2015)"
+    },
+    {
+      "id": "sweet_2015_lck",
+      "name": "Sweet",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sweet_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2015)"
+    },
+    {
+      "id": "albis_2015_lms",
+      "name": "Albis",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Albis_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2015)"
+    },
+    {
+      "id": "libik_2015_eu lcs",
+      "name": "Libik",
+      "team": "Reason Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Libik_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Reason Gaming (2015)"
+    },
+    {
+      "id": "hybrid_2015_eu lcs",
+      "name": "Hybrid",
+      "team": "Copenhagen Wolves Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hybrid_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+    },
+    {
+      "id": "trance_2015_na lcs",
+      "name": "Trance",
+      "team": "Team Fusion",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trance_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Fusion (2015)"
+    },
+    {
+      "id": "smoothie_2015_na lcs",
+      "name": "Smoothie",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "ignar_2015_lck",
+      "name": "IgNar",
+      "team": "Incredible Miracle",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Incredible Miracle (2015)"
+    },
+    {
+      "id": "bokgu_2015_lck",
+      "name": "BokGu",
+      "team": "Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BokGu_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Winners (2015)"
+    },
+    {
+      "id": "snowflower_2015_lck",
+      "name": "SnowFlower",
+      "team": "Rebels Anarchy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SnowFlower_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Rebels Anarchy (2015)"
+    },
+    {
+      "id": "secret_2015_lck",
+      "name": "Secret",
+      "team": "Prime Clan",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Secret_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Prime Clan (2015)"
+    },
+    {
+      "id": "key_2015_lck",
+      "name": "Key",
+      "team": "Xenics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Key_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Xenics (2015)"
+    },
+    {
+      "id": "luna_2015_lck",
+      "name": "Luna",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Luna_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2015)"
+    },
+    {
+      "id": "secret_2015_lck",
+      "name": "Secret",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Secret_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "vivid_2015_lck",
+      "name": "viviD",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/viviD_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2015)"
+    },
+    {
+      "id": "weiiii_2015_lms",
+      "name": "Weiiii",
+      "team": "Assassin Sniper",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Weiiii_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Assassin Sniper (2015)"
+    },
+    {
+      "id": "dreamer_2015_lms",
+      "name": "Dreamer",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dreamer_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2015)"
+    },
+    {
+      "id": "g0dfred_2015_eu lcs",
+      "name": "G0DFRED",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/G0DFRED_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2015)"
+    },
+    {
+      "id": "mithy_2015_eu lcs",
+      "name": "Mithy",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mithy_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2015)"
+    },
+    {
+      "id": "promisq_2015_eu lcs",
+      "name": "promisq",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/promisq_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2015)"
+    },
+    {
+      "id": "big_2015_na lcs",
+      "name": "Big",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Big_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2015)"
+    },
+    {
+      "id": "bodydrop_2015_na lcs",
+      "name": "Bodydrop",
+      "team": "Enemy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bodydrop_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Enemy (2015)"
+    },
+    {
+      "id": "yue_2015_lms",
+      "name": "Yue",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yue_profileicon.png",
+      "years": "2015",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2015)"
+    },
+    {
+      "id": "max_2015_lck",
+      "name": "Max",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Max_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2015)"
+    },
+    {
+      "id": "piccaboo_2015_lck",
+      "name": "Piccaboo",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piccaboo_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2015)"
+    },
+    {
+      "id": "kaas_2015_eu lcs",
+      "name": "Kaas",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaas_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2015)"
+    },
+    {
+      "id": "gate_2015_na lcs",
+      "name": "Gate",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2015)"
+    },
+    {
+      "id": "noxiak_2015_eu lcs",
+      "name": "Noxiak",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Noxiak_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "SK Gaming (2015)"
+    },
+    {
+      "id": "hybrid_2015_eu lcs",
+      "name": "Hybrid",
+      "team": "Gamers2",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hybrid_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "Gamers2 (2015)"
+    },
+    {
+      "id": "mountain_2015_eu lcs",
+      "name": "MounTain",
+      "team": "MOUZ NXT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MounTain_profileicon.png",
+      "years": "2015",
+      "league": "EU LCS",
+      "seasonTeam": "MOUZ NXT (2015)"
+    },
+    {
+      "id": "big_2015_na lcs",
+      "name": "Big",
+      "team": "Team Imagine",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Big_profileicon.png",
+      "years": "2015",
+      "league": "NA LCS",
+      "seasonTeam": "Team Imagine (2015)"
+    },
+    {
+      "id": "jelly_2015_lck",
+      "name": "Jelly",
+      "team": "Dark Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jelly_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "Dark Wolves (2015)"
+    },
+    {
+      "id": "key_2015_lck",
+      "name": "Key",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Key_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    },
+    {
+      "id": "totoro_2015_lck",
+      "name": "Totoro",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Totoro_profileicon.png",
+      "years": "2015",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2015)"
+    }
+  ]
+}

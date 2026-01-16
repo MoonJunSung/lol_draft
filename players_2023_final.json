@@ -1,0 +1,3234 @@
+{
+  "top": [
+    {
+      "id": "xiaolaohu_2023_lpl",
+      "name": "Xiaolaohu",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaolaohu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "biubiu_2023_lpl",
+      "name": "Biubiu",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biubiu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "zdz_2023_lpl",
+      "name": "Zdz",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zdz_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "yskm_2023_lpl",
+      "name": "YSKM",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YSKM_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "bin_2023_lpl",
+      "name": "Bin",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bin_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2023)"
+    },
+    {
+      "id": "369_2023_lpl",
+      "name": "369",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/369_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "xiaoxu_2023_lpl",
+      "name": "Xiaoxu",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaoxu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "cube_2023_lpl",
+      "name": "Cube",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cube_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "breathe_2023_lpl",
+      "name": "Breathe",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breathe_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "shanji_2023_lpl",
+      "name": "shanji",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/shanji_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "hery_2023_lpl",
+      "name": "Hery",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hery_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "invincible_2023_lpl",
+      "name": "Invincible",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Invincible_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "ale_2023_lpl",
+      "name": "Ale",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ale_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "qingtian_2023_lpl",
+      "name": "Qingtian",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Qingtian_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "hoya_2023_lpl",
+      "name": "HOYA",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HOYA_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "zika_2023_lpl",
+      "name": "Zika",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zika_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "canna_2023_lck",
+      "name": "Canna",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Canna_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "rascal_2023_lck",
+      "name": "Rascal",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rascal_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "zeus_2023_lck",
+      "name": "Zeus",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zeus_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "doran_2023_lck",
+      "name": "Doran",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doran_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2023)"
+    },
+    {
+      "id": "theshy_2023_lpl",
+      "name": "TheShy",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "dudu_2023_lck",
+      "name": "DuDu",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DuDu_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "kingen_2023_lck",
+      "name": "Kingen",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kingen_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "dndn_2023_lck",
+      "name": "DnDn",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DnDn_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "morgan_2023_lck",
+      "name": "Morgan",
+      "team": "BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morgan_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "BRION (2023)"
+    },
+    {
+      "id": "kiin_2023_lck",
+      "name": "Kiin",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kiin_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    },
+    {
+      "id": "burdol_2023_lck",
+      "name": "Burdol",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Burdol_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "odoamne_2023_lec",
+      "name": "Odoamne",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "brokenblade_2023_lec",
+      "name": "BrokenBlade",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BrokenBlade_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2023)"
+    },
+    {
+      "id": "szygenda_2023_lec",
+      "name": "Szygenda",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Szygenda_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "adam_2023_lec",
+      "name": "Adam",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adam_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "finn_2023_lec",
+      "name": "Finn",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Finn_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "evi_2023_lec",
+      "name": "Evi",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Evi_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "chasy_2023_lec",
+      "name": "Chasy",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chasy_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2023)"
+    },
+    {
+      "id": "irrelevant_2023_lec",
+      "name": "Irrelevant",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Irrelevant_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2023)"
+    },
+    {
+      "id": "photon_2023_lec",
+      "name": "Photon",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Photon_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "wunder_2023_lec",
+      "name": "Wunder",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wunder_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "fudge_2023_lcs",
+      "name": "Fudge",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fudge_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "tenacity_2023_lcs",
+      "name": "Tenacity",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tenacity_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "ssumday_2023_lcs",
+      "name": "Ssumday",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "licorice_2023_lcs",
+      "name": "Licorice",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Licorice_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "summit_2023_lcs",
+      "name": "Summit",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Summit_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "impact_2023_lcs",
+      "name": "Impact",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "dhokla_2023_lcs",
+      "name": "Dhokla",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dhokla_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2023)"
+    },
+    {
+      "id": "armut_2023_lcs",
+      "name": "Armut",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Armut_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "revenge_2023_lcs",
+      "name": "Revenge",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Revenge_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "solo_2023_lcs",
+      "name": "Solo",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "rich_2023_lpl",
+      "name": "Rich",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rich_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "fearness_2023_lpl",
+      "name": "fearness",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fearness_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "oscarinin_2023_lec",
+      "name": "Oscarinin",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Oscarinin_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "hauntzer_2023_lcs",
+      "name": "Hauntzer",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "neny_2023_lpl",
+      "name": "neny",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/neny_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "wayward_2023_lpl",
+      "name": "Wayward",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wayward_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "fearness_2023_lpl",
+      "name": "fearness",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fearness_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "xiaoxu_2023_lpl",
+      "name": "Xiaoxu",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaoxu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "cube_2023_lpl",
+      "name": "Cube",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cube_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "morgan_2023_lck",
+      "name": "Morgan",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morgan_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "decade_2023_lpl",
+      "name": "Decade",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Decade_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "wen_2023_lpl",
+      "name": "Wen",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wen_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "solo_2023_lcs",
+      "name": "Solo",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "rich_2023_lcs",
+      "name": "Rich",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rich_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "revenge_2023_lcs",
+      "name": "Revenge",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Revenge_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "dhokla_2023_lcs",
+      "name": "Dhokla",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dhokla_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "NRG Kia (2023)"
+    },
+    {
+      "id": "ssumday_2023_lcs",
+      "name": "Ssumday",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "agresivoo_2023_lec",
+      "name": "Agresivoo",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Agresivoo_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "clear_2023_lck",
+      "name": "Clear",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clear_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "perfect_2023_lck",
+      "name": "PerfecT",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PerfecT_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "haoye_2023_lpl",
+      "name": "Haoye",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haoye_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "heng_2023_lpl",
+      "name": "Heng",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Heng_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "xiaohao_2023_lpl",
+      "name": "Xiaohao",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "gideon_2023_lpl",
+      "name": "GIDEON",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GIDEON_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "xun_2023_lpl",
+      "name": "Xun",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xun_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2023)"
+    },
+    {
+      "id": "kanavi_2023_lpl",
+      "name": "Kanavi",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kanavi_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "meteor_2023_lpl",
+      "name": "Meteor",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteor_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "leyan_2023_lpl",
+      "name": "Leyan",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leyan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "wei_2023_lpl",
+      "name": "Wei",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wei_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "aki_2023_lpl",
+      "name": "Aki",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aki_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "ning_2023_lpl",
+      "name": "Ning",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ning_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "xlb_2023_lpl",
+      "name": "XLB",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XLB_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "jiejie_2023_lpl",
+      "name": "Jiejie",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiejie_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "tian_2023_lpl",
+      "name": "Tian",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tian_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "beichuan_2023_lpl",
+      "name": "Beichuan",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Beichuan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "tarzan_2023_lpl",
+      "name": "Tarzan",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarzan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "canyon_2023_lck",
+      "name": "Canyon",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Canyon_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "croco_2023_lck",
+      "name": "Croco",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Croco_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "oner_2023_lck",
+      "name": "Oner",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Oner_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "peanut_2023_lck",
+      "name": "Peanut",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2023)"
+    },
+    {
+      "id": "karsa_2023_lpl",
+      "name": "Karsa",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karsa_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "youngjae_2023_lck",
+      "name": "YoungJae",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YoungJae_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "clid_2023_lck",
+      "name": "Clid",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clid_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "sylvie_2023_lck",
+      "name": "Sylvie",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sylvie_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "umti_2023_lck",
+      "name": "UmTi",
+      "team": "BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/UmTi_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "BRION (2023)"
+    },
+    {
+      "id": "cuzz_2023_lck",
+      "name": "Cuzz",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cuzz_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    },
+    {
+      "id": "willer_2023_lck",
+      "name": "Willer",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Willer_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "xerxe_2023_lec",
+      "name": "Xerxe",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xerxe_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "yike_2023_lec",
+      "name": "Yike",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yike_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2023)"
+    },
+    {
+      "id": "malrang_2023_lec",
+      "name": "Malrang",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Malrang_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "sheo_2023_lec",
+      "name": "Sheo",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheo_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "113_2023_lec",
+      "name": "113",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/113_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "jankos_2023_lec",
+      "name": "Jankos",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "elyoya_2023_lec",
+      "name": "Elyoya",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Elyoya_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2023)"
+    },
+    {
+      "id": "markoon_2023_lec",
+      "name": "Markoon",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Markoon_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2023)"
+    },
+    {
+      "id": "bo_2023_lec",
+      "name": "Bo",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bo_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "razork_2023_lec",
+      "name": "Razork",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Razork_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "blaber_2023_lcs",
+      "name": "Blaber",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blaber_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "closer_2023_lcs",
+      "name": "Closer",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Closer_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "inspired_2023_lcs",
+      "name": "Inspired",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Inspired_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "river_2023_lcs",
+      "name": "River",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/River_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "pyosik_2023_lcs",
+      "name": "Pyosik",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pyosik_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "spica_2023_lcs",
+      "name": "Spica",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spica_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "contractz_2023_lcs",
+      "name": "Contractz",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Contractz_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2023)"
+    },
+    {
+      "id": "santorin_2023_lcs",
+      "name": "Santorin",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "kenvi_2023_lcs",
+      "name": "Kenvi",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kenvi_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "bugi_2023_lcs",
+      "name": "Bugi",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bugi_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "h4cker_2023_lpl",
+      "name": "H4cker",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H4cker_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "juhan_2023_lck",
+      "name": "Juhan",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Juhan_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "shad0w_2023_lpl",
+      "name": "Shad0w",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shad0w_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "gg river_2023_lcs",
+      "name": "GG River",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GG River_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "tianzhen_2023_lpl",
+      "name": "Tianzhen",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tianzhen_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "weiwei_2023_lpl",
+      "name": "Weiwei",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Weiwei_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "umti_2023_lck",
+      "name": "UmTi",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/UmTi_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "beishang_2023_lpl",
+      "name": "beishang",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/beishang_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "bonnie_2023_lpl",
+      "name": "Bonnie",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bonnie_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "armao_2023_lcs",
+      "name": "Armao",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Armao_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "contractz_2023_lcs",
+      "name": "Contractz",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Contractz_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "NRG Kia (2023)"
+    },
+    {
+      "id": "xiaohuangren_2023_lpl",
+      "name": "xiaohuangren",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaohuangren_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "peach_2023_lec",
+      "name": "Peach",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peach_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "grizzly_2023_lck",
+      "name": "Grizzly",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Grizzly_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "daglas_2023_lec",
+      "name": "Daglas",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Daglas_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "sheiden_2023_lcs",
+      "name": "Sheiden",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheiden_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "hambak_2023_lck",
+      "name": "HamBak",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HamBak_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "care_2023_lpl",
+      "name": "Care",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Care_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "shanks_2023_lpl",
+      "name": "Shanks",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shanks_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "harder_2023_lpl",
+      "name": "Harder",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Harder_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "neny_2023_lpl",
+      "name": "neny",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/neny_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "yagao_2023_lpl",
+      "name": "Yagao",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yagao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2023)"
+    },
+    {
+      "id": "knight_2023_lpl",
+      "name": "Knight",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Knight_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "haichao_2023_lpl",
+      "name": "haichao",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/haichao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "strive_2023_lpl",
+      "name": "Strive",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Strive_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "tangyuan_2023_lpl",
+      "name": "Tangyuan",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tangyuan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "creme_2023_lpl",
+      "name": "Creme",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Creme_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "qing_2023_lpl",
+      "name": "Qing",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Qing_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "dream_2023_lpl",
+      "name": "Dream",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dream_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "fofo_2023_lpl",
+      "name": "FoFo",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FoFo_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "rookie_2023_lpl",
+      "name": "Rookie",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "ucal_2023_lpl",
+      "name": "Ucal",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ucal_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "scout_2023_lpl",
+      "name": "Scout",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "dove_2023_lpl",
+      "name": "Dove",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dove_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "showmaker_2023_lck",
+      "name": "ShowMaker",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShowMaker_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "fate_2023_lck",
+      "name": "FATE",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FATE_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "faker_2023_lck",
+      "name": "Faker",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faker_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "chovy_2023_lck",
+      "name": "Chovy",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chovy_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2023)"
+    },
+    {
+      "id": "xiaohu_2023_lpl",
+      "name": "Xiaohu",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "bulldog_2023_lck",
+      "name": "BuLLDoG",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BuLLDoG_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "zeka_2023_lck",
+      "name": "Zeka",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zeka_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "fiesta_2023_lck",
+      "name": "FIESTA",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FIESTA_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "karis_2023_lck",
+      "name": "Karis",
+      "team": "BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karis_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "BRION (2023)"
+    },
+    {
+      "id": "bdd_2023_lck",
+      "name": "Bdd",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bdd_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    },
+    {
+      "id": "clozer_2023_lck",
+      "name": "Clozer",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clozer_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "vetheo_2023_lec",
+      "name": "Vetheo",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vetheo_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "caps_2023_lec",
+      "name": "Caps",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caps_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2023)"
+    },
+    {
+      "id": "larssen_2023_lec",
+      "name": "Larssen",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Larssen_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "nuc_2023_lec",
+      "name": "nuc",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/nuc_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "dajor_2023_lec",
+      "name": "Dajor",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dajor_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "ruby_2023_lec",
+      "name": "Ruby",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruby_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "nisqy_2023_lec",
+      "name": "Nisqy",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nisqy_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2023)"
+    },
+    {
+      "id": "sertuss_2023_lec",
+      "name": "Sertuss",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sertuss_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2023)"
+    },
+    {
+      "id": "perkz_2023_lec",
+      "name": "Perkz",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "humanoid_2023_lec",
+      "name": "Humanoid",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Humanoid_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "diplex_2023_lcs",
+      "name": "Diplex",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diplex_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "bjergsen_2023_lcs",
+      "name": "Bjergsen",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "jojopyun_2023_lcs",
+      "name": "Jojopyun",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jojopyun_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "young_2023_lcs",
+      "name": "Young",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Young_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "haeri_2023_lcs",
+      "name": "Haeri",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haeri_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "vicla_2023_lcs",
+      "name": "VicLa",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/VicLa_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "palafox_2023_lcs",
+      "name": "Palafox",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Palafox_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2023)"
+    },
+    {
+      "id": "jensen_2023_lcs",
+      "name": "Jensen",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "ablazeolive_2023_lcs",
+      "name": "Ablazeolive",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ablazeolive_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "maple_2023_lcs",
+      "name": "Maple",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maple_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "xqw_2023_lpl",
+      "name": "xqw",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xqw_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "pinz_2023_lpl",
+      "name": "pinz",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pinz_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "angel_2023_lpl",
+      "name": "Angel",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Angel_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "gori_2023_lcs",
+      "name": "Gori",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gori_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "pout_2023_lpl",
+      "name": "Pout",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pout_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "emenes_2023_lcs",
+      "name": "EMENES",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/EMENES_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "bolulu_2023_lcs",
+      "name": "Bolulu",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bolulu_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "ryoma_2023_lcs",
+      "name": "Ryoma",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryoma_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "lider_2023_lec",
+      "name": "LIDER",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LIDER_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "forge_2023_lpl",
+      "name": "Forge",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Forge_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "callme_2023_lck",
+      "name": "Callme",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Callme_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "abbedagge_2023_lec",
+      "name": "Abbedagge",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Abbedagge_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "cryin_2023_lpl",
+      "name": "Cryin",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cryin_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "angel_2023_lpl",
+      "name": "Angel",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Angel_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "mole_2023_lpl",
+      "name": "Mole",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mole_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "kyeahoo_2023_lck",
+      "name": "kyeahoo",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kyeahoo_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "karis_2023_lck",
+      "name": "Karis",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karis_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "quad_2023_lck",
+      "name": "Quad",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quad_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "insanity_2023_lcs",
+      "name": "Insanity",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Insanity_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "palafox_2023_lcs",
+      "name": "Palafox",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Palafox_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "NRG Kia (2023)"
+    },
+    {
+      "id": "nukeduck_2023_lcs",
+      "name": "Nukeduck",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "ivory_2023_lck",
+      "name": "Ivory",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ivory_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "vetheo_2023_lec",
+      "name": "Vetheo",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vetheo_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "quid_2023_lcs",
+      "name": "Quid",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quid_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "ruby_2023_lcs",
+      "name": "Ruby",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruby_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "poby_2023_lck",
+      "name": "Poby",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Poby_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "apa_2023_lcs",
+      "name": "APA",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/APA_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "dream_2023_lpl",
+      "name": "Dream",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dream_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "spirax_2023_lcs",
+      "name": "Spirax",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spirax_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "lzq_2023_lpl",
+      "name": "Lzq",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lzq_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "fisher_2023_lpl",
+      "name": "Fisher",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fisher_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "feisty_2023_lck",
+      "name": "Feisty",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Feisty_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "lwx_2023_lpl",
+      "name": "Lwx",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lwx_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "hope_2023_lpl",
+      "name": "Hope",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hope_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "betty_2023_lpl",
+      "name": "Betty",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betty_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "ahn_2023_lpl",
+      "name": "Ahn",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ahn_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "elk_2023_lpl",
+      "name": "Elk",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Elk_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2023)"
+    },
+    {
+      "id": "ruler_2023_lpl",
+      "name": "Ruler",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "lpc_2023_lpl",
+      "name": "Lpc",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lpc_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "assum_2023_lpl",
+      "name": "Assum",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Assum_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "gala_2023_lpl",
+      "name": "GALA",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GALA_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "able_2023_lpl",
+      "name": "Able",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Able_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "doggo_2023_lpl",
+      "name": "Doggo",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doggo_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "photic_2023_lpl",
+      "name": "Photic",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Photic_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "leave_2023_lpl",
+      "name": "Leave",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leave_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "jackeylove_2023_lpl",
+      "name": "JackeyLove",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JackeyLove_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "huanfeng_2023_lpl",
+      "name": "huanfeng",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huanfeng_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "lp_2023_lpl",
+      "name": "LP",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LP_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "deft_2023_lck",
+      "name": "Deft",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deft_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "deokdam_2023_lck",
+      "name": "deokdam",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/deokdam_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "gumayusi_2023_lck",
+      "name": "Gumayusi",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gumayusi_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "peyz_2023_lck",
+      "name": "Peyz",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peyz_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2023)"
+    },
+    {
+      "id": "light_2023_lpl",
+      "name": "Light",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Light_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "taeyoon_2023_lck",
+      "name": "Taeyoon",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taeyoon_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "viper_2023_lck",
+      "name": "Viper",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "vital_2023_lck",
+      "name": "vital",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/vital_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "hena_2023_lck",
+      "name": "Hena",
+      "team": "BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hena_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "BRION (2023)"
+    },
+    {
+      "id": "aiming_2023_lck",
+      "name": "Aiming",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aiming_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    },
+    {
+      "id": "envyy_2023_lck",
+      "name": "Envyy",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Envyy_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "patrik_2023_lec",
+      "name": "Patrik",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Patrik_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "hans sama_2023_lec",
+      "name": "Hans Sama",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hans Sama_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2023)"
+    },
+    {
+      "id": "comp_2023_lec",
+      "name": "Comp",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Comp_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "crownie_2023_lec",
+      "name": "Crownie",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crownie_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "kobbe_2023_lec",
+      "name": "Kobbe",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kobbe_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "jackspektra_2023_lec",
+      "name": "Jackspektra",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jackspektra_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "carzzy_2023_lec",
+      "name": "Carzzy",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Carzzy_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2023)"
+    },
+    {
+      "id": "3xa_2023_lec",
+      "name": "3XA",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/3XA_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2023)"
+    },
+    {
+      "id": "neon_2023_lec",
+      "name": "Neon",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neon_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "rekkles_2023_lec",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "berserker_2023_lcs",
+      "name": "Berserker",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Berserker_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "doublelift_2023_lcs",
+      "name": "Doublelift",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "fbi_2023_lcs",
+      "name": "FBI",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FBI_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "stixxay_2023_lcs",
+      "name": "Stixxay",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stixxay_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "yeon_2023_lcs",
+      "name": "Yeon",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yeon_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "prince_2023_lcs",
+      "name": "Prince",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Prince_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "luger_2023_lcs",
+      "name": "Luger",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Luger_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2023)"
+    },
+    {
+      "id": "spawn_2023_lcs",
+      "name": "Spawn",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spawn_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "tactical_2023_lcs",
+      "name": "Tactical",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tactical_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "neo_2023_lcs",
+      "name": "Neo",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neo_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "tomo_2023_lcs",
+      "name": "Tomo",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tomo_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "pleata_2023_lck",
+      "name": "Pleata",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pleata_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "wildturtle_2023_lcs",
+      "name": "WildTurtle",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "upset_2023_lec",
+      "name": "Upset",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Upset_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "zhiqiuyi_2023_lpl",
+      "name": "zhiqiuyi",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/zhiqiuyi_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "1xn_2023_lpl",
+      "name": "1xn",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/1xn_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "envyy_2023_lpl",
+      "name": "Envyy",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Envyy_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "lp_2023_lpl",
+      "name": "LP",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LP_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "gala_2023_lpl",
+      "name": "GALA",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GALA_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "iboy_2023_lpl",
+      "name": "iBoy",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/iBoy_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "teddy_2023_lck",
+      "name": "Teddy",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Teddy_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "paduck_2023_lck",
+      "name": "Paduck",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Paduck_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "hena_2023_lck",
+      "name": "Hena",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hena_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "thesnake_2023_lpl",
+      "name": "Thesnake",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thesnake_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "uzi_2023_lpl",
+      "name": "Uzi",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Uzi_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "unf0rgiven_2023_lcs",
+      "name": "UNF0RGIVEN",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/UNF0RGIVEN_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "fbi_2023_lcs",
+      "name": "FBI",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FBI_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "NRG Kia (2023)"
+    },
+    {
+      "id": "rahel_2023_lck",
+      "name": "Rahel",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rahel_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "flakked_2023_lec",
+      "name": "Flakked",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flakked_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "noah_2023_lec",
+      "name": "Noah",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Noah_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "jiwoo_2023_lck",
+      "name": "Jiwoo",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiwoo_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "xiaoyueji_2023_lpl",
+      "name": "xiaoyueji",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaoyueji_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "nan_2023_lck",
+      "name": "nan",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/nan_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "hype_2023_lck",
+      "name": "Hype",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hype_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    }
+  ],
+  "support": [
+    {
+      "id": "lele_2023_lpl",
+      "name": "Lele",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lele_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "iwandy_2023_lpl",
+      "name": "Iwandy",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Iwandy_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2023)"
+    },
+    {
+      "id": "swordart_2023_lpl",
+      "name": "SwordArt",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "wink_2023_lpl",
+      "name": "Wink",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wink_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2023)"
+    },
+    {
+      "id": "on_2023_lpl",
+      "name": "ON",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ON_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2023)"
+    },
+    {
+      "id": "missing_2023_lpl",
+      "name": "MISSING",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MISSING_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2023)"
+    },
+    {
+      "id": "jinjiao_2023_lpl",
+      "name": "Jinjiao",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinjiao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2023)"
+    },
+    {
+      "id": "southwind_2023_lpl",
+      "name": "Southwind",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Southwind_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "bunny_2023_lpl",
+      "name": "Bunny",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bunny_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "jerry_2023_lpl",
+      "name": "Jerry",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jerry_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "baolan_2023_lpl",
+      "name": "Baolan",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Baolan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "zhuo_2023_lpl",
+      "name": "Zhuo",
+      "team": "Ninjas in Pyjamas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zhuo_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ninjas in Pyjamas (2023)"
+    },
+    {
+      "id": "meiko_2023_lpl",
+      "name": "Meiko",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meiko_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2023)"
+    },
+    {
+      "id": "mark_2023_lpl",
+      "name": "Mark",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mark_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2023)"
+    },
+    {
+      "id": "xinliu_2023_lpl",
+      "name": "XinLiu",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XinLiu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "hang_2023_lpl",
+      "name": "Hang",
+      "team": "LNG Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hang_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "LNG Esports (2023)"
+    },
+    {
+      "id": "kellin_2023_lck",
+      "name": "Kellin",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kellin_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "beryl_2023_lck",
+      "name": "BeryL",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BeryL_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DRX (2023)"
+    },
+    {
+      "id": "keria_2023_lck",
+      "name": "Keria",
+      "team": "T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keria_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "T1 (2023)"
+    },
+    {
+      "id": "delight_2023_lck",
+      "name": "Delight",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Delight_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2023)"
+    },
+    {
+      "id": "crisp_2023_lpl",
+      "name": "Crisp",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crisp_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2023)"
+    },
+    {
+      "id": "jun_2023_lck",
+      "name": "Jun",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jun_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "life_2023_lck",
+      "name": "Life",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Life_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2023)"
+    },
+    {
+      "id": "peter_2023_lck",
+      "name": "Peter",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peter_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2023)"
+    },
+    {
+      "id": "effort_2023_lck",
+      "name": "Effort",
+      "team": "BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Effort_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "BRION (2023)"
+    },
+    {
+      "id": "lehends_2023_lck",
+      "name": "Lehends",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lehends_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    },
+    {
+      "id": "kael_2023_lck",
+      "name": "Kael",
+      "team": "Liiv SANDBOX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kael_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Liiv SANDBOX (2023)"
+    },
+    {
+      "id": "moham_2023_lck",
+      "name": "Moham",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Moham_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "targamas_2023_lec",
+      "name": "Targamas",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Targamas_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "mikyx_2023_lec",
+      "name": "Mikyx",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mikyx_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "G2 Esports (2023)"
+    },
+    {
+      "id": "trymbi_2023_lec",
+      "name": "Trymbi",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trymbi_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "labrov_2023_lec",
+      "name": "Labrov",
+      "team": "Team BDS",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Labrov_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team BDS (2023)"
+    },
+    {
+      "id": "execute_2023_lec",
+      "name": "Execute",
+      "team": "Astralis",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Execute_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Astralis (2023)"
+    },
+    {
+      "id": "mersa_2023_lec",
+      "name": "Mersa",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mersa_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2023)"
+    },
+    {
+      "id": "hylissang_2023_lec",
+      "name": "Hylissang",
+      "team": "MAD Lions KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "MAD Lions KOI (2023)"
+    },
+    {
+      "id": "doss_2023_lec",
+      "name": "Doss",
+      "team": "SK Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doss_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "SK Gaming (2023)"
+    },
+    {
+      "id": "kaiser_2023_lec",
+      "name": "Kaiser",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaiser_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Team Vitality (2023)"
+    },
+    {
+      "id": "rhuckz_2023_lec",
+      "name": "Rhuckz",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rhuckz_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "zven_2023_lcs",
+      "name": "Zven",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Cloud9 (2023)"
+    },
+    {
+      "id": "busio_2023_lcs",
+      "name": "Busio",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Busio_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "100 Thieves (2023)"
+    },
+    {
+      "id": "vulcan_2023_lcs",
+      "name": "Vulcan",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vulcan_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "huhi_2023_lcs",
+      "name": "huhi",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Golden Guardians (2023)"
+    },
+    {
+      "id": "corejj_2023_lcs",
+      "name": "CoreJJ",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2023)"
+    },
+    {
+      "id": "winsome_2023_lcs",
+      "name": "Winsome",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Winsome_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "poome_2023_lcs",
+      "name": "Poome",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Poome_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Counter Logic Gaming (2023)"
+    },
+    {
+      "id": "biofrost_2023_lcs",
+      "name": "Biofrost",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biofrost_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "fleshy_2023_lcs",
+      "name": "Fleshy",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fleshy_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "chime_2023_lcs",
+      "name": "Chime",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chime_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "TSM (2023)"
+    },
+    {
+      "id": "ppgod_2023_lpl",
+      "name": "ppgod",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ppgod_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2023)"
+    },
+    {
+      "id": "yaoyao_2023_lpl",
+      "name": "yaoyao",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yaoyao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "ming_2023_lpl",
+      "name": "Ming",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ming_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "ignar_2023_lcs",
+      "name": "IgNar",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "qiuqiu_2023_lpl",
+      "name": "QiuQiu",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/QiuQiu_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2023)"
+    },
+    {
+      "id": "eyla_2023_lcs",
+      "name": "Eyla",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eyla_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "bkr_2023_lpl",
+      "name": "bkr",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/bkr_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "limit_2023_lec",
+      "name": "LIMIT",
+      "team": "Excel Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LIMIT_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Excel Esports (2023)"
+    },
+    {
+      "id": "advienne_2023_lec",
+      "name": "Advienne",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Advienne_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "swordart_2023_lpl",
+      "name": "SwordArt",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2023)"
+    },
+    {
+      "id": "zorah_2023_lpl",
+      "name": "Zorah",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zorah_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2023)"
+    },
+    {
+      "id": "yuyanjia_2023_lpl",
+      "name": "yuyanjia",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yuyanjia_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2023)"
+    },
+    {
+      "id": "lvmao_2023_lpl",
+      "name": "LvMao",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LvMao_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "feather_2023_lpl",
+      "name": "Feather",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Feather_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "effort_2023_lck",
+      "name": "Effort",
+      "team": "OKSavingsBank BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Effort_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "OKSavingsBank BRION (2023)"
+    },
+    {
+      "id": "treatz_2023_lcs",
+      "name": "Treatz",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Treatz_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Immortals (2023)"
+    },
+    {
+      "id": "diamond_2023_lcs",
+      "name": "Diamond",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diamond_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "eyla_2023_lcs",
+      "name": "Eyla",
+      "team": "Evil Geniuses",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eyla_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Evil Geniuses (2023)"
+    },
+    {
+      "id": "ignar_2023_lcs",
+      "name": "IgNar",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "NRG Kia (2023)"
+    },
+    {
+      "id": "vulcan_2023_lcs",
+      "name": "Vulcan",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vulcan_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "FlyQuest (2023)"
+    },
+    {
+      "id": "advienne_2023_lec",
+      "name": "Advienne",
+      "team": "KOI",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Advienne_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "KOI (2023)"
+    },
+    {
+      "id": "trymbi_2023_lec",
+      "name": "Trymbi",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trymbi_profileicon.png",
+      "years": "2023",
+      "league": "LEC",
+      "seasonTeam": "Fnatic (2023)"
+    },
+    {
+      "id": "baolan_2023_lpl",
+      "name": "Baolan",
+      "team": "Rare Atom",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Baolan_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Rare Atom (2023)"
+    },
+    {
+      "id": "andil_2023_lck",
+      "name": "Andil",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Andil_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2023)"
+    },
+    {
+      "id": "bible_2023_lck",
+      "name": "Bible",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bible_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2023)"
+    },
+    {
+      "id": "poome_2023_lcs",
+      "name": "Poome",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Poome_profileicon.png",
+      "years": "2023",
+      "league": "LCS",
+      "seasonTeam": "Dignitas (2023)"
+    },
+    {
+      "id": "lele_2023_lpl",
+      "name": "Lele",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lele_profileicon.png",
+      "years": "2023",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2023)"
+    },
+    {
+      "id": "way_2023_lck",
+      "name": "Way",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Way_profileicon.png",
+      "years": "2023",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2023)"
+    }
+  ]
+}

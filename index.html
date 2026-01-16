@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LOL DRAFT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Orbitron:wght@700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-overlay"></div>
+
+    <header class="topbar">
+        <div class="brand">
+            <span class="brand-icon">🏆</span>
+            <span class="brand-name">LOL<span class="brand-accent">DRAFT</span></span>
+        </div>
+        <div class="top-actions">
+            <button class="icon-btn" aria-label="Reset" onclick="resetRoster()">⟳</button>
+        </div>
+    </header>
+
+    <header class="hero">
+        <p class="eyebrow">LOL DRAFT</p>
+        <h1 class="title">BUILD YOUR LEGACY</h1>
+        <p class="subtitle">포지션을 지정하고 드림팀을 소환하세요</p>
+    </header>
+
+    <main>
+        <section class="draft-area">
+            <div class="roster-container">
+            <div class="position-slot" data-position="top">
+                <div class="slot-content">
+                    <div class="position-name">TOP</div>
+                    <div class="player-display"></div>
+                    <button class="assign-btn" onclick="summonForPosition('top')">+</button>
+                </div>
+            </div>
+            
+            <div class="position-slot" data-position="jungle">
+                <div class="slot-content">
+                    <div class="position-name">JUNGLE</div>
+                    <div class="player-display"></div>
+                    <button class="assign-btn" onclick="summonForPosition('jungle')">+</button>
+                </div>
+            </div>
+            
+            <div class="position-slot" data-position="mid">
+                <div class="slot-content">
+                    <div class="position-name">MID</div>
+                    <div class="player-display"></div>
+                    <button class="assign-btn" onclick="summonForPosition('mid')">+</button>
+                </div>
+            </div>
+            
+            <div class="position-slot" data-position="adc">
+                <div class="slot-content">
+                    <div class="position-name">ADC</div>
+                    <div class="player-display"></div>
+                    <button class="assign-btn" onclick="summonForPosition('adc')">+</button>
+                </div>
+            </div>
+            
+            <div class="position-slot" data-position="support">
+                <div class="slot-content">
+                    <div class="position-name">SUPPORT</div>
+                    <div class="player-display"></div>
+                    <button class="assign-btn" onclick="summonForPosition('support')">+</button>
+                </div>
+            </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Reveal Animation Overlay -->
+    <div id="revealOverlay" class="reveal-overlay">
+        <div class="reveal-content">
+            <!-- Step 1: Nationality -->
+            <div id="stepCountry" class="reveal-step">
+                <div class="reveal-icon" id="revealFlag">🇰🇷</div>
+                <h2 class="reveal-text" id="revealCountryName">SOUTH KOREA</h2>
+            </div>
+
+            <!-- Step 2: League -->
+            <div id="stepLeague" class="reveal-step">
+                <h2 class="reveal-text large" id="revealLeagueName">LCK</h2>
+            </div>
+
+            <!-- Step 3: Team -->
+            <div id="stepTeam" class="reveal-step">
+                <div class="reveal-logo" id="revealTeamLogo">T1</div>
+                <h2 class="reveal-text" id="revealTeamName">T1</h2>
+            </div>
+
+            <!-- Step 4: Final Card -->
+            <div id="stepCard" class="reveal-step card-view">
+                <div class="final-card" id="finalCardElement">
+                    <div class="card-trophy" id="cardTrophy">🏆</div>
+                    <div class="card-header">
+                        <span class="card-season" id="cardSeason">22'</span>
+                        <span class="card-name" id="cardName">ZEUS</span>
+                    </div>
+                    <div class="card-divider"></div>
+                    <div class="card-details">
+                        <div class="detail-badge" id="cardWorldsBadge" aria-hidden="true"></div>
+                        <div class="detail-group">
+                            <label>LEAGUE</label>
+                            <span id="cardLeague">LCK</span>
+                        </div>
+                        <div class="detail-group">
+                            <label>TEAM</label>
+                            <span id="cardTeam">T1</span>
+                        </div>
+                        <div class="detail-group">
+                            <label>COUNTRY</label>
+                            <div class="country-row">
+                                <span id="cardFlagSmall">🇰🇷</span>
+                                <span id="cardCountry">South Korea</span>
+                            </div>
+                        </div>
+                        <div class="detail-stats">
+                            <span class="detail-pos" id="cardPos">TOP</span>
+                        </div>
+                    </div>
+                </div>
+                <button class="sign-btn" onclick="confirmRevealPick()">확정</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Player Selection Modal -->
+    <div class="modal" id="playerModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">선수 선택</h2>
+                <button class="close-btn" onclick="closeModal()">&times;</button>
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="선수 검색..." oninput="filterPlayers()">
+            </div>
+            <div class="player-grid" id="playerGrid">
+                <!-- Players will be dynamically inserted here -->
+            </div>
+        </div>
+    </div>
+
+
+    <footer>
+        <p>© 2026 LoL Draft | Made with ❤️ for LCK Fans</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

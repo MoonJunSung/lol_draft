@@ -1,0 +1,4890 @@
+{
+  "top": [
+    {
+      "id": "untara_2016_lck",
+      "name": "Untara",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Untara_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "duke_2016_lck",
+      "name": "Duke",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duke_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "ikssu_2016_lck",
+      "name": "ikssu",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ikssu_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "ssumday_2016_lck",
+      "name": "Ssumday",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "expession_2016_lck",
+      "name": "Expession",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Expession_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "trace_2016_lck",
+      "name": "TrAce",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TrAce_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "sohwan_2016_lck",
+      "name": "SoHwan",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoHwan_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "cuvee_2016_lck",
+      "name": "CuVee",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CuVee_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "hipo_2016_lck",
+      "name": "Hipo",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hipo_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "mmd_2016_lms",
+      "name": "MMD",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MMD_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "ziv_2016_lms",
+      "name": "Ziv",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ziv_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "maplesnow_2016_lms",
+      "name": "MapleSnow",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MapleSnow_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "aj_2016_lms",
+      "name": "AJ",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AJ_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "gamsu_2016_eu lcs",
+      "name": "Gamsu",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gamsu_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "soaz_2016_eu lcs",
+      "name": "sOAZ",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sOAZ_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "steve_2016_eu lcs",
+      "name": "Steve",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steve_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2016)"
+    },
+    {
+      "id": "kikis_2016_eu lcs",
+      "name": "Kikis",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "odoamne_2016_eu lcs",
+      "name": "Odoamne",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "atom_2016_eu lcs",
+      "name": "Atom",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Atom_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "wunder_2016_eu lcs",
+      "name": "Wunder",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wunder_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "vizicsacsi_2016_eu lcs",
+      "name": "Vizicsacsi",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vizicsacsi_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "cabochard_2016_eu lcs",
+      "name": "Cabochard",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cabochard_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "fredy122_2016_eu lcs",
+      "name": "fredy122",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fredy122_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "soar_2016_lck",
+      "name": "SoaR",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoaR_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "smeb_2016_lck",
+      "name": "Smeb",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smeb_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "dreamsha_2016_lms",
+      "name": "DreamSha",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DreamSha_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "bobo_2016_lms",
+      "name": "BoBo",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BoBo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "poppy_2016_lms",
+      "name": "Poppy",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Poppy_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "morning_2016_lms",
+      "name": "Morning",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morning_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "hauntzer_2016_na lcs",
+      "name": "Hauntzer",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "darshan_2016_na lcs",
+      "name": "Darshan",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darshan_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2016)"
+    },
+    {
+      "id": "balis_2016_na lcs",
+      "name": "BalIs",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BalIs_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "huni_2016_na lcs",
+      "name": "Huni",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Immortals (2016)"
+    },
+    {
+      "id": "jaeger_2016_na lcs",
+      "name": "Jaeger",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jaeger_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "cris_2016_na lcs",
+      "name": "Cris",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cris_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "rf legendary_2016_na lcs",
+      "name": "RF Legendary",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RF Legendary_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "lourlo_2016_na lcs",
+      "name": "Lourlo",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lourlo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "kfo_2016_na lcs",
+      "name": "kfo",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kfo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "feng_2016_na lcs",
+      "name": "Feng",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Feng_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "impact_2016_na lcs",
+      "name": "Impact",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "2188_2016_lms",
+      "name": "2188",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/2188_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "nexus_2016_lms",
+      "name": "Nexus",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nexus_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "rins_2016_lms",
+      "name": "Rins",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rins_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "soul_2016_lck",
+      "name": "Soul",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soul_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "flame_2016_lck",
+      "name": "Flame",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flame_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "seraph_2016_na lcs",
+      "name": "SERAPH",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SERAPH_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "billyboss_2016_na lcs",
+      "name": "BillyBoss",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BillyBoss_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "solo_2016_na lcs",
+      "name": "Solo",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "gate_2016_na lcs",
+      "name": "Gate",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "xue_2016_lms",
+      "name": "XUE",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XUE_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "roach_2016_lck",
+      "name": "Roach",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roach_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "flaresz_2016_na lcs",
+      "name": "Flaresz",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flaresz_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "never_2016_lms",
+      "name": "Never",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Never_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "roach_2016_lck",
+      "name": "Roach",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roach_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "syuan_2016_lms",
+      "name": "Syuan",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Syuan_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "yue_2016_lms",
+      "name": "Yue",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yue_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "seraph_2016_na lcs",
+      "name": "SERAPH",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SERAPH_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "hipo_2016_lck",
+      "name": "Hipo",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hipo_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "jaeger_2016_eu lcs",
+      "name": "Jaeger",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jaeger_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "wickd_2016_eu lcs",
+      "name": "Wickd",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wickd_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2016)"
+    },
+    {
+      "id": "werlyb_2016_eu lcs",
+      "name": "Werlyb",
+      "team": "Huma",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Werlyb_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Huma (2016)"
+    },
+    {
+      "id": "flaresz_2016_na lcs",
+      "name": "Flaresz",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flaresz_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "rf legendary_2016_na lcs",
+      "name": "RF Legendary",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RF Legendary_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "cris_2016_na lcs",
+      "name": "Cris",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cris_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "crazy_2016_lck",
+      "name": "Crazy",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crazy_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "add_2016_lck",
+      "name": "ADD",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ADD_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "MVP (2016)"
+    },
+    {
+      "id": "yue_2016_lms",
+      "name": "Yue",
+      "team": "Taipei Berserkers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yue_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Berserkers (2016)"
+    },
+    {
+      "id": "coolg_2016_lms",
+      "name": "CoolG",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoolG_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "cyo_2016_lms",
+      "name": "Cyo",
+      "team": "Flash Husky",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cyo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Husky (2016)"
+    },
+    {
+      "id": "mouse_2016_lpl",
+      "name": "Mouse",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mouse_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "v_2016_lpl",
+      "name": "V",
+      "team": "Newbee",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/V_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Newbee (2016)"
+    },
+    {
+      "id": "flandre_2016_lpl",
+      "name": "Flandre",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flandre_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "gimgoon_2016_lpl",
+      "name": "GimGoon",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "looper_2016_lpl",
+      "name": "Looper",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Looper_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2016)"
+    },
+    {
+      "id": "957_2016_lpl",
+      "name": "957",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/957_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2016)"
+    },
+    {
+      "id": "xiyang_2016_lpl",
+      "name": "Xiyang",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiyang_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "amazingj_2016_lpl",
+      "name": "AmazingJ",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AmazingJ_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "acorn_2016_lpl",
+      "name": "Acorn",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Acorn_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "zz1tai_2016_lpl",
+      "name": "Zz1tai",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zz1tai_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "marin_2016_lpl",
+      "name": "MaRin",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaRin_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "loong_2016_lpl",
+      "name": "Loong",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loong_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "lindarang_2016_lck",
+      "name": "Lindarang",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lindarang_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "parang_2016_eu lcs",
+      "name": "Parang",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Parang_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "steve_2016_eu lcs",
+      "name": "Steve",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steve_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2016)"
+    },
+    {
+      "id": "seraph_2016_na lcs",
+      "name": "SERAPH",
+      "team": "Team EnVyUs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SERAPH_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team EnVyUs (2016)"
+    },
+    {
+      "id": "quas_2016_na lcs",
+      "name": "Quas",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quas_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "impact_2016_na lcs",
+      "name": "Impact",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "dshao_2016_na lcs",
+      "name": "dshao",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/dshao_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "ray_2016_na lcs",
+      "name": "Ray",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ray_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "morning_2016_lms",
+      "name": "Morning",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morning_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "J Team (2016)"
+    },
+    {
+      "id": "3z_2016_lms",
+      "name": "3z",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/3z_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "expect_2016_eu lcs",
+      "name": "Expect",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Expect_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "jinoo_2016_lpl",
+      "name": "Jinoo",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinoo_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "k_2016_lms",
+      "name": "K",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "brandini_2016_na lcs",
+      "name": "Brandini",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Brandini_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "rins_2016_lms",
+      "name": "Rins",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rins_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "mist_2016_lms",
+      "name": "Mist",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mist_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "shy_2016_lck",
+      "name": "Shy",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shy_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "save_2016_lpl",
+      "name": "Save",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Save_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "memory_2016_lpl",
+      "name": "Memory",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Memory_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "kikis_2016_eu lcs",
+      "name": "Kikis",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "part_2016_lck",
+      "name": "Part",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Part_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "helper_2016_lck",
+      "name": "Helper",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Helper_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "werlyb_2016_eu lcs",
+      "name": "Werlyb",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Werlyb_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "kaze_2016_eu lcs",
+      "name": "Kaze",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaze_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2016)"
+    },
+    {
+      "id": "solo_2016_na lcs",
+      "name": "Solo",
+      "team": "Team Liquid Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid Academy (2016)"
+    },
+    {
+      "id": "alphari_2016_eu lcs",
+      "name": "Alphari",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alphari_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "balis_2016_na lcs",
+      "name": "BalIs",
+      "team": "Cloud9 Challenger",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BalIs_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Challenger (2016)"
+    },
+    {
+      "id": "liang_2016_lms",
+      "name": "Liang",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Liang_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "clowz_2016_lpl",
+      "name": "Clowz",
+      "team": "Young Miracles",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clowz_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Young Miracles (2016)"
+    },
+    {
+      "id": "letme_2016_lpl",
+      "name": "Letme",
+      "team": "Royal Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Letme_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Club (2016)"
+    },
+    {
+      "id": "indra_2016_lms",
+      "name": "indra",
+      "team": "WingsOflibeRty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/indra_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "WingsOflibeRty (2016)"
+    },
+    {
+      "id": "bd_2016_lms",
+      "name": "BD",
+      "team": "NonHK",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BD_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "NonHK (2016)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "bubbling_2016_lck",
+      "name": "Bubbling",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bubbling_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "bengi_2016_lck",
+      "name": "Bengi",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bengi_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "lira_2016_lck",
+      "name": "Lira",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lira_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "score_2016_lck",
+      "name": "Score",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Score_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "chaser_2016_lck",
+      "name": "Chaser",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chaser_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "winged_2016_lck",
+      "name": "Winged",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Winged_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "ambition_2016_lck",
+      "name": "Ambition",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ambition_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "crush_2016_lck",
+      "name": "Crush",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crush_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "karsa_2016_lms",
+      "name": "Karsa",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karsa_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "mountain_2016_lms",
+      "name": "Mountain",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mountain_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "dinter_2016_lms",
+      "name": "DinTer",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DinTer_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "spear_2016_lms",
+      "name": "SpeaR",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SpeaR_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "spirit_2016_eu lcs",
+      "name": "Spirit",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spirit_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "amazing_2016_eu lcs",
+      "name": "Amazing",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Amazing_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "gilius_2016_eu lcs",
+      "name": "Gilius",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2016)"
+    },
+    {
+      "id": "trick_2016_eu lcs",
+      "name": "Trick",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "jankos_2016_eu lcs",
+      "name": "Jankos",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "k0u_2016_eu lcs",
+      "name": "k0u",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/k0u_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "kold_2016_eu lcs",
+      "name": "Kold",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kold_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "diamondprox_2016_eu lcs",
+      "name": "Diamondprox",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diamondprox_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "shook_2016_eu lcs",
+      "name": "Shook",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "airwaks_2016_eu lcs",
+      "name": "Airwaks",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Airwaks_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "flawless_2016_lck",
+      "name": "Flawless",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flawless_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "peanut_2016_lck",
+      "name": "Peanut",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "wulala_2016_lms",
+      "name": "Wulala",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wulala_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "taizan_2016_lms",
+      "name": "Taizan",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taizan_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "blank_2016_lck",
+      "name": "Blank",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blank_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "yo_2016_lms",
+      "name": "yo",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/yo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "refra1n_2016_lms",
+      "name": "REFRA1N",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/REFRA1N_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "svenskeren_2016_na lcs",
+      "name": "Svenskeren",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Svenskeren_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "xmithie_2016_na lcs",
+      "name": "Xmithie",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2016)"
+    },
+    {
+      "id": "rush_2016_na lcs",
+      "name": "Rush",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rush_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "reignover_2016_na lcs",
+      "name": "Reignover",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Immortals (2016)"
+    },
+    {
+      "id": "kirei_2016_na lcs",
+      "name": "Kirei",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kirei_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "shrimp_2016_na lcs",
+      "name": "Shrimp",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shrimp_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "crumbz_2016_na lcs",
+      "name": "Crumbz",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crumbz_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "iwdominate_2016_na lcs",
+      "name": "IWDominate",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IWDominate_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "hard_2016_na lcs",
+      "name": "Hard",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hard_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "beibei_2016_na lcs",
+      "name": "beibei",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/beibei_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "galen_2016_na lcs",
+      "name": "Galen",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Galen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "dardoch_2016_na lcs",
+      "name": "Dardoch",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dardoch_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "armao_2016_na lcs",
+      "name": "Armao",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Armao_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "procxin_2016_na lcs",
+      "name": "Procxin",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Procxin_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "betongjocke_2016_eu lcs",
+      "name": "betongJocke",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/betongJocke_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "djoko_2016_eu lcs",
+      "name": "Djoko",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Djoko_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "crash_2016_lck",
+      "name": "Crash",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crash_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "mirror_2016_eu lcs",
+      "name": "Mirror",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mirror_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "crush_2016_lck",
+      "name": "Crush",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crush_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "loulex_2016_eu lcs",
+      "name": "Loulex",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loulex_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "wisdom_2016_eu lcs",
+      "name": "Wisdom",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wisdom_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "k0u_2016_eu lcs",
+      "name": "k0u",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/k0u_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2016)"
+    },
+    {
+      "id": "mirror_2016_eu lcs",
+      "name": "Mirror",
+      "team": "Huma",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mirror_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Huma (2016)"
+    },
+    {
+      "id": "achie_2016_lms",
+      "name": "Achie",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Achie_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "kez_2016_na lcs",
+      "name": "Kez",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "eve_2016_na lcs",
+      "name": "Eve",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eve_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "shrimp_2016_na lcs",
+      "name": "Shrimp",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shrimp_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "bless_2016_lck",
+      "name": "Bless",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bless_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "beyond_2016_lck",
+      "name": "Beyond",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Beyond_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "MVP (2016)"
+    },
+    {
+      "id": "laba_2016_lms",
+      "name": "Laba",
+      "team": "Taipei Berserkers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Laba_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Berserkers (2016)"
+    },
+    {
+      "id": "kawa_2016_lms",
+      "name": "Kawa",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kawa_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "betty_2016_lms",
+      "name": "Betty",
+      "team": "Flash Husky",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betty_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Husky (2016)"
+    },
+    {
+      "id": "haru_2016_lck",
+      "name": "Haru",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haru_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "clearlove_2016_lpl",
+      "name": "Clearlove",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clearlove_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "swift_2016_lpl",
+      "name": "Swift",
+      "team": "Newbee",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Swift_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Newbee (2016)"
+    },
+    {
+      "id": "zzr_2016_lpl",
+      "name": "Zzr",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zzr_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "wushuang_2016_lpl",
+      "name": "WuShuang",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WuShuang_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "mlxg_2016_lpl",
+      "name": "Mlxg",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mlxg_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2016)"
+    },
+    {
+      "id": "condi_2016_lpl",
+      "name": "Condi",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Condi_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2016)"
+    },
+    {
+      "id": "world6_2016_lpl",
+      "name": "World6",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/World6_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "avoidless_2016_lpl",
+      "name": "Avoidless",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Avoidless_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "fireloli_2016_lpl",
+      "name": "Fireloli",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fireloli_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "deemo_2016_lpl",
+      "name": "Deemo",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deemo_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "kid_2016_lpl",
+      "name": "Kid",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kid_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "eimy_2016_lpl",
+      "name": "eimy",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/eimy_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "dandy_2016_lpl",
+      "name": "DanDy",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DanDy_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "seonghwan_2016_lck",
+      "name": "SeongHwan",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SeongHwan_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "mightybear_2016_eu lcs",
+      "name": "Mightybear",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mightybear_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "gilius_2016_eu lcs",
+      "name": "Gilius",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2016)"
+    },
+    {
+      "id": "move_2016_eu lcs",
+      "name": "Move",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Move_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "maxlore_2016_eu lcs",
+      "name": "Maxlore",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maxlore_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "captain_2016_lpl",
+      "name": "Captain",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Captain_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "procxin_2016_na lcs",
+      "name": "Procxin",
+      "team": "Team EnVyUs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Procxin_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team EnVyUs (2016)"
+    },
+    {
+      "id": "santorin_2016_na lcs",
+      "name": "Santorin",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "juejue_2016_lpl",
+      "name": "Juejue",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Juejue_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "meteos_2016_na lcs",
+      "name": "Meteos",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "zentinel_2016_na lcs",
+      "name": "Zentinel",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zentinel_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "galen_2016_na lcs",
+      "name": "Galen",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Galen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "sofm_2016_lpl",
+      "name": "SofM",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SofM_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "refra1n_2016_lms",
+      "name": "REFRA1N",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/REFRA1N_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "J Team (2016)"
+    },
+    {
+      "id": "benny_2016_lms",
+      "name": "Benny",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Benny_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "k_2016_lms",
+      "name": "K",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "inori_2016_na lcs",
+      "name": "Inori",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Inori_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "wind_2016_lms",
+      "name": "Wind",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wind_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "1ntruder_2016_lpl",
+      "name": "1ntruder",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/1ntruder_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "baybay_2016_lms",
+      "name": "baybay",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/baybay_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "kez_2016_na lcs",
+      "name": "Kez",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kez_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "memento_2016_eu lcs",
+      "name": "Memento",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Memento_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "chimin_2016_lpl",
+      "name": "chimin",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/chimin_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "djoko_2016_eu lcs",
+      "name": "Djoko",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Djoko_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2016)"
+    },
+    {
+      "id": "galen_2016_na lcs",
+      "name": "Galen",
+      "team": "Team Liquid Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Galen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid Academy (2016)"
+    },
+    {
+      "id": "kawa_2016_lms",
+      "name": "Kawa",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kawa_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "lamabear_2016_eu lcs",
+      "name": "Lamabear",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lamabear_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "contractz_2016_na lcs",
+      "name": "Contractz",
+      "team": "Cloud9 Challenger",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Contractz_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Challenger (2016)"
+    },
+    {
+      "id": "wisdom_2016_eu lcs",
+      "name": "Wisdom",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wisdom_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "marilyn_2016_lpl",
+      "name": "marilyn",
+      "team": "Young Miracles",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/marilyn_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Young Miracles (2016)"
+    },
+    {
+      "id": "insec_2016_lpl",
+      "name": "inSec",
+      "team": "Royal Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/inSec_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Club (2016)"
+    },
+    {
+      "id": "ares_2016_lck",
+      "name": "Ares",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ares_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "punch_2016_lck",
+      "name": "Punch",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Punch_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "arcsecond_2016_lcs",
+      "name": "Arcsecond",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Arcsecond_profileicon.png",
+      "years": "2016",
+      "league": "LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "hibon_2016_lms",
+      "name": "Hibon",
+      "team": "WingsOflibeRty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hibon_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "WingsOflibeRty (2016)"
+    },
+    {
+      "id": "gemini_2016_lms",
+      "name": "Gemini",
+      "team": "NonHK",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gemini_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "NonHK (2016)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "sky_2016_lck",
+      "name": "Sky",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sky_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "faker_2016_lck",
+      "name": "Faker",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faker_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "mickey_2016_lck",
+      "name": "Mickey",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mickey_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "fly_2016_lck",
+      "name": "Fly",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "coco_2016_lck",
+      "name": "Coco",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Coco_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "kuzan_2016_lck",
+      "name": "Kuzan",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuzan_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "crown_2016_lck",
+      "name": "Crown",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "edge_2016_lck",
+      "name": "Edge",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edge_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "maple_2016_lms",
+      "name": "Maple",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maple_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "chawy_2016_lms",
+      "name": "Chawy",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chawy_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "westdoor_2016_lms",
+      "name": "Westdoor",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westdoor_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "chillyz_2016_lms",
+      "name": "Chillyz",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chillyz_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "kuku_2016_lms",
+      "name": "KuKu",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KuKu_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "febiven_2016_eu lcs",
+      "name": "FEBIVEN",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "powerofevil_2016_eu lcs",
+      "name": "PowerOfEvil",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PowerOfEvil_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "eika_2016_eu lcs",
+      "name": "Eika",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Eika_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2016)"
+    },
+    {
+      "id": "perkz_2016_eu lcs",
+      "name": "Perkz",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "ryu_2016_eu lcs",
+      "name": "Ryu",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryu_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "ptt_2016_eu lcs",
+      "name": "ptt",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ptt_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "sencux_2016_eu lcs",
+      "name": "Sencux",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sencux_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "fox_2016_eu lcs",
+      "name": "Fox",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fox_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "nukeduck_2016_eu lcs",
+      "name": "Nukeduck",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "betsy_2016_eu lcs",
+      "name": "Betsy",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betsy_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "sasin_2016_lck",
+      "name": "SaSin",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SaSin_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "kuro_2016_lck",
+      "name": "Kuro",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuro_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "mission_2016_lms",
+      "name": "Mission",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mission_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "apex_2016_lms",
+      "name": "Apex",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apex_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "scout_2016_lck",
+      "name": "Scout",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "wako_2016_lms",
+      "name": "Wako",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wako_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "fofo_2016_lms",
+      "name": "FoFo",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FoFo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "bjergsen_2016_na lcs",
+      "name": "Bjergsen",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "huhi_2016_na lcs",
+      "name": "huhi",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2016)"
+    },
+    {
+      "id": "jensen_2016_na lcs",
+      "name": "Jensen",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "pobelter_2016_na lcs",
+      "name": "Pobelter",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Immortals (2016)"
+    },
+    {
+      "id": "shiphtur_2016_na lcs",
+      "name": "Shiphtur",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shiphtur_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "gbm_2016_na lcs",
+      "name": "GBM",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GBM_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "alex ich_2016_na lcs",
+      "name": "Alex Ich",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex Ich_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "fenix_2016_na lcs",
+      "name": "Fenix",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenix_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "froggen_2016_na lcs",
+      "name": "Froggen",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Froggen_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "gate_2016_na lcs",
+      "name": "Gate",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "rokenia_2016_lms",
+      "name": "Rokenia",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rokenia_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "goldenglue_2016_na lcs",
+      "name": "Goldenglue",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "pirean_2016_na lcs",
+      "name": "Pirean",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pirean_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "nulu_2016_eu lcs",
+      "name": "Nulu",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "frozen_2016_lck",
+      "name": "Frozen",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Frozen_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "edge_2016_lck",
+      "name": "Edge",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edge_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "bdd_2016_lck",
+      "name": "Bdd",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bdd_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "xpeke_2016_eu lcs",
+      "name": "xPeke",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xPeke_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "ninja_2016_na lcs",
+      "name": "Ninja",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ninja_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "shengbai_2016_lms",
+      "name": "ShengBai",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShengBai_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "caedrel_2016_eu lcs",
+      "name": "Caedrel",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caedrel_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2016)"
+    },
+    {
+      "id": "godbro_2016_eu lcs",
+      "name": "Godbro",
+      "team": "Huma",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Godbro_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Huma (2016)"
+    },
+    {
+      "id": "alex ich_2016_na lcs",
+      "name": "Alex Ich",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex Ich_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "keane_2016_na lcs",
+      "name": "Keane",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keane_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "tempt_2016_lck",
+      "name": "Tempt",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tempt_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "ian_2016_lck",
+      "name": "Ian",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ian_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "MVP (2016)"
+    },
+    {
+      "id": "fish_2016_lms",
+      "name": "Fish",
+      "team": "Taipei Berserkers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fish_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Berserkers (2016)"
+    },
+    {
+      "id": "siusiu_2016_lms",
+      "name": "SIUSIU",
+      "team": "Flash Husky",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SIUSIU_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Husky (2016)"
+    },
+    {
+      "id": "scout_2016_lpl",
+      "name": "Scout",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "dade_2016_lpl",
+      "name": "dade",
+      "team": "Newbee",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/dade_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Newbee (2016)"
+    },
+    {
+      "id": "zet_2016_lck",
+      "name": "Zet",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zet_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "tank_2016_lpl",
+      "name": "Tank",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tank_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "grail_2016_lpl",
+      "name": "Grail",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Grail_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "xiaohu_2016_lpl",
+      "name": "Xiaohu",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohu_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2016)"
+    },
+    {
+      "id": "xiye_2016_lpl",
+      "name": "xiye",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiye_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2016)"
+    },
+    {
+      "id": "cool_2016_lpl",
+      "name": "Cool",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cool_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "athena_2016_lpl",
+      "name": "Athena",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Athena_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "baeme_2016_lpl",
+      "name": "BaeMe",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BaeMe_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "blanc_2016_lck",
+      "name": "Blanc",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blanc_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "snoopy_2016_lpl",
+      "name": "Snoopy",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Snoopy_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "rookie_2016_lpl",
+      "name": "Rookie",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "funny_2016_lpl",
+      "name": "Funny",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Funny_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "easyhoon_2016_lpl",
+      "name": "Easyhoon",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Easyhoon_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "fox_2016_eu lcs",
+      "name": "Fox",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fox_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2016)"
+    },
+    {
+      "id": "exile_2016_eu lcs",
+      "name": "Exile",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Exile_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "night_2016_eu lcs",
+      "name": "NighT",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NighT_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "otto_2016_lpl",
+      "name": "OTTO",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/OTTO_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "ninja_2016_na lcs",
+      "name": "Ninja",
+      "team": "Team EnVyUs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ninja_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team EnVyUs (2016)"
+    },
+    {
+      "id": "icon_2016_lpl",
+      "name": "ICON",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ICON_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "pirean_2016_na lcs",
+      "name": "Pirean",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pirean_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "slooshi_2016_na lcs",
+      "name": "Slooshi",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Slooshi_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "fofo_2016_lms",
+      "name": "FoFo",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FoFo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "J Team (2016)"
+    },
+    {
+      "id": "gear_2016_lms",
+      "name": "Gear",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gear_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "siusiu_2016_lms",
+      "name": "SIUSIU",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SIUSIU_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "zz1tai_2016_lpl",
+      "name": "Zz1tai",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zz1tai_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "pawn_2016_lpl",
+      "name": "PawN",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PawN_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "bobo_2016_lms",
+      "name": "BoBo",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BoBo_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "k_2016_lms",
+      "name": "K",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "godv_2016_lpl",
+      "name": "GodV",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodV_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "pasa_2016_lms",
+      "name": "pasa",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pasa_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "prettygre_2016_eu lcs",
+      "name": "PrettyGRE",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PrettyGRE_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2016)"
+    },
+    {
+      "id": "goldenglue_2016_na lcs",
+      "name": "Goldenglue",
+      "team": "Team Liquid Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid Academy (2016)"
+    },
+    {
+      "id": "nulu_2016_eu lcs",
+      "name": "Nulu",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "hai_2016_na lcs",
+      "name": "Hai",
+      "team": "Cloud9 Challenger",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Challenger (2016)"
+    },
+    {
+      "id": "viper_2016_lpl",
+      "name": "Viper",
+      "team": "Young Miracles",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Young Miracles (2016)"
+    },
+    {
+      "id": "corn_2016_lpl",
+      "name": "Corn",
+      "team": "Royal Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Corn_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Club (2016)"
+    },
+    {
+      "id": "cdd_2016_lms",
+      "name": "CDD",
+      "team": "WingsOflibeRty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CDD_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "WingsOflibeRty (2016)"
+    },
+    {
+      "id": "unified_2016_lms",
+      "name": "Unified",
+      "team": "NonHK",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unified_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "NonHK (2016)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "kramer_2016_lck",
+      "name": "Kramer",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kramer_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "bang_2016_lck",
+      "name": "Bang",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bang_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "sangyoon_2016_lck",
+      "name": "Sangyoon",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sangyoon_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "arrow_2016_lck",
+      "name": "Arrow",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Arrow_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "cpt jack_2016_lck",
+      "name": "Cpt Jack",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cpt Jack_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "pilot_2016_lck",
+      "name": "Pilot",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pilot_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "corejj_2016_lck",
+      "name": "CoreJJ",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "ssol_2016_lck",
+      "name": "Ssol",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssol_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "breeze_2016_lms",
+      "name": "Breeze",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breeze_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "an_2016_lms",
+      "name": "An",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/An_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "godkwai_2016_lms",
+      "name": "GodKwai",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodKwai_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "rabi2_2016_lms",
+      "name": "Rabi2",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rabi2_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "rekkles_2016_eu lcs",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "zven_2016_eu lcs",
+      "name": "Zven",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "mrrallez_2016_eu lcs",
+      "name": "MrRallez",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MrRallez_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2016)"
+    },
+    {
+      "id": "emperor_2016_eu lcs",
+      "name": "Emperor",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Emperor_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "forg1ven_2016_eu lcs",
+      "name": "FORG1VEN",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "adryh_2016_eu lcs",
+      "name": "Adryh",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adryh_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "kobbe_2016_eu lcs",
+      "name": "Kobbe",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kobbe_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "steeelback_2016_eu lcs",
+      "name": "Steeelback",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "hjarnan_2016_eu lcs",
+      "name": "Hjarnan",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hjarnan_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "safir_2016_eu lcs",
+      "name": "Safir",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Safir_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "nuclear_2016_lck",
+      "name": "Nuclear",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuclear_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "pray_2016_lck",
+      "name": "PraY",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PraY_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "payne_2016_lms",
+      "name": "Payne",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Payne_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "dee_2016_lms",
+      "name": "Dee",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dee_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "stitch_2016_lck",
+      "name": "Stitch",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stitch_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "lbb_2016_lms",
+      "name": "LBB",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LBB_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "bebe_2016_lms",
+      "name": "BeBe",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BeBe_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "doublelift_2016_na lcs",
+      "name": "Doublelift",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "stixxay_2016_na lcs",
+      "name": "Stixxay",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stixxay_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2016)"
+    },
+    {
+      "id": "sneaky_2016_na lcs",
+      "name": "Sneaky",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sneaky_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "wildturtle_2016_na lcs",
+      "name": "WildTurtle",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Immortals (2016)"
+    },
+    {
+      "id": "apollo_2016_na lcs",
+      "name": "Apollo",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "altec_2016_na lcs",
+      "name": "Altec",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "freeze_2016_na lcs",
+      "name": "Freeze",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Freeze_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "piglet_2016_na lcs",
+      "name": "Piglet",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "keith_2016_na lcs",
+      "name": "Keith",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "mash_2016_na lcs",
+      "name": "Mash",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mash_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "nl_2016_lms",
+      "name": "NL",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NL_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "b3nji_2016_na lcs",
+      "name": "B3nji",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/B3nji_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "corgi_2016_lms",
+      "name": "CorGi",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CorGi_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "rd_2016_lms",
+      "name": "RD",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RD_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "ohq_2016_na lcs",
+      "name": "Ohq",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ohq_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "lilv_2016_lms",
+      "name": "Lilv",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lilv_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "tabzz_2016_eu lcs",
+      "name": "Tabzz",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tabzz_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "b3nji_2016_na lcs",
+      "name": "B3nji",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/B3nji_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "ssol_2016_lck",
+      "name": "Ssol",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssol_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "b3nji_2016_na lcs",
+      "name": "B3nji",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/B3nji_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "fury_2016_lck",
+      "name": "Fury",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fury_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "sonstar_2016_eu lcs",
+      "name": "Sonstar",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sonstar_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "never_2016_lms",
+      "name": "Never",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Never_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "p1noy_2016_eu lcs",
+      "name": "P1noy",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/P1noy_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2016)"
+    },
+    {
+      "id": "holyphoenix_2016_eu lcs",
+      "name": "HolyPhoenix",
+      "team": "Huma",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HolyPhoenix_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Huma (2016)"
+    },
+    {
+      "id": "ohq_2016_na lcs",
+      "name": "Ohq",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ohq_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "police_2016_na lcs",
+      "name": "Police",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Police_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "loken_2016_lck",
+      "name": "LokeN",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LokeN_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "maha_2016_lck",
+      "name": "MaHa",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaHa_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "MVP (2016)"
+    },
+    {
+      "id": "lilv_2016_lms",
+      "name": "Lilv",
+      "team": "Taipei Berserkers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lilv_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Berserkers (2016)"
+    },
+    {
+      "id": "kane_2016_lms",
+      "name": "kane",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kane_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "breeze_2016_lms",
+      "name": "Breeze",
+      "team": "Flash Husky",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breeze_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Husky (2016)"
+    },
+    {
+      "id": "deft_2016_lpl",
+      "name": "Deft",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deft_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "happy_2016_lpl",
+      "name": "Happy",
+      "team": "Newbee",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Happy_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Newbee (2016)"
+    },
+    {
+      "id": "ruler_2016_lck",
+      "name": "Ruler",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "kryst4l_2016_lpl",
+      "name": "kRYST4L",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kRYST4L_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "pentaq_2016_lpl",
+      "name": "PentaQ",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PentaQ_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "uzi_2016_lpl",
+      "name": "Uzi",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Uzi_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2016)"
+    },
+    {
+      "id": "mystic_2016_lpl",
+      "name": "Mystic",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mystic_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2016)"
+    },
+    {
+      "id": "smlz_2016_lpl",
+      "name": "Smlz",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smlz_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "jinjiao_2016_lpl",
+      "name": "Jinjiao",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinjiao_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "emperor_2016_lck",
+      "name": "Emperor",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Emperor_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "xq_2016_lpl",
+      "name": "xQ",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xQ_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "rain_2016_lpl",
+      "name": "Rain",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rain_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "imp_2016_lpl",
+      "name": "imp",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "endless_2016_lpl",
+      "name": "Endless",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Endless_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "xuanxuanpi_2016_lpl",
+      "name": "XuanXuanPi",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XuanXuanPi_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "forg1ven_2016_eu lcs",
+      "name": "FORG1VEN",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FORG1VEN_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "zven_2016_eu lcs",
+      "name": "Zven",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "freeze_2016_eu lcs",
+      "name": "Freeze",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Freeze_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "steeelback_2016_eu lcs",
+      "name": "Steeelback",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "police_2016_eu lcs",
+      "name": "Police",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Police_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "mrrallez_2016_eu lcs",
+      "name": "MrRallez",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MrRallez_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2016)"
+    },
+    {
+      "id": "veritas_2016_eu lcs",
+      "name": "Veritas",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Veritas_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "styz_2016_lpl",
+      "name": "Styz",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Styz_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "b3nji_2016_na lcs",
+      "name": "B3nji",
+      "team": "Team EnVyUs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/B3nji_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team EnVyUs (2016)"
+    },
+    {
+      "id": "ohq_2016_na lcs",
+      "name": "Ohq",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ohq_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "mash_2016_na lcs",
+      "name": "Mash",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mash_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "apollo_2016_na lcs",
+      "name": "Apollo",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "martin_2016_lpl",
+      "name": "Martin",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Martin_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "bebe_2016_lms",
+      "name": "BeBe",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BeBe_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "J Team (2016)"
+    },
+    {
+      "id": "breaker_2016_lms",
+      "name": "Breaker",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breaker_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "reje_2016_eu lcs",
+      "name": "reje",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/reje_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "xpeke_2016_eu lcs",
+      "name": "xPeke",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xPeke_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "raison_2016_lms",
+      "name": "Raison",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raison_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "breeze_2016_lms",
+      "name": "Breeze",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breeze_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "slooshi_2016_na lcs",
+      "name": "Slooshi",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Slooshi_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "x41007_2016_lpl",
+      "name": "X41007",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/X41007_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "fabbbyyy_2016_na lcs",
+      "name": "fabbbyyy",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fabbbyyy_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "ghost_2016_lck",
+      "name": "Ghost",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ghost_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "rookie_2016_lpl",
+      "name": "Rookie",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "marge_2016_lpl",
+      "name": "Marge",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Marge_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "toaster_2016_eu lcs",
+      "name": "Toaster",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Toaster_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "tabzz_2016_eu lcs",
+      "name": "Tabzz",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tabzz_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2016)"
+    },
+    {
+      "id": "piglet_2016_na lcs",
+      "name": "Piglet",
+      "team": "Team Liquid Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid Academy (2016)"
+    },
+    {
+      "id": "hans sama_2016_eu lcs",
+      "name": "Hans Sama",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hans Sama_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "altec_2016_na lcs",
+      "name": "Altec",
+      "team": "Cloud9 Challenger",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Challenger (2016)"
+    },
+    {
+      "id": "ning_2016_lpl",
+      "name": "Ning",
+      "team": "Young Miracles",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ning_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Young Miracles (2016)"
+    },
+    {
+      "id": "bvoy_2016_lpl",
+      "name": "Bvoy",
+      "team": "Royal Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bvoy_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Club (2016)"
+    },
+    {
+      "id": "jynthe_2016_na lcs",
+      "name": "Jynthe",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jynthe_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "dandan_2016_lms",
+      "name": "DanDan",
+      "team": "WingsOflibeRty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DanDan_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "WingsOflibeRty (2016)"
+    },
+    {
+      "id": "godkwai_2016_lms",
+      "name": "GodKwai",
+      "team": "NonHK",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GodKwai_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "NonHK (2016)"
+    }
+  ],
+  "support": [
+    {
+      "id": "madlife_2016_lck",
+      "name": "MadLife",
+      "team": "CJ Entus",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MadLife_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "CJ Entus (2016)"
+    },
+    {
+      "id": "wolf_2016_lck",
+      "name": "Wolf",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wolf_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2016)"
+    },
+    {
+      "id": "snowflower_2016_lck",
+      "name": "SnowFlower",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SnowFlower_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2016)"
+    },
+    {
+      "id": "hachani_2016_lck",
+      "name": "Hachani",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hachani_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "pure_2016_lck",
+      "name": "Pure",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pure_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "chei_2016_lck",
+      "name": "Chei",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chei_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "wraith_2016_lck",
+      "name": "Wraith",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wraith_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "guger_2016_lck",
+      "name": "GuGer",
+      "team": "e-mFire",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GuGer_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "e-mFire (2016)"
+    },
+    {
+      "id": "swordart_2016_lms",
+      "name": "SwordArt",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2016)"
+    },
+    {
+      "id": "albis_2016_lms",
+      "name": "Albis",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Albis_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2016)"
+    },
+    {
+      "id": "olleh_2016_lms",
+      "name": "Olleh",
+      "team": "Hong Kong Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Esports (2016)"
+    },
+    {
+      "id": "never_2016_lms",
+      "name": "Never",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Never_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "noxiak_2016_eu lcs",
+      "name": "Noxiak",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Noxiak_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "mithy_2016_eu lcs",
+      "name": "Mithy",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mithy_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "promisq_2016_eu lcs",
+      "name": "promisq",
+      "team": "Elements",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/promisq_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Elements (2016)"
+    },
+    {
+      "id": "hybrid_2016_eu lcs",
+      "name": "Hybrid",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hybrid_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "vander_2016_eu lcs",
+      "name": "Vander",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2016)"
+    },
+    {
+      "id": "g0dfred_2016_eu lcs",
+      "name": "G0DFRED",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/G0DFRED_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "nisbeth_2016_eu lcs",
+      "name": "Nisbeth",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nisbeth_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "hylissang_2016_eu lcs",
+      "name": "Hylissang",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2016)"
+    },
+    {
+      "id": "kasing_2016_eu lcs",
+      "name": "Kasing",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kasing_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2016)"
+    },
+    {
+      "id": "edward_2016_eu lcs",
+      "name": "Edward",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edward_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "secret_2016_lck",
+      "name": "Secret",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Secret_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "gorilla_2016_lck",
+      "name": "GorillA",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GorillA_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2016)"
+    },
+    {
+      "id": "skull_2016_lms",
+      "name": "SkuLL",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SkuLL_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "dreamer_2016_lms",
+      "name": "Dreamer",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dreamer_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2016)"
+    },
+    {
+      "id": "zest_2016_lms",
+      "name": "Zest",
+      "team": "XGamers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zest_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "XGamers (2016)"
+    },
+    {
+      "id": "chieh_2016_lms",
+      "name": "Chieh",
+      "team": "Taipei Assassins",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chieh_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Assassins (2016)"
+    },
+    {
+      "id": "yellowstar_2016_na lcs",
+      "name": "YellOwStaR",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YellOwStaR_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "aphromoo_2016_na lcs",
+      "name": "aphromoo",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2016)"
+    },
+    {
+      "id": "bunny fufuu_2016_na lcs",
+      "name": "Bunny FuFuu",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bunny FuFuu_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "adrian_2016_na lcs",
+      "name": "Adrian",
+      "team": "Immortals",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adrian_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Immortals (2016)"
+    },
+    {
+      "id": "kiwikid_2016_na lcs",
+      "name": "KiWiKiD",
+      "team": "Dignitas",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KiWiKiD_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Dignitas (2016)"
+    },
+    {
+      "id": "kwon_2016_na lcs",
+      "name": "Kwon",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kwon_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "remilia_2016_na lcs",
+      "name": "Remilia",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Remilia_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "smoothie_2016_na lcs",
+      "name": "Smoothie",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "big_2016_na lcs",
+      "name": "Big",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Big_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "ken_2016_na lcs",
+      "name": "Ken",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ken_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "matt elento_2016_na lcs",
+      "name": "Matt Elento",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Matt Elento_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2016)"
+    },
+    {
+      "id": "hai_2016_na lcs",
+      "name": "Hai",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "kaiwing_2016_lms",
+      "name": "Kaiwing",
+      "team": "Midnight Sun Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaiwing_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Midnight Sun Esports (2016)"
+    },
+    {
+      "id": "extinkt_2016_eu lcs",
+      "name": "extinkt",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/extinkt_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "gate_2016_na lcs",
+      "name": "Gate",
+      "team": "Team Impulse",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Impulse (2016)"
+    },
+    {
+      "id": "ignar_2016_lck",
+      "name": "IgNar",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2016)"
+    },
+    {
+      "id": "fongxiang_2016_lms",
+      "name": "FongXiang",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FongXiang_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "hakuho_2016_na lcs",
+      "name": "Hakuho",
+      "team": "Renegades",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hakuho_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Renegades (2016)"
+    },
+    {
+      "id": "stunt_2016_na lcs",
+      "name": "Stunt",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stunt_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2016)"
+    },
+    {
+      "id": "klaj_2016_eu lcs",
+      "name": "Klaj",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Klaj_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "guger_2016_lck",
+      "name": "GuGer",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GuGer_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2016)"
+    },
+    {
+      "id": "melon_2016_lms",
+      "name": "Melon",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Melon_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "noxiak_2016_eu lcs",
+      "name": "Noxiak",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Noxiak_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "zzus_2016_lck",
+      "name": "Zzus",
+      "team": "Longzhu Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zzus_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Longzhu Gaming (2016)"
+    },
+    {
+      "id": "rabi2_2016_lms",
+      "name": "Rabi2",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rabi2_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "hustlin_2016_eu lcs",
+      "name": "Hustlin",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hustlin_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2016)"
+    },
+    {
+      "id": "nukes_2016_eu lcs",
+      "name": "Nukes",
+      "team": "Copenhagen Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukes_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Copenhagen Wolves (2016)"
+    },
+    {
+      "id": "kaas_2016_eu lcs",
+      "name": "Kaas",
+      "team": "Huma",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaas_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Huma (2016)"
+    },
+    {
+      "id": "trance_2016_na lcs",
+      "name": "Trance",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trance_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "bischu_2016_na lcs",
+      "name": "Bischu",
+      "team": "Team Dragon Knights",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bischu_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Dragon Knights (2016)"
+    },
+    {
+      "id": "xpecial_2016_na lcs",
+      "name": "Xpecial",
+      "team": "Apex Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xpecial_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Apex Gaming (2016)"
+    },
+    {
+      "id": "key_2016_lck",
+      "name": "Key",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Key_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "max_2016_lck",
+      "name": "Max",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Max_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "MVP (2016)"
+    },
+    {
+      "id": "koala_2016_lms",
+      "name": "Koala",
+      "team": "Taipei Berserkers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Koala_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Taipei Berserkers (2016)"
+    },
+    {
+      "id": "skywalk_2016_lms",
+      "name": "Skywalk",
+      "team": "Cougar E-Sport",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Skywalk_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Cougar E-Sport (2016)"
+    },
+    {
+      "id": "rain_2016_lms",
+      "name": "Rain",
+      "team": "Flash Husky",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rain_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Flash Husky (2016)"
+    },
+    {
+      "id": "meiko_2016_lpl",
+      "name": "Meiko",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meiko_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2016)"
+    },
+    {
+      "id": "mor_2016_lpl",
+      "name": "Mor",
+      "team": "Newbee",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mor_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Newbee (2016)"
+    },
+    {
+      "id": "jiezou_2016_lpl",
+      "name": "JieZou",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JieZou_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "savoki_2016_lpl",
+      "name": "Savoki",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Savoki_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "mata_2016_lpl",
+      "name": "Mata",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mata_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2016)"
+    },
+    {
+      "id": "zero_2016_lpl",
+      "name": "zero",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/zero_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2016)"
+    },
+    {
+      "id": "cold_2016_lpl",
+      "name": "COLD",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/COLD_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "road_2016_lpl",
+      "name": "Road",
+      "team": "I May",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Road_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "I May (2016)"
+    },
+    {
+      "id": "ella_2016_lpl",
+      "name": "Ella",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ella_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2016)"
+    },
+    {
+      "id": "x1u_2016_lpl",
+      "name": "x1u",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/x1u_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "tabe_2016_lpl",
+      "name": "Tabe",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tabe_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "yu_2016_lpl",
+      "name": "Yu",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yu_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "duan_2016_lpl",
+      "name": "Duan",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duan_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2016)"
+    },
+    {
+      "id": "totoro_2016_lck",
+      "name": "Totoro",
+      "team": "ESC Ever",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Totoro_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "ESC Ever (2016)"
+    },
+    {
+      "id": "hybrid_2016_eu lcs",
+      "name": "Hybrid",
+      "team": "Origen",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hybrid_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Origen (2016)"
+    },
+    {
+      "id": "mithy_2016_eu lcs",
+      "name": "Mithy",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mithy_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2016)"
+    },
+    {
+      "id": "raise_2016_eu lcs",
+      "name": "Raise",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raise_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2016)"
+    },
+    {
+      "id": "mikyx_2016_eu lcs",
+      "name": "Mikyx",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mikyx_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2016)"
+    },
+    {
+      "id": "promisq_2016_eu lcs",
+      "name": "promisq",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/promisq_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2016)"
+    },
+    {
+      "id": "yellowstar_2016_eu lcs",
+      "name": "YellOwStaR",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YellOwStaR_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2016)"
+    },
+    {
+      "id": "biofrost_2016_na lcs",
+      "name": "Biofrost",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biofrost_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2016)"
+    },
+    {
+      "id": "hakuho_2016_na lcs",
+      "name": "Hakuho",
+      "team": "Team EnVyUs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hakuho_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team EnVyUs (2016)"
+    },
+    {
+      "id": "kiwikid_2016_na lcs",
+      "name": "KiWiKiD",
+      "team": "NRG Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KiWiKiD_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "NRG Kia (2016)"
+    },
+    {
+      "id": "gate_2016_na lcs",
+      "name": "Gate",
+      "team": "Phoenix1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Phoenix1 (2016)"
+    },
+    {
+      "id": "smoothie_2016_na lcs",
+      "name": "Smoothie",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2016)"
+    },
+    {
+      "id": "chieh_2016_lms",
+      "name": "Chieh",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chieh_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "J Team (2016)"
+    },
+    {
+      "id": "pyl_2016_lpl",
+      "name": "pyl",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pyl_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2016)"
+    },
+    {
+      "id": "rain_2016_lms",
+      "name": "Rain",
+      "team": "Team Mist",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rain_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "Team Mist (2016)"
+    },
+    {
+      "id": "luo_2016_lpl",
+      "name": "Luo",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Luo_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2016)"
+    },
+    {
+      "id": "kitties_2016_lpl",
+      "name": "Kitties",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kitties_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "corejj_2016_lck",
+      "name": "CoreJJ",
+      "team": "Samsung Galaxy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Samsung Galaxy (2016)"
+    },
+    {
+      "id": "kylin_2016_lpl",
+      "name": "Kylin",
+      "team": "Saint Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kylin_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Saint Gaming (2016)"
+    },
+    {
+      "id": "ben_2016_lpl",
+      "name": "Ben",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ben_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "baolan_2016_lpl",
+      "name": "Baolan",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Baolan_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2016)"
+    },
+    {
+      "id": "sweet_2016_lck",
+      "name": "Sweet",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sweet_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2016)"
+    },
+    {
+      "id": "masterwork_2016_eu lcs",
+      "name": "masterwork",
+      "team": "Millenium",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/masterwork_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Millenium (2016)"
+    },
+    {
+      "id": "stunt_2016_na lcs",
+      "name": "Stunt",
+      "team": "Team Liquid Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stunt_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid Academy (2016)"
+    },
+    {
+      "id": "ignar_2016_eu lcs",
+      "name": "IgNar",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2016",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2016)"
+    },
+    {
+      "id": "lemonnation_2016_na lcs",
+      "name": "LemonNation",
+      "team": "Cloud9 Challenger",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LemonNation_profileicon.png",
+      "years": "2016",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 Challenger (2016)"
+    },
+    {
+      "id": "qingsi_2016_lpl",
+      "name": "QingSi",
+      "team": "Game Talents",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/QingSi_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Game Talents (2016)"
+    },
+    {
+      "id": "ming_2016_lpl",
+      "name": "Ming",
+      "team": "Young Miracles",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ming_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Young Miracles (2016)"
+    },
+    {
+      "id": "ley_2016_lpl",
+      "name": "Ley",
+      "team": "Royal Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ley_profileicon.png",
+      "years": "2016",
+      "league": "LPL",
+      "seasonTeam": "Royal Club (2016)"
+    },
+    {
+      "id": "lehends_2016_lck",
+      "name": "Lehends",
+      "team": "SBENU Korea",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lehends_profileicon.png",
+      "years": "2016",
+      "league": "LCK",
+      "seasonTeam": "SBENU Korea (2016)"
+    },
+    {
+      "id": "cola_2016_lms",
+      "name": "Cola",
+      "team": "WingsOflibeRty",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cola_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "WingsOflibeRty (2016)"
+    },
+    {
+      "id": "fongxiang_2016_lms",
+      "name": "FongXiang",
+      "team": "NonHK",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FongXiang_profileicon.png",
+      "years": "2016",
+      "league": "LMS",
+      "seasonTeam": "NonHK (2016)"
+    }
+  ]
+}

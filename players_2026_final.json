@@ -1,0 +1,741 @@
+{
+  "top": [
+    {
+      "id": "dudu_2026_lck",
+      "name": "DuDu",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DuDu_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "perfect_2026_lck",
+      "name": "PerfecT",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PerfecT_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "soboro_2026_lpl",
+      "name": "Soboro",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Soboro_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "zika_2026_lpl",
+      "name": "Zika",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zika_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "siwoo_2026_lck",
+      "name": "Siwoo",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Siwoo_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
+    },
+    {
+      "id": "casting_2026_lck",
+      "name": "Casting",
+      "team": "HANJIN BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Casting_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "HANJIN BRION (2026)"
+    },
+    {
+      "id": "xiaoxu_2026_lpl",
+      "name": "Xiaoxu",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaoxu_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2026)"
+    },
+    {
+      "id": "369_2026_lpl",
+      "name": "369",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/369_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "liangchen_2026_lpl",
+      "name": "Liangchen",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Liangchen_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "sasi_2026_lpl",
+      "name": "sasi",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sasi_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "rich_2026_lck",
+      "name": "Rich",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rich_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DRX (2026)"
+    },
+    {
+      "id": "kiin_2026_lck",
+      "name": "Kiin",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kiin_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2026)"
+    },
+    {
+      "id": "flandre_2026_lpl",
+      "name": "Flandre",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flandre_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2026)"
+    },
+    {
+      "id": "kingen_2026_lck",
+      "name": "Kingen",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kingen_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "clear_2026_lck",
+      "name": "Clear",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clear_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "bin_2026_lpl",
+      "name": "Bin",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bin_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2026)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "pyosik_2026_lck",
+      "name": "Pyosik",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pyosik_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "cuzz_2026_lck",
+      "name": "Cuzz",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cuzz_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "wei_2026_lpl",
+      "name": "Wei",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wei_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "jiejie_2026_lpl",
+      "name": "Jiejie",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiejie_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "lucid_2026_lck",
+      "name": "Lucid",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lucid_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
+    },
+    {
+      "id": "gideon_2026_lck",
+      "name": "GIDEON",
+      "team": "HANJIN BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GIDEON_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "HANJIN BRION (2026)"
+    },
+    {
+      "id": "junjia_2026_lpl",
+      "name": "JunJia",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JunJia_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2026)"
+    },
+    {
+      "id": "naiyou_2026_lpl",
+      "name": "naiyou",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/naiyou_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "grizzly_2026_lpl",
+      "name": "Grizzly",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Grizzly_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "heng_2026_lpl",
+      "name": "Heng",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Heng_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "willer_2026_lck",
+      "name": "Willer",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Willer_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DRX (2026)"
+    },
+    {
+      "id": "canyon_2026_lck",
+      "name": "Canyon",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Canyon_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2026)"
+    },
+    {
+      "id": "tarzan_2026_lpl",
+      "name": "Tarzan",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarzan_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2026)"
+    },
+    {
+      "id": "sponge_2026_lck",
+      "name": "Sponge",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sponge_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "raptor_2026_lck",
+      "name": "Raptor",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raptor_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "xun_2026_lpl",
+      "name": "Xun",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xun_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2026)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "clozer_2026_lck",
+      "name": "Clozer",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clozer_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "bdd_2026_lck",
+      "name": "Bdd",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bdd_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "rookie_2026_lpl",
+      "name": "Rookie",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "xiaohu_2026_lpl",
+      "name": "Xiaohu",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohu_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "showmaker_2026_lck",
+      "name": "ShowMaker",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShowMaker_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
+    },
+    {
+      "id": "roamer_2026_lck",
+      "name": "Roamer",
+      "team": "HANJIN BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roamer_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "HANJIN BRION (2026)"
+    },
+    {
+      "id": "hongq_2026_lpl",
+      "name": "HongQ",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HongQ_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2026)"
+    },
+    {
+      "id": "creme_2026_lpl",
+      "name": "Creme",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Creme_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "saber_2026_lpl",
+      "name": "Saber",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Saber_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "tangyuan_2026_lpl",
+      "name": "Tangyuan",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tangyuan_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "ucal_2026_lck",
+      "name": "Ucal",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ucal_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DRX (2026)"
+    },
+    {
+      "id": "chovy_2026_lck",
+      "name": "Chovy",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chovy_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2026)"
+    },
+    {
+      "id": "shanks_2026_lpl",
+      "name": "Shanks",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shanks_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2026)"
+    },
+    {
+      "id": "scout_2026_lck",
+      "name": "Scout",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "vicla_2026_lck",
+      "name": "VicLa",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/VicLa_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "knight_2026_lpl",
+      "name": "Knight",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Knight_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2026)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "deokdam_2026_lck",
+      "name": "deokdam",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/deokdam_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "aiming_2026_lck",
+      "name": "Aiming",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aiming_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "photic_2026_lpl",
+      "name": "Photic",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Photic_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "elk_2026_lpl",
+      "name": "Elk",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Elk_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "smash_2026_lck",
+      "name": "Smash",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smash_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
+    },
+    {
+      "id": "teddy_2026_lck",
+      "name": "Teddy",
+      "team": "HANJIN BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Teddy_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "HANJIN BRION (2026)"
+    },
+    {
+      "id": "gala_2026_lpl",
+      "name": "GALA",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GALA_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2026)"
+    },
+    {
+      "id": "jiaqi_2026_lpl",
+      "name": "JiaQi",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JiaQi_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "hena_2026_lpl",
+      "name": "Hena",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hena_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "shaoye_2026_lpl",
+      "name": "Shaoye",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shaoye_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "jiwoo_2026_lck",
+      "name": "Jiwoo",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiwoo_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DRX (2026)"
+    },
+    {
+      "id": "ruler_2026_lck",
+      "name": "Ruler",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2026)"
+    },
+    {
+      "id": "hope_2026_lpl",
+      "name": "Hope",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hope_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2026)"
+    },
+    {
+      "id": "taeyoon_2026_lck",
+      "name": "Taeyoon",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taeyoon_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "diable_2026_lck",
+      "name": "Diable",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diable_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "viper_2026_lpl",
+      "name": "Viper",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2026)"
+    }
+  ],
+  "support": [
+    {
+      "id": "life_2026_lck",
+      "name": "Life",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Life_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "pollu_2026_lck",
+      "name": "Pollu",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pollu_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "ghost_2026_lck",
+      "name": "Ghost",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ghost_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "jwei_2026_lpl",
+      "name": "Jwei",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jwei_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "erha_2026_lpl",
+      "name": "Erha",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Erha_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "career_2026_lck",
+      "name": "Career",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Career_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
+    },
+    {
+      "id": "namgung_2026_lck",
+      "name": "Namgung",
+      "team": "HANJIN BRION",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Namgung_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "HANJIN BRION (2026)"
+    },
+    {
+      "id": "vampire_2026_lpl",
+      "name": "Vampire",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vampire_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2026)"
+    },
+    {
+      "id": "fengyue_2026_lpl",
+      "name": "fengyue",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/fengyue_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "xiaoxia_2026_lpl",
+      "name": "Xiaoxia",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaoxia_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "ycx_2026_lpl",
+      "name": "Ycx",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ycx_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "andil_2026_lck",
+      "name": "Andil",
+      "team": "DRX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Andil_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "DRX (2026)"
+    },
+    {
+      "id": "duro_2026_lck",
+      "name": "Duro",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duro_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2026)"
+    },
+    {
+      "id": "kael_2026_lpl",
+      "name": "Kael",
+      "team": "Anyone's Legend",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kael_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Anyone's Legend (2026)"
+    },
+    {
+      "id": "lehends_2026_lck",
+      "name": "Lehends",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lehends_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "kellin_2026_lck",
+      "name": "Kellin",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kellin_profileicon.png",
+      "years": "2026",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "on_2026_lpl",
+      "name": "ON",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ON_profileicon.png",
+      "years": "2026",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2026)"
+    }
+  ]
+}

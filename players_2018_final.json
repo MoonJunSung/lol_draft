@@ -1,0 +1,4512 @@
+{
+  "top": [
+    {
+      "id": "duke_2018_lpl",
+      "name": "Duke",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duke_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "letme_2018_lpl",
+      "name": "Letme",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Letme_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "lies_2018_lpl",
+      "name": "Lies",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lies_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "langx_2018_lpl",
+      "name": "Langx",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Langx_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "rascal_2018_lck",
+      "name": "Rascal",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rascal_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "cuvee_2018_lck",
+      "name": "CuVee",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CuVee_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "amazingj_2018_lpl",
+      "name": "AmazingJ",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AmazingJ_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "new_2018_lpl",
+      "name": "New",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/New_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "roach_2018_lck",
+      "name": "Roach",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roach_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "add_2018_lck",
+      "name": "ADD",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ADD_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "gimgoon_2018_lpl",
+      "name": "GimGoon",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "ray_2018_lpl",
+      "name": "Ray",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ray_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "kiin_2018_lck",
+      "name": "Kiin",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kiin_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "smeb_2018_lck",
+      "name": "Smeb",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smeb_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "mouse_2018_lpl",
+      "name": "Mouse",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mouse_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "zoom_2018_lpl",
+      "name": "Zoom",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zoom_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "jinoo_2018_lpl",
+      "name": "Jinoo",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinoo_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "untara_2018_lck",
+      "name": "Untara",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Untara_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "lindarang_2018_lck",
+      "name": "Lindarang",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lindarang_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "crazy_2018_lck",
+      "name": "Crazy",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crazy_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "sohwan_2018_lck",
+      "name": "SoHwan",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoHwan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "xiyang_2018_lpl",
+      "name": "Xiyang",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiyang_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "957_2018_lpl",
+      "name": "957",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/957_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "flandre_2018_lpl",
+      "name": "Flandre",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flandre_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "wunder_2018_eu lcs",
+      "name": "Wunder",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wunder_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "alphari_2018_eu lcs",
+      "name": "Alphari",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alphari_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "jaeger_2018_eu lcs",
+      "name": "Jaeger",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jaeger_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "cabochard_2018_eu lcs",
+      "name": "Cabochard",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cabochard_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "whiteknight_2018_eu lcs",
+      "name": "WhiteKnight",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WhiteKnight_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "ruin_2018_eu lcs",
+      "name": "Ruin",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruin_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "profit_2018_eu lcs",
+      "name": "Profit",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Profit_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2018)"
+    },
+    {
+      "id": "vizicsacsi_2018_eu lcs",
+      "name": "Vizicsacsi",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vizicsacsi_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "soaz_2018_eu lcs",
+      "name": "sOAZ",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sOAZ_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "odoamne_2018_eu lcs",
+      "name": "Odoamne",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Odoamne_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2018)"
+    },
+    {
+      "id": "moyu_2018_lpl",
+      "name": "Moyu",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Moyu_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "rest_2018_lms",
+      "name": "Rest",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rest_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "liang_2018_lms",
+      "name": "Liang",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Liang_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "theshy_2018_lpl",
+      "name": "TheShy",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "thal_2018_lck",
+      "name": "Thal",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Thal_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "impact_2018_na lcs",
+      "name": "Impact",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2018)"
+    },
+    {
+      "id": "hauntzer_2018_na lcs",
+      "name": "Hauntzer",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hauntzer_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "ssumday_2018_na lcs",
+      "name": "Ssumday",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "dshao_2018_na lcs",
+      "name": "dshao",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/dshao_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "solo_2018_na lcs",
+      "name": "Solo",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solo_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "lourlo_2018_na lcs",
+      "name": "Lourlo",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lourlo_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "huni_2018_na lcs",
+      "name": "Huni",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "flame_2018_na lcs",
+      "name": "Flame",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flame_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "darshan_2018_na lcs",
+      "name": "Darshan",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Darshan_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "licorice_2018_na lcs",
+      "name": "Licorice",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Licorice_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "riris_2018_lms",
+      "name": "Riris",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Riris_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "ziv_2018_lms",
+      "name": "Ziv",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ziv_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "khan_2018_lck",
+      "name": "Khan",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Khan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "3z_2018_lms",
+      "name": "3z",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/3z_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "hanabi_2018_lms",
+      "name": "Hanabi",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hanabi_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "2188_2018_lms",
+      "name": "2188",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/2188_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "mmd_2018_lms",
+      "name": "MMD",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MMD_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "pk_2018_lms",
+      "name": "PK",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PK_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "loong_2018_lpl",
+      "name": "Loong",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Loong_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "zz1tai_2018_lpl",
+      "name": "Zz1tai",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zz1tai_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "marin_2018_lpl",
+      "name": "MaRin",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaRin_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "dhokla_2018_na lcs",
+      "name": "Dhokla",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dhokla_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "dusk_2018_lpl",
+      "name": "Dusk",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dusk_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "bwipo_2018_eu lcs",
+      "name": "Bwipo",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bwipo_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "jackpot_2018_lms",
+      "name": "Jackpot",
+      "team": "Afro Beast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jackpot_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Afro Beast (2018)"
+    },
+    {
+      "id": "woofe_2018_lck",
+      "name": "WooFe",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WooFe_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "sw0rd_2018_lck",
+      "name": "Sw0rd",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sw0rd_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "aodi_2018_lpl",
+      "name": "Aodi",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aodi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "lindarang_2018_lck",
+      "name": "Lindarang",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lindarang_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "cuvee_2018_lck",
+      "name": "CuVee",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CuVee_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "alphamong_2018_lck",
+      "name": "Alphamong",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alphamong_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "allorim_2018_na lcs",
+      "name": "Allorim",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Allorim_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "ikssu_2018_lms",
+      "name": "ikssu",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ikssu_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "jackpot_2018_lms",
+      "name": "Jackpot",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jackpot_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "bobo_2018_lms",
+      "name": "BoBo",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BoBo_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "rock_2018_lms",
+      "name": "Rock",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rock_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "kingen_2018_lck",
+      "name": "Kingen",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kingen_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "hoon_2018_lck",
+      "name": "Hoon",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hoon_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "maha_2018_lck",
+      "name": "MaHa",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaHa_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "max_2018_lck",
+      "name": "Max",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Max_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "water_2018_lpl",
+      "name": "Water",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Water_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "holder_2018_lpl",
+      "name": "Holder",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Holder_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "fallenbandit_2018_na lcs",
+      "name": "FallenBandit",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FallenBandit_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "nexus_2018_lms",
+      "name": "Nexus",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nexus_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "soar_2018_lck",
+      "name": "SoaR",
+      "team": "Team BattleComics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SoaR_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Team BattleComics (2018)"
+    },
+    {
+      "id": "nuguri_2018_lck",
+      "name": "Nuguri",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuguri_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2018)"
+    }
+  ],
+  "jungle": [
+    {
+      "id": "ning_2018_lpl",
+      "name": "Ning",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ning_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "karsa_2018_lpl",
+      "name": "Karsa",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karsa_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "mlxg_2018_lpl",
+      "name": "Mlxg",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mlxg_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "karin_2018_lpl",
+      "name": "Karin",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Karin_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "tian_2018_lpl",
+      "name": "Tian",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tian_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "peanut_2018_lck",
+      "name": "Peanut",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "ambition_2018_lck",
+      "name": "Ambition",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ambition_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "wisdomz_2018_lpl",
+      "name": "Wisdomz",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wisdomz_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "crash_2018_lpl",
+      "name": "Crash",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crash_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "raise_2018_lck",
+      "name": "Raise",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raise_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "beyond_2018_lck",
+      "name": "Beyond",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Beyond_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "y1han_2018_lpl",
+      "name": "Y1han",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Y1han_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "haro_2018_lpl",
+      "name": "Haro",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haro_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "spirit_2018_lck",
+      "name": "Spirit",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Spirit_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "score_2018_lck",
+      "name": "Score",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Score_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "flawless_2018_lpl",
+      "name": "Flawless",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Flawless_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "clid_2018_lpl",
+      "name": "Clid",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clid_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "eimy_2018_lpl",
+      "name": "eimy",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/eimy_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "blank_2018_lck",
+      "name": "Blank",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blank_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "mightybear_2018_lck",
+      "name": "Mightybear",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mightybear_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "seonghwan_2018_lck",
+      "name": "SeongHwan",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SeongHwan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "wolf_2018_lck",
+      "name": "Wolf",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wolf_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "trick_2018_lck",
+      "name": "Trick",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "umti_2018_lck",
+      "name": "UmTi",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/UmTi_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "world6_2018_lpl",
+      "name": "World6",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/World6_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "melon_2018_lpl",
+      "name": "Melon",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Melon_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "sofm_2018_lpl",
+      "name": "SofM",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SofM_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "jankos_2018_eu lcs",
+      "name": "Jankos",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "maxlore_2018_eu lcs",
+      "name": "Maxlore",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maxlore_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "santorin_2018_eu lcs",
+      "name": "Santorin",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "gilius_2018_eu lcs",
+      "name": "Gilius",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gilius_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "kold_2018_eu lcs",
+      "name": "Kold",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kold_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "djoko_2018_eu lcs",
+      "name": "Djoko",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Djoko_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "memento_2018_eu lcs",
+      "name": "Memento",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Memento_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2018)"
+    },
+    {
+      "id": "pridestalkr_2018_eu lcs",
+      "name": "Pridestalkr",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pridestalkr_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "broxah_2018_eu lcs",
+      "name": "Broxah",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Broxah_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "xerxe_2018_eu lcs",
+      "name": "Xerxe",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xerxe_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2018)"
+    },
+    {
+      "id": "xx_2018_lpl",
+      "name": "Xx",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xx_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "hana_2018_lms",
+      "name": "Hana",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hana_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "kongyue_2018_lms",
+      "name": "Kongyue",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kongyue_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "h4cker_2018_lpl",
+      "name": "H4cker",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/H4cker_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "xmithie_2018_na lcs",
+      "name": "Xmithie",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xmithie_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2018)"
+    },
+    {
+      "id": "mikeyeung_2018_na lcs",
+      "name": "MikeYeung",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MikeYeung_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "meteos_2018_na lcs",
+      "name": "Meteos",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "akaadian_2018_na lcs",
+      "name": "Akaadian",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Akaadian_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "lira_2018_na lcs",
+      "name": "Lira",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lira_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "contractz_2018_na lcs",
+      "name": "Contractz",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Contractz_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "dardoch_2018_na lcs",
+      "name": "Dardoch",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dardoch_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "anda_2018_na lcs",
+      "name": "AnDa",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AnDa_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "reignover_2018_na lcs",
+      "name": "Reignover",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "svenskeren_2018_na lcs",
+      "name": "Svenskeren",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Svenskeren_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "gemini_2018_lms",
+      "name": "Gemini",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gemini_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "mountain_2018_lms",
+      "name": "Mountain",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mountain_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "cuzz_2018_lck",
+      "name": "Cuzz",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cuzz_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "wiz_2018_lck",
+      "name": "Wiz",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wiz_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "move_2018_lms",
+      "name": "Move",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Move_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "moojin_2018_lms",
+      "name": "MooJin",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MooJin_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "epic_2018_lms",
+      "name": "Epic",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Epic_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "haru_2018_lck",
+      "name": "Haru",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haru_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "breaker_2018_lms",
+      "name": "Breaker",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breaker_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "empt2y_2018_lms",
+      "name": "Empt2y",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Empt2y_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "condi_2018_lpl",
+      "name": "Condi",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Condi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "fireloli_2018_lpl",
+      "name": "Fireloli",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fireloli_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "baybay_2018_lms",
+      "name": "baybay",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/baybay_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "benny_2018_lms",
+      "name": "Benny",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Benny_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "bon0_2018_lck",
+      "name": "bon0",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/bon0_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "shrimp_2018_na lcs",
+      "name": "Shrimp",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shrimp_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "blossom_2018_lck",
+      "name": "Blossom",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blossom_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "caedrel_2018_eu lcs",
+      "name": "Caedrel",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caedrel_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "taizan_2018_lms",
+      "name": "Taizan",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taizan_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "shook_2018_eu lcs",
+      "name": "Shook",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "swift_2018_lpl",
+      "name": "Swift",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Swift_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "jiekou_2018_lpl",
+      "name": "Jiekou",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiekou_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "magic_2018_lpl",
+      "name": "Magic",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Magic_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "xiaohan_2018_lpl",
+      "name": "xiaohan",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiaohan_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "mowgli_2018_lck",
+      "name": "Mowgli",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mowgli_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "morning_2018_lms",
+      "name": "Morning",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Morning_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "alex_2018_lms",
+      "name": "Alex",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "nova_2018_lms",
+      "name": "Nova",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nova_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "kid_2018_lpl",
+      "name": "Kid",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kid_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "chieftain_2018_lpl",
+      "name": "Chieftain",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chieftain_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "1ntruder_2018_lpl",
+      "name": "1ntruder",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/1ntruder_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "rush_2018_lck",
+      "name": "Rush",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rush_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "clearlove_2018_lpl",
+      "name": "Clearlove",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clearlove_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "butter_2018_lms",
+      "name": "Butter",
+      "team": "Afro Beast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Butter_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Afro Beast (2018)"
+    },
+    {
+      "id": "kuma_2018_lck",
+      "name": "Kuma",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuma_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "tarzan_2018_lck",
+      "name": "Tarzan",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tarzan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "hoglet_2018_lck",
+      "name": "Hoglet",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hoglet_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "m1anhua_2018_lpl",
+      "name": "M1anhua",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/M1anhua_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "seonghwan_2018_lck",
+      "name": "SeongHwan",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SeongHwan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "mountain_2018_lpl",
+      "name": "Mountain",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mountain_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "ambition_2018_lck",
+      "name": "Ambition",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ambition_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "haru_2018_lck",
+      "name": "Haru",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haru_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "kakao_2018_lck",
+      "name": "KaKAO",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KaKAO_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "xinyi_2018_lpl",
+      "name": "Xinyi",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xinyi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "amazing_2018_eu lcs",
+      "name": "Amazing",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Amazing_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "armao_2018_na lcs",
+      "name": "Armao",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Armao_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "santorin_2018_na lcs",
+      "name": "Santorin",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Santorin_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "y1han_2018_lpl",
+      "name": "Y1han",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Y1han_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "crash_2018_lms",
+      "name": "Crash",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crash_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "westdoor_2018_lms",
+      "name": "Westdoor",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Westdoor_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "butter_2018_lms",
+      "name": "Butter",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Butter_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "perkz_2018_eu lcs",
+      "name": "Perkz",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "deul_2018_lms",
+      "name": "DeuL",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DeuL_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "cody sun_2018_na lcs",
+      "name": "Cody Sun",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cody Sun_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "gate_2018_na lcs",
+      "name": "Gate",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gate_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "alex_2018_lpl",
+      "name": "Alex",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Alex_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "taizan_2018_lms",
+      "name": "Taizan",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taizan_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "bugi_2018_lms",
+      "name": "Bugi",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bugi_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "anda_2018_na lcs",
+      "name": "AnDa",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AnDa_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "regank_2018_lpl",
+      "name": "ReGank",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ReGank_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "nestea_2018_lms",
+      "name": "Nestea",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nestea_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "raise_2018_lms",
+      "name": "Raise",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raise_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "mightybear_2018_lck",
+      "name": "Mightybear",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mightybear_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "blaber_2018_na lcs",
+      "name": "Blaber",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blaber_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "kikis_2018_eu lcs",
+      "name": "Kikis",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kikis_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "galen_2018_na lcs",
+      "name": "Galen",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Galen_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "laba_2018_lms",
+      "name": "Laba",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Laba_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "kiwi_2018_lpl",
+      "name": "Kiwi",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kiwi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "youdang_2018_lpl",
+      "name": "Youdang",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Youdang_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "griffin_2018_na lcs",
+      "name": "Griffin",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Griffin_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "kl_2018_lms",
+      "name": "KL",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/KL_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "holo_2018_lms",
+      "name": "Holo",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Holo_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "onfleek_2018_lck",
+      "name": "OnFleek",
+      "team": "Team BattleComics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/OnFleek_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Team BattleComics (2018)"
+    },
+    {
+      "id": "punch_2018_lck",
+      "name": "Punch",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Punch_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2018)"
+    }
+  ],
+  "mid": [
+    {
+      "id": "rookie_2018_lpl",
+      "name": "Rookie",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "xiaohu_2018_lpl",
+      "name": "Xiaohu",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xiaohu_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "ggoong_2018_lpl",
+      "name": "Ggoong",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ggoong_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "knight_2018_lpl",
+      "name": "Knight",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Knight_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "bdd_2018_lck",
+      "name": "Bdd",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bdd_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "crown_2018_lck",
+      "name": "Crown",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "athena_2018_lpl",
+      "name": "Athena",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Athena_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "easyhoon_2018_lpl",
+      "name": "Easyhoon",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Easyhoon_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "edge_2018_lck",
+      "name": "Edge",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Edge_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "ian_2018_lck",
+      "name": "Ian",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ian_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "bing_2018_lpl",
+      "name": "Bing",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bing_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "scout_2018_lpl",
+      "name": "Scout",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "kuro_2018_lck",
+      "name": "Kuro",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuro_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "pawn_2018_lck",
+      "name": "PawN",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PawN_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "doinb_2018_lpl",
+      "name": "Doinb",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "yagao_2018_lpl",
+      "name": "Yagao",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yagao_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "yuuki_2018_lpl",
+      "name": "Yuuki",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuuki_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "faker_2018_lck",
+      "name": "Faker",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faker_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "kuzan_2018_lck",
+      "name": "Kuzan",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuzan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "lava_2018_lck",
+      "name": "Lava",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lava_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "tempt_2018_lck",
+      "name": "Tempt",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tempt_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "yaharong_2018_lck",
+      "name": "Yaharong",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yaharong_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "justice_2018_lck",
+      "name": "Justice",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Justice_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "icon_2018_lpl",
+      "name": "ICON",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ICON_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "xiye_2018_lpl",
+      "name": "xiye",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xiye_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "guoguo_2018_lpl",
+      "name": "Guoguo",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Guoguo_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "perkz_2018_eu lcs",
+      "name": "Perkz",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Perkz_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "sencux_2018_eu lcs",
+      "name": "Sencux",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sencux_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "caedrel_2018_eu lcs",
+      "name": "Caedrel",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caedrel_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "jiizuke_2018_eu lcs",
+      "name": "Jiizuke",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiizuke_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "exile_2018_eu lcs",
+      "name": "Exile",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Exile_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "betsy_2018_eu lcs",
+      "name": "Betsy",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betsy_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "blanc_2018_eu lcs",
+      "name": "Blanc",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Blanc_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2018)"
+    },
+    {
+      "id": "nukeduck_2018_eu lcs",
+      "name": "Nukeduck",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukeduck_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "caps_2018_eu lcs",
+      "name": "Caps",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caps_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "nisqy_2018_eu lcs",
+      "name": "Nisqy",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nisqy_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2018)"
+    },
+    {
+      "id": "fofo_2018_lms",
+      "name": "FoFo",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FoFo_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "uniboy_2018_lms",
+      "name": "Uniboy",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Uniboy_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "pobelter_2018_na lcs",
+      "name": "Pobelter",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pobelter_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2018)"
+    },
+    {
+      "id": "bjergsen_2018_na lcs",
+      "name": "Bjergsen",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bjergsen_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "ryu_2018_na lcs",
+      "name": "Ryu",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryu_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "powerofevil_2018_na lcs",
+      "name": "PowerOfEvil",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PowerOfEvil_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "febiven_2018_na lcs",
+      "name": "FEBIVEN",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FEBIVEN_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "hai_2018_na lcs",
+      "name": "Hai",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hai_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "fenix_2018_na lcs",
+      "name": "Fenix",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenix_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "keane_2018_na lcs",
+      "name": "Keane",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keane_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "huhi_2018_na lcs",
+      "name": "huhi",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/huhi_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "jensen_2018_na lcs",
+      "name": "Jensen",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "chawy_2018_lms",
+      "name": "Chawy",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chawy_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "wako_2018_lms",
+      "name": "Wako",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wako_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "nanzhu_2018_lpl",
+      "name": "nanzhu",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/nanzhu_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "apex_2018_lms",
+      "name": "Apex",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apex_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "gear_2018_lms",
+      "name": "Gear",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Gear_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "maple_2018_lms",
+      "name": "Maple",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maple_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "coon_2018_lms",
+      "name": "CooN",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CooN_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "candy_2018_lms",
+      "name": "Candy",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Candy_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "nulu_2018_eu lcs",
+      "name": "Nulu",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nulu_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "fly_2018_na lcs",
+      "name": "Fly",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "caipi_2018_lms",
+      "name": "Caipi",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Caipi_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "corn_2018_lpl",
+      "name": "Corn",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Corn_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "wuji_2018_lms",
+      "name": "Wuji",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wuji_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "ucal_2018_lck",
+      "name": "Ucal",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ucal_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "firerain_2018_lpl",
+      "name": "FireRain",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FireRain_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "mission_2018_lms",
+      "name": "Mission",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mission_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "mole_2018_lpl",
+      "name": "Mole",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mole_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "damonte_2018_na lcs",
+      "name": "Damonte",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Damonte_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "cool_2018_lpl",
+      "name": "Cool",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cool_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "moonblack_2018_lms",
+      "name": "MoonBlack",
+      "team": "Afro Beast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MoonBlack_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Afro Beast (2018)"
+    },
+    {
+      "id": "ssun_2018_lck",
+      "name": "SSUN",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SSUN_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "rather_2018_lck",
+      "name": "Rather",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rather_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "lava_2018_lck",
+      "name": "Lava",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lava_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "chovy_2018_lck",
+      "name": "Chovy",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chovy_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "fly_2018_lck",
+      "name": "Fly",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "fenfen_2018_lpl",
+      "name": "Fenfen",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fenfen_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "goldenglue_2018_na lcs",
+      "name": "Goldenglue",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Goldenglue_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "mickey_2018_na lcs",
+      "name": "Mickey",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mickey_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "pirean_2018_lck",
+      "name": "Pirean",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pirean_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "moonblack_2018_lms",
+      "name": "MoonBlack",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MoonBlack_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "cyeol_2018_lms",
+      "name": "cyeol",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/cyeol_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "mission_2018_lms",
+      "name": "Mission",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mission_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "wadid_2018_eu lcs",
+      "name": "Wadid",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wadid_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "crash_2018_lms",
+      "name": "Crash",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crash_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "dreamer_2018_lms",
+      "name": "Dreamer",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dreamer_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "aphromoo_2018_na lcs",
+      "name": "aphromoo",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "crown_2018_lck",
+      "name": "Crown",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "angel_2018_lpl",
+      "name": "Angel",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Angel_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "coco_2018_lpl",
+      "name": "Coco",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Coco_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "kuzan_2018_lck",
+      "name": "Kuzan",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kuzan_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "shook_2018_eu lcs",
+      "name": "Shook",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "larssen_2018_eu lcs",
+      "name": "Larssen",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Larssen_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "rainbow_2018_lms",
+      "name": "Rainbow",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rainbow_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "bobqin_2018_na lcs",
+      "name": "bobqin",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/bobqin_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "gyx_2018_lpl",
+      "name": "GYX",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GYX_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "faith_2018_lms",
+      "name": "Faith",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Faith_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "dove_2018_lck",
+      "name": "Dove",
+      "team": "Team BattleComics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dove_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Team BattleComics (2018)"
+    },
+    {
+      "id": "showmaker_2018_lck",
+      "name": "ShowMaker",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShowMaker_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2018)"
+    }
+  ],
+  "adc": [
+    {
+      "id": "jackeylove_2018_lpl",
+      "name": "JackeyLove",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JackeyLove_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "able_2018_lpl",
+      "name": "Able",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Able_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "y4_2018_lpl",
+      "name": "y4",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/y4_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "qiuqiu_2018_lpl",
+      "name": "QiuQiu",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/QiuQiu_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "fury_2018_lpl",
+      "name": "Fury",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fury_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "pray_2018_lck",
+      "name": "PraY",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/PraY_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "ruler_2018_lck",
+      "name": "Ruler",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "jinjiao_2018_lpl",
+      "name": "Jinjiao",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jinjiao_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "martin_2018_lpl",
+      "name": "Martin",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Martin_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "ssol_2018_lck",
+      "name": "Ssol",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssol_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "maha_2018_lck",
+      "name": "MaHa",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MaHa_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "lwx_2018_lpl",
+      "name": "Lwx",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lwx_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "iboy_2018_lpl",
+      "name": "iBoy",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/iBoy_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "kramer_2018_lck",
+      "name": "Kramer",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kramer_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "deft_2018_lck",
+      "name": "Deft",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deft_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "smlz_2018_lpl",
+      "name": "Smlz",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smlz_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "loken_2018_lpl",
+      "name": "LokeN",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LokeN_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "imp_2018_lpl",
+      "name": "imp",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "bang_2018_lck",
+      "name": "Bang",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bang_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "sangyoon_2018_lck",
+      "name": "Sangyoon",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sangyoon_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "ghost_2018_lck",
+      "name": "Ghost",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ghost_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "teddy_2018_lck",
+      "name": "Teddy",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Teddy_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "chel1y_2018_lpl",
+      "name": "chel1y",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/chel1y_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "mystic_2018_lpl",
+      "name": "Mystic",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mystic_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "kryst4l_2018_lpl",
+      "name": "kRYST4L",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kRYST4L_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "hjarnan_2018_eu lcs",
+      "name": "Hjarnan",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hjarnan_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "hans sama_2018_eu lcs",
+      "name": "Hans Sama",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hans Sama_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "patrik_2018_eu lcs",
+      "name": "Patrik",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Patrik_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "attila_2018_eu lcs",
+      "name": "Attila",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Attila_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "samux_2018_eu lcs",
+      "name": "Samux",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Samux_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "steeelback_2018_eu lcs",
+      "name": "Steeelback",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Steeelback_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "heaq_2018_eu lcs",
+      "name": "HeaQ",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HeaQ_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2018)"
+    },
+    {
+      "id": "vander_2018_eu lcs",
+      "name": "Vander",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "rekkles_2018_eu lcs",
+      "name": "Rekkles",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rekkles_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "kobbe_2018_eu lcs",
+      "name": "Kobbe",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kobbe_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2018)"
+    },
+    {
+      "id": "pilot_2018_lck",
+      "name": "Pilot",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pilot_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "lilv_2018_lms",
+      "name": "Lilv",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lilv_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "breeze_2018_lms",
+      "name": "Breeze",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Breeze_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "doublelift_2018_na lcs",
+      "name": "Doublelift",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Doublelift_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2018)"
+    },
+    {
+      "id": "zven_2018_na lcs",
+      "name": "Zven",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zven_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "cody sun_2018_na lcs",
+      "name": "Cody Sun",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cody Sun_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "arrow_2018_na lcs",
+      "name": "Arrow",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Arrow_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "apollo_2018_na lcs",
+      "name": "Apollo",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apollo_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "deftly_2018_na lcs",
+      "name": "Deftly",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Deftly_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "altec_2018_na lcs",
+      "name": "Altec",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Altec_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "wildturtle_2018_na lcs",
+      "name": "WildTurtle",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WildTurtle_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "stixxay_2018_na lcs",
+      "name": "Stixxay",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stixxay_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "sneaky_2018_na lcs",
+      "name": "Sneaky",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sneaky_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "unified_2018_lms",
+      "name": "Unified",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Unified_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "an_2018_lms",
+      "name": "An",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/An_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "aiming_2018_lck",
+      "name": "Aiming",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aiming_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "deul_2018_lms",
+      "name": "DeuL",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DeuL_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "betty_2018_lms",
+      "name": "Betty",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Betty_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "dalka_2018_lms",
+      "name": "DalKa",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DalKa_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "stitch_2018_lms",
+      "name": "Stitch",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stitch_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "upset_2018_eu lcs",
+      "name": "Upset",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Upset_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "lbb_2018_lms",
+      "name": "LBB",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LBB_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "fdy_2018_lpl",
+      "name": "Fdy",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fdy_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "uzi_2018_lpl",
+      "name": "Uzi",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Uzi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "jiekou_2018_lpl",
+      "name": "Jiekou",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jiekou_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "hope_2018_lpl",
+      "name": "Hope",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hope_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "rd_2018_lpl",
+      "name": "RD",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RD_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "snow_2018_lpl",
+      "name": "Snow",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Snow_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "light_2018_lpl",
+      "name": "Light",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Light_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "hana_2018_lms",
+      "name": "Hana",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hana_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "art_2018_lms",
+      "name": "Art",
+      "team": "Afro Beast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Art_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Afro Beast (2018)"
+    },
+    {
+      "id": "hybrid_2018_lck",
+      "name": "HyBriD",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/HyBriD_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "viper_2018_lck",
+      "name": "Viper",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "prince_2018_lck",
+      "name": "Prince",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Prince_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "sangyoon_2018_lck",
+      "name": "Sangyoon",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sangyoon_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "ruler_2018_lck",
+      "name": "Ruler",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "hudie_2018_lpl",
+      "name": "Hudie",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hudie_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "gentle_2018_lpl",
+      "name": "GENTLE",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GENTLE_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "imp_2018_lpl",
+      "name": "imp",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "keith_2018_na lcs",
+      "name": "Keith",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keith_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "leo_2018_lck",
+      "name": "Leo",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leo_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "bwipo_2018_eu lcs",
+      "name": "Bwipo",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bwipo_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "y4_2018_lpl",
+      "name": "y4",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/y4_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "xuanxuanpi_2018_lpl",
+      "name": "XuanXuanPi",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XuanXuanPi_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "art_2018_lms",
+      "name": "Art",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Art_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "apex_2018_lms",
+      "name": "Apex",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Apex_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "rainbow_2018_lms",
+      "name": "Rainbow",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rainbow_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "jensen_2018_na lcs",
+      "name": "Jensen",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jensen_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "ryu_2018_na lcs",
+      "name": "Ryu",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryu_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "wuji_2018_lms",
+      "name": "Wuji",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wuji_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "zest_2018_lms",
+      "name": "Zest",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zest_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "zz1tai_2018_lpl",
+      "name": "Zz1tai",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zz1tai_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "neon_2018_eu lcs",
+      "name": "Neon",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Neon_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "mlxg_2018_lpl",
+      "name": "Mlxg",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mlxg_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "clever_2018_lck",
+      "name": "Clever",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clever_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "lost_2018_na lcs",
+      "name": "Lost",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lost_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "piglet_2018_na lcs",
+      "name": "Piglet",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "shook_2018_eu lcs",
+      "name": "Shook",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shook_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "west_2018_lpl",
+      "name": "West",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/West_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "wxz_2018_lpl",
+      "name": "WXZ",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/WXZ_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "rikara_2018_na lcs",
+      "name": "Rikara",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rikara_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "tak_2018_lms",
+      "name": "Tak",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tak_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "hollow_2018_lck",
+      "name": "Hollow",
+      "team": "Team BattleComics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hollow_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Team BattleComics (2018)"
+    },
+    {
+      "id": "nuclear_2018_lck",
+      "name": "Nuclear",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nuclear_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2018)"
+    }
+  ],
+  "support": [
+    {
+      "id": "baolan_2018_lpl",
+      "name": "Baolan",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Baolan_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "ming_2018_lpl",
+      "name": "Ming",
+      "team": "Royal Never Give Up",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ming_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Royal Never Give Up (2018)"
+    },
+    {
+      "id": "cat_2018_lpl",
+      "name": "Cat",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cat_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "yoon_2018_lpl",
+      "name": "Yoon",
+      "team": "Suning",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yoon_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Suning (2018)"
+    },
+    {
+      "id": "gorilla_2018_lck",
+      "name": "GorillA",
+      "team": "Kingzone DragonX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GorillA_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kingzone DragonX (2018)"
+    },
+    {
+      "id": "corejj_2018_lck",
+      "name": "CoreJJ",
+      "team": "KSV eSports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KSV eSports (2018)"
+    },
+    {
+      "id": "road_2018_lpl",
+      "name": "Road",
+      "team": "Bilibili Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Road_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Bilibili Gaming (2018)"
+    },
+    {
+      "id": "duan_2018_lpl",
+      "name": "Duan",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Duan_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "secret_2018_lck",
+      "name": "Secret",
+      "team": "Kongdoo Monster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Secret_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Kongdoo Monster (2018)"
+    },
+    {
+      "id": "max_2018_lck",
+      "name": "Max",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Max_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "crisp_2018_lpl",
+      "name": "Crisp",
+      "team": "FunPlus Phoenix",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crisp_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "FunPlus Phoenix (2018)"
+    },
+    {
+      "id": "meiko_2018_lpl",
+      "name": "Meiko",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meiko_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2018)"
+    },
+    {
+      "id": "tusin_2018_lck",
+      "name": "TusiN",
+      "team": "DN Freecs",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TusiN_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "DN Freecs (2018)"
+    },
+    {
+      "id": "mata_2018_lck",
+      "name": "Mata",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mata_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2018)"
+    },
+    {
+      "id": "killua_2018_lpl",
+      "name": "Killua",
+      "team": "Rogue Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Killua_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Rogue Warriors (2018)"
+    },
+    {
+      "id": "lvmao_2018_lpl",
+      "name": "LvMao",
+      "team": "JD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LvMao_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "JD Gaming (2018)"
+    },
+    {
+      "id": "pyl_2018_lpl",
+      "name": "pyl",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pyl_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "effort_2018_lck",
+      "name": "Effort",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Effort_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "key_2018_lck",
+      "name": "Key",
+      "team": "ROX Tigers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Key_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "ROX Tigers (2018)"
+    },
+    {
+      "id": "ignar_2018_lck",
+      "name": "IgNar",
+      "team": "bbq Olivers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "bbq Olivers (2018)"
+    },
+    {
+      "id": "wraith_2018_lck",
+      "name": "Wraith",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wraith_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "cold_2018_lpl",
+      "name": "COLD",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/COLD_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "ben_2018_lpl",
+      "name": "Ben",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ben_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "hudie_2018_lpl",
+      "name": "Hudie",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hudie_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "wadid_2018_eu lcs",
+      "name": "Wadid",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wadid_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "mikyx_2018_eu lcs",
+      "name": "Mikyx",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mikyx_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "promisq_2018_eu lcs",
+      "name": "promisq",
+      "team": "H2k-Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/promisq_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "H2k-Gaming (2018)"
+    },
+    {
+      "id": "jactroll_2018_eu lcs",
+      "name": "JACTROLL",
+      "team": "Team Vitality",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JACTROLL_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team Vitality (2018)"
+    },
+    {
+      "id": "totoro_2018_eu lcs",
+      "name": "Totoro",
+      "team": "Unicorns of Love",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Totoro_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Unicorns of Love (2018)"
+    },
+    {
+      "id": "targamas_2018_eu lcs",
+      "name": "Targamas",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Targamas_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "tore_2018_eu lcs",
+      "name": "Tore",
+      "team": "Team ROCCAT",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tore_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Team ROCCAT (2018)"
+    },
+    {
+      "id": "krepo_2018_eu lcs",
+      "name": "Krepo",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Krepo_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "hylissang_2018_eu lcs",
+      "name": "Hylissang",
+      "team": "Fnatic",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hylissang_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Fnatic (2018)"
+    },
+    {
+      "id": "kasing_2018_eu lcs",
+      "name": "Kasing",
+      "team": "Splyce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kasing_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Splyce (2018)"
+    },
+    {
+      "id": "ysera_2018_lms",
+      "name": "Ysera",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ysera_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "k_2018_lms",
+      "name": "K",
+      "team": "MAD Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/K_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "MAD Team (2018)"
+    },
+    {
+      "id": "olleh_2018_na lcs",
+      "name": "Olleh",
+      "team": "Team Liquid",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Team Liquid (2018)"
+    },
+    {
+      "id": "mithy_2018_na lcs",
+      "name": "Mithy",
+      "team": "TSM",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mithy_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "TSM (2018)"
+    },
+    {
+      "id": "aphromoo_2018_na lcs",
+      "name": "aphromoo",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/aphromoo_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "lemonnation_2018_na lcs",
+      "name": "LemonNation",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/LemonNation_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "hakuho_2018_na lcs",
+      "name": "Hakuho",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hakuho_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "matt elento_2018_na lcs",
+      "name": "Matt Elento",
+      "team": "Golden Guardians",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Matt Elento_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Golden Guardians (2018)"
+    },
+    {
+      "id": "adrian_2018_na lcs",
+      "name": "Adrian",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adrian_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "stunt_2018_na lcs",
+      "name": "Stunt",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Stunt_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "biofrost_2018_na lcs",
+      "name": "Biofrost",
+      "team": "Counter Logic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Biofrost_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Counter Logic Gaming (2018)"
+    },
+    {
+      "id": "smoothie_2018_na lcs",
+      "name": "Smoothie",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "kaiwing_2018_lms",
+      "name": "Kaiwing",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kaiwing_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "tuna_2018_lms",
+      "name": "Tuna",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tuna_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "fage_2018_lpl",
+      "name": "Fage",
+      "team": "Top Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Fage_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Top Esports (2018)"
+    },
+    {
+      "id": "dreamer_2018_lms",
+      "name": "Dreamer",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dreamer_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "destiny_2018_lms",
+      "name": "Destiny",
+      "team": "Hong Kong Attitude",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Destiny_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Hong Kong Attitude (2018)"
+    },
+    {
+      "id": "swordart_2018_lms",
+      "name": "SwordArt",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SwordArt_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "zest_2018_lms",
+      "name": "Zest",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zest_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "koala_2018_lms",
+      "name": "Koala",
+      "team": "G-Rex",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Koala_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "G-Rex (2018)"
+    },
+    {
+      "id": "vander_2018_eu lcs",
+      "name": "Vander",
+      "team": "FC Schalke 04 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vander_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "FC Schalke 04 Esports (2018)"
+    },
+    {
+      "id": "wolf_2018_lck",
+      "name": "Wolf",
+      "team": "SK Telecom T1",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Wolf_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "SK Telecom T1 (2018)"
+    },
+    {
+      "id": "jayj_2018_na lcs",
+      "name": "JayJ",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JayJ_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "shiauc_2018_lms",
+      "name": "ShiauC",
+      "team": "Flash Wolves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ShiauC_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Flash Wolves (2018)"
+    },
+    {
+      "id": "babo_2018_lpl",
+      "name": "babo",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/babo_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "zero_2018_lpl",
+      "name": "zero",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/zero_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "hana_2018_lms",
+      "name": "Hana",
+      "team": "J Team",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hana_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "J Team (2018)"
+    },
+    {
+      "id": "albis_2018_lms",
+      "name": "Albis",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Albis_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "cat 2_2018_na lcs",
+      "name": "Cat 2",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cat 2_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "maestro_2018_lpl",
+      "name": "Maestro",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maestro_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2018)"
+    },
+    {
+      "id": "skull_2018_lms",
+      "name": "SkuLL",
+      "team": "Afro Beast",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SkuLL_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Afro Beast (2018)"
+    },
+    {
+      "id": "luci_2018_lck",
+      "name": "Luci",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Luci_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "lehends_2018_lck",
+      "name": "Lehends",
+      "team": "Griffin",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lehends_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Griffin (2018)"
+    },
+    {
+      "id": "choyul_2018_lck",
+      "name": "Choyul",
+      "team": "Ever8 Winners",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Choyul_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Ever8 Winners (2018)"
+    },
+    {
+      "id": "maestro_2018_lpl",
+      "name": "Maestro",
+      "team": "Snake Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Maestro_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Snake Esports (2018)"
+    },
+    {
+      "id": "key_2018_lck",
+      "name": "Key",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Key_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "corejj_2018_lck",
+      "name": "CoreJJ",
+      "team": "Gen.G",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Gen.G (2018)"
+    },
+    {
+      "id": "newt_2018_lpl",
+      "name": "Newt",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Newt_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2018)"
+    },
+    {
+      "id": "nova_2018_lck",
+      "name": "Nova",
+      "team": "Jin Air Green Wings",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nova_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Jin Air Green Wings (2018)"
+    },
+    {
+      "id": "motive_2018_lck",
+      "name": "Motive",
+      "team": "MVP",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Motive_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "MVP (2018)"
+    },
+    {
+      "id": "nukes_2018_eu lcs",
+      "name": "Nukes",
+      "team": "Giants Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nukes_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Giants Gaming (2018)"
+    },
+    {
+      "id": "zeyzal_2018_na lcs",
+      "name": "Zeyzal",
+      "team": "Cloud9",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zeyzal_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Cloud9 (2018)"
+    },
+    {
+      "id": "kwon_2018_na lcs",
+      "name": "Kwon",
+      "team": "FlyQuest",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kwon_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "FlyQuest (2018)"
+    },
+    {
+      "id": "big_2018_na lcs",
+      "name": "Big",
+      "team": "OpTic Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Big_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "OpTic Gaming (2018)"
+    },
+    {
+      "id": "missing_2018_lpl",
+      "name": "MISSING",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MISSING_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2018)"
+    },
+    {
+      "id": "feng_2018_na lcs",
+      "name": "Feng",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Feng_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "jankos_2018_eu lcs",
+      "name": "Jankos",
+      "team": "G2 Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jankos_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "G2 Esports (2018)"
+    },
+    {
+      "id": "crash_2018_lms",
+      "name": "Crash",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Crash_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "meteos_2018_na lcs",
+      "name": "Meteos",
+      "team": "100 Thieves",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Meteos_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "100 Thieves (2018)"
+    },
+    {
+      "id": "rainbow_2018_lms",
+      "name": "Rainbow",
+      "team": "Team Afro",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rainbow_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Team Afro (2018)"
+    },
+    {
+      "id": "pasa_2018_lms",
+      "name": "pasa",
+      "team": "Machi Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/pasa_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Machi Esports (2018)"
+    },
+    {
+      "id": "asper_2018_lck",
+      "name": "Asper",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Asper_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2018)"
+    },
+    {
+      "id": "smoothie_2018_na lcs",
+      "name": "Smoothie",
+      "team": "Echo Fox",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Smoothie_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Echo Fox (2018)"
+    },
+    {
+      "id": "vulcan_2018_na lcs",
+      "name": "Vulcan",
+      "team": "Clutch Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vulcan_profileicon.png",
+      "years": "2018",
+      "league": "NA LCS",
+      "seasonTeam": "Clutch Gaming (2018)"
+    },
+    {
+      "id": "xintai_2018_lpl",
+      "name": "Xintai",
+      "team": "Vici Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xintai_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Vici Gaming (2018)"
+    },
+    {
+      "id": "jesiz_2018_eu lcs",
+      "name": "Jesiz",
+      "team": "Misfits Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Jesiz_profileicon.png",
+      "years": "2018",
+      "league": "EU LCS",
+      "seasonTeam": "Misfits Gaming (2018)"
+    },
+    {
+      "id": "kino_2018_lms",
+      "name": "Kino",
+      "team": "ahq eSports Club",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Kino_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "ahq eSports Club (2018)"
+    },
+    {
+      "id": "jackeylove_2018_lpl",
+      "name": "JackeyLove",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/JackeyLove_profileicon.png",
+      "years": "2018",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2018)"
+    },
+    {
+      "id": "yuen_2018_lms",
+      "name": "Yuen",
+      "team": "Kowloon Esports (九龍電競)",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuen_profileicon.png",
+      "years": "2018",
+      "league": "LMS",
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+    },
+    {
+      "id": "joker_2018_lck",
+      "name": "Joker",
+      "team": "Team BattleComics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Joker_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Team BattleComics (2018)"
+    },
+    {
+      "id": "hoit_2018_lck",
+      "name": "Hoit",
+      "team": "Dplus KIA",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hoit_profileicon.png",
+      "years": "2018",
+      "league": "LCK",
+      "seasonTeam": "Dplus KIA (2018)"
+    }
+  ]
+}
