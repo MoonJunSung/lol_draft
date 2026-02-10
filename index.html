@@ -1,12 +1,161 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOL DRAFT</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Orbitron:wght@700;900&display=swap" rel="stylesheet">
+    <title>LOL DRAFT | 롤 선수 로스터 뽑기 - 2026년 프로 드림팀 만들기</title>
+    <meta name="description"
+        content="2026년 최신 롤 선수 데이터로 나만의 드림팀을 만들어보세요. LCK, LPL, LEC 프로선수들 중 탑/정글/미드/원딜/서포터 포지션별 랜덤 드래프트. T1 페이커, Gen.G, DRX 등 월즈 우승 선수들을 만나보세요!">
+    <meta name="keywords"
+        content="롤 드래프트, LOL DRAFT, 롤 갸차, LCK 선수, 롤 선수 뽑기, 드림팀, 리그오브레전드, T1, Gen.G, 페이커, 롤 로스터, e스포츠, 롤 드림팀 추천, 프로게이머 로스터, 2026">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#0b0f1a">
+    <meta name="author" content="LOL DRAFT">
+    <meta name="subject" content="리그오브레전드 선수 드래프트 게임">
+    <meta name="classification" content="Game">
+    <meta name="rating" content="General">
+    <link rel="canonical" href="https://loldraft.site/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="LOL DRAFT | 2026년 롤 선수 드림팀 만들기">
+    <meta property="og:description" content="페이커, 제우스, 쵸비 등 스타 선수들로 나만의 드림팀을 만들어보세요! 탑/정글/미드/원딜/서포터 포지션별 랜덤 드래프트 게임.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://loldraft.site/">
+    <meta property="og:image" content="https://loldraft.site/favicon.svg">
+    <meta property="og:image:alt" content="LOL DRAFT 로고">
+    <meta property="og:locale" content="ko_KR">
+    <meta property="og:site_name" content="LOL DRAFT">
+    <!-- hreflang for multilingual SEO -->
+    <link rel="alternate" hreflang="ko" href="https://loldraft.site/">
+    <link rel="alternate" hreflang="en" href="https://loldraft.site/en/">
+
+    <!-- Geo meta tags (Seoul, South Korea) for local SEO -->
+    <meta name="geo.region" content="KR-11">
+    <meta name="geo.placename" content="Seoul">
+    <meta name="geo.position" content="37.5665;126.9780">
+    <meta name="ICBM" content="37.5665, 126.9780">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="LOL DRAFT | 롤 선수 드림팀 만들기">
+    <meta name="twitter:description" content="페이커, 쵸비, 캡스 등 스타 선수들로 나만의 드림팀을 만들어보세요!">
+    <meta name="twitter:image" content="https://loldraft.site/favicon.svg">
+    <meta name="twitter:image:alt" content="LOL DRAFT 로고">
+
+    <!-- 네이버 웹마스터 도구용 -->
+    <meta name="naver-site-verification" content="여기에_네이버_인증코드_입력">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VTXK76931S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);} 
+        gtag('js', new Date());
+
+        gtag('config', 'G-VTXK76931S');
+    </script>
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8735513397510462"
+        crossorigin="anonymous"></script>
+
+    <!-- Microsoft Clarity -->
+    <script type="text/javascript">
+        (function (c, l, a, r, i, t, y) {
+            c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+            t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+            y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+        })(window, document, "clarity", "script", "v2vmr2fsbl");
+    </script>
+
+    <!-- Preconnect & Preload for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="styles.css">
+    </noscript>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Orbitron:wght@700;900&display=swap"
+        rel="stylesheet" media="print" onload="this.media='all'">
+
+    <!-- Favicon - 다양한 브라우저 지원 -->
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="favicon.svg" sizes="any">
+    <link rel="apple-touch-icon" href="favicon.svg">
+    <link rel="mask-icon" href="favicon.svg" color="#0b0f1a">
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "LOL DRAFT",
+            "alternateName": "롤 드래프트",
+            "url": "https://loldraft.site/",
+            "applicationCategory": "GameApplication",
+            "operatingSystem": "Web",
+            "description": "2026년 최신 LCK, LPL, LEC 선수들로 포지션별 롤 선수 로스터를 뽑아 드림팀을 완성하는 드래프트 웹앱",
+            "inLanguage": "ko",
+            "dateModified": "2026-01-17",
+            "keywords": "롤 드래프트, LCK, 드림팀, 리그오브레전드, e스포츠, 페이커, T1",
+            "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "KRW"
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Place",
+            "name": "LOL DRAFT",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Seoul",
+                "addressCountry": "KR"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": 37.5665,
+                "longitude": 126.9780
+            }
+        }
+    </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "LOL DRAFT는 어떻게 사용하나요?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "각 포지션(탑/정글/미드/원딜/서포터)의 + 버튼을 눌러 랜덤으로 선수를 뽑으세요. 원하는 선수가 나오면 확정 버튼을 눌러 드림팀에 추가할 수 있습니다."
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "어떤 선수들이 포함되어 있나요?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "2014년부터 2026년까지의 LCK, LPL, LEC, LCS 등 주요 리그 프로선수들이 포함되어 있습니다. 페이커, 쵸비, 기인 등 월즈 우승 선수들도 만나보세요!"
+                    }
+                },
+                {
+                    "@type": "Question",
+                    "name": "LCK 선수가 더 자주 나오나요?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "네, LCK 선수들이 더 높은 확률로 등장합니다. 또한 월즈 우승 경력이 있는 선수들도 더 자주 뽑힙니다."
+                    }
+                }
+            ]
+        }
+    </script>
 </head>
+
 <body>
     <div class="background-overlay"></div>
 
@@ -16,58 +165,68 @@
             <span class="brand-name">LOL<span class="brand-accent">DRAFT</span></span>
         </div>
         <div class="top-actions">
-            <button class="icon-btn" aria-label="Reset" onclick="resetRoster()">⟳</button>
+            <button class="lang-btn" onclick="toggleLanguage()" title="Switch Language">EN</button>
+            <button class="icon-btn" aria-label="My Collection" onclick="openCollection()"
+                data-title-i18n="collectionTooltip" title="내 컴렉션">🃏</button>
+            <button class="icon-btn" aria-label="Reset" onclick="resetRoster()" data-title-i18n="resetTooltip"
+                title="로스터 초기화">⟳</button>
         </div>
     </header>
 
     <header class="hero">
-        <p class="eyebrow">LOL DRAFT</p>
-        <h1 class="title">BUILD YOUR LEGACY</h1>
-        <p class="subtitle">포지션을 지정하고 드림팀을 소환하세요</p>
+        <p class="eyebrow" data-i18n="eyebrow">LOL DRAFT - 2026년 최신 롤 선수 데이터</p>
+        <h1 class="title" data-i18n="title">LOL 드림팀 만들기</h1>
+        <p class="subtitle" data-i18n="subtitle">페이커, 쵸비, 기인 등 프로스타 선수들로 나만의 드림팀을 완성하세요</p>
     </header>
 
     <main>
-        <section class="draft-area">
+        <section class="draft-area" aria-label="선수 드래프트 영역">
+            <h2 class="visually-hidden">로스터 선택</h2>
             <div class="roster-container">
-            <div class="position-slot" data-position="top">
-                <div class="slot-content">
-                    <div class="position-name">TOP</div>
-                    <div class="player-display"></div>
-                    <button class="assign-btn" onclick="summonForPosition('top')">+</button>
+                <div class="position-slot" data-position="top">
+                    <div class="slot-content">
+                        <div class="position-name">TOP</div>
+                        <div class="player-display"></div>
+                        <button class="assign-btn" onclick="summonForPosition('top')"
+                            aria-label="탑 포지션 선수 뽑기">+</button>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="position-slot" data-position="jungle">
-                <div class="slot-content">
-                    <div class="position-name">JUNGLE</div>
-                    <div class="player-display"></div>
-                    <button class="assign-btn" onclick="summonForPosition('jungle')">+</button>
+
+                <div class="position-slot" data-position="jungle">
+                    <div class="slot-content">
+                        <div class="position-name">JUNGLE</div>
+                        <div class="player-display"></div>
+                        <button class="assign-btn" onclick="summonForPosition('jungle')"
+                            aria-label="정글 포지션 선수 뽑기">+</button>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="position-slot" data-position="mid">
-                <div class="slot-content">
-                    <div class="position-name">MID</div>
-                    <div class="player-display"></div>
-                    <button class="assign-btn" onclick="summonForPosition('mid')">+</button>
+
+                <div class="position-slot" data-position="mid">
+                    <div class="slot-content">
+                        <div class="position-name">MID</div>
+                        <div class="player-display"></div>
+                        <button class="assign-btn" onclick="summonForPosition('mid')"
+                            aria-label="미드 포지션 선수 뽑기">+</button>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="position-slot" data-position="adc">
-                <div class="slot-content">
-                    <div class="position-name">ADC</div>
-                    <div class="player-display"></div>
-                    <button class="assign-btn" onclick="summonForPosition('adc')">+</button>
+
+                <div class="position-slot" data-position="adc">
+                    <div class="slot-content">
+                        <div class="position-name">ADC</div>
+                        <div class="player-display"></div>
+                        <button class="assign-btn" onclick="summonForPosition('adc')"
+                            aria-label="원딜 포지션 선수 뽑기">+</button>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="position-slot" data-position="support">
-                <div class="slot-content">
-                    <div class="position-name">SUPPORT</div>
-                    <div class="player-display"></div>
-                    <button class="assign-btn" onclick="summonForPosition('support')">+</button>
+
+                <div class="position-slot" data-position="support">
+                    <div class="slot-content">
+                        <div class="position-name">SUPPORT</div>
+                        <div class="player-display"></div>
+                        <button class="assign-btn" onclick="summonForPosition('support')"
+                            aria-label="서포터 포지션 선수 뽑기">+</button>
+                    </div>
                 </div>
-            </div>
             </div>
         </section>
 
@@ -124,7 +283,11 @@
                         </div>
                     </div>
                 </div>
-                <button class="sign-btn" onclick="confirmRevealPick()">확정</button>
+                <div class="card-action-buttons">
+                    <button class="save-btn" onclick="saveToCollection()" data-i18n="saveToCollection">💾 컬렉션에
+                        저장</button>
+                    <button class="sign-btn" onclick="confirmRevealPick()" data-i18n="confirm">확정</button>
+                </div>
             </div>
         </div>
     </div>
@@ -133,11 +296,12 @@
     <div class="modal" id="playerModal">
         <div class="modal-content">
             <div class="modal-header">
-                <h2 id="modalTitle">선수 선택</h2>
+                <h2 id="modalTitle" data-i18n="selectPlayer">선수 선택</h2>
                 <button class="close-btn" onclick="closeModal()">&times;</button>
             </div>
             <div class="search-box">
-                <input type="text" id="searchInput" placeholder="선수 검색..." oninput="filterPlayers()">
+                <input type="text" id="searchInput" data-placeholder-i18n="searchPlayer" placeholder="선수 검색..."
+                    oninput="filterPlayers()">
             </div>
             <div class="player-grid" id="playerGrid">
                 <!-- Players will be dynamically inserted here -->
@@ -145,11 +309,58 @@
         </div>
     </div>
 
+    <!-- Collection Modal -->
+    <div class="modal" id="collectionModal">
+        <div class="modal-content collection-modal">
+            <div class="modal-header">
+                <h2>🃏 <span data-i18n="myCollection">내 컬렉션</span></h2>
+                <button class="close-btn" onclick="closeCollection()">&times;</button>
+            </div>
+            <div class="collection-tabs">
+                <button class="tab-btn active" data-tab="cards" onclick="switchCollectionTab('cards')"
+                    data-i18n="cards">카드</button>
+                <button class="tab-btn" data-tab="rosters" onclick="switchCollectionTab('rosters')"
+                    data-i18n="rosters">로스터</button>
+            </div>
+            <div class="collection-content">
+                <div id="cardsTab" class="tab-content active">
+                    <div class="collection-filters">
+                        <select id="collectionPosFilter" onchange="filterCollection()">
+                            <option value="all" data-i18n="allPositions">전체</option>
+                            <option value="top">TOP</option>
+                            <option value="jungle">JGL</option>
+                            <option value="mid">MID</option>
+                            <option value="adc">ADC</option>
+                            <option value="support">SUP</option>
+                        </select>
+                        <span class="collection-count" id="collectionCount">0</span>
+                    </div>
+                    <div class="collection-grid" id="collectionGrid">
+                        <!-- Saved cards will be displayed here -->
+                    </div>
+                </div>
+                <div id="rostersTab" class="tab-content">
+                    <button class="save-roster-btn" onclick="saveCurrentRoster()">💾 <span
+                            data-i18n="saveCurrentRoster">현재 로스터 저장</span></button>
+                    <div class="saved-rosters" id="savedRosters">
+                        <!-- Saved rosters will be displayed here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <footer>
-        <p>© 2026 LoL Draft | Made with ❤️ for LCK Fans</p>
+        <p data-i18n="footer1">© 2026 LOL DRAFT | 최신 업데이트: 2026년 1월 | 선수 정보는 부정확할 수 있습니다.</p>
+        <p style="margin-top:0.5rem;font-size:0.75rem;opacity:0.7;" data-i18n="footer2">LCK, LPL, LEC, LCS 프로게이머 로스터
+            드래프트 | 페이커, T1, Gen.G, DRX 등</p>
     </footer>
 
-    <script src="script.js"></script>
+    <noscript>
+        <p style="text-align:center;padding:2rem;color:#fff;">이 사이트는 JavaScript가 필요합니다. 브라우저에서 JavaScript를 활성화해 주세요.</p>
+    </noscript>
+    <script src="script.js" defer></script>
 </body>
+
 </html>

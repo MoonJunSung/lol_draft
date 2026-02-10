@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>페이지를 찾을 수 없습니다 | LOL DRAFT</title>
+    <meta name="robots" content="noindex,follow">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: linear-gradient(180deg, #050915 0%, #040812 100%);
+            color: #e6edf5;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 20px;
+        }
+        .error-code {
+            font-size: 8rem;
+            font-weight: 900;
+            background: linear-gradient(135deg, #6da8ff 0%, #d6b25c 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            line-height: 1;
+            margin-bottom: 1rem;
+        }
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #e6edf5;
+        }
+        p {
+            color: rgba(230, 237, 245, 0.7);
+            margin-bottom: 2rem;
+            max-width: 400px;
+        }
+        .home-btn {
+            display: inline-block;
+            padding: 14px 32px;
+            background: linear-gradient(135deg, #3a7cff 0%, #6da8ff 100%);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 700;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .home-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(58, 124, 255, 0.4);
+        }
+        .links {
+            margin-top: 2rem;
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .links a {
+            color: #6da8ff;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="error-code">404</div>
+    <h1>페이지를 찾을 수 없습니다</h1>
+    <p>요청하신 페이지가 존재하지 않거나 이동되었을 수 있습니다. 아래 링크를 통해 다시 시작해보세요.</p>
+    <a href="/" class="home-btn">🏆 홈으로 돌아가기</a>
+    <div class="links">
+        <a href="/">드래프트 시작하기</a>
+    </div>
+</body>
+</html>

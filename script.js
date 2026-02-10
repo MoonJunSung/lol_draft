@@ -1,5 +1,175 @@
 // LCK Legends Draft - Main Script
 
+// ===== 다국어 지원 =====
+let currentLang = localStorage.getItem('lang') || 'ko';
+
+const translations = {
+    ko: {
+        eyebrow: 'LOL DRAFT - 2026년 최신 롤 선수 데이터',
+        title: 'LOL 드림팀 만들기',
+        subtitle: '페이커, 쵸비, 기인 등 프로스타 선수들로 나만의 드림팀을 완성하세요',
+        saveToCollection: '💾 컬렉션에 저장',
+        confirm: '확정',
+        placeToRoster: '로스터에 배치',
+        noCards: '저장된 카드가 없습니다',
+        noCardsDesc: '선수를 뽑고 "컬렉션에 저장"을 눌러보세요!',
+        noRosters: '저장된 로스터가 없습니다',
+        noRostersDesc: '로스터를 완성하고 저장해보세요!',
+        myCollection: '내 컬렉션',
+        cards: '카드',
+        rosters: '로스터',
+        allPositions: '전체',
+        saveCurrentRoster: '현재 로스터 저장',
+        load: '불러오기',
+        delete: '삭제',
+        selectPosition: '배치할 포지션 선택',
+        cancel: '취소',
+        saved: '✓ 저장됨!',
+        placed: '을(를) {pos}에 배치했습니다!',
+        selected: '선택 완료!',
+        resetConfirm: '로스터를 초기화할까요?',
+        enterRosterName: '로스터 이름을 입력하세요:',
+        dreamTeam: '드림팀',
+        noPlayersInRoster: '로스터에 선수가 없습니다!',
+        top: '탑',
+        jungle: '정글',
+        mid: '미드',
+        adc: 'ADC',
+        support: '서포터',
+        collectionTooltip: '내 컬렉션',
+        resetTooltip: '로스터 초기화',
+        rosterReset: '로스터가 초기화되었습니다',
+        selectPlayer: '선수 선택',
+        searchPlayer: '선수 검색...',
+        footer1: '© 2026 LOL DRAFT | 최신 업데이트: 2026년 1월 | 선수 정보는 부정확할 수 있습니다.',
+        footer2: 'LCK, LPL, LEC, LCS 프로게이머 로스터 드래프트 | 페이커, T1, Gen.G, DRX 등',
+        deleteRosterConfirm: '이 로스터를 삭제하시겠습니까?',
+        randomDreamTeam: '🎲 랜덤 드림팀 완성!',
+        noPositionData: '해당 포지션 데이터가 없습니다',
+        cardNotFound: '카드를 찾을 수 없습니다',
+        dataLoaded: '데이터 로드 완료',
+        dataLoadFailed: '데이터 로드 실패',
+        allSeasonLoaded: '전체 시즌 데이터 로드 완료',
+        allSeasonFailed: '전체 시즌 데이터 로드 실패',
+        noSeasonData: '해당 시즌 데이터가 없습니다',
+        noPlayerData: '선수 데이터가 없습니다',
+        invalidPosition: '유효하지 않은 포지션입니다',
+        selectPlayerFirst: '⚠️ 먼저 선수를 선택해주세요!',
+        copiedToClipboard: '📋 클립보드에 복사되었습니다!',
+        copyFailed: '⚠️ 복사에 실패했습니다',
+        shareDreamTeam: '🏆 나의 LCK 드림팀 🏆',
+        totalWorldsWins: '🌍 총 월즈 우승: {count}회'
+    },
+    en: {
+        eyebrow: 'LOL DRAFT - 2026 Latest Pro Player Data',
+        title: 'Build Your Dream Team',
+        subtitle: 'Create your ultimate roster with Faker, Chovy, Kiin and other ProStar players',
+        saveToCollection: '💾 Save to Collection',
+        confirm: 'Confirm',
+        placeToRoster: 'Add to Roster',
+        noCards: 'No saved cards',
+        noCardsDesc: 'Draw players and click "Save to Collection"!',
+        noRosters: 'No saved rosters',
+        noRostersDesc: 'Complete a roster and save it!',
+        myCollection: 'My Collection',
+        cards: 'Cards',
+        rosters: 'Rosters',
+        allPositions: 'All',
+        saveCurrentRoster: 'Save Current Roster',
+        load: 'Load',
+        delete: 'Delete',
+        selectPosition: 'Select Position',
+        cancel: 'Cancel',
+        saved: '✓ Saved!',
+        placed: ' placed at {pos}!',
+        selected: 'Selected!',
+        resetConfirm: 'Reset roster?',
+        enterRosterName: 'Enter roster name:',
+        dreamTeam: 'Dream Team',
+        noPlayersInRoster: 'No players in roster!',
+        top: 'Top',
+        jungle: 'Jungle',
+        mid: 'Mid',
+        adc: 'ADC',
+        support: 'Support',
+        collectionTooltip: 'My Collection',
+        resetTooltip: 'Reset Roster',
+        rosterReset: 'Roster has been reset',
+        selectPlayer: 'Select Player',
+        searchPlayer: 'Search player...',
+        footer1: '© 2026 LOL DRAFT | Last update: Jan 2026 | Player info may be inaccurate.',
+        footer2: 'LCK, LPL, LEC, LCS Pro Roster Draft | Faker, T1, Gen.G, DRX etc.',
+        deleteRosterConfirm: 'Delete this roster?',
+        randomDreamTeam: '🎲 Random Dream Team Complete!',
+        noPositionData: 'No data for this position',
+        cardNotFound: 'Card not found',
+        dataLoaded: 'Data loaded',
+        dataLoadFailed: 'Failed to load data',
+        allSeasonLoaded: 'All season data loaded',
+        allSeasonFailed: 'Failed to load all season data',
+        noSeasonData: 'No data for this season',
+        noPlayerData: 'No player data available',
+        invalidPosition: 'Invalid position',
+        selectPlayerFirst: '⚠️ Please select players first!',
+        copiedToClipboard: '📋 Copied to clipboard!',
+        copyFailed: '⚠️ Copy failed',
+        shareDreamTeam: '🏆 My LCK Dream Team 🏆',
+        totalWorldsWins: '🌍 Total Worlds Wins: {count}'
+    }
+};
+
+function t(key) {
+    return translations[currentLang][key] || translations['ko'][key] || key;
+}
+
+function toggleLanguage() {
+    currentLang = currentLang === 'ko' ? 'en' : 'ko';
+    localStorage.setItem('lang', currentLang);
+    updateLanguageUI();
+}
+
+function updateLanguageUI() {
+    // 버튼 텍스트 업데이트
+    const langBtn = document.querySelector('.lang-btn');
+    if (langBtn) {
+        langBtn.textContent = currentLang === 'ko' ? 'EN' : '한국어';
+    }
+    
+    // data-i18n 요소들 업데이트
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.dataset.i18n;
+        el.textContent = t(key);
+    });
+    
+    // data-title-i18n (title 속성) 업데이트
+    document.querySelectorAll('[data-title-i18n]').forEach(el => {
+        const key = el.dataset.titleI18n;
+        el.title = t(key);
+    });
+    
+    // data-placeholder-i18n (placeholder 속성) 업데이트
+    document.querySelectorAll('[data-placeholder-i18n]').forEach(el => {
+        const key = el.dataset.placeholderI18n;
+        el.placeholder = t(key);
+    });
+    
+    // 동적 컨텐츠 다시 렌더링
+    if (typeof renderCollectionGrid === 'function' && document.getElementById('collectionModal')?.classList.contains('active')) {
+        renderCollectionGrid();
+        renderSavedRosters();
+    }
+    
+    // HTML lang 속성 변경
+    document.documentElement.lang = currentLang;
+}
+
+// 페이지 로드 시 언어 적용
+document.addEventListener('DOMContentLoaded', () => {
+    updateLanguageUI();
+});
+
+// =====
+
 let players = {
     top: [],
     jungle: [],
@@ -161,10 +331,10 @@ async function loadPlayersForYear(year) {
         };
         currentYear = year;
         resetRoster();
-        showToast(`${year} 데이터 로드 완료`);
+        showToast(`${year} ${t('dataLoaded')}`);
     } catch (error) {
         console.error(error);
-        showToast(`${year} 데이터 로드 실패`);
+        showToast(`${year} ${t('dataLoadFailed')}`);
     }
 }
 
@@ -201,10 +371,10 @@ async function loadAllPlayers() {
 
         currentYear = null;
         resetRoster();
-        showToast('전체 시즌 데이터 로드 완료');
+        showToast(t('allSeasonLoaded'));
     } catch (error) {
         console.error(error);
-        showToast('전체 시즌 데이터 로드 실패');
+        showToast(t('allSeasonFailed'));
     }
 }
 
@@ -282,8 +452,18 @@ function weightedPick(list) {
     const weights = list.map((item) => {
         const worldsBoost = Number(item.worldsWins || 0) > 0 ? 3 : 1;
         const league = (item.league || '').toUpperCase();
-        const lckBoost = league === 'LCK' ? 3 : 1;
-        return worldsBoost * lckBoost;
+        // LCK 15배, LCK CL 2배, LPL 3배, LEC/LCS 2배, 나머지 1배
+        let leagueBoost = 1;
+        if (league === 'LCK CL' || league === 'LCKCL' || league === 'LCK CHALLENGERS') {
+            leagueBoost = 2;
+        } else if (league === 'LCK') {
+            leagueBoost = 15;
+        } else if (league === 'LPL') {
+            leagueBoost = 3;
+        } else if (league === 'LEC' || league === 'LCS') {
+            leagueBoost = 2;
+        }
+        return worldsBoost * leagueBoost;
     });
     const total = weights.reduce((sum, w) => sum + w, 0);
     let roll = Math.random() * total;
@@ -301,7 +481,7 @@ function openSeasonPack(seasonKey) {
     const pool = getPlayersBySeason(season);
 
     if (!pool.length) {
-        showToast(`${season} 시즌 데이터가 없습니다`);
+        showToast(`${season} ${t('noSeasonData')}`);
         renderPackResult(null);
         return;
     }
@@ -444,12 +624,12 @@ function closeReveal() {
 // 포지션별 랜덤 소환
 function summonForPosition(position) {
     if (!players[position] || players[position].length === 0) {
-        showToast('선수 데이터가 없습니다');
+        showToast(t('noPlayerData'));
         return;
     }
     const positionPlayers = players[position];
     if (!positionPlayers || !positionPlayers.length) {
-        showToast('해당 포지션 데이터가 없습니다');
+        showToast(t('noPositionData'));
         return;
     }
 
@@ -469,7 +649,7 @@ function confirmRevealPick() {
     currentRoster[position] = pendingRevealPick;
     updateSlotDisplay(position, pendingRevealPick);
     updateTeamStats();
-    showToast(`${pendingRevealPick.name} 선택 완료!`);
+    showToast(`${pendingRevealPick.name} ${t('selected')}`);
     closeReveal();
 }
 
@@ -481,7 +661,7 @@ function openModal(position) {
     const playerGrid = document.getElementById('playerGrid');
     const searchInput = document.getElementById('searchInput');
     
-    modalTitle.textContent = `${positionNames[position]} 선수 선택`;
+    modalTitle.textContent = `${t(position)} ${t('selectPlayer')}`;
     searchInput.value = '';
     
     // 해당 포지션의 선수 목록 표시
@@ -544,7 +724,7 @@ function selectPlayer(player) {
     updateSlotDisplay(currentPosition, player);
     closeModal();
     updateTeamStats();
-    showToast(`${player.name} 선택 완료!`);
+    showToast(`${player.name} ${t('selected')}`);
 }
 
 // 슬롯 디스플레이 업데이트
@@ -626,7 +806,7 @@ function randomDraft() {
     const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
     const hasAny = positions.some(pos => players[pos] && players[pos].length);
     if (!hasAny) {
-        showToast('선수 데이터가 없습니다');
+        showToast(t('noPlayerData'));
         return;
     }
     
@@ -639,7 +819,7 @@ function randomDraft() {
 
             if (index === positions.length - 1) {
                 updateTeamStats();
-                showToast('🎲 랜덤 드림팀 완성!');
+                showToast(t('randomDreamTeam'));
                 startReveal({ ...randomPlayer, position });
             }
         }, index * 300);
@@ -656,7 +836,7 @@ function resetRoster() {
     });
     
     updateTeamStats();
-    showToast('🔄 로스터가 초기화되었습니다');
+    showToast(`🔄 ${t('rosterReset')}`);
 }
 
 // 로스터 공유
@@ -664,29 +844,29 @@ function shareRoster() {
     const filledPositions = Object.entries(currentRoster).filter(([_, p]) => p !== null);
     
     if (filledPositions.length === 0) {
-        showToast('⚠️ 먼저 선수를 선택해주세요!');
+        showToast(t('selectPlayerFirst'));
         return;
     }
     
-    let shareText = '🏆 나의 LCK 드림팀 🏆\n\n';
+    let shareText = t('shareDreamTeam') + '\n\n';
     
     const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
     positions.forEach(pos => {
         const player = currentRoster[pos];
         if (player) {
-            shareText += `${positionNames[pos]}: ${player.name} (${player.team})\n`;
+            shareText += `${t(pos)}: ${player.name} (${player.team})\n`;
         }
     });
     
     // 월즈 우승 횟수 합계
     const totalWorldsWins = filledPositions.reduce((sum, [_, p]) => sum + p.worldsWins, 0);
-    shareText += `\n🌍 총 월즈 우승: ${totalWorldsWins}회`;
+    shareText += '\n' + t('totalWorldsWins').replace('{count}', totalWorldsWins);
     
     // 클립보드에 복사
     navigator.clipboard.writeText(shareText).then(() => {
-        showToast('📋 클립보드에 복사되었습니다!');
+        showToast(t('copiedToClipboard'));
     }).catch(() => {
-        showToast('⚠️ 복사에 실패했습니다');
+        showToast(t('copyFailed'));
     });
 }
 
@@ -695,10 +875,348 @@ function showToast(message) {
     // Toast disabled
 }
 
+// ============================================
+// 컬렉션 시스템
+// ============================================
+
+// 컬렉션 데이터 (localStorage)
+let cardCollection = [];
+let savedRosters = [];
+
+// 컬렉션 로드
+function loadCollection() {
+    try {
+        const saved = localStorage.getItem('lolDraftCollection');
+        cardCollection = saved ? JSON.parse(saved) : [];
+    } catch {
+        cardCollection = [];
+    }
+    try {
+        const savedR = localStorage.getItem('lolDraftRosters');
+        savedRosters = savedR ? JSON.parse(savedR) : [];
+    } catch {
+        savedRosters = [];
+    }
+}
+
+// 컬렉션 저장
+function saveCollectionToStorage() {
+    localStorage.setItem('lolDraftCollection', JSON.stringify(cardCollection));
+}
+
+function saveRostersToStorage() {
+    localStorage.setItem('lolDraftRosters', JSON.stringify(savedRosters));
+}
+
+// 카드를 컬렉션에 저장
+function saveToCollection() {
+    if (!pendingRevealPick) return;
+    
+    const card = {
+        id: Date.now(),
+        ...pendingRevealPick,
+        savedAt: new Date().toISOString()
+    };
+    
+    cardCollection.push(card);
+    saveCollectionToStorage();
+    
+    // 저장 피드백
+    const saveBtn = document.querySelector('.save-btn');
+    if (saveBtn) {
+        saveBtn.textContent = t('saved');
+        saveBtn.style.background = '#22c55e';
+        setTimeout(() => {
+            saveBtn.textContent = t('saveToCollection');
+            saveBtn.style.background = '';
+        }, 1500);
+    }
+}
+
+// 컬렉션 모달 열기
+function openCollection() {
+    loadCollection();
+    renderCollectionGrid();
+    renderSavedRosters();
+    document.getElementById('collectionModal').classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+// 컬렉션 모달 닫기
+function closeCollection() {
+    document.getElementById('collectionModal').classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+// 탭 전환
+function switchCollectionTab(tabName) {
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.tab === tabName);
+    });
+    document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.toggle('active', content.id === tabName + 'Tab');
+    });
+}
+
+// 컬렉션 그리드 렌더링
+function renderCollectionGrid() {
+    const grid = document.getElementById('collectionGrid');
+    const filter = document.getElementById('collectionPosFilter').value;
+    
+    let filtered = cardCollection;
+    if (filter !== 'all') {
+        filtered = cardCollection.filter(c => c.position === filter);
+    }
+    
+    document.getElementById('collectionCount').textContent = `${filtered.length}`;
+    
+    if (filtered.length === 0) {
+        grid.innerHTML = `
+            <div class="empty-collection" style="grid-column: 1/-1;">
+                <div class="empty-icon">🃏</div>
+                <p>${t('noCards')}</p>
+                <p style="font-size:0.85rem;margin-top:8px;">${t('noCardsDesc')}</p>
+            </div>
+        `;
+        return;
+    }
+    
+    grid.innerHTML = filtered.map((card, index) => {
+        const teamName = cleanTeamName(card.team) || card.team || '-';
+        const year = resolveCardYear(card) || '????';
+        return `
+            <div class="collection-card" data-index="${index}">
+                <span class="card-pos">${(card.position || '').toUpperCase()}</span>
+                <div class="card-name">${card.name}</div>
+                <div class="card-team">${teamName}</div>
+                <div class="card-year">${year}</div>
+                <button type="button" class="use-btn">${t('placeToRoster')}</button>
+            </div>
+        `;
+    }).join('');
+}
+
+// 이벤트 위임으로 버튼 클릭 처리
+document.addEventListener('click', function(e) {
+    const btn = e.target.closest('.use-btn');
+    if (btn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const card = btn.closest('.collection-card');
+        if (card) {
+            const index = parseInt(card.dataset.index, 10);
+            placeCardToRoster(index);
+        }
+    }
+});
+
+// 인덱스로 카드를 로스터에 배치
+function placeCardToRoster(index) {
+    const filter = document.getElementById('collectionPosFilter')?.value || 'all';
+    let filtered = cardCollection;
+    if (filter !== 'all') {
+        filtered = cardCollection.filter(c => c.position === filter);
+    }
+    
+    const card = filtered[index];
+    if (!card) {
+        showToast(t('cardNotFound'));
+        return;
+    }
+    
+    let position = card.position;
+    
+    if (!position) {
+        showPositionSelectForCard(index);
+        return;
+    }
+    
+    const validPositions = ['top', 'jungle', 'mid', 'adc', 'support'];
+    if (!validPositions.includes(position)) {
+        showPositionSelectForCard(index);
+        return;
+    }
+    
+    currentRoster[position] = card;
+    updateSlotDisplay(position, card);
+    closeCollection();
+    const posName = t(position);
+    showToast(`${card.name}${t('placed').replace('{pos}', posName)}`);
+}
+
+// 컬렉션 필터
+function filterCollection() {
+    renderCollectionGrid();
+}
+
+// 컬렉션에서 카드 삭제
+function deleteFromCollection(id, event) {
+    event.stopPropagation();
+    cardCollection = cardCollection.filter(c => c.id !== id);
+    saveCollectionToStorage();
+    renderCollectionGrid();
+}
+
+// 컬렉션에서 카드를 로스터에 배치
+function useCardFromCollection(id, selectedPosition = null) {
+    const card = cardCollection.find(c => c.id === id);
+    if (!card) {
+        showToast(t('cardNotFound'));
+        return;
+    }
+    
+    let position = selectedPosition || card.position;
+    
+    // position이 없으면 포지션 선택 모달 표시
+    if (!position) {
+        showPositionSelectForCard(id);
+        return;
+    }
+    
+    // position이 유효한지 확인
+    const validPositions = ['top', 'jungle', 'mid', 'adc', 'support'];
+    if (!validPositions.includes(position)) {
+        showToast(t('invalidPosition'));
+        return;
+    }
+    
+    currentRoster[position] = card;
+    updateSlotDisplay(position, card);
+    closeCollection();
+    const posName = t(position);
+    showToast(`${card.name}${t('placed').replace('{pos}', posName)}`);
+}
+
+// 포지션 선택 모달 표시
+function showPositionSelectForCard(index) {
+    const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
+    const html = `
+        <div class="position-select-popup">
+            <h3>${t('selectPosition')}</h3>
+            <div class="position-select-btns">
+                ${positions.map(pos => `
+                    <button onclick="placeCardWithPosition(${index}, '${pos}')">${t(pos)}</button>
+                `).join('')}
+            </div>
+            <button class="cancel-btn" onclick="this.closest('.position-select-popup').remove()">${t('cancel')}</button>
+        </div>
+    `;
+    document.body.insertAdjacentHTML('beforeend', html);
+}
+
+// 선택된 포지션으로 카드 배치
+function placeCardWithPosition(index, position) {
+    const filter = document.getElementById('collectionPosFilter').value;
+    let filtered = cardCollection;
+    if (filter !== 'all') {
+        filtered = cardCollection.filter(c => c.position === filter);
+    }
+    
+    const card = filtered[index];
+    if (!card) return;
+    
+    document.querySelector('.position-select-popup')?.remove();
+    
+    currentRoster[position] = card;
+    updateSlotDisplay(position, card);
+    closeCollection();
+    const posName = t(position);
+    showToast(`${card.name}${t('placed').replace('{pos}', posName)}`);
+}
+
+// 현재 로스터 저장
+function saveCurrentRoster() {
+    const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
+    const filledCount = positions.filter(p => currentRoster[p]).length;
+    
+    if (filledCount === 0) {
+        alert(t('noPlayersInRoster'));
+        return;
+    }
+    
+    const rosterName = prompt(t('enterRosterName'), `${t('dreamTeam')} ${savedRosters.length + 1}`);
+    if (!rosterName) return;
+    
+    const roster = {
+        id: Date.now(),
+        name: rosterName,
+        players: { ...currentRoster },
+        savedAt: new Date().toISOString()
+    };
+    
+    savedRosters.push(roster);
+    saveRostersToStorage();
+    renderSavedRosters();
+}
+
+// 저장된 로스터 렌더링
+function renderSavedRosters() {
+    const container = document.getElementById('savedRosters');
+    
+    if (savedRosters.length === 0) {
+        container.innerHTML = `
+            <div class="empty-collection">
+                <div class="empty-icon">📋</div>
+                <p>${t('noRosters')}</p>
+                <p style="font-size:0.85rem;margin-top:8px;">${t('noRostersDesc')}</p>
+            </div>
+        `;
+        return;
+    }
+    
+    const dateLocale = currentLang === 'ko' ? 'ko-KR' : 'en-US';
+    container.innerHTML = savedRosters.map(roster => {
+        const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
+        const playerTags = positions
+            .filter(p => roster.players[p])
+            .map(p => `<span class="roster-player-tag">${roster.players[p].name}</span>`)
+            .join('');
+        
+        const date = new Date(roster.savedAt).toLocaleDateString(dateLocale);
+        
+        return `
+            <div class="roster-item">
+                <div class="roster-item-header">
+                    <span class="roster-item-name">${roster.name}</span>
+                    <span class="roster-item-date">${date}</span>
+                </div>
+                <div class="roster-item-players">${playerTags || '<span style="color:var(--muted)">-</span>'}</div>
+                <div class="roster-item-actions">
+                    <button class="roster-load-btn" onclick="loadRoster(${roster.id})">${t('load')}</button>
+                    <button class="roster-delete-btn" onclick="deleteRoster(${roster.id})">${t('delete')}</button>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+// 로스터 불러오기
+function loadRoster(id) {
+    const roster = savedRosters.find(r => r.id === id);
+    if (!roster) return;
+    
+    const positions = ['top', 'jungle', 'mid', 'adc', 'support'];
+    positions.forEach(pos => {
+        currentRoster[pos] = roster.players[pos] || null;
+        updateSlotDisplay(pos, currentRoster[pos]);
+    });
+    
+    closeCollection();
+}
+
+// 로스터 삭제
+function deleteRoster(id) {
+    if (!confirm(t('deleteRosterConfirm'))) return;
+    savedRosters = savedRosters.filter(r => r.id !== id);
+    saveRostersToStorage();
+    renderSavedRosters();
+}
+
 // ESC 키로 모달 닫기
 document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
         closeModal();
+        closeCollection();
     }
 });
 
@@ -714,6 +1232,7 @@ document.addEventListener('DOMContentLoaded', () => {
     console.log('LCK Legends Draft loaded!');
     console.log(`Total players: ${Object.values(players).flat().length}`);
 
+    loadCollection();
     loadAllPlayers();
 
     document.querySelectorAll('.position-slot').forEach((slot) => {
@@ -735,5 +1254,15 @@ document.addEventListener('DOMContentLoaded', () => {
             event.preventDefault();
             confirmRevealPick();
         }, { passive: false });
+    }
+    
+    // 컬렉션 모달 외부 클릭 닫기
+    const collectionModal = document.getElementById('collectionModal');
+    if (collectionModal) {
+        collectionModal.addEventListener('click', (e) => {
+            if (e.target.id === 'collectionModal') {
+                closeCollection();
+            }
+        });
     }
 });

@@ -4,6 +4,19 @@
     box-sizing: border-box;
 }
 
+/* 접근성: 스크린 리더 전용 숨김 클래스 */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
 :root {
     --bg: #040812;
     --panel: #0a1120;
@@ -84,6 +97,23 @@ body {
     gap: 10px;
 }
 
+.lang-btn {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid var(--gold);
+    background: transparent;
+    color: var(--gold);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.lang-btn:hover {
+    background: var(--gold);
+    color: #000;
+}
 
 .icon-btn {
     width: 34px;
@@ -410,13 +440,15 @@ main {
     align-items: center;
     justify-content: center;
     opacity: 0;
+    visibility: hidden;
     pointer-events: none;
     z-index: 100;
-    transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
 .reveal-overlay.active {
     opacity: 1;
+    visibility: visible;
     pointer-events: auto;
 }
 
@@ -424,7 +456,6 @@ main {
     width: min(520px, 92vw);
     text-align: center;
     color: #fff;
-    pointer-events: auto;
 }
 
 .reveal-step {
@@ -433,7 +464,6 @@ main {
     align-items: center;
     gap: 12px;
     animation: fadeUp 0.6s ease;
-    pointer-events: auto;
 }
 
 .reveal-step.active {
@@ -620,6 +650,347 @@ footer {
     animation: selectPulse 0.5s ease;
 }
 
+/* Card Action Buttons */
+.card-action-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.card-action-buttons .save-btn,
+.card-action-buttons .sign-btn {
+    width: 200px;
+    padding: 12px 20px;
+    white-space: nowrap;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.card-action-buttons .save-btn {
+    background: linear-gradient(135deg, #d6b25c 0%, #b4995a 100%);
+    color: #000;
+}
+
+.card-action-buttons .sign-btn {
+    background: #fff;
+    color: #000;
+}
+
+.card-action-buttons .save-btn:hover,
+.card-action-buttons .sign-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Collection Modal */
+.collection-modal {
+    max-width: 900px;
+    max-height: 85vh;
+}
+
+.collection-tabs {
+    display: flex;
+    gap: 8px;
+    padding: 0 24px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tab-btn {
+    padding: 12px 20px;
+    background: transparent;
+    color: var(--muted);
+    border: none;
+    border-bottom: 2px solid transparent;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.tab-btn:hover {
+    color: var(--text);
+}
+
+.tab-btn.active {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+.collection-content {
+    padding: 20px 24px;
+    overflow-y: auto;
+    max-height: calc(85vh - 180px);
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.collection-filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.collection-filters select {
+    padding: 8px 16px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    font-size: 0.9rem;
+}
+
+.collection-count {
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.collection-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+}
+
+.collection-card {
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.02) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 12px;
+    padding-top: 16px;
+    padding-bottom: 50px;
+    transition: all 0.2s;
+    position: relative;
+}
+
+.collection-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 20px rgba(109, 168, 255, 0.2);
+}
+
+.collection-card .card-pos {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.65rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 700;
+}
+
+.collection-card .card-name {
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-bottom: 4px;
+    color: var(--text);
+    padding-right: 40px;
+}
+
+.collection-card .card-team {
+    font-size: 0.8rem;
+    color: var(--muted);
+    margin-bottom: 4px;
+}
+
+.collection-card .card-year {
+    font-size: 0.75rem;
+    color: var(--gold);
+}
+
+.collection-card .use-btn {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    right: 8px;
+    padding: 10px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    pointer-events: auto;
+    z-index: 10;
+}
+
+.collection-card .use-btn:hover {
+    background: var(--accent-strong);
+}
+
+/* Saved Rosters */
+.save-roster-btn {
+    width: 100%;
+    padding: 14px;
+    background: linear-gradient(135deg, var(--accent) 0%, var(--accent-strong) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 20px;
+    transition: all 0.2s;
+}
+
+.save-roster-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--btn-glow);
+}
+
+.saved-rosters {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.roster-item {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.roster-item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.roster-item-name {
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.roster-item-date {
+    font-size: 0.8rem;
+    color: var(--muted);
+}
+
+.roster-item-players {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+}
+
+.roster-player-tag {
+    background: rgba(109, 168, 255, 0.15);
+    color: var(--accent);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.roster-item-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.roster-item-actions button {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.roster-load-btn {
+    background: var(--accent);
+    color: #fff;
+}
+
+.roster-delete-btn {
+    background: rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+}
+
+.empty-collection {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--muted);
+}
+
+.empty-collection .empty-icon {
+    font-size: 3rem;
+    margin-bottom: 12px;
+}
+
+/* Position Select Popup */
+.position-select-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--bg);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    padding: 24px;
+    z-index: 10000;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.position-select-popup h3 {
+    margin-bottom: 16px;
+    color: var(--gold);
+}
+
+.position-select-btns {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.position-select-btns button {
+    padding: 10px 16px;
+    background: linear-gradient(135deg, #d6b25c 0%, #b4995a 100%);
+    color: #000;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.position-select-btns button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(214, 178, 92, 0.4);
+}
+
+.position-select-popup .cancel-btn {
+    padding: 8px 20px;
+    background: transparent;
+    color: var(--muted);
+    border: 1px solid var(--muted);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.position-select-popup .cancel-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
 /* Scrollbar */
 ::-webkit-scrollbar {
     width: 8px;
@@ -633,4 +1004,178 @@ footer {
 }
 ::-webkit-scrollbar-thumb:hover {
     background: rgba(109, 168, 255, 0.8);
+}
+
+/* Mobile Optimizations */
+@media (max-width: 768px) {
+    .hero {
+        padding: 40px 20px 20px;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .roster-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        min-height: auto;
+    }
+    
+    /* Make the last item centered if odd number (5 positions) */
+    .position-slot:last-child {
+        grid-column: span 2;
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .position-slot {
+        height: 240px;
+        min-height: 240px;
+    }
+
+    .slot-content {
+        padding: 16px;
+    }
+
+    .modal-content {
+        max-height: 100vh;
+        border-radius: 14px 14px 0 0;
+        margin-top: auto; /* Bottom sheet feel if flex container allows */
+    }
+}
+
+@media (max-width: 480px) {
+    .topbar {
+        padding: 0 16px;
+    }
+
+    .brand-name {
+        font-size: 0.9rem;
+    }
+
+    .title {
+        font-size: 1.8rem;
+    }
+
+    .eyebrow {
+        font-size: 0.7rem;
+    }
+
+    main {
+        padding: 10px 16px 40px;
+    }
+
+    .draft-area {
+        padding: 16px 12px 10px;
+    }
+
+    .roster-container {
+        grid-template-columns: 1fr;
+    }
+
+    .position-slot:last-child {
+        grid-column: auto;
+        width: 100%;
+    }
+
+    .position-slot {
+        height: 180px;
+        min-height: 180px;
+        flex-direction: row; /* Horizontal layout for very small screens to save vertical space? Maybe not, keep vertical but smaller */
+    }
+
+    /* Let's try horizontal layout for mobile slots to save space */
+    .position-slot {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 20px;
+    }
+
+    .slot-content {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 0 16px;
+        width: 100%;
+    }
+    
+    .position-name {
+        margin-bottom: 0;
+        margin-right: auto;
+    }
+
+    .player-display {
+        min-height: auto;
+        flex-direction: row;
+        gap: 10px;
+        margin-right: 10px;
+    }
+    
+    .slot-name {
+        font-size: 1.1rem;
+    }
+
+    .assign-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    /* Modal adjustments */
+    .modal {
+        padding: 0;
+        align-items: flex-end; /* Bottom sheet */
+    }
+
+    .modal-content {
+        border-radius: 20px 20px 0 0;
+        max-height: 85vh;
+        border-bottom: none;
+    }
+
+    .player-grid {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px;
+        padding: 16px;
+    }
+
+    .player-card {
+        padding: 8px;
+    }
+    
+    .player-card img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .player-card .name {
+        font-size: 0.75rem;
+    }
+
+    /* Reveal Overlay Mobile */
+    .reveal-text.large {
+        font-size: 2.4rem;
+    }
+    
+    .reveal-logo {
+        font-size: 2.2rem;
+    }
+    
+    .final-card {
+        padding: 16px;
+    }
+    
+    .card-header {
+        font-size: 1.2rem;
+    }
+    
+    .card-name {
+        font-size: 1.4rem;
+    }
+    
+    .card-trophy {
+        font-size: 1.5rem;
+        top: -8px;
+        right: -8px;
+    }
 }
