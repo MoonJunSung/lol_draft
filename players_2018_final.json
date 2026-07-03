@@ -6,9 +6,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Duke_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 2
     },
     {
       "id": "letme_2018",
@@ -18,7 +19,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lies_2018",
@@ -28,7 +30,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "langx_2018",
@@ -38,7 +41,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rascal_2018",
@@ -48,7 +52,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cuvee_2018",
@@ -58,7 +63,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "amazingj_2018",
@@ -68,7 +74,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "new_2018",
@@ -78,7 +85,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "roach_2018",
@@ -88,7 +96,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "add_2018",
@@ -98,7 +107,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gimgoon_2018",
@@ -106,9 +116,10 @@
       "team": "FunPlus Phoenix",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ray_2018",
@@ -116,9 +127,10 @@
       "team": "EDward Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ray_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kiin_2018",
@@ -128,7 +140,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "smeb_2018",
@@ -138,7 +151,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mouse_2018",
@@ -148,7 +162,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zoom_2018",
@@ -158,7 +173,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jinoo_2018",
@@ -168,7 +184,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "untara_2018",
@@ -178,7 +195,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lindarang_2018",
@@ -188,7 +206,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crazy_2018",
@@ -198,7 +217,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ll_2018",
@@ -208,7 +228,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "stark_2018",
@@ -218,7 +239,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sohwan_2018",
@@ -228,7 +250,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ren_2018",
@@ -238,7 +261,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "taurus_2018",
@@ -248,7 +272,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yt_2018",
@@ -258,7 +283,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "calm_2018",
@@ -268,7 +294,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "boong_2018",
@@ -278,7 +305,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xiyang_2018",
@@ -288,7 +316,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "957_2018",
@@ -298,7 +327,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "flandre_2018",
@@ -308,7 +338,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zeros_2018",
@@ -318,7 +349,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kingj_2018",
@@ -328,7 +360,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2018",
@@ -338,7 +371,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "alphari_2018",
@@ -348,7 +382,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jaeger_2018",
@@ -358,7 +393,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2018",
@@ -368,7 +404,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "whiteknight_2018",
@@ -378,7 +415,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ruin_2018",
@@ -388,7 +426,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "profit_2018",
@@ -398,7 +437,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2018)"
+      "seasonTeam": "Team ROCCAT (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vizicsacsi_2018",
@@ -408,7 +448,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "soaz_2018",
@@ -418,7 +459,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "odoamne_2018",
@@ -428,7 +470,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2018)"
+      "seasonTeam": "Splyce (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zica_2018",
@@ -438,7 +481,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "moyu_2018",
@@ -448,7 +492,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rest_2018",
@@ -458,7 +503,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "liang_2018",
@@ -468,7 +514,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "theshy_2018",
@@ -476,9 +523,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "thal_2018",
@@ -488,7 +536,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2018",
@@ -496,9 +545,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2018)"
+      "seasonTeam": "Team Liquid (2018)",
+      "worldsWins": 1
     },
     {
       "id": "hauntzer_2018",
@@ -508,7 +558,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ssumday_2018",
@@ -516,9 +567,10 @@
       "team": "100 Thieves",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dshao_2018",
@@ -528,7 +580,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "solo_2018",
@@ -538,7 +591,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lourlo_2018",
@@ -548,7 +602,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "huni_2018",
@@ -556,9 +611,10 @@
       "team": "Echo Fox",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "flame_2018",
@@ -566,9 +622,10 @@
       "team": "FlyQuest",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Flame_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "darshan_2018",
@@ -578,7 +635,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "licorice_2018",
@@ -588,7 +646,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "riris_2018",
@@ -598,7 +657,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ziv_2018",
@@ -608,7 +668,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "khan_2018",
@@ -618,7 +679,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "3z_2018",
@@ -628,7 +690,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hanabi_2018",
@@ -638,7 +701,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "2188_2018",
@@ -648,7 +712,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sunsieu_2018",
@@ -658,7 +723,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mmd_2018",
@@ -668,7 +734,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pk_2018",
@@ -678,7 +745,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sya_2018",
@@ -688,7 +756,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "loong_2018",
@@ -698,7 +767,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zz1tai_2018",
@@ -708,7 +778,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "baroibeo_2018",
@@ -718,7 +789,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "marin_2018",
@@ -726,9 +798,10 @@
       "team": "Top Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/MaRin_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "dhokla_2018",
@@ -738,7 +811,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ikaros_2018",
@@ -748,7 +822,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dusk_2018",
@@ -758,7 +833,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nevan_2018",
@@ -768,7 +844,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sunsieu_2018",
@@ -778,7 +855,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "archie_2018",
@@ -788,7 +866,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bwipo_2018",
@@ -798,7 +877,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jackpot_2018",
@@ -808,7 +888,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Afro Beast (2018)"
+      "seasonTeam": "Afro Beast (2018)",
+      "worldsWins": 0
     },
     {
       "id": "woofe_2018",
@@ -818,7 +899,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sw0rd_2018",
@@ -828,7 +910,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yoshino_2018",
@@ -838,7 +921,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "chp_2018",
@@ -848,7 +932,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aodi_2018",
@@ -858,7 +943,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lindarang_2018",
@@ -868,7 +954,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cuvee_2018",
@@ -878,7 +965,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "alphamong_2018",
@@ -888,7 +976,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hani_2018",
@@ -898,7 +987,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hari_2018",
@@ -908,7 +998,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kiaya_2018",
@@ -918,7 +1009,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yt_2018",
@@ -928,7 +1020,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ll_2018",
@@ -938,7 +1031,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zeros_2018",
@@ -948,7 +1042,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "violet_2018",
@@ -958,7 +1053,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "allorim_2018",
@@ -968,7 +1064,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ikssu_2018",
@@ -978,7 +1075,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jackpot_2018",
@@ -988,7 +1086,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bobo_2018",
@@ -998,7 +1097,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rock_2018",
@@ -1008,7 +1108,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kingen_2018",
@@ -1018,7 +1119,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "calm_2018",
@@ -1028,7 +1130,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "heaven_2018",
@@ -1038,7 +1141,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hoon_2018",
@@ -1048,7 +1152,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maha_2018",
@@ -1058,7 +1163,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2018",
@@ -1068,7 +1174,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "max_2018",
@@ -1078,7 +1185,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "water_2018",
@@ -1088,7 +1196,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "holder_2018",
@@ -1098,7 +1207,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fallenbandit_2018",
@@ -1108,7 +1218,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nexus_2018",
@@ -1118,7 +1229,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "soar_2018",
@@ -1128,7 +1240,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team BattleComics (2018)"
+      "seasonTeam": "Team BattleComics (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nuguri_2018",
@@ -1138,7 +1251,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2018)"
+      "seasonTeam": "Dplus KIA (2018)",
+      "worldsWins": 0
     },
     {
       "id": "twice_2018",
@@ -1148,7 +1262,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "taurus_2018",
@@ -1158,7 +1273,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sunsieu_2018",
@@ -1168,7 +1284,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "calm_2018",
@@ -1178,7 +1295,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "escanor_2018",
@@ -1188,7 +1306,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -1200,7 +1319,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "karsa_2018",
@@ -1210,7 +1330,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mlxg_2018",
@@ -1220,7 +1341,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "karin_2018",
@@ -1230,7 +1352,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tian_2018",
@@ -1240,7 +1363,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "peanut_2018",
@@ -1250,7 +1374,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ambition_2018",
@@ -1260,7 +1385,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "wisdomz_2018",
@@ -1270,7 +1396,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crash_2018",
@@ -1280,7 +1407,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "raise_2018",
@@ -1290,7 +1418,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "beyond_2018",
@@ -1300,7 +1429,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "y1han_2018",
@@ -1310,7 +1440,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "haro_2018",
@@ -1320,7 +1451,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "spirit_2018",
@@ -1330,7 +1462,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "score_2018",
@@ -1340,7 +1473,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "flawless_2018",
@@ -1350,7 +1484,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "clid_2018",
@@ -1360,7 +1495,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "eimy_2018",
@@ -1370,7 +1506,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "blank_2018",
@@ -1380,7 +1517,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 1
     },
     {
       "id": "mightybear_2018",
@@ -1390,7 +1528,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "seonghwan_2018",
@@ -1400,7 +1539,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wolf_2018",
@@ -1410,7 +1550,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "trick_2018",
@@ -1420,7 +1561,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2018",
@@ -1430,7 +1572,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yijin_2018",
@@ -1440,7 +1583,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xuhao_2018",
@@ -1450,7 +1594,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "umti_2018",
@@ -1460,7 +1605,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "venus_2018",
@@ -1470,7 +1616,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2018",
@@ -1480,7 +1627,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "spot_2018",
@@ -1490,7 +1638,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "potm_2018",
@@ -1500,7 +1649,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "world6_2018",
@@ -1510,7 +1660,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "melon_2018",
@@ -1520,7 +1671,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sofm_2018",
@@ -1530,7 +1682,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kriss_2018",
@@ -1540,7 +1693,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "heaven_2018",
@@ -1550,7 +1704,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2018",
@@ -1560,7 +1715,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maxlore_2018",
@@ -1570,7 +1726,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2018",
@@ -1580,7 +1737,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gilius_2018",
@@ -1590,7 +1748,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kold_2018",
@@ -1600,7 +1759,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "djoko_2018",
@@ -1610,7 +1770,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "memento_2018",
@@ -1620,7 +1781,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2018)"
+      "seasonTeam": "Team ROCCAT (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pridestalkr_2018",
@@ -1630,7 +1792,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "broxah_2018",
@@ -1640,7 +1803,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xerxe_2018",
@@ -1650,7 +1814,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2018)"
+      "seasonTeam": "Splyce (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xx_2018",
@@ -1660,7 +1825,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hana_2018",
@@ -1670,7 +1836,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kongyue_2018",
@@ -1680,7 +1847,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "h4cker_2018",
@@ -1690,7 +1858,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xmithie_2018",
@@ -1700,7 +1869,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2018)"
+      "seasonTeam": "Team Liquid (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mikeyeung_2018",
@@ -1710,7 +1880,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "meteos_2018",
@@ -1720,7 +1891,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "akaadian_2018",
@@ -1730,7 +1902,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lira_2018",
@@ -1740,7 +1913,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2018",
@@ -1750,7 +1924,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2018",
@@ -1760,7 +1935,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "anda_2018",
@@ -1770,7 +1946,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "reignover_2018",
@@ -1778,9 +1955,10 @@
       "team": "Counter Logic Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "svenskeren_2018",
@@ -1790,7 +1968,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gemini_2018",
@@ -1800,7 +1979,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mountain_2018",
@@ -1810,7 +1990,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cuzz_2018",
@@ -1820,7 +2001,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wiz_2018",
@@ -1830,7 +2012,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "move_2018",
@@ -1840,7 +2023,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "moojin_2018",
@@ -1850,7 +2034,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "epic_2018",
@@ -1860,7 +2045,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "haru_2018",
@@ -1870,7 +2056,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "breaker_2018",
@@ -1880,7 +2067,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "empt2y_2018",
@@ -1890,7 +2078,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "condi_2018",
@@ -1900,7 +2089,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fireloli_2018",
@@ -1910,7 +2100,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "baybay_2018",
@@ -1920,7 +2111,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "benny_2018",
@@ -1930,7 +2122,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bon0_2018",
@@ -1940,7 +2133,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sya_2018",
@@ -1950,7 +2144,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shrimp_2018",
@@ -1960,7 +2155,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "blossom_2018",
@@ -1970,7 +2166,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sofs_2018",
@@ -1980,7 +2177,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "caedrel_2018",
@@ -1990,7 +2188,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "taizan_2018",
@@ -2000,7 +2199,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2018",
@@ -2010,7 +2210,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "swift_2018",
@@ -2020,7 +2221,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jiekou_2018",
@@ -2030,7 +2232,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "magic_2018",
@@ -2040,7 +2243,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohan_2018",
@@ -2050,7 +2254,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mowgli_2018",
@@ -2060,7 +2265,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sofs_2018",
@@ -2070,7 +2276,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "morning_2018",
@@ -2080,7 +2287,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ciel_2018",
@@ -2090,7 +2298,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "alex_2018",
@@ -2100,7 +2309,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nova_2018",
@@ -2110,7 +2320,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dnk_2018",
@@ -2120,7 +2331,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kid_2018",
@@ -2130,7 +2342,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "chieftain_2018",
@@ -2140,7 +2353,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "1ntruder_2018",
@@ -2150,7 +2364,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rush_2018",
@@ -2160,7 +2375,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "clearlove_2018",
@@ -2170,7 +2386,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "butter_2018",
@@ -2180,7 +2397,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Afro Beast (2018)"
+      "seasonTeam": "Afro Beast (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kuma_2018",
@@ -2190,7 +2408,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tarzan_2018",
@@ -2200,7 +2419,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hoglet_2018",
@@ -2210,7 +2430,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vormund_2018",
@@ -2220,7 +2441,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "venus_2018",
@@ -2230,7 +2452,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vios_2018",
@@ -2240,7 +2463,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "meg odriew_2018",
@@ -2250,7 +2474,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "m1anhua_2018",
@@ -2260,7 +2485,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "seonghwan_2018",
@@ -2270,7 +2496,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mountain_2018",
@@ -2280,7 +2507,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ambition_2018",
@@ -2290,7 +2518,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "haru_2018",
@@ -2300,7 +2529,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "kakao_2018",
@@ -2310,7 +2540,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xinyi_2018",
@@ -2320,7 +2551,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "amazing_2018",
@@ -2330,7 +2562,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "armao_2018",
@@ -2340,7 +2573,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2018",
@@ -2350,7 +2584,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "qeo_2018",
@@ -2360,7 +2595,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "heaven_2018",
@@ -2370,7 +2606,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "spot_2018",
@@ -2380,7 +2617,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2018",
@@ -2390,7 +2628,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "y1han_2018",
@@ -2400,7 +2639,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "meliodas_2018",
@@ -2410,7 +2650,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crash_2018",
@@ -2420,7 +2661,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2018",
@@ -2430,7 +2672,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "westdoor_2018",
@@ -2440,7 +2683,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xuhao_2018",
@@ -2450,7 +2694,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "butter_2018",
@@ -2460,7 +2705,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2018",
@@ -2470,7 +2716,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "deul_2018",
@@ -2480,7 +2727,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cody sun_2018",
@@ -2490,7 +2738,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gate_2018",
@@ -2500,7 +2749,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "alex_2018",
@@ -2510,7 +2760,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "taizan_2018",
@@ -2520,7 +2771,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bugi_2018",
@@ -2530,7 +2782,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shinie_2018",
@@ -2540,7 +2793,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "anda_2018",
@@ -2550,7 +2804,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kriss_2018",
@@ -2560,7 +2815,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "regank_2018",
@@ -2570,7 +2826,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2018",
@@ -2580,7 +2837,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "light_2018",
@@ -2590,7 +2848,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "raise_2018",
@@ -2600,7 +2859,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hari_2018",
@@ -2610,7 +2870,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mightybear_2018",
@@ -2620,7 +2881,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "blaber_2018",
@@ -2630,7 +2892,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kikis_2018",
@@ -2640,7 +2903,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "galen_2018",
@@ -2650,7 +2914,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cacon_2018",
@@ -2660,7 +2925,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "laba_2018",
@@ -2670,7 +2936,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kiwi_2018",
@@ -2680,7 +2947,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "youdang_2018",
@@ -2690,7 +2958,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "griffin_2018",
@@ -2700,7 +2969,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kl_2018",
@@ -2710,7 +2980,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "holo_2018",
@@ -2720,7 +2991,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "onfleek_2018",
@@ -2730,7 +3002,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team BattleComics (2018)"
+      "seasonTeam": "Team BattleComics (2018)",
+      "worldsWins": 0
     },
     {
       "id": "punch_2018",
@@ -2740,7 +3013,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2018)"
+      "seasonTeam": "Dplus KIA (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aihgn_2018",
@@ -2750,7 +3024,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kaiz_2018",
@@ -2760,7 +3035,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -2770,9 +3046,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "xiaohu_2018",
@@ -2782,7 +3059,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ggoong_2018",
@@ -2792,7 +3070,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2018",
@@ -2802,7 +3081,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bdd_2018",
@@ -2812,7 +3092,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crown_2018",
@@ -2822,7 +3103,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "athena_2018",
@@ -2832,7 +3114,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "easyhoon_2018",
@@ -2842,7 +3125,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "edge_2018",
@@ -2852,7 +3136,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ian_2018",
@@ -2862,7 +3147,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bing_2018",
@@ -2872,7 +3158,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "scout_2018",
@@ -2880,9 +3167,10 @@
       "team": "EDward Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kuro_2018",
@@ -2892,7 +3180,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pawn_2018",
@@ -2902,7 +3191,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 1
     },
     {
       "id": "doinb_2018",
@@ -2910,9 +3200,10 @@
       "team": "Rogue Warriors",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yagao_2018",
@@ -2922,7 +3213,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yuuki_2018",
@@ -2932,7 +3224,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2018",
@@ -2942,7 +3235,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 3
     },
     {
       "id": "kuzan_2018",
@@ -2952,7 +3246,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lava_2018",
@@ -2962,7 +3257,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tempt_2018",
@@ -2972,7 +3268,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pake_2018",
@@ -2982,7 +3279,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "warzone_2018",
@@ -2992,7 +3290,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yaharong_2018",
@@ -3002,7 +3301,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "naul_2018",
@@ -3012,7 +3312,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "victory_2018",
@@ -3022,7 +3323,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "justice_2018",
@@ -3032,7 +3334,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2018",
@@ -3042,7 +3345,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2018",
@@ -3052,7 +3356,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "icon_2018",
@@ -3062,7 +3367,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xiye_2018",
@@ -3072,7 +3378,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "guoguo_2018",
@@ -3082,7 +3389,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yado_2018",
@@ -3092,7 +3400,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "secr3t_2018",
@@ -3102,7 +3411,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2018",
@@ -3112,7 +3422,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sencux_2018",
@@ -3122,7 +3433,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "caedrel_2018",
@@ -3132,7 +3444,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jiizuke_2018",
@@ -3142,7 +3455,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "exile_2018",
@@ -3152,7 +3466,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "betsy_2018",
@@ -3162,7 +3477,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "blanc_2018",
@@ -3172,7 +3488,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2018)"
+      "seasonTeam": "Team ROCCAT (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2018",
@@ -3182,7 +3499,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2018",
@@ -3192,7 +3510,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nisqy_2018",
@@ -3202,7 +3521,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2018)"
+      "seasonTeam": "Splyce (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fofo_2018",
@@ -3212,7 +3532,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "uniboy_2018",
@@ -3222,7 +3543,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pobelter_2018",
@@ -3232,7 +3554,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2018)"
+      "seasonTeam": "Team Liquid (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bjergsen_2018",
@@ -3242,7 +3565,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ryu_2018",
@@ -3252,7 +3576,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "powerofevil_2018",
@@ -3262,7 +3587,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "febiven_2018",
@@ -3272,7 +3598,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hai_2018",
@@ -3282,7 +3609,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fenix_2018",
@@ -3292,7 +3620,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "keane_2018",
@@ -3302,7 +3631,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2018",
@@ -3312,7 +3642,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jensen_2018",
@@ -3322,7 +3653,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "chawy_2018",
@@ -3332,7 +3664,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2018",
@@ -3342,7 +3675,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nanzhu_2018",
@@ -3352,7 +3686,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "apex_2018",
@@ -3362,7 +3697,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gear_2018",
@@ -3372,7 +3708,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2018",
@@ -3382,7 +3719,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "coon_2018",
@@ -3392,7 +3730,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "candy_2018",
@@ -3402,7 +3741,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nulu_2018",
@@ -3412,7 +3752,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fly_2018",
@@ -3420,9 +3761,10 @@
       "team": "FlyQuest",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "qtv_2018",
@@ -3432,7 +3774,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "caipi_2018",
@@ -3442,7 +3785,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "corn_2018",
@@ -3452,7 +3796,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wuji_2018",
@@ -3462,7 +3807,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ucal_2018",
@@ -3472,7 +3818,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "petland_2018",
@@ -3482,7 +3829,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "firerain_2018",
@@ -3492,7 +3840,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2018",
@@ -3502,7 +3851,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mole_2018",
@@ -3512,7 +3862,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "damonte_2018",
@@ -3522,7 +3873,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cool_2018",
@@ -3532,7 +3884,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "moonblack_2018",
@@ -3542,7 +3895,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Afro Beast (2018)"
+      "seasonTeam": "Afro Beast (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ssun_2018",
@@ -3552,7 +3906,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rather_2018",
@@ -3562,7 +3917,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2018",
@@ -3572,7 +3928,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "np jedi_2018",
@@ -3582,7 +3939,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "genza_2018",
@@ -3592,7 +3950,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lava_2018",
@@ -3602,7 +3961,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "chovy_2018",
@@ -3612,7 +3972,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fly_2018",
@@ -3622,7 +3983,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fenfen_2018",
@@ -3632,7 +3994,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "goldenglue_2018",
@@ -3642,7 +4005,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mickey_2018",
@@ -3652,7 +4016,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pirean_2018",
@@ -3662,7 +4027,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2018",
@@ -3672,7 +4038,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "opg1_2018",
@@ -3682,7 +4049,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ikaros_2018",
@@ -3692,7 +4060,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2018",
@@ -3702,7 +4071,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pake_2018",
@@ -3712,7 +4082,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "naul_2018",
@@ -3722,7 +4093,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "moonblack_2018",
@@ -3732,7 +4104,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cyeol_2018",
@@ -3742,7 +4115,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2018",
@@ -3752,7 +4126,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wadid_2018",
@@ -3762,7 +4137,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crash_2018",
@@ -3772,7 +4148,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dreamer_2018",
@@ -3782,7 +4159,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2018",
@@ -3792,7 +4170,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crown_2018",
@@ -3802,7 +4181,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "beeone_2018",
@@ -3812,7 +4192,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hankay_2018",
@@ -3822,7 +4203,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "angel_2018",
@@ -3832,7 +4214,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "coco_2018",
@@ -3842,7 +4225,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kuzan_2018",
@@ -3852,7 +4236,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "calm_2018",
@@ -3862,7 +4247,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2018",
@@ -3872,7 +4258,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "eragon_2018",
@@ -3882,7 +4269,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pampy_2018",
@@ -3892,7 +4280,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yado_2018",
@@ -3902,7 +4291,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "larssen_2018",
@@ -3912,7 +4302,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rainbow_2018",
@@ -3922,7 +4313,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bobqin_2018",
@@ -3932,7 +4324,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gyx_2018",
@@ -3942,7 +4335,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "faith_2018",
@@ -3952,7 +4346,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dove_2018",
@@ -3962,7 +4357,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team BattleComics (2018)"
+      "seasonTeam": "Team BattleComics (2018)",
+      "worldsWins": 0
     },
     {
       "id": "showmaker_2018",
@@ -3972,7 +4368,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2018)"
+      "seasonTeam": "Dplus KIA (2018)",
+      "worldsWins": 0
     },
     {
       "id": "escanor_2018",
@@ -3982,7 +4379,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "c7n_2018",
@@ -3992,7 +4390,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "twice_2018",
@@ -4002,7 +4401,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -4014,7 +4414,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "able_2018",
@@ -4024,7 +4425,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "y4_2018",
@@ -4034,7 +4436,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "qiuqiu_2018",
@@ -4044,7 +4447,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fury_2018",
@@ -4054,7 +4458,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pray_2018",
@@ -4064,7 +4469,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2018",
@@ -4074,7 +4480,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "jinjiao_2018",
@@ -4084,7 +4491,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "martin_2018",
@@ -4094,7 +4502,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ssol_2018",
@@ -4104,7 +4513,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maha_2018",
@@ -4114,7 +4524,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lwx_2018",
@@ -4124,7 +4535,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "iboy_2018",
@@ -4134,7 +4546,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kramer_2018",
@@ -4144,7 +4557,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "deft_2018",
@@ -4154,7 +4568,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "smlz_2018",
@@ -4164,7 +4579,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "loken_2018",
@@ -4174,7 +4590,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "imp_2018",
@@ -4182,9 +4599,10 @@
       "team": "LGD Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "bang_2018",
@@ -4194,7 +4612,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 2
     },
     {
       "id": "sangyoon_2018",
@@ -4204,7 +4623,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ghost_2018",
@@ -4214,7 +4634,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "minas_2018",
@@ -4224,7 +4645,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "slay_2018",
@@ -4234,7 +4656,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "teddy_2018",
@@ -4244,7 +4667,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bigkoro_2018",
@@ -4254,7 +4678,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "slayder_2018",
@@ -4264,7 +4689,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2018",
@@ -4274,7 +4700,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "clear_2018",
@@ -4284,7 +4711,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "chel1y_2018",
@@ -4294,7 +4722,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mystic_2018",
@@ -4304,7 +4733,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kryst4l_2018",
@@ -4314,7 +4744,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sya_2018",
@@ -4324,7 +4755,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "celebrity_2018",
@@ -4334,7 +4766,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "noway_2018",
@@ -4344,7 +4777,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hjarnan_2018",
@@ -4354,7 +4788,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2018",
@@ -4364,7 +4799,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "patrik_2018",
@@ -4374,7 +4810,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "attila_2018",
@@ -4384,7 +4821,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "samux_2018",
@@ -4394,7 +4832,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2018",
@@ -4404,7 +4843,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "heaq_2018",
@@ -4414,7 +4854,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2018)"
+      "seasonTeam": "Team ROCCAT (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2018",
@@ -4424,7 +4865,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2018",
@@ -4434,7 +4876,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kobbe_2018",
@@ -4444,7 +4887,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2018)"
+      "seasonTeam": "Splyce (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pilot_2018",
@@ -4454,7 +4898,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lilv_2018",
@@ -4464,7 +4909,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "breeze_2018",
@@ -4474,7 +4920,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2018",
@@ -4484,7 +4931,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2018)"
+      "seasonTeam": "Team Liquid (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2018",
@@ -4494,7 +4942,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cody sun_2018",
@@ -4504,7 +4953,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "arrow_2018",
@@ -4512,9 +4962,10 @@
       "team": "OpTic Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Arrow_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "apollo_2018",
@@ -4524,7 +4975,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "deftly_2018",
@@ -4534,7 +4986,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2018",
@@ -4544,7 +4997,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2018",
@@ -4554,7 +5008,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "stixxay_2018",
@@ -4564,7 +5019,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sneaky_2018",
@@ -4574,7 +5030,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "unified_2018",
@@ -4584,7 +5041,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "an_2018",
@@ -4594,7 +5052,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aiming_2018",
@@ -4604,7 +5063,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "deul_2018",
@@ -4614,7 +5074,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "betty_2018",
@@ -4624,7 +5085,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dalka_2018",
@@ -4634,7 +5096,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "stitch_2018",
@@ -4644,7 +5107,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "upset_2018",
@@ -4654,7 +5118,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lbb_2018",
@@ -4664,7 +5129,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fdy_2018",
@@ -4674,7 +5140,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "uzi_2018",
@@ -4684,7 +5151,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jiekou_2018",
@@ -4694,7 +5162,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hope_2018",
@@ -4704,7 +5173,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rd_2018",
@@ -4714,7 +5184,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "snow_2018",
@@ -4724,7 +5195,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2018",
@@ -4734,7 +5206,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "light_2018",
@@ -4744,7 +5217,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hana_2018",
@@ -4754,7 +5228,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "art_2018",
@@ -4764,7 +5239,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Afro Beast (2018)"
+      "seasonTeam": "Afro Beast (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hybrid_2018",
@@ -4774,7 +5250,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "viper_2018",
@@ -4784,7 +5261,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shogun_2018",
@@ -4794,7 +5272,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jisoo_2018",
@@ -4804,7 +5283,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sehun_2018",
@@ -4814,7 +5294,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "prince_2018",
@@ -4824,7 +5305,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sangyoon_2018",
@@ -4834,7 +5316,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2018",
@@ -4844,7 +5327,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "hudie_2018",
@@ -4854,7 +5338,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gentle_2018",
@@ -4864,7 +5349,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "imp_2018",
@@ -4872,9 +5358,10 @@
       "team": "Team WE",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
       "years": "2018",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 1
     },
     {
       "id": "keith_2018",
@@ -4884,7 +5371,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "leo_2018",
@@ -4894,7 +5382,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "minas_2018",
@@ -4904,7 +5393,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "beeone_2018",
@@ -4914,7 +5404,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2018",
@@ -4924,7 +5415,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2018",
@@ -4934,7 +5426,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bigkoro_2018",
@@ -4944,7 +5437,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bwipo_2018",
@@ -4954,7 +5448,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "y4_2018",
@@ -4964,7 +5459,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xuanxuanpi_2018",
@@ -4974,7 +5470,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "art_2018",
@@ -4984,7 +5481,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "apex_2018",
@@ -4994,7 +5492,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rainbow_2018",
@@ -5004,7 +5503,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jensen_2018",
@@ -5014,7 +5514,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ryu_2018",
@@ -5024,7 +5525,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wuji_2018",
@@ -5034,7 +5536,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zest_2018",
@@ -5044,7 +5547,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zz1tai_2018",
@@ -5054,7 +5558,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2018",
@@ -5064,7 +5569,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "neon_2018",
@@ -5074,7 +5580,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mlxg_2018",
@@ -5084,7 +5591,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "divkid_2018",
@@ -5094,7 +5602,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2018",
@@ -5104,7 +5613,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "clever_2018",
@@ -5114,7 +5624,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lost_2018",
@@ -5124,7 +5635,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "piglet_2018",
@@ -5132,9 +5644,10 @@
       "team": "Clutch Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "zin_2018",
@@ -5144,7 +5657,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2018",
@@ -5154,7 +5668,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "west_2018",
@@ -5164,7 +5679,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wxz_2018",
@@ -5174,7 +5690,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rikara_2018",
@@ -5184,7 +5701,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tak_2018",
@@ -5194,7 +5712,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hollow_2018",
@@ -5204,7 +5723,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team BattleComics (2018)"
+      "seasonTeam": "Team BattleComics (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nuclear_2018",
@@ -5214,7 +5734,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2018)"
+      "seasonTeam": "Dplus KIA (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tofu_2018",
@@ -5224,7 +5745,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "slayder_2018",
@@ -5234,7 +5756,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aomine_2018",
@@ -5244,7 +5767,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "artemis_2018",
@@ -5254,7 +5778,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -5266,7 +5791,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 1
     },
     {
       "id": "ming_2018",
@@ -5276,7 +5802,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2018)"
+      "seasonTeam": "Royal Never Give Up (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cat_2018",
@@ -5286,7 +5813,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yoon_2018",
@@ -5296,7 +5824,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2018)"
+      "seasonTeam": "Suning (2018)",
+      "worldsWins": 0
     },
     {
       "id": "gorilla_2018",
@@ -5306,7 +5835,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kingzone DragonX (2018)"
+      "seasonTeam": "Kingzone DragonX (2018)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2018",
@@ -5316,7 +5846,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KSV eSports (2018)"
+      "seasonTeam": "KSV eSports (2018)",
+      "worldsWins": 1
     },
     {
       "id": "road_2018",
@@ -5326,7 +5857,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2018)"
+      "seasonTeam": "Bilibili Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "duan_2018",
@@ -5336,7 +5868,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "secret_2018",
@@ -5346,7 +5879,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2018)"
+      "seasonTeam": "Kongdoo Monster (2018)",
+      "worldsWins": 0
     },
     {
       "id": "max_2018",
@@ -5356,7 +5890,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crisp_2018",
@@ -5366,7 +5901,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2018)"
+      "seasonTeam": "FunPlus Phoenix (2018)",
+      "worldsWins": 0
     },
     {
       "id": "meiko_2018",
@@ -5376,7 +5912,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2018)"
+      "seasonTeam": "EDward Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tusin_2018",
@@ -5386,7 +5923,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2018)"
+      "seasonTeam": "Afreeca Freecs (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mata_2018",
@@ -5396,7 +5934,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2018)"
+      "seasonTeam": "KT Rolster (2018)",
+      "worldsWins": 1
     },
     {
       "id": "killua_2018",
@@ -5406,7 +5945,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2018)"
+      "seasonTeam": "Rogue Warriors (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lvmao_2018",
@@ -5416,7 +5956,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2018)"
+      "seasonTeam": "JD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pyl_2018",
@@ -5426,7 +5967,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "effort_2018",
@@ -5436,7 +5978,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "key_2018",
@@ -5446,7 +5989,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2018)"
+      "seasonTeam": "ROX Tigers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2018",
@@ -5456,7 +6000,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2018)"
+      "seasonTeam": "bbq Olivers (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shaoran_2018",
@@ -5466,7 +6011,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ronop_2018",
@@ -5476,7 +6022,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2018)"
+      "seasonTeam": "EVOS Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wraith_2018",
@@ -5486,7 +6033,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2018",
@@ -5496,7 +6044,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Young Generation (2018)"
+      "seasonTeam": "Young Generation (2018)",
+      "worldsWins": 0
     },
     {
       "id": "akeno_2018",
@@ -5506,7 +6055,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cbl_2018",
@@ -5516,7 +6066,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kit_2018",
@@ -5526,7 +6077,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cold_2018",
@@ -5536,7 +6088,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ben_2018",
@@ -5546,7 +6099,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hudie_2018",
@@ -5556,7 +6110,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "archie_2018",
@@ -5566,7 +6121,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sergh_2018",
@@ -5576,7 +6132,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wadid_2018",
@@ -5584,9 +6141,10 @@
       "team": "G2 Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Wadid_profileicon.png",
       "years": "2018",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2018",
@@ -5596,7 +6154,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "promisq_2018",
@@ -5606,7 +6165,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2018)"
+      "seasonTeam": "H2k-Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jactroll_2018",
@@ -5616,7 +6176,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2018)"
+      "seasonTeam": "Team Vitality (2018)",
+      "worldsWins": 0
     },
     {
       "id": "totoro_2018",
@@ -5626,7 +6187,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2018)"
+      "seasonTeam": "Unicorns of Love (2018)",
+      "worldsWins": 0
     },
     {
       "id": "targamas_2018",
@@ -5636,7 +6198,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tore_2018",
@@ -5646,7 +6209,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2018)"
+      "seasonTeam": "Team ROCCAT (2018)",
+      "worldsWins": 0
     },
     {
       "id": "krepo_2018",
@@ -5656,7 +6220,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hylissang_2018",
@@ -5666,7 +6231,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2018)"
+      "seasonTeam": "Fnatic (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kasing_2018",
@@ -5676,7 +6242,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2018)"
+      "seasonTeam": "Splyce (2018)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2018",
@@ -5686,7 +6253,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "k_2018",
@@ -5696,7 +6264,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "MAD Team (2018)"
+      "seasonTeam": "MAD Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "olleh_2018",
@@ -5704,9 +6273,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
       "years": "2018",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2018)"
+      "seasonTeam": "Team Liquid (2018)",
+      "worldsWins": 0
     },
     {
       "id": "mithy_2018",
@@ -5716,7 +6286,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2018)"
+      "seasonTeam": "TSM (2018)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2018",
@@ -5726,7 +6297,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lemonnation_2018",
@@ -5736,7 +6308,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hakuho_2018",
@@ -5746,7 +6319,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "matt elento_2018",
@@ -5756,7 +6330,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Golden Guardians (2018)"
+      "seasonTeam": "Golden Guardians (2018)",
+      "worldsWins": 0
     },
     {
       "id": "adrian_2018",
@@ -5766,7 +6341,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "stunt_2018",
@@ -5776,7 +6352,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "biofrost_2018",
@@ -5786,7 +6363,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2018)"
+      "seasonTeam": "Counter Logic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "smoothie_2018",
@@ -5796,7 +6374,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kaiwing_2018",
@@ -5806,7 +6385,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tuna_2018",
@@ -5816,7 +6396,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "fage_2018",
@@ -5826,7 +6407,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2018)"
+      "seasonTeam": "Top Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "dreamer_2018",
@@ -5836,7 +6418,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "destiny_2018",
@@ -5846,7 +6429,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2018)"
+      "seasonTeam": "Hong Kong Attitude (2018)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2018",
@@ -5856,7 +6440,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zest_2018",
@@ -5866,7 +6451,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "koala_2018",
@@ -5876,7 +6462,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "G-Rex (2018)"
+      "seasonTeam": "G-Rex (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2018",
@@ -5886,7 +6473,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2018)"
+      "seasonTeam": "FC Schalke 04 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "wolf_2018",
@@ -5896,7 +6484,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2018)"
+      "seasonTeam": "SK Telecom T1 (2018)",
+      "worldsWins": 2
     },
     {
       "id": "bie_2018",
@@ -5906,7 +6495,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Hall of Fame (2018)"
+      "seasonTeam": "Hall of Fame (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jayj_2018",
@@ -5916,7 +6506,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shiauc_2018",
@@ -5926,7 +6517,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2018)"
+      "seasonTeam": "Flash Wolves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "babo_2018",
@@ -5936,7 +6528,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zero_2018",
@@ -5946,7 +6539,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hana_2018",
@@ -5956,7 +6550,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2018)"
+      "seasonTeam": "J Team (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sofs_2018",
@@ -5966,7 +6561,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "albis_2018",
@@ -5976,7 +6572,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "tear_2018",
@@ -5986,7 +6583,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "UTM Esports (2018)"
+      "seasonTeam": "UTM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sya_2018",
@@ -5996,7 +6594,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2018)"
+      "seasonTeam": "GAM Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cat 2_2018",
@@ -6006,7 +6605,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maestro_2018",
@@ -6016,7 +6616,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2018)"
+      "seasonTeam": "Oh My God (2018)",
+      "worldsWins": 0
     },
     {
       "id": "skull_2018",
@@ -6026,7 +6627,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Afro Beast (2018)"
+      "seasonTeam": "Afro Beast (2018)",
+      "worldsWins": 0
     },
     {
       "id": "luci_2018",
@@ -6036,7 +6638,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "lehends_2018",
@@ -6046,7 +6649,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2018)"
+      "seasonTeam": "Griffin (2018)",
+      "worldsWins": 0
     },
     {
       "id": "choyul_2018",
@@ -6056,7 +6660,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2018)"
+      "seasonTeam": "Ever8 Winners (2018)",
+      "worldsWins": 0
     },
     {
       "id": "sya_2018",
@@ -6066,7 +6671,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "np killua_2018",
@@ -6076,7 +6682,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "np kiko_2018",
@@ -6086,7 +6693,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "New Power Esports (2018)"
+      "seasonTeam": "New Power Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zodiac_2018",
@@ -6096,7 +6704,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Matrix Esport Gaming (2018)"
+      "seasonTeam": "Matrix Esport Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "maestro_2018",
@@ -6106,7 +6715,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2018)"
+      "seasonTeam": "Snake Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "key_2018",
@@ -6116,7 +6726,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2018",
@@ -6126,7 +6737,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2018)"
+      "seasonTeam": "Gen.G (2018)",
+      "worldsWins": 1
     },
     {
       "id": "newt_2018",
@@ -6136,7 +6748,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2018)"
+      "seasonTeam": "LGD Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nova_2018",
@@ -6146,7 +6759,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2018)"
+      "seasonTeam": "Jin Air Green Wings (2018)",
+      "worldsWins": 0
     },
     {
       "id": "motive_2018",
@@ -6156,7 +6770,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2018)"
+      "seasonTeam": "MVP (2018)",
+      "worldsWins": 0
     },
     {
       "id": "nukes_2018",
@@ -6166,7 +6781,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2018)"
+      "seasonTeam": "Giants Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zeyzal_2018",
@@ -6176,7 +6792,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2018)"
+      "seasonTeam": "Cloud9 (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kwon_2018",
@@ -6186,7 +6803,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2018)"
+      "seasonTeam": "FlyQuest (2018)",
+      "worldsWins": 0
     },
     {
       "id": "big_2018",
@@ -6196,7 +6814,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "OpTic Gaming (2018)"
+      "seasonTeam": "OpTic Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "missing_2018",
@@ -6206,7 +6825,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2018)"
+      "seasonTeam": "Team WE (2018)",
+      "worldsWins": 0
     },
     {
       "id": "cbl_2018",
@@ -6216,7 +6836,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "milano_2018",
@@ -6226,7 +6847,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bie_2018",
@@ -6236,7 +6858,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2018",
@@ -6246,7 +6869,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Phong Vũ Buffalo (2018)"
+      "seasonTeam": "Phong Vũ Buffalo (2018)",
+      "worldsWins": 0
     },
     {
       "id": "feng_2018",
@@ -6256,7 +6880,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2018",
@@ -6266,7 +6891,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2018)"
+      "seasonTeam": "G2 Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "crash_2018",
@@ -6276,7 +6902,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "meteos_2018",
@@ -6286,7 +6913,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "100 Thieves (2018)"
+      "seasonTeam": "100 Thieves (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kit_2018",
@@ -6296,7 +6924,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "rainbow_2018",
@@ -6306,7 +6935,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Afro (2018)"
+      "seasonTeam": "Team Afro (2018)",
+      "worldsWins": 0
     },
     {
       "id": "pasa_2018",
@@ -6316,7 +6946,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2018)"
+      "seasonTeam": "Machi Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2018",
@@ -6326,7 +6957,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "venus_2018",
@@ -6336,7 +6968,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Friends Forever Gaming (2018)"
+      "seasonTeam": "Friends Forever Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "asper_2018",
@@ -6346,7 +6979,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2018)"
+      "seasonTeam": "Hanwha Life Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "smoothie_2018",
@@ -6356,7 +6990,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2018)"
+      "seasonTeam": "Echo Fox (2018)",
+      "worldsWins": 0
     },
     {
       "id": "vulcan_2018",
@@ -6366,7 +7001,8 @@
       "years": "2018",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Clutch Gaming (2018)"
+      "seasonTeam": "Clutch Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "osas_2018",
@@ -6376,7 +7012,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Vikings Gaming (2018)"
+      "seasonTeam": "Vikings Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hankay_2018",
@@ -6386,7 +7023,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2018",
@@ -6396,7 +7034,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "1ground_2018",
@@ -6406,7 +7045,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2018)"
+      "seasonTeam": "FTV Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "xintai_2018",
@@ -6416,7 +7056,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2018)"
+      "seasonTeam": "Vici Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jesiz_2018",
@@ -6426,7 +7067,8 @@
       "years": "2018",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2018)"
+      "seasonTeam": "Misfits Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "kino_2018",
@@ -6436,7 +7078,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2018)"
+      "seasonTeam": "ahq eSports Club (2018)",
+      "worldsWins": 0
     },
     {
       "id": "shaoran_2018",
@@ -6446,7 +7089,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cube Adonis (2018)"
+      "seasonTeam": "Cube Adonis (2018)",
+      "worldsWins": 0
     },
     {
       "id": "jackeylove_2018",
@@ -6456,7 +7100,8 @@
       "years": "2018",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2018)"
+      "seasonTeam": "Invictus Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "yuen_2018",
@@ -6466,7 +7111,8 @@
       "years": "2018",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Kowloon Esports (九龍電競) (2018)"
+      "seasonTeam": "Kowloon Esports (九龍電競) (2018)",
+      "worldsWins": 0
     },
     {
       "id": "joker_2018",
@@ -6476,7 +7122,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team BattleComics (2018)"
+      "seasonTeam": "Team BattleComics (2018)",
+      "worldsWins": 0
     },
     {
       "id": "hoit_2018",
@@ -6486,7 +7133,8 @@
       "years": "2018",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2018)"
+      "seasonTeam": "Dplus KIA (2018)",
+      "worldsWins": 0
     },
     {
       "id": "bbyyoo_2018",
@@ -6496,7 +7144,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "LP Gaming (2018)"
+      "seasonTeam": "LP Gaming (2018)",
+      "worldsWins": 0
     },
     {
       "id": "akeno_2018",
@@ -6506,7 +7155,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Cherry Esports (2018)"
+      "seasonTeam": "Cherry Esports (2018)",
+      "worldsWins": 0
     },
     {
       "id": "h3_2018",
@@ -6516,7 +7166,8 @@
       "years": "2018",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Sky Gaming (2018)"
+      "seasonTeam": "Sky Gaming (2018)",
+      "worldsWins": 0
     }
   ]
 }

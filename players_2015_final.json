@@ -8,7 +8,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "marin_2015",
@@ -18,7 +19,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 1
     },
     {
       "id": "ziv_2015",
@@ -28,7 +30,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hanshao_2015",
@@ -38,7 +41,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Crew (2015)"
+      "seasonTeam": "Machi Crew (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ccb_2015",
@@ -48,7 +52,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "morning_2015",
@@ -58,7 +63,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "smeb_2015",
@@ -68,7 +74,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lilac_2015",
@@ -78,7 +85,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cuvee_2015",
@@ -88,7 +96,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "trace_2015",
@@ -98,7 +107,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2015",
@@ -108,7 +118,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "DarlingYou (2015)"
+      "seasonTeam": "DarlingYou (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lofs_2015",
@@ -118,7 +129,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "stanley_2015",
@@ -128,7 +140,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 1
     },
     {
       "id": "ssumday_2015",
@@ -138,7 +151,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shy_2015",
@@ -148,7 +162,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wickd_2015",
@@ -158,7 +173,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "huni_2015",
@@ -166,9 +182,10 @@
       "team": "Fnatic",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
       "years": "2015",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "werlyb_2015",
@@ -178,7 +195,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mimer_2015",
@@ -188,7 +206,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "youngbuck_2015",
@@ -198,7 +217,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "odoamne_2015",
@@ -208,7 +228,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fredy122_2015",
@@ -218,7 +239,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "overpow_2015",
@@ -228,7 +250,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2015",
@@ -238,7 +261,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vizicsacsi_2015",
@@ -248,7 +272,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dyrus_2015",
@@ -258,7 +283,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "balis_2015",
@@ -268,7 +294,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cris_2015",
@@ -278,7 +305,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gamsu_2015",
@@ -288,7 +316,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "flaresz_2015",
@@ -298,7 +327,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hauntzer_2015",
@@ -308,7 +338,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rhux_2015",
@@ -318,7 +349,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "quas_2015",
@@ -328,7 +360,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 0
     },
     {
       "id": "benny_2015",
@@ -338,7 +371,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "calitrlolz_2015",
@@ -348,7 +382,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2015",
@@ -356,9 +391,10 @@
       "team": "Team Impulse",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2015",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 1
     },
     {
       "id": "darshan_2015",
@@ -368,7 +404,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "avalon_2015",
@@ -378,7 +415,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2015",
@@ -388,7 +426,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "steak_2015",
@@ -398,7 +437,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cowardlydog_2015",
@@ -408,7 +448,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kev1n_2015",
@@ -418,7 +459,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jwaow_2015",
@@ -428,7 +470,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "achie_2015",
@@ -438,7 +481,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kubon_2015",
@@ -448,7 +492,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Reason Gaming (2015)"
+      "seasonTeam": "Reason Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "morsu_2015",
@@ -458,7 +503,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+      "seasonTeam": "Copenhagen Wolves Academy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chunkyfresh_2015",
@@ -468,7 +514,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Fusion (2015)"
+      "seasonTeam": "Team Fusion (2015)",
+      "worldsWins": 0
     },
     {
       "id": "seraph_2015",
@@ -478,7 +525,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "apple_2015",
@@ -488,7 +536,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lego77_2015",
@@ -498,7 +547,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Winners (2015)"
+      "seasonTeam": "Winners (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cvmax_2015",
@@ -508,7 +558,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "soul_2015",
@@ -518,7 +569,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Prime Clan (2015)"
+      "seasonTeam": "Prime Clan (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kakarot_2015",
@@ -528,7 +580,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Xenics (2015)"
+      "seasonTeam": "Xenics (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ikssu_2015",
@@ -538,7 +591,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "3z_2015",
@@ -548,7 +602,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "soul_2015",
@@ -558,7 +613,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "zonda_2015",
@@ -568,7 +624,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bobo_2015",
@@ -578,7 +635,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mmd_2015",
@@ -588,7 +646,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "soaz_2015",
@@ -598,7 +657,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2015)"
+      "seasonTeam": "Origen (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jwaow_2015",
@@ -608,7 +668,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "steve_2015",
@@ -618,7 +679,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "flaresz_2015",
@@ -628,7 +690,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Enemy (2015)"
+      "seasonTeam": "Enemy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2015",
@@ -638,7 +701,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "yue_2015",
@@ -648,7 +712,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lenny_2015",
@@ -658,7 +723,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "expession_2015",
@@ -668,7 +734,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "helper_2015",
@@ -678,7 +745,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "achie_2015",
@@ -688,7 +756,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "soar_2015",
@@ -698,7 +767,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "may_2015",
@@ -708,7 +778,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jaeger_2015",
@@ -718,7 +789,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gamers2 (2015)"
+      "seasonTeam": "Gamers2 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "beansu_2015",
@@ -728,7 +800,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MOUZ NXT (2015)"
+      "seasonTeam": "MOUZ NXT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chunkyfresh_2015",
@@ -738,7 +811,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Imagine (2015)"
+      "seasonTeam": "Team Imagine (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cube_2015",
@@ -748,7 +822,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dark Wolves (2015)"
+      "seasonTeam": "Dark Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "crazy_2015",
@@ -758,7 +833,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -770,7 +846,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bengi_2015",
@@ -780,7 +857,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 2
     },
     {
       "id": "albis_2015",
@@ -790,7 +868,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hanji_2015",
@@ -800,7 +879,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Crew (2015)"
+      "seasonTeam": "Machi Crew (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jcain_2015",
@@ -810,7 +890,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "winds_2015",
@@ -820,7 +901,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hojin_2015",
@@ -830,7 +912,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wisdom_2015",
@@ -840,7 +923,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "eve_2015",
@@ -850,7 +934,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chaser_2015",
@@ -860,7 +945,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "illusion_2015",
@@ -870,7 +956,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "DarlingYou (2015)"
+      "seasonTeam": "DarlingYou (2015)",
+      "worldsWins": 0
     },
     {
       "id": "empt2y_2015",
@@ -880,7 +967,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dinter_2015",
@@ -890,7 +978,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "score_2015",
@@ -900,7 +989,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ambition_2015",
@@ -910,7 +1000,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2015",
@@ -920,7 +1011,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "reignover_2015",
@@ -928,9 +1020,10 @@
       "team": "Fnatic",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
       "years": "2015",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fr3deric_2015",
@@ -940,7 +1033,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "h0r0_2015",
@@ -950,7 +1044,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "airwaks_2015",
@@ -960,7 +1055,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "loulex_2015",
@@ -970,7 +1066,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "svenskeren_2015",
@@ -980,7 +1077,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2015",
@@ -990,7 +1088,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "diamondprox_2015",
@@ -1000,7 +1099,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kikis_2015",
@@ -1010,7 +1110,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2015",
@@ -1020,7 +1121,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "meteos_2015",
@@ -1030,7 +1132,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "impaler_2015",
@@ -1040,7 +1143,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "crumbz_2015",
@@ -1050,7 +1154,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shorterace_2015",
@@ -1060,7 +1165,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "saintvicious_2015",
@@ -1070,7 +1176,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rush_2015",
@@ -1080,7 +1187,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "iwdominate_2015",
@@ -1090,7 +1198,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 0
     },
     {
       "id": "xmithie_2015",
@@ -1100,7 +1209,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "porpoise_2015",
@@ -1110,7 +1220,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "helios_2015",
@@ -1120,7 +1231,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cloudnguyen_2015",
@@ -1130,7 +1242,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mountain_2015",
@@ -1140,7 +1253,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "illusion_2015",
@@ -1150,7 +1264,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "karsa_2015",
@@ -1160,7 +1275,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hanji_2015",
@@ -1170,7 +1286,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "smurph_2015",
@@ -1180,7 +1297,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "peanut_2015",
@@ -1190,7 +1308,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ares_2015",
@@ -1200,7 +1319,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "azingy_2015",
@@ -1210,7 +1330,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tom_2015",
@@ -1220,7 +1341,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vii_2015",
@@ -1230,7 +1352,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wtheaven_2015",
@@ -1240,7 +1363,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "winged_2015",
@@ -1250,7 +1374,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "xayoo_2015",
@@ -1260,7 +1385,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Reason Gaming (2015)"
+      "seasonTeam": "Reason Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kirei_2015",
@@ -1270,7 +1396,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+      "seasonTeam": "Copenhagen Wolves Academy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nintendudex_2015",
@@ -1280,7 +1407,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Fusion (2015)"
+      "seasonTeam": "Team Fusion (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kez_2015",
@@ -1290,7 +1418,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tusin_2015",
@@ -1300,7 +1429,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "neo_2015",
@@ -1310,7 +1440,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Winners (2015)"
+      "seasonTeam": "Winners (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lira_2015",
@@ -1320,7 +1451,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "catch_2015",
@@ -1330,7 +1462,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Prime Clan (2015)"
+      "seasonTeam": "Prime Clan (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ark_2015",
@@ -1340,7 +1473,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Xenics (2015)"
+      "seasonTeam": "Xenics (2015)",
+      "worldsWins": 0
     },
     {
       "id": "illusion_2015",
@@ -1350,7 +1484,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "catch_2015",
@@ -1360,7 +1495,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "m4_2015",
@@ -1370,7 +1506,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "domo_2015",
@@ -1380,7 +1517,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "marilyn_2015",
@@ -1390,7 +1528,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "yo_2015",
@@ -1400,7 +1539,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wisdom_2015",
@@ -1410,7 +1550,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "achie_2015",
@@ -1420,7 +1561,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "refra1n_2015",
@@ -1430,7 +1572,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "amazing_2015",
@@ -1440,7 +1583,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2015)"
+      "seasonTeam": "Origen (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dexter_2015",
@@ -1450,7 +1594,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "move_2015",
@@ -1460,7 +1605,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kold_2015",
@@ -1470,7 +1616,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Enemy (2015)"
+      "seasonTeam": "Enemy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "zonda_2015",
@@ -1480,7 +1627,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "morning_2015",
@@ -1490,7 +1638,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "helios_2015",
@@ -1500,7 +1649,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "willy_2015",
@@ -1510,7 +1660,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rd_2015",
@@ -1520,7 +1671,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "refra1n_2015",
@@ -1530,7 +1682,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lilac_2015",
@@ -1540,7 +1693,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hanji_2015",
@@ -1550,7 +1704,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kawa_2015",
@@ -1560,7 +1715,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2015",
@@ -1570,7 +1726,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hai_2015",
@@ -1580,7 +1737,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gilius_2015",
@@ -1590,7 +1748,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "trick_2015",
@@ -1600,7 +1759,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "neo_2015",
@@ -1610,7 +1770,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bliss_2015",
@@ -1620,7 +1781,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "betongjocke_2015",
@@ -1630,7 +1792,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "h0r0_2015",
@@ -1640,7 +1803,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kikis_2015",
@@ -1650,7 +1814,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gamers2 (2015)"
+      "seasonTeam": "Gamers2 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dan_2015",
@@ -1660,7 +1825,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MOUZ NXT (2015)"
+      "seasonTeam": "MOUZ NXT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shrimp_2015",
@@ -1670,7 +1836,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "galen_2015",
@@ -1680,7 +1847,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Imagine (2015)"
+      "seasonTeam": "Team Imagine (2015)",
+      "worldsWins": 0
     },
     {
       "id": "krvavy_2015",
@@ -1690,7 +1858,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dark Wolves (2015)"
+      "seasonTeam": "Dark Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "flawless_2015",
@@ -1700,7 +1869,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ryan_2015",
@@ -1710,7 +1880,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -1722,7 +1893,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2015",
@@ -1732,7 +1904,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 2
     },
     {
       "id": "easyhoon_2015",
@@ -1742,7 +1915,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 1
     },
     {
       "id": "westdoor_2015",
@@ -1752,7 +1926,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "leemid_2015",
@@ -1762,7 +1937,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Crew (2015)"
+      "seasonTeam": "Machi Crew (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2015",
@@ -1772,7 +1948,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chawy_2015",
@@ -1782,7 +1959,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kuro_2015",
@@ -1792,7 +1970,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "frozen_2015",
@@ -1802,7 +1981,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bliss_2015",
@@ -1812,7 +1992,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gbm_2015",
@@ -1822,7 +2003,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "coocoodai_2015",
@@ -1832,7 +2014,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "DarlingYou (2015)"
+      "seasonTeam": "DarlingYou (2015)",
+      "worldsWins": 0
     },
     {
       "id": "aries_2015",
@@ -1842,7 +2025,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "toyz_2015",
@@ -1852,7 +2036,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 1
     },
     {
       "id": "nagne_2015",
@@ -1862,7 +2047,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "coco_2015",
@@ -1872,7 +2058,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "froggen_2015",
@@ -1882,7 +2069,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "febiven_2015",
@@ -1892,7 +2080,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ptt_2015",
@@ -1902,7 +2091,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "blizer300_2015",
@@ -1912,7 +2102,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "soren_2015",
@@ -1922,7 +2113,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ryu_2015",
@@ -1932,7 +2124,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fox_2015",
@@ -1942,7 +2135,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2015",
@@ -1952,7 +2146,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "niq_2015",
@@ -1962,7 +2157,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "powerofevil_2015",
@@ -1972,7 +2168,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bjergsen_2015",
@@ -1982,7 +2179,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hai_2015",
@@ -1992,7 +2190,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jesiz_2015",
@@ -2002,7 +2201,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "shiphtur_2015",
@@ -2012,7 +2212,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pobelter_2015",
@@ -2022,7 +2223,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "keane_2015",
@@ -2032,7 +2234,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoweixiao_2015",
@@ -2042,7 +2245,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fenix_2015",
@@ -2052,7 +2256,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 0
     },
     {
       "id": "link_2015",
@@ -2062,7 +2267,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "slooshi_2015",
@@ -2072,7 +2278,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nulu_2015",
@@ -2082,7 +2289,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "coocoodai_2015",
@@ -2092,7 +2300,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2015",
@@ -2102,7 +2311,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kawai_2015",
@@ -2112,7 +2322,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "leemid_2015",
@@ -2122,7 +2333,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "k_2015",
@@ -2132,7 +2344,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "betsy_2015",
@@ -2142,7 +2355,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mancloud_2015",
@@ -2152,7 +2366,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tank_2015",
@@ -2162,7 +2377,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ace_2015",
@@ -2172,7 +2388,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "takefun_2015",
@@ -2182,7 +2399,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Reason Gaming (2015)"
+      "seasonTeam": "Reason Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cozq_2015",
@@ -2192,7 +2410,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+      "seasonTeam": "Copenhagen Wolves Academy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2015",
@@ -2202,7 +2421,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Fusion (2015)"
+      "seasonTeam": "Team Fusion (2015)",
+      "worldsWins": 0
     },
     {
       "id": "alex ich_2015",
@@ -2212,7 +2432,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "night_2015",
@@ -2222,7 +2443,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Winners (2015)"
+      "seasonTeam": "Winners (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mickey_2015",
@@ -2232,7 +2454,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sasin_2015",
@@ -2242,7 +2465,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Prime Clan (2015)"
+      "seasonTeam": "Prime Clan (2015)",
+      "worldsWins": 0
     },
     {
       "id": "candy_2015",
@@ -2252,7 +2476,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Xenics (2015)"
+      "seasonTeam": "Xenics (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2015",
@@ -2262,7 +2487,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "breaker_2015",
@@ -2272,7 +2498,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "crown_2015",
@@ -2282,7 +2509,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sasin_2015",
@@ -2292,7 +2520,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "do it_2015",
@@ -2302,7 +2531,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "achie_2015",
@@ -2312,7 +2542,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "grail_2015",
@@ -2322,7 +2553,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "stone_2015",
@@ -2332,7 +2564,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "xpeke_2015",
@@ -2342,7 +2575,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2015)"
+      "seasonTeam": "Origen (2015)",
+      "worldsWins": 1
     },
     {
       "id": "jensen_2015",
@@ -2352,7 +2586,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bischu_2015",
@@ -2362,7 +2597,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pobelter_2015",
@@ -2372,7 +2608,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "innox_2015",
@@ -2382,7 +2619,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Enemy (2015)"
+      "seasonTeam": "Enemy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kuzan_2015",
@@ -2392,7 +2630,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "apex_2015",
@@ -2402,7 +2641,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "edge_2015",
@@ -2412,7 +2652,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "candy_2015",
@@ -2422,7 +2663,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mancloud_2015",
@@ -2432,7 +2674,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "goldenglue_2015",
@@ -2442,7 +2685,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ninja_2015",
@@ -2452,7 +2696,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2015",
@@ -2462,7 +2707,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gate_2015",
@@ -2472,7 +2718,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2015",
@@ -2482,7 +2729,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gamers2 (2015)"
+      "seasonTeam": "Gamers2 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jinsh_2015",
@@ -2492,7 +2740,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MOUZ NXT (2015)"
+      "seasonTeam": "MOUZ NXT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pekin woof_2015",
@@ -2502,7 +2751,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mancloud_2015",
@@ -2512,7 +2762,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Imagine (2015)"
+      "seasonTeam": "Team Imagine (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kyle_2015",
@@ -2522,7 +2773,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dark Wolves (2015)"
+      "seasonTeam": "Dark Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "athena_2015",
@@ -2532,7 +2784,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -2544,7 +2797,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bang_2015",
@@ -2554,7 +2808,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 1
     },
     {
       "id": "an_2015",
@@ -2564,7 +2819,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "honeyrain_2015",
@@ -2574,7 +2830,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Crew (2015)"
+      "seasonTeam": "Machi Crew (2015)",
+      "worldsWins": 0
     },
     {
       "id": "3z_2015",
@@ -2584,7 +2841,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "guger_2015",
@@ -2594,7 +2852,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pray_2015",
@@ -2604,7 +2863,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sonstar_2015",
@@ -2614,7 +2874,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fury_2015",
@@ -2624,7 +2885,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pilot_2015",
@@ -2634,7 +2896,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "unlimited_2015",
@@ -2644,7 +2907,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "DarlingYou (2015)"
+      "seasonTeam": "DarlingYou (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tbn_2015",
@@ -2654,7 +2918,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "godjj_2015",
@@ -2664,7 +2929,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "arrow_2015",
@@ -2674,7 +2940,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "space_2015",
@@ -2684,7 +2951,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "zefa_2015",
@@ -2694,7 +2962,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2015",
@@ -2704,7 +2973,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2015",
@@ -2714,7 +2984,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "adryh_2015",
@@ -2724,7 +2995,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mrrallez_2015",
@@ -2734,7 +3006,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "freeze_2015",
@@ -2744,7 +3017,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hjarnan_2015",
@@ -2754,7 +3028,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "forg1ven_2015",
@@ -2764,7 +3039,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "woolite_2015",
@@ -2774,7 +3050,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "p1noy_2015",
@@ -2784,7 +3061,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vardags_2015",
@@ -2794,7 +3072,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cpt jack_2015",
@@ -2804,7 +3083,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2015",
@@ -2814,7 +3094,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sneaky_2015",
@@ -2824,7 +3105,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mash_2015",
@@ -2834,7 +3116,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2015",
@@ -2844,7 +3127,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2015",
@@ -2854,7 +3138,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "cop_2015",
@@ -2864,7 +3149,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "apollo_2015",
@@ -2874,7 +3160,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "keith_2015",
@@ -2884,7 +3171,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2015",
@@ -2894,7 +3182,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "maplestreet_2015",
@@ -2904,7 +3193,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "piglet_2015",
@@ -2912,9 +3202,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
       "years": "2015",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 1
     },
     {
       "id": "unlimited_2015",
@@ -2924,7 +3215,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "se7en_2015",
@@ -2934,7 +3226,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nl_2015",
@@ -2944,7 +3237,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "honeyrain_2015",
@@ -2954,7 +3248,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "corgi_2015",
@@ -2964,7 +3259,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rd_2015",
@@ -2974,7 +3270,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "paragon_2015",
@@ -2984,7 +3281,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2015",
@@ -2994,7 +3292,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "celaver_2015",
@@ -3004,7 +3303,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Reason Gaming (2015)"
+      "seasonTeam": "Reason Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vizility_2015",
@@ -3014,7 +3314,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+      "seasonTeam": "Copenhagen Wolves Academy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nien_2015",
@@ -3024,7 +3325,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Fusion (2015)"
+      "seasonTeam": "Team Fusion (2015)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2015",
@@ -3034,7 +3336,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "roar_2015",
@@ -3044,7 +3347,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gankzero_2015",
@@ -3054,7 +3358,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Winners (2015)"
+      "seasonTeam": "Winners (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sangyoon_2015",
@@ -3064,7 +3369,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nuclear_2015",
@@ -3074,7 +3380,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Prime Clan (2015)"
+      "seasonTeam": "Prime Clan (2015)",
+      "worldsWins": 0
     },
     {
       "id": "stitch_2015",
@@ -3084,7 +3391,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Xenics (2015)"
+      "seasonTeam": "Xenics (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nuclear_2015",
@@ -3094,7 +3402,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dan_2015",
@@ -3104,7 +3413,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bebe_2015",
@@ -3114,7 +3424,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 1
     },
     {
       "id": "raison_2015",
@@ -3124,7 +3435,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dee_2015",
@@ -3134,7 +3446,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2015",
@@ -3144,7 +3457,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2015",
@@ -3154,7 +3468,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2015)"
+      "seasonTeam": "Origen (2015)",
+      "worldsWins": 0
     },
     {
       "id": "forg1ven_2015",
@@ -3164,7 +3479,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tabzz_2015",
@@ -3174,7 +3490,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "candypanda_2015",
@@ -3184,7 +3501,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lattman_2015",
@@ -3194,7 +3512,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2015",
@@ -3204,7 +3523,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "otter_2015",
@@ -3214,7 +3534,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Enemy (2015)"
+      "seasonTeam": "Enemy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nien_2015",
@@ -3224,7 +3545,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mrrallez_2015",
@@ -3234,7 +3556,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "k_2015",
@@ -3244,7 +3567,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "stitch_2015",
@@ -3254,7 +3578,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kramer_2015",
@@ -3264,7 +3589,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "breeze_2015",
@@ -3274,7 +3600,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "emperor_2015",
@@ -3284,7 +3611,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "paragon_2015",
@@ -3294,7 +3622,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "keith_2015",
@@ -3304,7 +3633,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "moopz_2015",
@@ -3314,7 +3644,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "godkwai_2015",
@@ -3324,7 +3655,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jesiz_2015",
@@ -3334,7 +3666,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gamers2 (2015)"
+      "seasonTeam": "Gamers2 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sedrion_2015",
@@ -3344,7 +3677,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MOUZ NXT (2015)"
+      "seasonTeam": "MOUZ NXT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2015",
@@ -3354,7 +3688,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Imagine (2015)"
+      "seasonTeam": "Team Imagine (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chelly_2015",
@@ -3364,7 +3699,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dark Wolves (2015)"
+      "seasonTeam": "Dark Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "police_2015",
@@ -3374,7 +3710,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     },
     {
       "id": "loken_2015",
@@ -3384,7 +3721,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -3396,7 +3734,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wolf_2015",
@@ -3406,7 +3745,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 1
     },
     {
       "id": "greentea_2015",
@@ -3416,7 +3756,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "melon_2015",
@@ -3426,7 +3767,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Crew (2015)"
+      "seasonTeam": "Machi Crew (2015)",
+      "worldsWins": 0
     },
     {
       "id": "k_2015",
@@ -3436,7 +3778,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chieh_2015",
@@ -3446,7 +3789,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gorilla_2015",
@@ -3456,7 +3800,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "ROX Tigers (2015)"
+      "seasonTeam": "ROX Tigers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "tusin_2015",
@@ -3466,7 +3811,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "wraith_2015",
@@ -3476,7 +3822,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chei_2015",
@@ -3486,7 +3833,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rain_2015",
@@ -3496,7 +3844,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "DarlingYou (2015)"
+      "seasonTeam": "DarlingYou (2015)",
+      "worldsWins": 0
     },
     {
       "id": "chunx_2015",
@@ -3506,7 +3855,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Midnight Sun Esports (2015)"
+      "seasonTeam": "Midnight Sun Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "olleh_2015",
@@ -3514,9 +3864,10 @@
       "team": "Hong Kong Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
       "years": "2015",
-      "nationality": "TW",
+      "nationality": "KR",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2015)"
+      "seasonTeam": "Hong Kong Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hachani_2015",
@@ -3526,7 +3877,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "madlife_2015",
@@ -3536,7 +3888,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "piccaboo_2015",
@@ -3546,7 +3899,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SK Telecom T1 (2015)"
+      "seasonTeam": "SK Telecom T1 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "pure_2015",
@@ -3556,7 +3910,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "NaJin e-mFire (2015)"
+      "seasonTeam": "NaJin e-mFire (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nyph_2015",
@@ -3566,7 +3921,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "yellowstar_2015",
@@ -3576,7 +3932,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2015)"
+      "seasonTeam": "Fnatic (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rydle_2015",
@@ -3586,7 +3943,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nisbeth_2015",
@@ -3596,7 +3954,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "unlimited_2015",
@@ -3606,7 +3965,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "voidle_2015",
@@ -3616,7 +3976,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "nrated_2015",
@@ -3626,7 +3987,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2015",
@@ -3636,7 +3998,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2015)"
+      "seasonTeam": "Team ROCCAT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "edward_2015",
@@ -3646,7 +4009,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gambit Gaming (2015)"
+      "seasonTeam": "Gambit Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hylissang_2015",
@@ -3656,7 +4020,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2015)"
+      "seasonTeam": "Unicorns of Love (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lustboy_2015",
@@ -3666,7 +4031,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2015)"
+      "seasonTeam": "TSM (2015)",
+      "worldsWins": 0
     },
     {
       "id": "lemonnation_2015",
@@ -3676,7 +4042,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2015)"
+      "seasonTeam": "Cloud9 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sheep_2015",
@@ -3686,7 +4053,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kiwikid_2015",
@@ -3696,7 +4064,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2015)"
+      "seasonTeam": "Dignitas (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gleeb_2015",
@@ -3706,7 +4075,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bunny fufuu_2015",
@@ -3716,7 +4086,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gravity (2015)"
+      "seasonTeam": "Gravity (2015)",
+      "worldsWins": 0
     },
     {
       "id": "adrian_2015",
@@ -3726,7 +4097,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "xpecial_2015",
@@ -3736,7 +4108,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2015)"
+      "seasonTeam": "Team Liquid (2015)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2015",
@@ -3746,7 +4119,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2015)"
+      "seasonTeam": "Counter Logic Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dodo_2015",
@@ -3756,7 +4130,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team 8 (2015)"
+      "seasonTeam": "Team 8 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rain_2015",
@@ -3766,7 +4141,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Never Give Up (2015)"
+      "seasonTeam": "Never Give Up (2015)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2015",
@@ -3776,7 +4152,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2015)"
+      "seasonTeam": "Flash Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "melon_2015",
@@ -3786,7 +4163,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Dream or Reality (2015)"
+      "seasonTeam": "Dream or Reality (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kasing_2015",
@@ -3796,7 +4174,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2015)"
+      "seasonTeam": "H2k-Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2015",
@@ -3806,7 +4185,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "yolo_2015",
@@ -3816,7 +4196,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "krepo_2015",
@@ -3826,7 +4207,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "fixer_2015",
@@ -3836,7 +4218,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "noxiak_2015",
@@ -3846,7 +4229,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MeetYourMakers (2015)"
+      "seasonTeam": "MeetYourMakers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2015",
@@ -3856,7 +4240,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Winterfox (2015)"
+      "seasonTeam": "Winterfox (2015)",
+      "worldsWins": 0
     },
     {
       "id": "rd_2015",
@@ -3866,7 +4251,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Logitech G Snipers (2015)"
+      "seasonTeam": "Logitech G Snipers (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kwon_2015",
@@ -3876,7 +4262,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Coast (2015)"
+      "seasonTeam": "Team Coast (2015)",
+      "worldsWins": 0
     },
     {
       "id": "sweet_2015",
@@ -3886,7 +4273,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Jin Air Green Wings (2015)"
+      "seasonTeam": "Jin Air Green Wings (2015)",
+      "worldsWins": 0
     },
     {
       "id": "albis_2015",
@@ -3896,7 +4284,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2015)"
+      "seasonTeam": "ahq eSports Club (2015)",
+      "worldsWins": 0
     },
     {
       "id": "libik_2015",
@@ -3906,7 +4295,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Reason Gaming (2015)"
+      "seasonTeam": "Reason Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hybrid_2015",
@@ -3916,7 +4306,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves Academy (2015)"
+      "seasonTeam": "Copenhagen Wolves Academy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "trance_2015",
@@ -3926,7 +4317,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Fusion (2015)"
+      "seasonTeam": "Team Fusion (2015)",
+      "worldsWins": 0
     },
     {
       "id": "smoothie_2015",
@@ -3936,7 +4328,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2015",
@@ -3946,7 +4339,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Incredible Miracle (2015)"
+      "seasonTeam": "Incredible Miracle (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bokgu_2015",
@@ -3956,7 +4350,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Winners (2015)"
+      "seasonTeam": "Winners (2015)",
+      "worldsWins": 0
     },
     {
       "id": "snowflower_2015",
@@ -3966,7 +4361,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Rebels Anarchy (2015)"
+      "seasonTeam": "Rebels Anarchy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "secret_2015",
@@ -3976,7 +4372,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Prime Clan (2015)"
+      "seasonTeam": "Prime Clan (2015)",
+      "worldsWins": 0
     },
     {
       "id": "key_2015",
@@ -3986,7 +4383,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Xenics (2015)"
+      "seasonTeam": "Xenics (2015)",
+      "worldsWins": 0
     },
     {
       "id": "luna_2015",
@@ -3996,7 +4394,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "Samsung Galaxy (2015)"
+      "seasonTeam": "Samsung Galaxy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "secret_2015",
@@ -4006,7 +4405,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "vivid_2015",
@@ -4016,7 +4416,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "SBENU Korea (2015)"
+      "seasonTeam": "SBENU Korea (2015)",
+      "worldsWins": 0
     },
     {
       "id": "weiiii_2015",
@@ -4026,7 +4427,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Assassin Sniper (2015)"
+      "seasonTeam": "Assassin Sniper (2015)",
+      "worldsWins": 0
     },
     {
       "id": "dreamer_2015",
@@ -4036,7 +4438,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2015)"
+      "seasonTeam": "Machi Esports (2015)",
+      "worldsWins": 0
     },
     {
       "id": "g0dfred_2015",
@@ -4046,7 +4449,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2015)"
+      "seasonTeam": "Giants Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mithy_2015",
@@ -4056,7 +4460,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2015)"
+      "seasonTeam": "Origen (2015)",
+      "worldsWins": 0
     },
     {
       "id": "promisq_2015",
@@ -4066,7 +4471,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Elements (2015)"
+      "seasonTeam": "Elements (2015)",
+      "worldsWins": 0
     },
     {
       "id": "big_2015",
@@ -4076,7 +4482,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Dragon Knights (2015)"
+      "seasonTeam": "Team Dragon Knights (2015)",
+      "worldsWins": 0
     },
     {
       "id": "bodydrop_2015",
@@ -4086,7 +4493,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Enemy (2015)"
+      "seasonTeam": "Enemy (2015)",
+      "worldsWins": 0
     },
     {
       "id": "yue_2015",
@@ -4096,7 +4504,8 @@
       "years": "2015",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Taipei Assassins (2015)"
+      "seasonTeam": "Taipei Assassins (2015)",
+      "worldsWins": 0
     },
     {
       "id": "max_2015",
@@ -4106,7 +4515,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "CJ Entus (2015)"
+      "seasonTeam": "CJ Entus (2015)",
+      "worldsWins": 0
     },
     {
       "id": "piccaboo_2015",
@@ -4116,7 +4526,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "OGN",
-      "seasonTeam": "KT Rolster (2015)"
+      "seasonTeam": "KT Rolster (2015)",
+      "worldsWins": 0
     },
     {
       "id": "kaas_2015",
@@ -4126,7 +4537,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Copenhagen Wolves (2015)"
+      "seasonTeam": "Copenhagen Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "gate_2015",
@@ -4136,7 +4548,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Impulse (2015)"
+      "seasonTeam": "Team Impulse (2015)",
+      "worldsWins": 0
     },
     {
       "id": "noxiak_2015",
@@ -4146,7 +4559,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "SK Gaming (2015)"
+      "seasonTeam": "SK Gaming (2015)",
+      "worldsWins": 0
     },
     {
       "id": "hybrid_2015",
@@ -4156,7 +4570,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Gamers2 (2015)"
+      "seasonTeam": "Gamers2 (2015)",
+      "worldsWins": 0
     },
     {
       "id": "mountain_2015",
@@ -4166,7 +4581,8 @@
       "years": "2015",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "MOUZ NXT (2015)"
+      "seasonTeam": "MOUZ NXT (2015)",
+      "worldsWins": 0
     },
     {
       "id": "big_2015",
@@ -4176,7 +4592,8 @@
       "years": "2015",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Imagine (2015)"
+      "seasonTeam": "Team Imagine (2015)",
+      "worldsWins": 0
     },
     {
       "id": "jelly_2015",
@@ -4186,7 +4603,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dark Wolves (2015)"
+      "seasonTeam": "Dark Wolves (2015)",
+      "worldsWins": 0
     },
     {
       "id": "key_2015",
@@ -4196,7 +4614,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     },
     {
       "id": "totoro_2015",
@@ -4206,7 +4625,8 @@
       "years": "2015",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ESC Ever (2015)"
+      "seasonTeam": "ESC Ever (2015)",
+      "worldsWins": 0
     }
   ]
 }

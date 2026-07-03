@@ -8,7 +8,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "biubiu_2023",
@@ -18,7 +19,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zdz_2023",
@@ -28,7 +30,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yskm_2023",
@@ -38,7 +41,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bin_2023",
@@ -48,7 +52,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2023)"
+      "seasonTeam": "Bilibili Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "369_2023",
@@ -58,7 +63,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoxu_2023",
@@ -68,7 +74,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cube_2023",
@@ -78,7 +85,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "breathe_2023",
@@ -88,7 +96,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shanji_2023",
@@ -98,7 +107,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hery_2023",
@@ -108,7 +118,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "invincible_2023",
@@ -118,7 +129,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ale_2023",
@@ -128,7 +140,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "qingtian_2023",
@@ -138,7 +151,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hoya_2023",
@@ -148,7 +162,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zika_2023",
@@ -158,7 +173,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "canna_2023",
@@ -168,7 +184,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rascal_2023",
@@ -178,7 +195,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zeus_2023",
@@ -188,7 +206,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 1
     },
     {
       "id": "doran_2023",
@@ -198,7 +217,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2023)"
+      "seasonTeam": "Gen.G (2023)",
+      "worldsWins": 0
     },
     {
       "id": "theshy_2023",
@@ -206,9 +226,10 @@
       "team": "Weibo Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
       "years": "2023",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 1
     },
     {
       "id": "dudu_2023",
@@ -218,7 +239,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kingen_2023",
@@ -228,7 +250,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "dndn_2023",
@@ -238,7 +261,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "morgan_2023",
@@ -248,7 +272,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BRION (2023)"
+      "seasonTeam": "BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kiin_2023",
@@ -258,7 +283,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "burdol_2023",
@@ -268,7 +294,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "odoamne_2023",
@@ -278,7 +305,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "brokenblade_2023",
@@ -288,7 +316,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2023)"
+      "seasonTeam": "G2 Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "szygenda_2023",
@@ -298,7 +327,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "adam_2023",
@@ -308,7 +338,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "finn_2023",
@@ -318,7 +349,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "evi_2023",
@@ -328,7 +360,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "chasy_2023",
@@ -338,7 +371,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2023)"
+      "seasonTeam": "MAD Lions KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "irrelevant_2023",
@@ -348,7 +382,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2023)"
+      "seasonTeam": "SK Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "photon_2023",
@@ -358,7 +393,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2023",
@@ -368,7 +404,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fudge_2023",
@@ -378,7 +415,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tenacity_2023",
@@ -388,7 +426,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ssumday_2023",
@@ -396,9 +435,10 @@
       "team": "Evil Geniuses",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "licorice_2023",
@@ -408,7 +448,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "summit_2023",
@@ -418,7 +459,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2023",
@@ -426,9 +468,10 @@
       "team": "FlyQuest",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 1
     },
     {
       "id": "dhokla_2023",
@@ -438,7 +481,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2023)"
+      "seasonTeam": "Counter Logic Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "armut_2023",
@@ -448,7 +492,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "revenge_2023",
@@ -458,7 +503,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "solo_2023",
@@ -468,7 +514,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rich_2023",
@@ -478,7 +525,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rest_2023",
@@ -488,7 +536,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "likai_2023",
@@ -498,7 +547,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "azhi_2023",
@@ -508,7 +558,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "relhia_2023",
@@ -518,7 +569,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lacunae_2023",
@@ -528,7 +580,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "driver_2023",
@@ -538,7 +591,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ryue_2023",
@@ -548,7 +602,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hanabi_2023",
@@ -558,7 +613,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "solokill_2023",
@@ -568,7 +624,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "taco_2023",
@@ -578,7 +635,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fearness_2023",
@@ -588,7 +646,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "long_2023",
@@ -598,7 +657,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hasmed_2023",
@@ -608,7 +668,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hiro02_2023",
@@ -618,7 +679,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sparda_2023",
@@ -628,7 +690,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sunmer_2023",
@@ -638,7 +701,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yoshino_2023",
@@ -648,7 +712,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kiaya_2023",
@@ -658,7 +723,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nper_2023",
@@ -668,7 +734,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pun_2023",
@@ -678,7 +745,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "oscarinin_2023",
@@ -688,7 +756,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hauntzer_2023",
@@ -698,7 +767,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "neny_2023",
@@ -708,7 +778,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "biopanther_2023",
@@ -718,7 +789,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wayward_2023",
@@ -728,7 +800,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lived_2023",
@@ -738,7 +811,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kratos_2023",
@@ -748,7 +822,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fearness_2023",
@@ -758,7 +833,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoxu_2023",
@@ -768,7 +844,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cube_2023",
@@ -778,7 +855,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "morgan_2023",
@@ -788,7 +866,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "decade_2023",
@@ -798,7 +877,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wen_2023",
@@ -808,7 +888,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "solo_2023",
@@ -818,7 +899,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rich_2023",
@@ -828,7 +910,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "revenge_2023",
@@ -838,7 +921,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dhokla_2023",
@@ -848,7 +932,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "NRG Kia (2023)"
+      "seasonTeam": "NRG Kia (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ssumday_2023",
@@ -856,9 +941,10 @@
       "team": "100 Thieves",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hasmed_2023",
@@ -868,7 +954,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yuki_2023",
@@ -878,7 +965,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "coated_2023",
@@ -888,7 +976,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "agresivoo_2023",
@@ -898,7 +987,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "781_2023",
@@ -908,7 +998,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "driver_2023",
@@ -918,7 +1009,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "relhia_2023",
@@ -928,7 +1020,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "WP Gaming (2023)"
+      "seasonTeam": "WP Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jp6ru8_2023",
@@ -938,7 +1031,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "relhia_2023",
@@ -948,7 +1042,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "West Point Esports (2023)"
+      "seasonTeam": "West Point Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "clear_2023",
@@ -958,7 +1053,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ryuk_2023",
@@ -968,7 +1064,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "perfect_2023",
@@ -978,7 +1075,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zkai_2023",
@@ -988,7 +1086,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON Academy (2023)"
+      "seasonTeam": "TALON Academy (2023)",
+      "worldsWins": 0
     },
     {
       "id": "weizhe_2023",
@@ -998,7 +1097,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nate9527 (2023)"
+      "seasonTeam": "Nate9527 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zhang kun_2023",
@@ -1008,7 +1108,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "robin_2023",
@@ -1018,7 +1119,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yuki_2023",
@@ -1028,7 +1130,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "be_2023",
@@ -1038,7 +1141,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "2t_2023",
@@ -1048,7 +1152,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "og sabo_2023",
@@ -1058,7 +1163,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "echduquai_2023",
@@ -1068,7 +1174,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mounnika_2023",
@@ -1078,7 +1185,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hamin_2023",
@@ -1088,7 +1196,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -1100,7 +1209,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "heng_2023",
@@ -1110,7 +1220,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohao_2023",
@@ -1120,7 +1231,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gideon_2023",
@@ -1130,7 +1242,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xun_2023",
@@ -1140,7 +1253,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2023)"
+      "seasonTeam": "Bilibili Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kanavi_2023",
@@ -1150,7 +1264,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "meteor_2023",
@@ -1160,7 +1275,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "leyan_2023",
@@ -1170,7 +1286,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wei_2023",
@@ -1180,7 +1297,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "aki_2023",
@@ -1190,7 +1308,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ning_2023",
@@ -1200,7 +1319,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 1
     },
     {
       "id": "xlb_2023",
@@ -1210,7 +1330,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jiejie_2023",
@@ -1220,7 +1341,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 1
     },
     {
       "id": "tian_2023",
@@ -1230,7 +1352,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "beichuan_2023",
@@ -1240,7 +1363,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tarzan_2023",
@@ -1250,7 +1374,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "canyon_2023",
@@ -1260,7 +1385,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 1
     },
     {
       "id": "croco_2023",
@@ -1270,7 +1396,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "oner_2023",
@@ -1280,7 +1407,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 1
     },
     {
       "id": "peanut_2023",
@@ -1290,7 +1418,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2023)"
+      "seasonTeam": "Gen.G (2023)",
+      "worldsWins": 0
     },
     {
       "id": "karsa_2023",
@@ -1300,7 +1429,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "youngjae_2023",
@@ -1310,7 +1440,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "clid_2023",
@@ -1320,7 +1451,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sylvie_2023",
@@ -1330,7 +1462,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "umti_2023",
@@ -1340,7 +1473,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BRION (2023)"
+      "seasonTeam": "BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cuzz_2023",
@@ -1350,7 +1484,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "willer_2023",
@@ -1360,7 +1495,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xerxe_2023",
@@ -1370,7 +1506,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yike_2023",
@@ -1380,7 +1517,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2023)"
+      "seasonTeam": "G2 Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "malrang_2023",
@@ -1390,7 +1528,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sheo_2023",
@@ -1400,7 +1539,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "113_2023",
@@ -1410,7 +1550,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2023",
@@ -1420,7 +1561,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "elyoya_2023",
@@ -1430,7 +1572,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2023)"
+      "seasonTeam": "MAD Lions KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "markoon_2023",
@@ -1440,7 +1583,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2023)"
+      "seasonTeam": "SK Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bo_2023",
@@ -1450,7 +1594,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "razork_2023",
@@ -1460,7 +1605,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "blaber_2023",
@@ -1470,7 +1616,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "closer_2023",
@@ -1480,7 +1627,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "inspired_2023",
@@ -1490,7 +1638,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "river_2023",
@@ -1500,7 +1649,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pyosik_2023",
@@ -1510,7 +1660,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 1
     },
     {
       "id": "spica_2023",
@@ -1520,7 +1671,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2023",
@@ -1530,7 +1682,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2023)"
+      "seasonTeam": "Counter Logic Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2023",
@@ -1540,7 +1693,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kenvi_2023",
@@ -1550,7 +1704,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bugi_2023",
@@ -1560,7 +1715,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gemini_2023",
@@ -1570,7 +1726,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kongyue_2023",
@@ -1580,7 +1737,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "husha_2023",
@@ -1590,7 +1748,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fiya_2023",
@@ -1600,7 +1759,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wsl_2023",
@@ -1610,7 +1770,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "alex_2023",
@@ -1620,7 +1781,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "h4cker_2023",
@@ -1630,7 +1792,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lauva_2023",
@@ -1640,7 +1803,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hana_2023",
@@ -1650,7 +1814,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "holo_2023",
@@ -1660,7 +1825,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tako_2023",
@@ -1670,7 +1836,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "juhan_2023",
@@ -1680,7 +1847,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "junjia_2023",
@@ -1690,7 +1858,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "beanj_2023",
@@ -1700,7 +1869,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "penguin_2023",
@@ -1710,7 +1880,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "killerqueen_2023",
@@ -1720,7 +1891,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tomrio_2023",
@@ -1730,7 +1902,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "phuc1_2023",
@@ -1740,7 +1913,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "levi_2023",
@@ -1750,7 +1924,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dnk_2023",
@@ -1760,7 +1935,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "draktharr_2023",
@@ -1770,7 +1946,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "skewed_2023",
@@ -1780,7 +1957,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ego_2023",
@@ -1790,7 +1968,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gury_2023",
@@ -1800,7 +1979,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shad0w_2023",
@@ -1810,7 +1990,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "spot_2023",
@@ -1820,7 +2001,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2023",
@@ -1830,7 +2012,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "qiang_2023",
@@ -1840,7 +2023,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "babip_2023",
@@ -1850,7 +2034,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "whynot_2023",
@@ -1860,7 +2045,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gg river_2023",
@@ -1870,7 +2056,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ikigai_2023",
@@ -1880,7 +2067,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tianzhen_2023",
@@ -1890,7 +2078,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "weiwei_2023",
@@ -1900,7 +2089,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "umti_2023",
@@ -1910,7 +2100,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "beishang_2023",
@@ -1920,7 +2111,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bonnie_2023",
@@ -1930,7 +2122,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "armao_2023",
@@ -1940,7 +2133,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2023",
@@ -1950,7 +2144,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "NRG Kia (2023)"
+      "seasonTeam": "NRG Kia (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohuangren_2023",
@@ -1960,7 +2155,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "peach_2023",
@@ -1970,7 +2166,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2023",
@@ -1980,7 +2177,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "beanj_2023",
@@ -1990,7 +2188,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ikigai_2023",
@@ -2000,7 +2199,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "grizzly_2023",
@@ -2010,7 +2210,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "arashi_2023",
@@ -2020,7 +2221,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "665_2023",
@@ -2030,7 +2232,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "WP Gaming (2023)"
+      "seasonTeam": "WP Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "godtone_2023",
@@ -2040,7 +2243,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kennychan_2023",
@@ -2050,7 +2254,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "665_2023",
@@ -2060,7 +2265,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "West Point Esports (2023)"
+      "seasonTeam": "West Point Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "daglas_2023",
@@ -2070,7 +2276,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sheiden_2023",
@@ -2080,7 +2287,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "draktharr_2023",
@@ -2090,7 +2298,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hambak_2023",
@@ -2100,7 +2309,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kevy_2023",
@@ -2110,7 +2320,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xin_2023",
@@ -2120,7 +2331,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON Academy (2023)"
+      "seasonTeam": "TALON Academy (2023)",
+      "worldsWins": 0
     },
     {
       "id": "alex_2023",
@@ -2130,7 +2342,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nate9527 (2023)"
+      "seasonTeam": "Nate9527 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kriss_2023",
@@ -2140,7 +2353,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "chopper_2023",
@@ -2150,7 +2364,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "thorfin_2023",
@@ -2160,7 +2375,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nonono1_2023",
@@ -2170,7 +2386,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "spot_2023",
@@ -2180,7 +2397,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "og zoro_2023",
@@ -2190,7 +2408,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sweetboy_2023",
@@ -2200,7 +2419,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zoro_2023",
@@ -2210,7 +2430,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tomrio_2023",
@@ -2220,7 +2441,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hyo_2023",
@@ -2230,7 +2452,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -2242,7 +2465,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shanks_2023",
@@ -2252,7 +2476,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "harder_2023",
@@ -2262,7 +2487,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "neny_2023",
@@ -2272,7 +2498,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yagao_2023",
@@ -2282,7 +2509,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2023)"
+      "seasonTeam": "Bilibili Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2023",
@@ -2292,7 +2520,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "haichao_2023",
@@ -2302,7 +2531,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "strive_2023",
@@ -2312,7 +2542,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tangyuan_2023",
@@ -2322,7 +2553,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "creme_2023",
@@ -2332,7 +2564,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "qing_2023",
@@ -2342,7 +2575,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dream_2023",
@@ -2352,7 +2586,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fofo_2023",
@@ -2362,7 +2597,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rookie_2023",
@@ -2370,9 +2606,10 @@
       "team": "Top Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
       "years": "2023",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "ucal_2023",
@@ -2382,7 +2619,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "scout_2023",
@@ -2390,9 +2628,10 @@
       "team": "LNG Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
       "years": "2023",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "dove_2023",
@@ -2402,7 +2641,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "showmaker_2023",
@@ -2412,7 +2652,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 1
     },
     {
       "id": "fate_2023",
@@ -2422,7 +2663,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2023",
@@ -2432,7 +2674,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 4
     },
     {
       "id": "chovy_2023",
@@ -2442,7 +2685,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2023)"
+      "seasonTeam": "Gen.G (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohu_2023",
@@ -2452,7 +2696,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bulldog_2023",
@@ -2462,7 +2707,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zeka_2023",
@@ -2472,7 +2718,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "fiesta_2023",
@@ -2482,7 +2729,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "karis_2023",
@@ -2492,7 +2740,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BRION (2023)"
+      "seasonTeam": "BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bdd_2023",
@@ -2502,7 +2751,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "clozer_2023",
@@ -2512,7 +2762,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vetheo_2023",
@@ -2522,7 +2773,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2023",
@@ -2532,7 +2784,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2023)"
+      "seasonTeam": "G2 Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "larssen_2023",
@@ -2542,7 +2795,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nuc_2023",
@@ -2552,7 +2806,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dajor_2023",
@@ -2562,7 +2817,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ruby_2023",
@@ -2572,7 +2828,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nisqy_2023",
@@ -2582,7 +2839,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2023)"
+      "seasonTeam": "MAD Lions KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sertuss_2023",
@@ -2592,7 +2850,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2023)"
+      "seasonTeam": "SK Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2023",
@@ -2602,7 +2861,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "humanoid_2023",
@@ -2612,7 +2872,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "diplex_2023",
@@ -2622,7 +2883,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bjergsen_2023",
@@ -2632,7 +2894,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jojopyun_2023",
@@ -2642,7 +2905,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "young_2023",
@@ -2652,7 +2916,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "haeri_2023",
@@ -2662,7 +2927,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vicla_2023",
@@ -2672,7 +2938,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "palafox_2023",
@@ -2682,7 +2949,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2023)"
+      "seasonTeam": "Counter Logic Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jensen_2023",
@@ -2692,7 +2960,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ablazeolive_2023",
@@ -2702,7 +2971,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2023",
@@ -2712,7 +2982,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xqw_2023",
@@ -2722,7 +2993,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pinz_2023",
@@ -2732,7 +3004,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "angel_2023",
@@ -2742,7 +3015,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gori_2023",
@@ -2752,7 +3026,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jimien_2023",
@@ -2762,7 +3037,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "1116_2023",
@@ -2772,7 +3048,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "uniboy_2023",
@@ -2782,7 +3059,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "calumnia_2023",
@@ -2792,7 +3070,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaotu_2023",
@@ -2802,7 +3081,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2023",
@@ -2812,7 +3092,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "minji_2023",
@@ -2822,7 +3103,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2023",
@@ -2832,7 +3114,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pretender_2023",
@@ -2842,7 +3125,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hong2_2023",
@@ -2852,7 +3136,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pout_2023",
@@ -2862,7 +3147,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "emenes_2023",
@@ -2872,7 +3158,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "froggy_2023",
@@ -2882,7 +3169,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2023",
@@ -2892,7 +3180,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gloryy_2023",
@@ -2902,7 +3191,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zzeta_2023",
@@ -2912,7 +3202,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jane_2023",
@@ -2922,7 +3213,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kati_2023",
@@ -2932,7 +3224,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dia1_2023",
@@ -2942,7 +3235,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yado_2023",
@@ -2952,7 +3246,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "emo_2023",
@@ -2962,7 +3257,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bolulu_2023",
@@ -2972,7 +3268,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ryoma_2023",
@@ -2982,7 +3279,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lider_2023",
@@ -2992,7 +3290,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "forge_2023",
@@ -3002,7 +3301,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "callme_2023",
@@ -3012,7 +3312,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kisee_2023",
@@ -3022,7 +3323,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "daystar_2023",
@@ -3032,7 +3334,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "playcool_2023",
@@ -3042,7 +3345,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "abbedagge_2023",
@@ -3052,7 +3356,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cryin_2023",
@@ -3062,7 +3367,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "angel_2023",
@@ -3072,7 +3378,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mole_2023",
@@ -3082,7 +3389,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kyeahoo_2023",
@@ -3092,7 +3400,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "karis_2023",
@@ -3102,7 +3411,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "quad_2023",
@@ -3112,7 +3422,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "insanity_2023",
@@ -3122,7 +3433,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "palafox_2023",
@@ -3132,7 +3444,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "NRG Kia (2023)"
+      "seasonTeam": "NRG Kia (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2023",
@@ -3142,7 +3455,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ivory_2023",
@@ -3152,7 +3466,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vetheo_2023",
@@ -3162,7 +3477,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "quid_2023",
@@ -3172,7 +3488,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "aisyl_2023",
@@ -3182,7 +3499,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ruby_2023",
@@ -3192,7 +3510,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2023",
@@ -3202,7 +3521,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shera_2023",
@@ -3212,7 +3532,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2023",
@@ -3222,7 +3543,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nul1_2023",
@@ -3232,7 +3554,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "WP Gaming (2023)"
+      "seasonTeam": "WP Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "adiogs_2023",
@@ -3242,7 +3565,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2023",
@@ -3252,7 +3576,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nul1_2023",
@@ -3262,7 +3587,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "West Point Esports (2023)"
+      "seasonTeam": "West Point Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "poby_2023",
@@ -3272,7 +3598,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "apa_2023",
@@ -3282,7 +3609,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dream_2023",
@@ -3292,7 +3620,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "spirax_2023",
@@ -3302,7 +3631,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lzq_2023",
@@ -3312,7 +3642,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hiro02_2023",
@@ -3322,7 +3653,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fisher_2023",
@@ -3332,7 +3664,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "aress_2023",
@@ -3342,7 +3675,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "feisty_2023",
@@ -3352,7 +3686,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wen_2023",
@@ -3362,7 +3697,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON Academy (2023)"
+      "seasonTeam": "TALON Academy (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hongq_2023",
@@ -3372,7 +3708,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nate9527 (2023)"
+      "seasonTeam": "Nate9527 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rudeus_2023",
@@ -3382,7 +3719,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nami_2023",
@@ -3392,7 +3730,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vin_2023",
@@ -3402,7 +3741,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dttt_2023",
@@ -3412,7 +3752,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2023",
@@ -3422,7 +3763,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "og sanji_2023",
@@ -3432,7 +3774,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pake_2023",
@@ -3442,7 +3785,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dipi_2023",
@@ -3452,7 +3796,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "echduquai_2023",
@@ -3462,7 +3807,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -3474,7 +3820,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 1
     },
     {
       "id": "hope_2023",
@@ -3484,7 +3831,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "betty_2023",
@@ -3494,7 +3842,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ahn_2023",
@@ -3504,7 +3853,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "elk_2023",
@@ -3514,7 +3864,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2023)"
+      "seasonTeam": "Bilibili Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2023",
@@ -3522,9 +3873,10 @@
       "team": "JD Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ruler_profileicon.png",
       "years": "2023",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 1
     },
     {
       "id": "lpc_2023",
@@ -3534,7 +3886,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "assum_2023",
@@ -3544,7 +3897,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gala_2023",
@@ -3554,7 +3908,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "able_2023",
@@ -3564,7 +3919,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "doggo_2023",
@@ -3574,7 +3930,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "photic_2023",
@@ -3584,7 +3941,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "leave_2023",
@@ -3594,7 +3952,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jackeylove_2023",
@@ -3604,7 +3963,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "huanfeng_2023",
@@ -3614,7 +3974,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lp_2023",
@@ -3624,7 +3985,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "deft_2023",
@@ -3634,7 +3996,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 1
     },
     {
       "id": "deokdam_2023",
@@ -3644,7 +4007,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gumayusi_2023",
@@ -3654,7 +4018,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 1
     },
     {
       "id": "peyz_2023",
@@ -3664,7 +4029,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2023)"
+      "seasonTeam": "Gen.G (2023)",
+      "worldsWins": 0
     },
     {
       "id": "light_2023",
@@ -3674,7 +4040,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "taeyoon_2023",
@@ -3684,7 +4051,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "viper_2023",
@@ -3694,7 +4062,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 1
     },
     {
       "id": "vital_2023",
@@ -3704,7 +4073,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hena_2023",
@@ -3714,7 +4084,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BRION (2023)"
+      "seasonTeam": "BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "aiming_2023",
@@ -3724,7 +4095,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "envyy_2023",
@@ -3734,7 +4106,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "patrik_2023",
@@ -3744,7 +4117,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2023",
@@ -3754,7 +4128,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2023)"
+      "seasonTeam": "G2 Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "comp_2023",
@@ -3764,7 +4139,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "crownie_2023",
@@ -3774,7 +4150,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kobbe_2023",
@@ -3784,7 +4161,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jackspektra_2023",
@@ -3794,7 +4172,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "carzzy_2023",
@@ -3804,7 +4183,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2023)"
+      "seasonTeam": "MAD Lions KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "3xa_2023",
@@ -3814,7 +4194,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2023)"
+      "seasonTeam": "SK Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "neon_2023",
@@ -3824,7 +4205,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2023",
@@ -3834,7 +4216,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "berserker_2023",
@@ -3844,7 +4227,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2023",
@@ -3854,7 +4238,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fbi_2023",
@@ -3864,7 +4249,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "stixxay_2023",
@@ -3874,7 +4260,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yeon_2023",
@@ -3884,7 +4271,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 0
     },
     {
       "id": "prince_2023",
@@ -3894,7 +4282,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "luger_2023",
@@ -3904,7 +4293,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2023)"
+      "seasonTeam": "Counter Logic Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "spawn_2023",
@@ -3914,7 +4304,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tactical_2023",
@@ -3924,7 +4315,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "neo_2023",
@@ -3934,7 +4326,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shunn_2023",
@@ -3944,7 +4337,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "feng_2023",
@@ -3954,7 +4348,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2023",
@@ -3964,7 +4359,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yjy_2023",
@@ -3974,7 +4370,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "dwt pepero_2023",
@@ -3984,7 +4381,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "atlen_2023",
@@ -3994,7 +4392,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bruce_2023",
@@ -4004,7 +4403,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cryscata_2023",
@@ -4014,7 +4414,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mnm_2023",
@@ -4024,7 +4425,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tide_2023",
@@ -4034,7 +4436,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pepero_2023",
@@ -4044,7 +4447,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tomo_2023",
@@ -4054,7 +4458,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pleata_2023",
@@ -4064,7 +4469,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shogun_2023",
@@ -4074,7 +4480,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "eddie_2023",
@@ -4084,7 +4491,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2023",
@@ -4094,7 +4502,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "slowz_2023",
@@ -4104,7 +4513,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "puddin_2023",
@@ -4114,7 +4524,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sty1e_2023",
@@ -4124,7 +4535,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "slayder_2023",
@@ -4134,7 +4546,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "artemis_2023",
@@ -4144,7 +4557,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2023",
@@ -4154,7 +4568,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "keres_2023",
@@ -4164,7 +4579,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vinboiz_2023",
@@ -4174,7 +4590,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "upset_2023",
@@ -4184,7 +4601,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "harky_2023",
@@ -4194,7 +4612,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "raes_2023",
@@ -4204,7 +4623,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "leemas_2023",
@@ -4214,7 +4634,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "playcool_2023",
@@ -4224,7 +4645,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zhiqiuyi_2023",
@@ -4234,7 +4656,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "1xn_2023",
@@ -4244,7 +4667,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "envyy_2023",
@@ -4254,7 +4678,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lp_2023",
@@ -4264,7 +4689,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "gala_2023",
@@ -4274,7 +4700,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "iboy_2023",
@@ -4284,7 +4711,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "teddy_2023",
@@ -4294,7 +4722,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "paduck_2023",
@@ -4304,7 +4733,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hena_2023",
@@ -4314,7 +4744,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "thesnake_2023",
@@ -4324,7 +4755,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "uzi_2023",
@@ -4334,7 +4766,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "unf0rgiven_2023",
@@ -4344,7 +4777,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fbi_2023",
@@ -4354,7 +4788,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "NRG Kia (2023)"
+      "seasonTeam": "NRG Kia (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rahel_2023",
@@ -4364,7 +4799,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 0
     },
     {
       "id": "flakked_2023",
@@ -4374,7 +4810,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "noah_2023",
@@ -4384,7 +4821,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jiwoo_2023",
@@ -4394,7 +4832,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoyueji_2023",
@@ -4404,7 +4843,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "artemis_2023",
@@ -4414,7 +4854,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "pyshiro_2023",
@@ -4424,7 +4865,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "slayder_2023",
@@ -4434,7 +4876,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "blaze_2023",
@@ -4444,7 +4887,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "prage_2023",
@@ -4454,7 +4898,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "WP Gaming (2023)"
+      "seasonTeam": "WP Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "betty_2023",
@@ -4464,7 +4909,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "prage_2023",
@@ -4474,7 +4920,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "West Point Esports (2023)"
+      "seasonTeam": "West Point Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "imp blaze_2023",
@@ -4484,7 +4931,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nan_2023",
@@ -4494,7 +4942,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hype_2023",
@@ -4504,7 +4953,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "chich1_2023",
@@ -4514,7 +4964,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON Academy (2023)"
+      "seasonTeam": "TALON Academy (2023)",
+      "worldsWins": 0
     },
     {
       "id": "doggy_2023",
@@ -4524,7 +4975,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nate9527 (2023)"
+      "seasonTeam": "Nate9527 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yuyin_2023",
@@ -4534,7 +4986,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "sty1e_2023",
@@ -4544,7 +4997,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tomoe_2023",
@@ -4554,7 +5008,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tomrio_2023",
@@ -4564,7 +5019,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nemo_2023",
@@ -4574,7 +5030,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2023",
@@ -4584,7 +5041,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "og usopp_2023",
@@ -4594,7 +5052,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rw ezlove_2023",
@@ -4604,7 +5063,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kwhite_2023",
@@ -4614,7 +5074,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "k1ller_2023",
@@ -4624,7 +5085,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -4636,7 +5098,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "iwandy_2023",
@@ -4646,7 +5109,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2023)"
+      "seasonTeam": "Team WE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2023",
@@ -4656,7 +5120,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "wink_2023",
@@ -4666,7 +5131,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2023)"
+      "seasonTeam": "Invictus Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "on_2023",
@@ -4676,7 +5142,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2023)"
+      "seasonTeam": "Bilibili Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "missing_2023",
@@ -4686,7 +5153,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2023)"
+      "seasonTeam": "JD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jinjiao_2023",
@@ -4696,7 +5164,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2023)"
+      "seasonTeam": "LGD Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "southwind_2023",
@@ -4706,7 +5175,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bunny_2023",
@@ -4716,7 +5186,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "jerry_2023",
@@ -4726,7 +5197,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "baolan_2023",
@@ -4736,7 +5208,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 1
     },
     {
       "id": "zhuo_2023",
@@ -4746,7 +5219,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2023)"
+      "seasonTeam": "Ninjas in Pyjamas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "meiko_2023",
@@ -4756,7 +5230,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2023)"
+      "seasonTeam": "EDward Gaming (2023)",
+      "worldsWins": 1
     },
     {
       "id": "mark_2023",
@@ -4766,7 +5241,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2023)"
+      "seasonTeam": "Top Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xinliu_2023",
@@ -4776,7 +5252,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hang_2023",
@@ -4786,7 +5263,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2023)"
+      "seasonTeam": "LNG Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kellin_2023",
@@ -4796,7 +5274,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 0
     },
     {
       "id": "beryl_2023",
@@ -4806,7 +5285,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2023)"
+      "seasonTeam": "DRX (2023)",
+      "worldsWins": 2
     },
     {
       "id": "keria_2023",
@@ -4816,7 +5296,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2023)"
+      "seasonTeam": "T1 (2023)",
+      "worldsWins": 1
     },
     {
       "id": "delight_2023",
@@ -4826,7 +5307,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2023)"
+      "seasonTeam": "Gen.G (2023)",
+      "worldsWins": 0
     },
     {
       "id": "crisp_2023",
@@ -4836,7 +5318,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2023)"
+      "seasonTeam": "Weibo Gaming (2023)",
+      "worldsWins": 1
     },
     {
       "id": "jun_2023",
@@ -4846,7 +5329,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "life_2023",
@@ -4856,7 +5340,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2023)"
+      "seasonTeam": "Hanwha Life Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "peter_2023",
@@ -4866,7 +5351,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2023)"
+      "seasonTeam": "Nongshim RedForce (2023)",
+      "worldsWins": 0
     },
     {
       "id": "effort_2023",
@@ -4876,7 +5362,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BRION (2023)"
+      "seasonTeam": "BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lehends_2023",
@@ -4886,7 +5373,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kael_2023",
@@ -4896,7 +5384,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2023)"
+      "seasonTeam": "Liiv SANDBOX (2023)",
+      "worldsWins": 0
     },
     {
       "id": "moham_2023",
@@ -4906,7 +5395,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "targamas_2023",
@@ -4916,7 +5406,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2023",
@@ -4926,7 +5417,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2023)"
+      "seasonTeam": "G2 Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "trymbi_2023",
@@ -4936,7 +5428,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "labrov_2023",
@@ -4946,7 +5439,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team BDS (2023)"
+      "seasonTeam": "Team BDS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "execute_2023",
@@ -4956,7 +5450,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Astralis (2023)"
+      "seasonTeam": "Astralis (2023)",
+      "worldsWins": 0
     },
     {
       "id": "mersa_2023",
@@ -4966,7 +5461,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2023)"
+      "seasonTeam": "Team Heretics (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hylissang_2023",
@@ -4976,7 +5472,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2023)"
+      "seasonTeam": "MAD Lions KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "doss_2023",
@@ -4986,7 +5483,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2023)"
+      "seasonTeam": "SK Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kaiser_2023",
@@ -4996,7 +5494,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2023)"
+      "seasonTeam": "Team Vitality (2023)",
+      "worldsWins": 0
     },
     {
       "id": "rhuckz_2023",
@@ -5006,7 +5505,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2023",
@@ -5016,7 +5516,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2023)"
+      "seasonTeam": "Cloud9 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "busio_2023",
@@ -5026,7 +5527,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2023)"
+      "seasonTeam": "100 Thieves (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vulcan_2023",
@@ -5036,7 +5538,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2023",
@@ -5046,7 +5549,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2023)"
+      "seasonTeam": "Golden Guardians (2023)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2023",
@@ -5054,9 +5558,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2023)"
+      "seasonTeam": "Team Liquid (2023)",
+      "worldsWins": 1
     },
     {
       "id": "winsome_2023",
@@ -5066,7 +5571,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "poome_2023",
@@ -5076,7 +5582,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2023)"
+      "seasonTeam": "Counter Logic Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "biofrost_2023",
@@ -5086,7 +5593,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "fleshy_2023",
@@ -5096,7 +5604,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "chime_2023",
@@ -5106,7 +5615,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2023)"
+      "seasonTeam": "TSM (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ppgod_2023",
@@ -5116,7 +5626,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2023)"
+      "seasonTeam": "Oh My God (2023)",
+      "worldsWins": 0
     },
     {
       "id": "s1aytrue_2023",
@@ -5126,7 +5637,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kino_2023",
@@ -5136,7 +5648,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "woody_2023",
@@ -5146,7 +5659,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2023)"
+      "seasonTeam": "TALON (2023)",
+      "worldsWins": 0
     },
     {
       "id": "keres_2023",
@@ -5156,7 +5670,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "en_2023",
@@ -5166,7 +5681,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Dewish Team (2023)"
+      "seasonTeam": "Dewish Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "natur3_2023",
@@ -5176,7 +5692,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "enso_2023",
@@ -5186,7 +5703,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2023)"
+      "seasonTeam": "J Team (2023)",
+      "worldsWins": 0
     },
     {
       "id": "orca_2023",
@@ -5196,7 +5714,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "kaiwing_2023",
@@ -5206,7 +5725,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2023)"
+      "seasonTeam": "Frank Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ic8_2023",
@@ -5216,7 +5736,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "HELL PIGS (2023)"
+      "seasonTeam": "HELL PIGS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yaoyao_2023",
@@ -5226,7 +5747,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ming_2023",
@@ -5236,7 +5758,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2023",
@@ -5244,9 +5767,10 @@
       "team": "Dignitas",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "qiuqiu_2023",
@@ -5256,7 +5780,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2023)"
+      "seasonTeam": "FunPlus Phoenix (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cha9_2023",
@@ -5266,7 +5791,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "eyla_2023",
@@ -5276,7 +5802,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "taki_2023",
@@ -5286,7 +5813,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "xuhao_2023",
@@ -5296,7 +5824,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bie_2023",
@@ -5306,7 +5835,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zodiac_2023",
@@ -5316,7 +5846,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MGN Blue Esports (2023)"
+      "seasonTeam": "MGN Blue Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "soraaa_2023",
@@ -5326,7 +5857,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2023",
@@ -5336,7 +5868,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2023",
@@ -5346,7 +5879,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SBTC Esports (2023)"
+      "seasonTeam": "SBTC Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ronop_2023",
@@ -5356,7 +5890,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bkr_2023",
@@ -5366,7 +5901,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yjy_2023",
@@ -5376,7 +5912,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SEM9 WPE (2023)"
+      "seasonTeam": "SEM9 WPE (2023)",
+      "worldsWins": 0
     },
     {
       "id": "limit_2023",
@@ -5386,7 +5923,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2023)"
+      "seasonTeam": "Excel Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "advienne_2023",
@@ -5396,7 +5934,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cbl_2023",
@@ -5406,7 +5945,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Whales (2023)"
+      "seasonTeam": "Team Whales (2023)",
+      "worldsWins": 0
     },
     {
       "id": "aladoric_2023",
@@ -5416,7 +5956,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Chiefs Esports Club (2023)"
+      "seasonTeam": "Chiefs Esports Club (2023)",
+      "worldsWins": 0
     },
     {
       "id": "benvi_2023",
@@ -5426,7 +5967,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hieu3_2023",
@@ -5436,7 +5978,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tq_2023",
@@ -5446,7 +5989,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "elio_2023",
@@ -5456,7 +6000,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2023",
@@ -5466,7 +6011,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2023)"
+      "seasonTeam": "Ultra Prime (2023)",
+      "worldsWins": 0
     },
     {
       "id": "zorah_2023",
@@ -5476,7 +6022,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2023)"
+      "seasonTeam": "Anyone's Legend (2023)",
+      "worldsWins": 0
     },
     {
       "id": "yuyanjia_2023",
@@ -5486,7 +6033,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2023)"
+      "seasonTeam": "ThunderTalk Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lvmao_2023",
@@ -5496,7 +6044,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "feather_2023",
@@ -5506,7 +6055,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 0
     },
     {
       "id": "effort_2023",
@@ -5516,7 +6066,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "OKSavingsBank BRION (2023)"
+      "seasonTeam": "OKSavingsBank BRION (2023)",
+      "worldsWins": 0
     },
     {
       "id": "treatz_2023",
@@ -5526,7 +6077,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2023)"
+      "seasonTeam": "Immortals (2023)",
+      "worldsWins": 0
     },
     {
       "id": "diamond_2023",
@@ -5536,7 +6088,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "eyla_2023",
@@ -5546,7 +6099,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2023)"
+      "seasonTeam": "Evil Geniuses (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2023",
@@ -5554,9 +6108,10 @@
       "team": "NRG Kia",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
       "years": "2023",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "NRG Kia (2023)"
+      "seasonTeam": "NRG Kia (2023)",
+      "worldsWins": 0
     },
     {
       "id": "vulcan_2023",
@@ -5566,7 +6121,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2023)"
+      "seasonTeam": "FlyQuest (2023)",
+      "worldsWins": 0
     },
     {
       "id": "advienne_2023",
@@ -5576,7 +6132,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "KOI (2023)"
+      "seasonTeam": "KOI (2023)",
+      "worldsWins": 0
     },
     {
       "id": "trymbi_2023",
@@ -5586,7 +6143,8 @@
       "years": "2023",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2023)"
+      "seasonTeam": "Fnatic (2023)",
+      "worldsWins": 0
     },
     {
       "id": "baolan_2023",
@@ -5596,7 +6154,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rare Atom (2023)"
+      "seasonTeam": "Rare Atom (2023)",
+      "worldsWins": 1
     },
     {
       "id": "taki_2023",
@@ -5606,7 +6165,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2023)"
+      "seasonTeam": "Team Secret (2023)",
+      "worldsWins": 0
     },
     {
       "id": "slay_2023",
@@ -5616,7 +6176,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2023)"
+      "seasonTeam": "Saigon Buffalo (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hieu3_2023",
@@ -5626,7 +6187,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2023)"
+      "seasonTeam": "Team Flash (2023)",
+      "worldsWins": 0
     },
     {
       "id": "elio_2023",
@@ -5636,7 +6198,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2023)"
+      "seasonTeam": "CERBERUS Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "smerv_2023",
@@ -5646,7 +6209,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cha9_2023",
@@ -5656,7 +6220,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "WP Gaming (2023)"
+      "seasonTeam": "WP Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "keres_2023",
@@ -5666,7 +6231,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Beyond Gaming (2023)"
+      "seasonTeam": "Beyond Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "shiauc_2023",
@@ -5676,7 +6242,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster (2023)"
+      "seasonTeam": "CTBC Flying Oyster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "cha9_2023",
@@ -5686,7 +6253,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "West Point Esports (2023)"
+      "seasonTeam": "West Point Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "andil_2023",
@@ -5696,7 +6264,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KWANGDONG FREECS (2023)"
+      "seasonTeam": "KWANGDONG FREECS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "bible_2023",
@@ -5706,7 +6275,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2023)"
+      "seasonTeam": "Dplus KIA (2023)",
+      "worldsWins": 0
     },
     {
       "id": "poome_2023",
@@ -5716,7 +6286,8 @@
       "years": "2023",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2023)"
+      "seasonTeam": "Dignitas (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2023",
@@ -5726,7 +6297,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Deep Cross Gaming (2023)"
+      "seasonTeam": "Deep Cross Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "felia_2023",
@@ -5736,7 +6308,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2023)"
+      "seasonTeam": "Impunity (2023)",
+      "worldsWins": 0
     },
     {
       "id": "lele_2023",
@@ -5746,7 +6319,8 @@
       "years": "2023",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2023)"
+      "seasonTeam": "Royal Never Give Up (2023)",
+      "worldsWins": 0
     },
     {
       "id": "way_2023",
@@ -5756,7 +6330,8 @@
       "years": "2023",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2023)"
+      "seasonTeam": "KT Rolster (2023)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2023",
@@ -5766,7 +6341,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2023)"
+      "seasonTeam": "GAM Esports (2023)",
+      "worldsWins": 0
     },
     {
       "id": "akia_2023",
@@ -5776,7 +6352,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Team Bliss (2023)"
+      "seasonTeam": "Team Bliss (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tns_2023",
@@ -5786,7 +6363,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON Academy (2023)"
+      "seasonTeam": "TALON Academy (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2023",
@@ -5796,7 +6374,8 @@
       "years": "2023",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nate9527 (2023)"
+      "seasonTeam": "Nate9527 (2023)",
+      "worldsWins": 0
     },
     {
       "id": "tqk_2023",
@@ -5806,7 +6385,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2023)"
+      "seasonTeam": "Saigon Dino (2023)",
+      "worldsWins": 0
     },
     {
       "id": "luffy_2023",
@@ -5816,7 +6396,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "seebulabu_2023",
@@ -5826,7 +6407,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "uncle4_2023",
@@ -5836,7 +6418,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CYRUS (2023)"
+      "seasonTeam": "CYRUS (2023)",
+      "worldsWins": 0
     },
     {
       "id": "ldk_2023",
@@ -5846,7 +6429,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "og luffy_2023",
@@ -5856,7 +6440,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Original Gaming (2023)"
+      "seasonTeam": "Original Gaming (2023)",
+      "worldsWins": 0
     },
     {
       "id": "hyo_2023",
@@ -5866,7 +6451,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "nan_2023",
@@ -5876,7 +6462,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "APOLLO GAMING (2023)"
+      "seasonTeam": "APOLLO GAMING (2023)",
+      "worldsWins": 0
     },
     {
       "id": "k1ller_2023",
@@ -5886,7 +6473,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2023",
@@ -5896,7 +6484,8 @@
       "years": "2023",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Rainbow Warriors (2023)"
+      "seasonTeam": "Rainbow Warriors (2023)",
+      "worldsWins": 0
     }
   ]
 }

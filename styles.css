@@ -370,75 +370,6 @@ main {
     color: var(--accent);
 }
 
-.search-box {
-    padding: 16px 24px;
-    border-bottom: 1px solid var(--line);
-}
-
-.search-box input {
-    width: 100%;
-    padding: 14px 16px;
-    background: rgba(255, 255, 255, 0.04);
-    border: 1px solid var(--line);
-    border-radius: 10px;
-    color: #fff;
-    outline: none;
-}
-
-.search-box input:focus {
-    border-color: rgba(109, 168, 255, 0.6);
-}
-
-.player-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 16px;
-    padding: 18px 24px 26px;
-}
-
-.player-card {
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid var(--line);
-    border-radius: 12px;
-    padding: 12px;
-    text-align: center;
-    cursor: pointer;
-    transition: all 0.2s ease;
-}
-
-.player-card:hover {
-    border-color: rgba(109, 168, 255, 0.5);
-    box-shadow: var(--slot-glow);
-    transform: translateY(-3px);
-}
-
-.player-card img {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 2px solid rgba(109, 168, 255, 0.4);
-    margin-bottom: 10px;
-}
-
-.player-card .name {
-    font-weight: 700;
-    font-size: 1rem;
-    margin-bottom: 4px;
-}
-
-.player-card .team {
-    font-size: 0.8rem;
-    color: var(--muted);
-}
-
-.player-card .championships {
-    font-size: 0.75rem;
-    color: var(--accent);
-    margin-top: 6px;
-}
-
-
 /* Reveal Overlay */
 .reveal-overlay {
     position: fixed;
@@ -1014,6 +945,152 @@ footer {
     background: rgba(109, 168, 255, 0.8);
 }
 
+/* Toast */
+.toast {
+    position: fixed;
+    left: 50%;
+    bottom: 32px;
+    transform: translate(-50%, 16px);
+    background: rgba(10, 17, 32, 0.95);
+    border: 1px solid rgba(109, 168, 255, 0.35);
+    color: var(--text);
+    padding: 12px 22px;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease;
+    z-index: 200;
+    max-width: min(90vw, 480px);
+    text-align: center;
+}
+
+.toast.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+}
+
+/* Team Stats */
+.team-stats {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 18px 10px 16px;
+    position: relative;
+    z-index: 1;
+}
+
+.team-stats .stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.team-stats .stat-label {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    color: var(--muted);
+}
+
+.team-stats .stat-value {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--gold);
+}
+
+/* Roster Action Buttons */
+.roster-actions {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.action-btn {
+    padding: 13px 26px;
+    border-radius: 10px;
+    border: 1px solid rgba(109, 168, 255, 0.35);
+    background: rgba(109, 168, 255, 0.08);
+    color: var(--text);
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.action-btn:hover {
+    background: rgba(109, 168, 255, 0.18);
+    border-color: rgba(109, 168, 255, 0.6);
+    transform: translateY(-2px);
+    box-shadow: var(--btn-glow);
+}
+
+/* Reveal Close Button */
+.reveal-close {
+    position: absolute;
+    top: 18px;
+    right: 22px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.06);
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    z-index: 5;
+}
+
+.reveal-close:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* Collection Card Delete Button */
+.collection-card .card-delete-btn {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(239, 68, 68, 0.18);
+    color: #ef4444;
+    font-size: 0.95rem;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0;
+    transition: all 0.15s ease;
+    z-index: 11;
+}
+
+.collection-card:hover .card-delete-btn,
+.collection-card .card-delete-btn:focus-visible {
+    opacity: 1;
+}
+
+.collection-card .card-delete-btn:hover {
+    background: #ef4444;
+    color: #fff;
+}
+
+/* 터치 기기에서는 호버가 없으므로 삭제 버튼 항상 표시 */
+@media (hover: none) {
+    .collection-card .card-delete-btn {
+        opacity: 1;
+    }
+}
+
 /* Mobile Optimizations */
 @media (max-width: 768px) {
     .hero {
@@ -1139,25 +1216,6 @@ footer {
         border-radius: 20px 20px 0 0;
         max-height: 85vh;
         border-bottom: none;
-    }
-
-    .player-grid {
-        grid-template-columns: repeat(3, 1fr);
-        gap: 8px;
-        padding: 16px;
-    }
-
-    .player-card {
-        padding: 8px;
-    }
-    
-    .player-card img {
-        width: 50px;
-        height: 50px;
-    }
-    
-    .player-card .name {
-        font-size: 0.75rem;
     }
 
     /* Reveal Overlay Mobile */

@@ -6,9 +6,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 1
     },
     {
       "id": "khan_2020",
@@ -18,7 +19,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fearness_2020",
@@ -28,7 +30,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "flandre_2020",
@@ -38,7 +41,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaobai_2020",
@@ -48,7 +52,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "holder_2020",
@@ -58,7 +63,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "breathe_2020",
@@ -68,7 +74,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zoom_2020",
@@ -78,7 +85,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cube_2020",
@@ -88,7 +96,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kingen_2020",
@@ -98,7 +107,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ale_2020",
@@ -108,7 +118,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aliez_2020",
@@ -118,7 +129,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jinoo_2020",
@@ -128,7 +140,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clx_2020",
@@ -138,7 +151,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "crazy_2020",
@@ -148,7 +162,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bin_2020",
@@ -158,7 +173,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "369_2020",
@@ -168,7 +184,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "morgan_2020",
@@ -178,7 +195,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "langx_2020",
@@ -188,7 +206,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2020",
@@ -198,7 +217,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "orome_2020",
@@ -208,7 +228,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2020)"
+      "seasonTeam": "MAD Lions KOI (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sacre_2020",
@@ -218,7 +239,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2020",
@@ -228,7 +250,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "finn_2020",
@@ -238,7 +261,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Rogue (2020)"
+      "seasonTeam": "Rogue (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dan dan_2020",
@@ -248,7 +272,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "expect_2020",
@@ -256,9 +281,10 @@
       "team": "Excel Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Expect_profileicon.png",
       "years": "2020",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "odoamne_2020",
@@ -268,7 +294,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bwipo_2020",
@@ -278,7 +305,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2020)"
+      "seasonTeam": "Fnatic (2020)",
+      "worldsWins": 0
     },
     {
       "id": "alphari_2020",
@@ -288,7 +316,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "licorice_2020",
@@ -298,7 +327,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2020)"
+      "seasonTeam": "Cloud9 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2020",
@@ -306,9 +336,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 1
     },
     {
       "id": "ruin_2020",
@@ -318,7 +349,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "huni_2020",
@@ -326,9 +358,10 @@
       "team": "Dignitas",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ssumday_2020",
@@ -336,9 +369,10 @@
       "team": "100 Thieves",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hauntzer_2020",
@@ -348,7 +382,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "soaz_2020",
@@ -358,7 +393,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "v1per_2020",
@@ -368,7 +404,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kumo_2020",
@@ -378,7 +415,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "brokenblade_2020",
@@ -388,7 +426,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yoshino_2020",
@@ -398,7 +437,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hiro02_2020",
@@ -408,7 +448,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kiaya_2020",
@@ -418,7 +459,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ll_2020",
@@ -428,7 +470,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chp_2020",
@@ -438,7 +481,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hasmed_2020",
@@ -448,7 +492,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kemken_2020",
@@ -458,7 +503,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "coated_2020",
@@ -468,7 +514,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zica_2020",
@@ -478,7 +525,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hani_2020",
@@ -488,7 +536,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "roach_2020",
@@ -498,7 +547,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nuguri_2020",
@@ -508,7 +558,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 1
     },
     {
       "id": "sohwan_2020",
@@ -518,7 +569,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rascal_2020",
@@ -528,7 +580,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 0
     },
     {
       "id": "summit_2020",
@@ -538,7 +591,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ikssu_2020",
@@ -548,7 +602,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sw0rd_2020",
@@ -558,7 +613,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kiin_2020",
@@ -568,7 +624,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cuvee_2020",
@@ -578,7 +635,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 1
     },
     {
       "id": "canna_2020",
@@ -588,7 +646,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chovy_2020",
@@ -598,7 +657,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yt_2020",
@@ -608,7 +668,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "doran_2020",
@@ -618,7 +679,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pun_2020",
@@ -628,7 +690,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "coated_2020",
@@ -638,7 +701,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ray_2020",
@@ -648,7 +712,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "but1_2020",
@@ -658,7 +723,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hani_2020",
@@ -668,7 +734,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ziv_2020",
@@ -678,7 +745,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rest_2020",
@@ -688,7 +756,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "azhi_2020",
@@ -698,7 +767,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shinsekai_2020",
@@ -708,7 +778,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kurd_2020",
@@ -718,7 +789,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "3z_2020",
@@ -728,7 +800,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pk_2020",
@@ -738,7 +811,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hanabi_2020",
@@ -748,7 +822,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rockky_2020",
@@ -758,7 +833,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zeros_2020",
@@ -768,7 +844,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lonely_2020",
@@ -778,7 +855,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hope_2020",
@@ -788,7 +866,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rock_2020",
@@ -798,7 +877,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gimgoon_2020",
@@ -806,9 +886,10 @@
       "team": "FunPlus Phoenix",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 1
     },
     {
       "id": "705_2020",
@@ -818,7 +899,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lies_2020",
@@ -828,7 +910,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biubiu_2020",
@@ -838,7 +921,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoxiang_2020",
@@ -848,7 +932,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "victory_2020",
@@ -858,7 +943,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "add_2020",
@@ -868,7 +954,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aodi_2020",
@@ -878,7 +965,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ventair_2020",
@@ -888,7 +976,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kaigu_2020",
@@ -898,7 +987,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "solo_2020",
@@ -908,7 +998,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "melody_2020",
@@ -918,7 +1009,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hoya_2020",
@@ -928,7 +1020,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mole_2020",
@@ -938,7 +1031,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fenfen_2020",
@@ -948,7 +1042,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "untara_2020",
@@ -958,7 +1053,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chenlun17_2020",
@@ -968,7 +1064,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "driver_2020",
@@ -978,7 +1075,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "stark_2020",
@@ -988,7 +1086,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rich_2020",
@@ -998,7 +1097,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team Dynamics (2020)"
+      "seasonTeam": "Team Dynamics (2020)",
+      "worldsWins": 0
     },
     {
       "id": "thal_2020",
@@ -1008,7 +1108,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Seorabeol Gaming (2020)"
+      "seasonTeam": "Seorabeol Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biubiu_2020",
@@ -1018,7 +1119,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aliez_2020",
@@ -1028,7 +1130,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "new_2020",
@@ -1038,7 +1141,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "garvey_2020",
@@ -1048,7 +1152,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "langx_2020",
@@ -1058,7 +1163,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cjj_2020",
@@ -1068,7 +1174,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jnx_2020",
@@ -1078,7 +1185,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kryze_2020",
@@ -1088,7 +1196,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "v1per_2020",
@@ -1098,7 +1207,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dudu_2020",
@@ -1108,7 +1218,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vin_2020",
@@ -1118,7 +1229,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yt_2020",
@@ -1128,7 +1240,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chelizi_2020",
@@ -1138,7 +1251,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zica_2020",
@@ -1148,7 +1262,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bush_2020",
@@ -1158,7 +1273,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zeros_2020",
@@ -1168,7 +1284,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kartis_2020",
@@ -1178,7 +1295,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kanji_2020",
@@ -1188,7 +1306,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "smeb_2020",
@@ -1198,7 +1317,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "leaky_2020",
@@ -1208,7 +1328,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "705_2020",
@@ -1218,7 +1339,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lourlo_2020",
@@ -1228,7 +1350,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "allorim_2020",
@@ -1238,7 +1361,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "taurus_2020",
@@ -1248,7 +1372,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pun_2020",
@@ -1258,7 +1383,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rjs_2020",
@@ -1268,7 +1394,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "simon_2020",
@@ -1278,7 +1405,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "huni_2020",
@@ -1286,9 +1414,10 @@
       "team": "Evil Geniuses",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Huni_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "topking_2020",
@@ -1298,7 +1427,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2020)"
+      "seasonTeam": "Impunity (2020)",
+      "worldsWins": 0
     },
     {
       "id": "speltz_2020",
@@ -1308,7 +1438,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Panic Time (2020)"
+      "seasonTeam": "Panic Time (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sparda_2020",
@@ -1318,7 +1449,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kemken_2020",
@@ -1328,7 +1460,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -1340,7 +1473,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 1
     },
     {
       "id": "tian_2020",
@@ -1350,7 +1484,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 1
     },
     {
       "id": "peanut_2020",
@@ -1358,9 +1493,10 @@
       "team": "LGD Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Peanut_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xx_2020",
@@ -1370,7 +1506,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "leyan_2020",
@@ -1380,7 +1517,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wei_2020",
@@ -1390,7 +1528,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "haro_2020",
@@ -1400,7 +1539,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "h4cker_2020",
@@ -1410,7 +1550,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kanavi_2020",
@@ -1420,7 +1561,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chieftain_2020",
@@ -1430,7 +1572,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "meteor_2020",
@@ -1440,7 +1583,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bless_2020",
@@ -1450,7 +1594,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaopeng_2020",
@@ -1460,7 +1605,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohan_2020",
@@ -1470,7 +1616,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jiejie_2020",
@@ -1480,7 +1627,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sofm_2020",
@@ -1490,7 +1638,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "karsa_2020",
@@ -1500,7 +1649,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "beishang_2020",
@@ -1510,7 +1660,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xlb_2020",
@@ -1520,7 +1671,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aix_2020",
@@ -1530,7 +1682,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2020",
@@ -1540,7 +1693,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shad0w_2020",
@@ -1550,7 +1704,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2020)"
+      "seasonTeam": "MAD Lions KOI (2020)",
+      "worldsWins": 0
     },
     {
       "id": "trick_2020",
@@ -1558,9 +1713,10 @@
       "team": "SK Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
       "years": "2020",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "skeanz_2020",
@@ -1570,7 +1726,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "inspired_2020",
@@ -1580,7 +1737,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Rogue (2020)"
+      "seasonTeam": "Rogue (2020)",
+      "worldsWins": 0
     },
     {
       "id": "razork_2020",
@@ -1590,7 +1748,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "caedrel_2020",
@@ -1600,7 +1759,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gilius_2020",
@@ -1610,7 +1770,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "selfmade_2020",
@@ -1620,7 +1781,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2020)"
+      "seasonTeam": "Fnatic (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xerxe_2020",
@@ -1630,7 +1792,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "blaber_2020",
@@ -1640,7 +1803,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2020)"
+      "seasonTeam": "Cloud9 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shernfire_2020",
@@ -1650,7 +1814,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 0
     },
     {
       "id": "griffin_2020",
@@ -1660,7 +1825,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "armao_2020",
@@ -1670,7 +1836,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "meteos_2020",
@@ -1680,7 +1847,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "closer_2020",
@@ -1690,7 +1858,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xmithie_2020",
@@ -1700,7 +1869,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2020",
@@ -1710,7 +1880,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "svenskeren_2020",
@@ -1720,7 +1891,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2020",
@@ -1730,7 +1902,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yijin_2020",
@@ -1740,7 +1913,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2020",
@@ -1750,7 +1924,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "levi_2020",
@@ -1760,7 +1935,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xuhao_2020",
@@ -1770,7 +1946,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "y1_2020",
@@ -1780,7 +1957,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "meliodas_2020",
@@ -1790,7 +1968,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dnk_2020",
@@ -1800,7 +1979,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kuroko1_2020",
@@ -1810,7 +1990,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cuzz_2020",
@@ -1820,7 +2001,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "canyon_2020",
@@ -1830,7 +2012,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 1
     },
     {
       "id": "bon0_2020",
@@ -1840,7 +2023,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clid_2020",
@@ -1850,7 +2034,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 0
     },
     {
       "id": "onfleek_2020",
@@ -1860,7 +2045,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "flawless_2020",
@@ -1870,7 +2056,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tarzan_2020",
@@ -1880,7 +2067,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "spirit_2020",
@@ -1890,7 +2078,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "haru_2020",
@@ -1900,7 +2089,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 1
     },
     {
       "id": "pyosik_2020",
@@ -1910,7 +2100,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "malrang_2020",
@@ -1920,7 +2111,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lurox_2020",
@@ -1930,7 +2122,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "potm_2020",
@@ -1940,7 +2133,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "penguin_2020",
@@ -1950,7 +2144,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dread_2020",
@@ -1960,7 +2155,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "scary_2020",
@@ -1970,7 +2166,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pht_2020",
@@ -1980,7 +2177,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dnk_2020",
@@ -1990,7 +2188,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "broxah_2020",
@@ -2000,7 +2199,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biob_2020",
@@ -2010,7 +2210,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kongyue_2020",
@@ -2020,7 +2221,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hana_2020",
@@ -2030,7 +2232,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "enso_2020",
@@ -2040,7 +2243,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gengar_2020",
@@ -2050,7 +2254,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "doedoii_2020",
@@ -2060,7 +2265,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "holo_2020",
@@ -2070,7 +2276,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gemini_2020",
@@ -2080,7 +2287,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "river_2020",
@@ -2090,7 +2298,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ryan_2020",
@@ -2100,7 +2309,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kabuu_2020",
@@ -2110,7 +2320,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "catjug_2020",
@@ -2120,7 +2331,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "akaadian_2020",
@@ -2130,7 +2342,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hope_2020",
@@ -2140,7 +2353,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "as6_2020",
@@ -2150,7 +2364,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "junjia_2020",
@@ -2160,7 +2375,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "weiyan_2020",
@@ -2170,7 +2386,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "epic_2020",
@@ -2180,7 +2397,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lauva_2020",
@@ -2190,7 +2408,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "daylight_2020",
@@ -2200,7 +2419,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "punch_2020",
@@ -2210,7 +2430,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ellim_2020",
@@ -2220,7 +2441,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "beyond_2020",
@@ -2230,7 +2452,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team Dynamics (2020)"
+      "seasonTeam": "Team Dynamics (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kakao_2020",
@@ -2240,7 +2463,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Seorabeol Gaming (2020)"
+      "seasonTeam": "Seorabeol Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "weiwei_2020",
@@ -2250,7 +2474,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "l3est16_2020",
@@ -2260,7 +2485,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "youdang_2020",
@@ -2270,7 +2496,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clarence_2020",
@@ -2280,7 +2507,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "spica_2020",
@@ -2290,7 +2518,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "potluck_2020",
@@ -2300,7 +2529,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cad_2020",
@@ -2310,7 +2540,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "penguin_2020",
@@ -2320,7 +2551,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ego_2020",
@@ -2330,7 +2562,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "eagle_2020",
@@ -2340,7 +2573,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yourriver_2020",
@@ -2350,7 +2584,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "leyan_2020",
@@ -2360,7 +2595,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "draktharr_2020",
@@ -2370,7 +2606,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kuma_2020",
@@ -2380,7 +2617,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2020",
@@ -2390,7 +2628,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2020",
@@ -2400,7 +2639,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "world6_2020",
@@ -2410,7 +2650,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "youngjae_2020",
@@ -2420,7 +2661,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fragas_2020",
@@ -2430,7 +2672,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "qaspiel_2020",
@@ -2440,7 +2683,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2020)"
+      "seasonTeam": "Impunity (2020)",
+      "worldsWins": 0
     },
     {
       "id": "revelate_2020",
@@ -2450,7 +2694,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Panic Time (2020)"
+      "seasonTeam": "Panic Time (2020)",
+      "worldsWins": 0
     },
     {
       "id": "beanj_2020",
@@ -2460,7 +2705,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "eagle_2020",
@@ -2470,7 +2716,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vgm 5l_2020",
@@ -2480,7 +2727,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sorn_2020",
@@ -2490,7 +2738,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "killerqueen_2020",
@@ -2500,7 +2749,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -2510,9 +2760,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 1
     },
     {
       "id": "doinb_2020",
@@ -2520,9 +2771,10 @@
       "team": "FunPlus Phoenix",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 1
     },
     {
       "id": "yuuki_2020",
@@ -2532,7 +2784,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2020",
@@ -2542,7 +2795,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cryin_2020",
@@ -2552,7 +2806,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wuming_2020",
@@ -2562,7 +2817,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ruby_2020",
@@ -2572,7 +2828,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "icon_2020",
@@ -2582,7 +2839,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yagao_2020",
@@ -2592,7 +2850,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "forge_2020",
@@ -2602,7 +2861,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fofo_2020",
@@ -2612,7 +2872,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiye_2020",
@@ -2622,7 +2883,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mole_2020",
@@ -2632,7 +2894,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "scout_2020",
@@ -2640,9 +2903,10 @@
       "team": "EDward Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Scout_profileicon.png",
       "years": "2020",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "angel_2020",
@@ -2652,7 +2916,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2020",
@@ -2662,7 +2927,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jett_2020",
@@ -2672,7 +2938,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohu_2020",
@@ -2682,7 +2949,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "twila_2020",
@@ -2692,7 +2960,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2020",
@@ -2702,7 +2971,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "humanoid_2020",
@@ -2712,7 +2982,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2020)"
+      "seasonTeam": "MAD Lions KOI (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jnx_2020",
@@ -2722,7 +2993,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "saken_2020",
@@ -2732,7 +3004,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "larssen_2020",
@@ -2742,7 +3015,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Rogue (2020)"
+      "seasonTeam": "Rogue (2020)",
+      "worldsWins": 0
     },
     {
       "id": "febiven_2020",
@@ -2752,7 +3026,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mickey_2020",
@@ -2762,7 +3037,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "abbedagge_2020",
@@ -2772,7 +3048,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nemesis_2020",
@@ -2782,7 +3059,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2020)"
+      "seasonTeam": "Fnatic (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2020",
@@ -2792,7 +3070,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nisqy_2020",
@@ -2802,7 +3081,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2020)"
+      "seasonTeam": "Cloud9 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jensen_2020",
@@ -2812,7 +3092,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 0
     },
     {
       "id": "crown_2020",
@@ -2820,9 +3101,10 @@
       "team": "Counter Logic Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Crown_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 1
     },
     {
       "id": "froggen_2020",
@@ -2832,7 +3114,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ryoma_2020",
@@ -2842,7 +3125,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "goldenglue_2020",
@@ -2852,7 +3136,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "eika_2020",
@@ -2862,7 +3147,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "powerofevil_2020",
@@ -2872,7 +3158,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jiizuke_2020",
@@ -2882,7 +3169,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bjergsen_2020",
@@ -2892,7 +3180,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kati_2020",
@@ -2902,7 +3191,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pake_2020",
@@ -2912,7 +3202,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dia1_2020",
@@ -2922,7 +3213,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yado_2020",
@@ -2932,7 +3224,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pht_2020",
@@ -2942,7 +3235,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "naul_2020",
@@ -2952,7 +3246,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2020",
@@ -2962,7 +3257,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "victory_2020",
@@ -2972,7 +3268,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2020",
@@ -2982,7 +3279,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 3
     },
     {
       "id": "showmaker_2020",
@@ -2992,7 +3290,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 1
     },
     {
       "id": "kuro_2020",
@@ -3002,7 +3301,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bdd_2020",
@@ -3012,7 +3312,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dove_2020",
@@ -3022,7 +3323,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "keine_2020",
@@ -3032,7 +3334,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ucal_2020",
@@ -3042,7 +3345,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fly_2020",
@@ -3052,7 +3356,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tempt_2020",
@@ -3062,7 +3367,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "quad_2020",
@@ -3072,7 +3378,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "naehyun_2020",
@@ -3082,7 +3389,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chovy_2020",
@@ -3092,7 +3400,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ssun_2020",
@@ -3102,7 +3411,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kemken_2020",
@@ -3112,7 +3422,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hani_2020",
@@ -3122,7 +3433,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fate_2020",
@@ -3132,7 +3444,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "potm_2020",
@@ -3142,7 +3455,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pobelter_2020",
@@ -3152,7 +3466,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "artifact_2020",
@@ -3162,7 +3477,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "uniboy_2020",
@@ -3172,7 +3488,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2020",
@@ -3182,7 +3499,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "minji_2020",
@@ -3192,7 +3510,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "raven_2020",
@@ -3202,7 +3521,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rex_2020",
@@ -3212,7 +3532,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jimien_2020",
@@ -3222,7 +3543,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2020",
@@ -3232,7 +3554,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "candy_2020",
@@ -3242,7 +3565,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "g4_2020",
@@ -3252,7 +3576,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "faith_2020",
@@ -3262,7 +3587,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cover_2020",
@@ -3272,7 +3598,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sask_2020",
@@ -3282,7 +3609,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "1116_2020",
@@ -3292,7 +3620,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nulu_2020",
@@ -3302,7 +3631,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "froggy_2020",
@@ -3312,7 +3642,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "but1_2020",
@@ -3322,7 +3653,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zeka_2020",
@@ -3332,7 +3664,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zica_2020",
@@ -3342,7 +3675,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "teacherma_2020",
@@ -3352,7 +3686,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clx_2020",
@@ -3362,7 +3697,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lava_2020",
@@ -3372,7 +3708,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "keorb_2020",
@@ -3382,7 +3719,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rest_2020",
@@ -3392,7 +3730,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fenfen_2020",
@@ -3402,7 +3741,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kuzan_2020",
@@ -3412,7 +3752,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team Dynamics (2020)"
+      "seasonTeam": "Team Dynamics (2020)",
+      "worldsWins": 0
     },
     {
       "id": "danchung_2020",
@@ -3422,7 +3763,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Seorabeol Gaming (2020)"
+      "seasonTeam": "Seorabeol Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "apex_2020",
@@ -3432,7 +3774,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiye_2020",
@@ -3442,7 +3785,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fenfen_2020",
@@ -3452,7 +3796,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2020",
@@ -3462,7 +3807,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "milica_2020",
@@ -3472,7 +3818,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zazee_2020",
@@ -3482,7 +3829,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "special_2020",
@@ -3492,7 +3840,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "damonte_2020",
@@ -3502,7 +3851,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ucal_2020",
@@ -3512,7 +3862,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mickey_2020",
@@ -3522,7 +3873,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "froggy_2020",
@@ -3532,7 +3884,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pht_2020",
@@ -3542,7 +3895,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "naul_2020",
@@ -3552,7 +3906,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gloryy_2020",
@@ -3562,7 +3917,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tank_2020",
@@ -3572,7 +3928,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chen9_2020",
@@ -3582,7 +3939,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mireu_2020",
@@ -3592,7 +3950,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "moonblack_2020",
@@ -3602,7 +3961,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cryin_2020",
@@ -3612,7 +3972,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "genza_2020",
@@ -3622,7 +3983,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "insanity_2020",
@@ -3632,7 +3994,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hiro02_2020",
@@ -3642,7 +4005,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fenix_2020",
@@ -3652,7 +4016,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "goldenglue_2020",
@@ -3662,7 +4027,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "irma_2020",
@@ -3672,7 +4038,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clozer_2020",
@@ -3682,7 +4049,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tuesday_2020",
@@ -3692,7 +4060,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jerry_2020",
@@ -3702,7 +4071,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shera_2020",
@@ -3712,7 +4082,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2020)"
+      "seasonTeam": "Impunity (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pnc ar1se_2020",
@@ -3722,7 +4093,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Panic Time (2020)"
+      "seasonTeam": "Panic Time (2020)",
+      "worldsWins": 0
     },
     {
       "id": "victory_2020",
@@ -3732,7 +4104,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2020",
@@ -3742,7 +4115,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -3754,7 +4128,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lwx_2020",
@@ -3764,7 +4139,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 1
     },
     {
       "id": "kramer_2020",
@@ -3774,7 +4150,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "asura_2020",
@@ -3784,7 +4161,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wink_2020",
@@ -3794,7 +4172,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zwuji_2020",
@@ -3804,7 +4183,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "smlz_2020",
@@ -3814,7 +4194,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "loken_2020",
@@ -3824,7 +4205,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "iboy_2020",
@@ -3834,7 +4216,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jinjiao_2020",
@@ -3844,7 +4227,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gala_2020",
@@ -3854,7 +4238,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "y4_2020",
@@ -3864,7 +4249,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hope_2020",
@@ -3874,7 +4260,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "weiwei_2020",
@@ -3884,7 +4271,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "photic_2020",
@@ -3894,7 +4282,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "elk_2020",
@@ -3904,7 +4293,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "betty_2020",
@@ -3914,7 +4304,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2020",
@@ -3924,7 +4315,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "carzzy_2020",
@@ -3934,7 +4326,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2020)"
+      "seasonTeam": "MAD Lions KOI (2020)",
+      "worldsWins": 0
     },
     {
       "id": "crownie_2020",
@@ -3944,7 +4337,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "comp_2020",
@@ -3954,7 +4348,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2020",
@@ -3964,7 +4359,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Rogue (2020)"
+      "seasonTeam": "Rogue (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bvoy_2020",
@@ -3974,7 +4370,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "patrik_2020",
@@ -3984,7 +4381,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "forg1ven_2020",
@@ -3994,7 +4392,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2020",
@@ -4004,7 +4403,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2020)"
+      "seasonTeam": "Fnatic (2020)",
+      "worldsWins": 0
     },
     {
       "id": "upset_2020",
@@ -4014,7 +4414,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2020",
@@ -4024,7 +4425,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2020)"
+      "seasonTeam": "Cloud9 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2020",
@@ -4034,7 +4436,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 0
     },
     {
       "id": "stixxay_2020",
@@ -4044,7 +4447,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "johnsun_2020",
@@ -4054,7 +4458,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cody sun_2020",
@@ -4064,7 +4469,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fbi_2020",
@@ -4074,7 +4480,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2020",
@@ -4084,7 +4491,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2020",
@@ -4094,7 +4502,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bang_2020",
@@ -4102,9 +4511,10 @@
       "team": "Evil Geniuses",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Bang_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 2
     },
     {
       "id": "kobbe_2020",
@@ -4114,7 +4524,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "slayder_2020",
@@ -4124,7 +4535,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "divkid_2020",
@@ -4134,7 +4546,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "himmel_2020",
@@ -4144,7 +4557,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "artemis_2020",
@@ -4154,7 +4568,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2020",
@@ -4164,7 +4579,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bigkoro_2020",
@@ -4174,7 +4590,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "celebrity_2020",
@@ -4184,7 +4601,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aomine_2020",
@@ -4194,7 +4612,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "teddy_2020",
@@ -4204,7 +4623,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nuclear_2020",
@@ -4214,7 +4634,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aiming_2020",
@@ -4224,7 +4645,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2020",
@@ -4234,7 +4656,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 1
     },
     {
       "id": "leo_2020",
@@ -4244,7 +4667,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hybrid_2020",
@@ -4254,7 +4678,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "viper_2020",
@@ -4264,7 +4689,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ssol_2020",
@@ -4274,7 +4700,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mystic_2020",
@@ -4284,7 +4711,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vsta_2020",
@@ -4294,7 +4722,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "deft_2020",
@@ -4304,7 +4733,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "trigger_2020",
@@ -4314,7 +4744,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "route_2020",
@@ -4324,7 +4755,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2020",
@@ -4334,7 +4766,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "innaxe_2020",
@@ -4344,7 +4777,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "celebrity_2020",
@@ -4354,7 +4788,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hieu3_2020",
@@ -4364,7 +4799,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lava_2020",
@@ -4374,7 +4810,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zenit_2020",
@@ -4384,7 +4821,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2020",
@@ -4394,7 +4832,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lilv_2020",
@@ -4404,7 +4843,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "keres_2020",
@@ -4414,7 +4854,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mexi_2020",
@@ -4424,7 +4865,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "exosen_2020",
@@ -4434,7 +4876,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mnm_2020",
@@ -4444,7 +4887,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bruce_2020",
@@ -4454,7 +4898,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "unified_2020",
@@ -4464,7 +4909,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mixcross_2020",
@@ -4474,7 +4920,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tactical_2020",
@@ -4484,7 +4931,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 0
     },
     {
       "id": "apollo_2020",
@@ -4494,7 +4942,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "atlen_2020",
@@ -4504,7 +4953,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "froggy_2020",
@@ -4514,7 +4964,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wind_2020",
@@ -4524,7 +4975,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "huanfeng_2020",
@@ -4534,7 +4986,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "light_2020",
@@ -4544,7 +4997,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ghost_2020",
@@ -4554,7 +5008,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 1
     },
     {
       "id": "jackeylove_2020",
@@ -4564,7 +5019,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 1
     },
     {
       "id": "deokdam_2020",
@@ -4574,7 +5030,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team Dynamics (2020)"
+      "seasonTeam": "Team Dynamics (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sangyoon_2020",
@@ -4584,7 +5041,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Seorabeol Gaming (2020)"
+      "seasonTeam": "Seorabeol Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hans samd_2020",
@@ -4594,7 +5052,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "helper_2020",
@@ -4604,7 +5063,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wings_2020",
@@ -4614,7 +5074,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "qiuqiu_2020",
@@ -4624,7 +5085,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2020",
@@ -4634,7 +5096,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kobbe_2020",
@@ -4644,7 +5107,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2020",
@@ -4654,7 +5118,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "viper_2020",
@@ -4664,7 +5129,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sty1e_2020",
@@ -4674,7 +5140,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2020",
@@ -4684,7 +5151,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bigkoro_2020",
@@ -4694,7 +5162,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "neon_2020",
@@ -4704,7 +5173,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wynn_2020",
@@ -4714,7 +5184,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "weilun_2020",
@@ -4724,7 +5195,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "coldenfeet_2020",
@@ -4734,7 +5206,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dawn_2020",
@@ -4744,7 +5217,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mash_2020",
@@ -4754,7 +5228,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xiaguang_2020",
@@ -4764,7 +5239,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "genza_2020",
@@ -4774,7 +5250,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jisoo_2020",
@@ -4784,7 +5261,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "p1noy_2020",
@@ -4794,7 +5272,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gala_2020",
@@ -4804,7 +5283,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zeldris_2020",
@@ -4814,7 +5294,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pqy_2020",
@@ -4824,7 +5305,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "quake_2020",
@@ -4834,7 +5316,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "eric_2020",
@@ -4844,7 +5327,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "khan_2020",
@@ -4854,7 +5338,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aomine_2020",
@@ -4864,7 +5349,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "atlen_2020",
@@ -4874,7 +5360,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gumayusi_2020",
@@ -4884,7 +5371,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "blaze_2020",
@@ -4894,7 +5382,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2020)"
+      "seasonTeam": "Impunity (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yjy_2020",
@@ -4904,7 +5393,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Panic Time (2020)"
+      "seasonTeam": "Panic Time (2020)",
+      "worldsWins": 0
     },
     {
       "id": "arrietty_2020",
@@ -4914,7 +5404,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jetsu_2020",
@@ -4924,7 +5415,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shine_2020",
@@ -4934,7 +5426,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -4946,7 +5439,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "crisp_2020",
@@ -4956,7 +5450,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "FunPlus Phoenix (2020)"
+      "seasonTeam": "FunPlus Phoenix (2020)",
+      "worldsWins": 1
     },
     {
       "id": "chance_2020",
@@ -4966,7 +5461,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "duan_2020",
@@ -4976,7 +5472,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "shiauc_2020",
@@ -4986,7 +5483,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "eStar (2020)"
+      "seasonTeam": "eStar (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ley_2020",
@@ -4996,7 +5494,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cold_2020",
@@ -5006,7 +5505,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lvmao_2020",
@@ -5016,7 +5516,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2020)"
+      "seasonTeam": "JD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "maestro_2020",
@@ -5026,7 +5527,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "xinmo_2020",
@@ -5036,7 +5538,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2020)"
+      "seasonTeam": "Bilibili Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mark_2020",
@@ -5046,7 +5549,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "poge_2020",
@@ -5056,7 +5560,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "meiko_2020",
@@ -5066,7 +5571,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2020)"
+      "seasonTeam": "EDward Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2020",
@@ -5076,7 +5582,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2020)"
+      "seasonTeam": "Suning (2020)",
+      "worldsWins": 0
     },
     {
       "id": "qiuqiu_2020",
@@ -5086,7 +5593,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "missing_2020",
@@ -5096,7 +5604,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2020)"
+      "seasonTeam": "Team WE (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ming_2020",
@@ -5106,7 +5615,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2020)"
+      "seasonTeam": "Royal Never Give Up (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2020",
@@ -5116,7 +5626,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2020)"
+      "seasonTeam": "G2 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kaiser_2020",
@@ -5126,7 +5637,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "MAD Lions KOI (2020)"
+      "seasonTeam": "MAD Lions KOI (2020)",
+      "worldsWins": 0
     },
     {
       "id": "limit_2020",
@@ -5136,7 +5648,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2020)"
+      "seasonTeam": "SK Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jactroll_2020",
@@ -5146,7 +5659,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2020",
@@ -5156,7 +5670,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Rogue (2020)"
+      "seasonTeam": "Rogue (2020)",
+      "worldsWins": 0
     },
     {
       "id": "denyk_2020",
@@ -5166,7 +5681,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tore_2020",
@@ -5176,7 +5692,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Excel Esports (2020)"
+      "seasonTeam": "Excel Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dreams_2020",
@@ -5186,7 +5703,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hylissang_2020",
@@ -5196,7 +5714,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2020)"
+      "seasonTeam": "Fnatic (2020)",
+      "worldsWins": 0
     },
     {
       "id": "destiny_2020",
@@ -5206,7 +5725,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "vulcan_2020",
@@ -5216,7 +5736,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2020)"
+      "seasonTeam": "Cloud9 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2020",
@@ -5224,9 +5745,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2020)"
+      "seasonTeam": "Team Liquid (2020)",
+      "worldsWins": 1
     },
     {
       "id": "smoothie_2020",
@@ -5236,7 +5758,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Counter Logic Gaming (2020)"
+      "seasonTeam": "Counter Logic Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2020",
@@ -5246,7 +5769,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2020)"
+      "seasonTeam": "Dignitas (2020)",
+      "worldsWins": 0
     },
     {
       "id": "stunt_2020",
@@ -5256,7 +5780,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "keith_2020",
@@ -5266,7 +5791,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hakuho_2020",
@@ -5276,7 +5802,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2020",
@@ -5284,9 +5811,10 @@
       "team": "FlyQuest",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
       "years": "2020",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2020)"
+      "seasonTeam": "FlyQuest (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zeyzal_2020",
@@ -5296,7 +5824,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Evil Geniuses (2020)"
+      "seasonTeam": "Evil Geniuses (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biofrost_2020",
@@ -5306,7 +5835,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cbl_2020",
@@ -5316,7 +5846,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "bie_2020",
@@ -5326,7 +5857,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "EVOS Esports (2020)"
+      "seasonTeam": "EVOS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2020",
@@ -5336,7 +5868,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ronop_2020",
@@ -5346,7 +5879,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biob_2020",
@@ -5356,7 +5890,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "h3_2020",
@@ -5366,7 +5901,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "venus_2020",
@@ -5376,7 +5912,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "1ground_2020",
@@ -5386,7 +5923,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "effort_2020",
@@ -5396,7 +5934,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hoit_2020",
@@ -5406,7 +5945,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 0
     },
     {
       "id": "beryl_2020",
@@ -5416,7 +5956,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus KIA (2020)"
+      "seasonTeam": "Dplus KIA (2020)",
+      "worldsWins": 1
     },
     {
       "id": "tusin_2020",
@@ -5426,7 +5967,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kellin_2020",
@@ -5436,7 +5978,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gorilla_2020",
@@ -5446,7 +5989,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "secret_2020",
@@ -5456,7 +6000,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sanghyeon_2020",
@@ -5466,7 +6011,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jelly_2020",
@@ -5476,7 +6022,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "lehends_2020",
@@ -5486,7 +6033,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2020)"
+      "seasonTeam": "Hanwha Life Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "keria_2020",
@@ -5496,7 +6044,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DRX (2020)"
+      "seasonTeam": "DRX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yin_2020",
@@ -5506,7 +6055,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Lowkey Esports.Vietnam (2020)"
+      "seasonTeam": "Lowkey Esports.Vietnam (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kuroko1_2020",
@@ -5516,7 +6066,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mia_2020",
@@ -5526,7 +6077,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SeolHaeOne Prince (2020)"
+      "seasonTeam": "SeolHaeOne Prince (2020)",
+      "worldsWins": 0
     },
     {
       "id": "joker_2020",
@@ -5536,7 +6088,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "scary_2020",
@@ -5546,7 +6099,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "venus_2020",
@@ -5556,7 +6110,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2020",
@@ -5566,7 +6121,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yin_2020",
@@ -5576,7 +6132,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "life_2020",
@@ -5586,7 +6143,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2020)"
+      "seasonTeam": "Gen.G (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ben_2020",
@@ -5596,7 +6154,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2020)"
+      "seasonTeam": "Afreeca Freecs (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ysera_2020",
@@ -5606,7 +6165,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "ahq eSports Club (2020)"
+      "seasonTeam": "ahq eSports Club (2020)",
+      "worldsWins": 0
     },
     {
       "id": "woody_2020",
@@ -5616,7 +6176,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "chilly_2020",
@@ -5626,7 +6187,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "dennis_2020",
@@ -5636,7 +6198,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hamezz_2020",
@@ -5646,7 +6209,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wing_2020",
@@ -5656,7 +6220,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "koala_2020",
@@ -5666,7 +6231,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Machi Esports (2020)"
+      "seasonTeam": "Machi Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kaiwing_2020",
@@ -5676,7 +6242,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "TALON (2020)"
+      "seasonTeam": "TALON (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pop_2020",
@@ -5686,7 +6253,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Nova Esports (2020)"
+      "seasonTeam": "Nova Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "pepero_2020",
@@ -5696,7 +6264,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hinn_2020",
@@ -5706,7 +6275,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2020",
@@ -5716,7 +6286,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming Adonis (2020)"
+      "seasonTeam": "V Gaming Adonis (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kino_2020",
@@ -5726,7 +6297,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "akeno_2020",
@@ -5736,7 +6308,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "FTV Esports (2020)"
+      "seasonTeam": "FTV Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2020",
@@ -5746,7 +6319,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Golden Guardians (2020)"
+      "seasonTeam": "Golden Guardians (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yuyanjia_2020",
@@ -5756,7 +6330,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2020)"
+      "seasonTeam": "Top Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "clx_2020",
@@ -5766,7 +6341,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hang_2020",
@@ -5776,7 +6352,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2020)"
+      "seasonTeam": "Vici Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "killua_2020",
@@ -5786,7 +6363,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "do1u1u_2020",
@@ -5796,7 +6374,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "iwandy_2020",
@@ -5806,7 +6385,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2020)"
+      "seasonTeam": "LNG Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2020",
@@ -5816,7 +6396,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "J Team (2020)"
+      "seasonTeam": "J Team (2020)",
+      "worldsWins": 0
     },
     {
       "id": "guger_2020",
@@ -5826,7 +6407,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Team Dynamics (2020)"
+      "seasonTeam": "Team Dynamics (2020)",
+      "worldsWins": 0
     },
     {
       "id": "wadid_2020",
@@ -5836,7 +6418,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Griffin (2020)"
+      "seasonTeam": "Griffin (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nova_2020",
@@ -5846,7 +6429,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Seorabeol Gaming (2020)"
+      "seasonTeam": "Seorabeol Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "ppgod_2020",
@@ -5856,7 +6440,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Victory Five (2020)"
+      "seasonTeam": "Victory Five (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mitsuki_2020",
@@ -5866,7 +6451,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mark_2020",
@@ -5876,7 +6462,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2020)"
+      "seasonTeam": "LGD Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "labrov_2020",
@@ -5886,7 +6473,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2020)"
+      "seasonTeam": "Team Vitality (2020)",
+      "worldsWins": 0
     },
     {
       "id": "nukes_2020",
@@ -5896,7 +6484,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "FC Schalke 04 Esports (2020)"
+      "seasonTeam": "FC Schalke 04 Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "doss_2020",
@@ -5906,7 +6495,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Misfits Gaming (2020)"
+      "seasonTeam": "Misfits Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sora_2020",
@@ -5916,7 +6506,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2020)"
+      "seasonTeam": "Oh My God (2020)",
+      "worldsWins": 0
     },
     {
       "id": "gate_2020",
@@ -5926,7 +6517,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Immortals (2020)"
+      "seasonTeam": "Immortals (2020)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2020",
@@ -5936,7 +6528,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "palette_2020",
@@ -5946,7 +6539,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Flash (2020)"
+      "seasonTeam": "Team Flash (2020)",
+      "worldsWins": 0
     },
     {
       "id": "elio_2020",
@@ -5956,7 +6550,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Percent Esports (2020)"
+      "seasonTeam": "Percent Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cbl_2020",
@@ -5966,7 +6561,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Team Secret (2020)"
+      "seasonTeam": "Team Secret (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yursan_2020",
@@ -5976,7 +6572,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Alpha Esports (2020)"
+      "seasonTeam": "Alpha Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kuri_2020",
@@ -5986,7 +6583,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2020)"
+      "seasonTeam": "T1 (2020)",
+      "worldsWins": 0
     },
     {
       "id": "slay_2020",
@@ -5996,7 +6594,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "GAM Esports (2020)"
+      "seasonTeam": "GAM Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kusuo_2020",
@@ -6006,7 +6605,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "tak_2020",
@@ -6016,7 +6616,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Hong Kong Attitude (2020)"
+      "seasonTeam": "Hong Kong Attitude (2020)",
+      "worldsWins": 0
     },
     {
       "id": "mocha_2020",
@@ -6026,7 +6627,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Liyab Esports (2020)"
+      "seasonTeam": "Liyab Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "do1u1u_2020",
@@ -6036,7 +6638,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Berjaya Dragons (2020)"
+      "seasonTeam": "Berjaya Dragons (2020)",
+      "worldsWins": 0
     },
     {
       "id": "kaixuan_2020",
@@ -6046,7 +6649,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Rogue Warriors (2020)"
+      "seasonTeam": "Rogue Warriors (2020)",
+      "worldsWins": 0
     },
     {
       "id": "yui_2020",
@@ -6056,7 +6660,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Dominus Esports (2020)"
+      "seasonTeam": "Dominus Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "fate_2020",
@@ -6066,7 +6671,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "sanghyeon_2020",
@@ -6076,7 +6682,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Liiv SANDBOX (2020)"
+      "seasonTeam": "Liiv SANDBOX (2020)",
+      "worldsWins": 0
     },
     {
       "id": "baolan_2020",
@@ -6086,7 +6693,8 @@
       "years": "2020",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2020)"
+      "seasonTeam": "Invictus Gaming (2020)",
+      "worldsWins": 1
     },
     {
       "id": "poome_2020",
@@ -6096,7 +6704,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "100 Thieves (2020)"
+      "seasonTeam": "100 Thieves (2020)",
+      "worldsWins": 0
     },
     {
       "id": "boxer2_2020",
@@ -6106,7 +6715,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Resurgence (2020)"
+      "seasonTeam": "Resurgence (2020)",
+      "worldsWins": 0
     },
     {
       "id": "smeb_2020",
@@ -6116,7 +6726,8 @@
       "years": "2020",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2020)"
+      "seasonTeam": "KT Rolster (2020)",
+      "worldsWins": 0
     },
     {
       "id": "hieu3_2020",
@@ -6126,7 +6737,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "CERBERUS Esports (2020)"
+      "seasonTeam": "CERBERUS Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jactroll_2020",
@@ -6136,7 +6748,8 @@
       "years": "2020",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Origen (2020)"
+      "seasonTeam": "Origen (2020)",
+      "worldsWins": 0
     },
     {
       "id": "treatz_2020",
@@ -6146,7 +6759,8 @@
       "years": "2020",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "TSM (2020)"
+      "seasonTeam": "TSM (2020)",
+      "worldsWins": 0
     },
     {
       "id": "jad_2020",
@@ -6156,7 +6770,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "h3_2020",
@@ -6166,7 +6781,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "OverPower Esports (2020)"
+      "seasonTeam": "OverPower Esports (2020)",
+      "worldsWins": 0
     },
     {
       "id": "smerv_2020",
@@ -6176,7 +6792,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Impunity (2020)"
+      "seasonTeam": "Impunity (2020)",
+      "worldsWins": 0
     },
     {
       "id": "cresho_2020",
@@ -6186,7 +6803,8 @@
       "years": "2020",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Panic Time (2020)"
+      "seasonTeam": "Panic Time (2020)",
+      "worldsWins": 0
     },
     {
       "id": "taki_2020",
@@ -6196,7 +6814,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Buffalo (2020)"
+      "seasonTeam": "Saigon Buffalo (2020)",
+      "worldsWins": 0
     },
     {
       "id": "1ground_2020",
@@ -6206,7 +6825,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "V Gaming (2020)"
+      "seasonTeam": "V Gaming (2020)",
+      "worldsWins": 0
     },
     {
       "id": "biob_2020",
@@ -6216,7 +6836,8 @@
       "years": "2020",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Luxury Esports (2020)"
+      "seasonTeam": "Luxury Esports (2020)",
+      "worldsWins": 0
     }
   ]
 }

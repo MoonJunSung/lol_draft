@@ -8,7 +8,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "perfect_2026",
@@ -18,7 +19,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "soboro_2026",
@@ -28,7 +30,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zika_2026",
@@ -38,7 +41,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "siwoo_2026",
@@ -48,7 +52,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 0
     },
     {
       "id": "casting_2026",
@@ -58,7 +63,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoxu_2026",
@@ -68,7 +74,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2026)"
+      "seasonTeam": "JD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "369_2026",
@@ -78,7 +85,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "liangchen_2026",
@@ -88,7 +96,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sasi_2026",
@@ -98,7 +107,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rich_2026",
@@ -108,7 +118,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kiin_2026",
@@ -118,7 +129,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2026)"
+      "seasonTeam": "Gen.G (2026)",
+      "worldsWins": 0
     },
     {
       "id": "flandre_2026",
@@ -128,7 +140,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2026)"
+      "seasonTeam": "Anyone's Legend (2026)",
+      "worldsWins": 1
     },
     {
       "id": "kingen_2026",
@@ -138,7 +151,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 1
     },
     {
       "id": "clear_2026",
@@ -148,7 +162,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bin_2026",
@@ -158,7 +173,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2026)"
+      "seasonTeam": "Bilibili Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hery_2026",
@@ -168,7 +184,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sheer_2026",
@@ -178,7 +195,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2026)"
+      "seasonTeam": "LNG Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "doran_2026",
@@ -188,7 +206,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2026)"
+      "seasonTeam": "T1 (2026)",
+      "worldsWins": 1
     },
     {
       "id": "zeus_2026",
@@ -198,7 +217,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 2
     },
     {
       "id": "zdz_2026",
@@ -208,7 +228,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "cube_2026",
@@ -218,7 +239,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "empyros_2026",
@@ -228,7 +250,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2026)"
+      "seasonTeam": "Fnatic (2026)",
+      "worldsWins": 0
     },
     {
       "id": "baus_2026",
@@ -238,7 +261,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Los Ratones (2026)"
+      "seasonTeam": "Los Ratones (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lot_2026",
@@ -248,7 +272,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "GiantX (2026)"
+      "seasonTeam": "GiantX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rooster_2026",
@@ -258,7 +283,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tracyn_2026",
@@ -268,7 +294,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "maynter_2026",
@@ -278,7 +305,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Natus Vincere (2026)"
+      "seasonTeam": "Natus Vincere (2026)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2026",
@@ -288,7 +316,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2026)"
+      "seasonTeam": "SK Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "naak nako_2026",
@@ -298,7 +327,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2026)"
+      "seasonTeam": "Team Vitality (2026)",
+      "worldsWins": 0
     },
     {
       "id": "canna_2026",
@@ -308,7 +338,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp (2026)"
+      "seasonTeam": "Karmine Corp (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tao_2026",
@@ -318,7 +349,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp Blue (2026)"
+      "seasonTeam": "Karmine Corp Blue (2026)",
+      "worldsWins": 0
     },
     {
       "id": "brokenblade_2026",
@@ -328,7 +360,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2026)"
+      "seasonTeam": "G2 Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "myrwn_2026",
@@ -338,7 +371,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Movistar KOI (2026)"
+      "seasonTeam": "Movistar KOI (2026)",
+      "worldsWins": 0
     },
     {
       "id": "keshi_2026",
@@ -348,7 +382,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hoya_2026",
@@ -358,7 +393,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2026)"
+      "seasonTeam": "Ninjas in Pyjamas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "morgan_2026",
@@ -368,7 +404,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2026)"
+      "seasonTeam": "Team Liquid (2026)",
+      "worldsWins": 0
     },
     {
       "id": "thanatos_2026",
@@ -378,7 +415,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2026)"
+      "seasonTeam": "Cloud9 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "castle_2026",
@@ -388,7 +426,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2026",
@@ -396,9 +435,10 @@
       "team": "Sentinels",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2026",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Sentinels (2026)"
+      "seasonTeam": "Sentinels (2026)",
+      "worldsWins": 1
     },
     {
       "id": "gakgos_2026",
@@ -408,7 +448,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2026)"
+      "seasonTeam": "FlyQuest (2026)",
+      "worldsWins": 0
     },
     {
       "id": "fudge_2026",
@@ -418,7 +459,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Shopify Rebellion (2026)"
+      "seasonTeam": "Shopify Rebellion (2026)",
+      "worldsWins": 0
     },
     {
       "id": "dhokla_2026",
@@ -428,7 +470,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "photon_2026",
@@ -438,7 +481,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nern_2026",
@@ -448,7 +492,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "steller_2026",
@@ -458,7 +503,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "virgo_2026",
@@ -468,7 +514,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "solis_2026",
@@ -478,7 +525,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vietthanh_2026",
@@ -488,7 +536,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nanaue_2026",
@@ -498,7 +547,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tisad_2026",
@@ -508,7 +558,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tt1_2026",
@@ -518,7 +569,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "breathe_2026",
@@ -528,7 +580,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zuian_2026",
@@ -538,7 +591,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "burdol_2026",
@@ -548,7 +602,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sasi_2026",
@@ -558,7 +613,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hedonist_2026",
@@ -568,7 +624,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yskm_2026",
@@ -578,7 +635,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2026)"
+      "seasonTeam": "Frank Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hasu7_2026",
@@ -588,7 +646,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SillySilly Gaming (2026)"
+      "seasonTeam": "SillySilly Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors ner4_2026",
@@ -598,7 +657,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors liang_2026",
@@ -608,7 +668,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sorrymbggff_2026",
@@ -618,7 +679,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zkai_2026",
@@ -628,7 +690,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "weizhe_2026",
@@ -638,7 +701,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Shadow Keepers Esports (2026)"
+      "seasonTeam": "Shadow Keepers Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yuji_2026",
@@ -648,7 +712,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "eqx xi lai_2026",
@@ -658,7 +723,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "adizai_2026",
@@ -668,7 +734,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rbow_2026",
@@ -678,7 +745,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zartheit1_2026",
@@ -688,7 +756,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "srtty_2026",
@@ -698,7 +767,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "castle_2026",
@@ -708,7 +778,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "haaland_2026",
@@ -718,7 +789,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "solis_2026",
@@ -728,7 +800,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "copper_2026",
@@ -738,7 +811,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "scbc ryuk2_2026",
@@ -748,7 +822,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ryuk_2026",
@@ -758,7 +833,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xi lai_2026",
@@ -768,7 +844,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -780,7 +857,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 1
     },
     {
       "id": "cuzz_2026",
@@ -790,7 +868,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "wei_2026",
@@ -800,7 +879,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jiejie_2026",
@@ -810,7 +890,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 1
     },
     {
       "id": "lucid_2026",
@@ -820,7 +901,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gideon_2026",
@@ -830,7 +912,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "junjia_2026",
@@ -840,7 +923,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2026)"
+      "seasonTeam": "JD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "naiyou_2026",
@@ -850,7 +934,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "grizzly_2026",
@@ -860,7 +945,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "heng_2026",
@@ -870,7 +956,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "willer_2026",
@@ -880,7 +967,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "canyon_2026",
@@ -890,7 +978,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2026)"
+      "seasonTeam": "Gen.G (2026)",
+      "worldsWins": 1
     },
     {
       "id": "tarzan_2026",
@@ -900,7 +989,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2026)"
+      "seasonTeam": "Anyone's Legend (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sponge_2026",
@@ -910,7 +1000,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 0
     },
     {
       "id": "raptor_2026",
@@ -920,7 +1011,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xun_2026",
@@ -930,7 +1022,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2026)"
+      "seasonTeam": "Bilibili Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "juhan_2026",
@@ -940,7 +1033,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "croco_2026",
@@ -950,7 +1044,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2026)"
+      "seasonTeam": "LNG Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "oner_2026",
@@ -960,7 +1055,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2026)"
+      "seasonTeam": "T1 (2026)",
+      "worldsWins": 3
     },
     {
       "id": "kanavi_2026",
@@ -970,7 +1066,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohao_2026",
@@ -980,7 +1077,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "monki_2026",
@@ -990,7 +1088,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "razork_2026",
@@ -1000,7 +1099,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2026)"
+      "seasonTeam": "Fnatic (2026)",
+      "worldsWins": 0
     },
     {
       "id": "velja_2026",
@@ -1010,7 +1110,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Los Ratones (2026)"
+      "seasonTeam": "Los Ratones (2026)",
+      "worldsWins": 0
     },
     {
       "id": "isma_2026",
@@ -1020,7 +1121,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "GiantX (2026)"
+      "seasonTeam": "GiantX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "boukada_2026",
@@ -1030,7 +1132,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sheo_2026",
@@ -1040,7 +1143,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rhilech_2026",
@@ -1050,7 +1154,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Natus Vincere (2026)"
+      "seasonTeam": "Natus Vincere (2026)",
+      "worldsWins": 0
     },
     {
       "id": "skeanz_2026",
@@ -1060,7 +1165,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2026)"
+      "seasonTeam": "SK Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lyncas_2026",
@@ -1070,7 +1176,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2026)"
+      "seasonTeam": "Team Vitality (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yike_2026",
@@ -1080,7 +1187,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp (2026)"
+      "seasonTeam": "Karmine Corp (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yukino_2026",
@@ -1090,7 +1198,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp Blue (2026)"
+      "seasonTeam": "Karmine Corp Blue (2026)",
+      "worldsWins": 0
     },
     {
       "id": "skewmond_2026",
@@ -1100,7 +1209,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2026)"
+      "seasonTeam": "G2 Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "elyoya_2026",
@@ -1110,7 +1220,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Movistar KOI (2026)"
+      "seasonTeam": "Movistar KOI (2026)",
+      "worldsWins": 0
     },
     {
       "id": "junhao_2026",
@@ -1120,7 +1231,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "guwon_2026",
@@ -1130,7 +1242,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2026)"
+      "seasonTeam": "Ninjas in Pyjamas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "josedeodo_2026",
@@ -1140,7 +1253,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2026)"
+      "seasonTeam": "Team Liquid (2026)",
+      "worldsWins": 0
     },
     {
       "id": "blaber_2026",
@@ -1150,7 +1264,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2026)"
+      "seasonTeam": "Cloud9 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kisno_2026",
@@ -1160,7 +1275,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hambak_2026",
@@ -1170,7 +1286,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Sentinels (2026)"
+      "seasonTeam": "Sentinels (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gryffinn_2026",
@@ -1180,7 +1297,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2026)"
+      "seasonTeam": "FlyQuest (2026)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2026",
@@ -1190,7 +1308,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Shopify Rebellion (2026)"
+      "seasonTeam": "Shopify Rebellion (2026)",
+      "worldsWins": 0
     },
     {
       "id": "inspired_2026",
@@ -1200,7 +1319,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "exyu_2026",
@@ -1210,7 +1330,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "re0_2026",
@@ -1220,7 +1341,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kryra_2026",
@@ -1230,7 +1352,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tiphat_2026",
@@ -1240,7 +1363,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "npc_2026",
@@ -1250,7 +1374,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "anoker_2026",
@@ -1260,7 +1385,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "p9_2026",
@@ -1270,7 +1396,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kzt_2026",
@@ -1280,7 +1407,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ntnt_2026",
@@ -1290,7 +1418,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "666_2026",
@@ -1300,7 +1429,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sansan_2026",
@@ -1310,7 +1440,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "j1n5_2026",
@@ -1320,7 +1451,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "umi_2026",
@@ -1330,7 +1462,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tian_2026",
@@ -1340,7 +1473,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 1
     },
     {
       "id": "climber_2026",
@@ -1350,7 +1484,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "daglas_2026",
@@ -1360,7 +1495,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tyrion_2026",
@@ -1370,7 +1506,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xjb raon_2026",
@@ -1380,7 +1517,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "holo_2026",
@@ -1390,7 +1528,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2026)"
+      "seasonTeam": "Frank Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tianzhen_2026",
@@ -1400,7 +1539,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SillySilly Gaming (2026)"
+      "seasonTeam": "SillySilly Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors liang_2026",
@@ -1410,7 +1550,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors ner4_2026",
@@ -1420,7 +1561,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "raon_2026",
@@ -1430,7 +1572,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xin_2026",
@@ -1440,7 +1583,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "cedric_2026",
@@ -1450,7 +1594,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Shadow Keepers Esports (2026)"
+      "seasonTeam": "Shadow Keepers Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "epic_2026",
@@ -1460,7 +1605,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "renye_2026",
@@ -1470,7 +1616,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "killer2_2026",
@@ -1480,7 +1627,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     },
     {
       "id": "listo_2026",
@@ -1490,7 +1638,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sheo_2026",
@@ -1500,7 +1649,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "scp_2026",
@@ -1510,7 +1660,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ddoiv_2026",
@@ -1520,7 +1671,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rayq_2026",
@@ -1530,7 +1682,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ntnt_2026",
@@ -1540,7 +1693,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rikk_2026",
@@ -1550,7 +1704,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "leaky_2026",
@@ -1560,7 +1715,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sharvel_2026",
@@ -1570,7 +1726,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -1582,7 +1739,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bdd_2026",
@@ -1592,7 +1750,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rookie_2026",
@@ -1600,9 +1759,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
       "years": "2026",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 1
     },
     {
       "id": "xiaohu_2026",
@@ -1612,7 +1772,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "showmaker_2026",
@@ -1622,7 +1783,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 1
     },
     {
       "id": "roamer_2026",
@@ -1632,7 +1794,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hongq_2026",
@@ -1642,7 +1805,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2026)"
+      "seasonTeam": "JD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "creme_2026",
@@ -1652,7 +1816,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "saber_2026",
@@ -1662,7 +1827,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tangyuan_2026",
@@ -1672,7 +1838,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ucal_2026",
@@ -1682,7 +1849,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "chovy_2026",
@@ -1692,7 +1860,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2026)"
+      "seasonTeam": "Gen.G (2026)",
+      "worldsWins": 0
     },
     {
       "id": "shanks_2026",
@@ -1702,7 +1871,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2026)"
+      "seasonTeam": "Anyone's Legend (2026)",
+      "worldsWins": 0
     },
     {
       "id": "scout_2026",
@@ -1712,7 +1882,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 1
     },
     {
       "id": "vicla_2026",
@@ -1722,7 +1893,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2026",
@@ -1732,7 +1904,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2026)"
+      "seasonTeam": "Bilibili Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "haichao_2026",
@@ -1742,7 +1915,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bulldog_2026",
@@ -1752,7 +1926,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2026)"
+      "seasonTeam": "LNG Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2026",
@@ -1762,7 +1937,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2026)"
+      "seasonTeam": "T1 (2026)",
+      "worldsWins": 6
     },
     {
       "id": "zeka_2026",
@@ -1772,7 +1948,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 1
     },
     {
       "id": "angel_2026",
@@ -1782,7 +1959,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "karis_2026",
@@ -1792,7 +1970,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vladi_2026",
@@ -1802,7 +1981,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2026)"
+      "seasonTeam": "Fnatic (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nemesis_2026",
@@ -1812,7 +1992,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Los Ratones (2026)"
+      "seasonTeam": "Los Ratones (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jackies_2026",
@@ -1822,7 +2003,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "GiantX (2026)"
+      "seasonTeam": "GiantX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nuc_2026",
@@ -1832,7 +2014,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "serin_2026",
@@ -1842,7 +2025,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "poby_2026",
@@ -1852,7 +2036,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Natus Vincere (2026)"
+      "seasonTeam": "Natus Vincere (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lider_2026",
@@ -1862,7 +2047,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2026)"
+      "seasonTeam": "SK Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "humanoid_2026",
@@ -1872,7 +2058,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2026)"
+      "seasonTeam": "Team Vitality (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kyeahoo_2026",
@@ -1882,7 +2069,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp (2026)"
+      "seasonTeam": "Karmine Corp (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kamiloo_2026",
@@ -1892,7 +2080,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp Blue (2026)"
+      "seasonTeam": "Karmine Corp Blue (2026)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2026",
@@ -1902,7 +2091,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2026)"
+      "seasonTeam": "G2 Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jojopyun_2026",
@@ -1912,7 +2102,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Movistar KOI (2026)"
+      "seasonTeam": "Movistar KOI (2026)",
+      "worldsWins": 0
     },
     {
       "id": "heru_2026",
@@ -1922,7 +2113,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "care_2026",
@@ -1932,7 +2124,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2026)"
+      "seasonTeam": "Ninjas in Pyjamas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "quid_2026",
@@ -1942,7 +2135,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2026)"
+      "seasonTeam": "Team Liquid (2026)",
+      "worldsWins": 0
     },
     {
       "id": "apa_2026",
@@ -1952,7 +2146,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2026)"
+      "seasonTeam": "Cloud9 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "callme_2026",
@@ -1962,7 +2157,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "darkwings_2026",
@@ -1972,7 +2168,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Sentinels (2026)"
+      "seasonTeam": "Sentinels (2026)",
+      "worldsWins": 0
     },
     {
       "id": "quad_2026",
@@ -1982,7 +2179,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2026)"
+      "seasonTeam": "FlyQuest (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zinie_2026",
@@ -1992,7 +2190,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Shopify Rebellion (2026)"
+      "seasonTeam": "Shopify Rebellion (2026)",
+      "worldsWins": 0
     },
     {
       "id": "saint_2026",
@@ -2002,7 +2201,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "palafox_2026",
@@ -2012,7 +2212,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tt_2026",
@@ -2022,7 +2223,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "seany_2026",
@@ -2032,7 +2234,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "peka_2026",
@@ -2042,7 +2245,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hustle_2026",
@@ -2052,7 +2256,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vin_2026",
@@ -2062,7 +2267,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "baymaxxx_2026",
@@ -2072,7 +2278,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "chika_2026",
@@ -2082,7 +2289,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "virgo_2026",
@@ -2092,7 +2300,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "loki_2026",
@@ -2102,7 +2311,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "renard_2026",
@@ -2112,7 +2322,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "daystar_2026",
@@ -2122,7 +2333,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "roger_2026",
@@ -2132,7 +2344,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "pretender_2026",
@@ -2142,7 +2355,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2026)"
+      "seasonTeam": "Frank Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xzz_2026",
@@ -2152,7 +2366,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SillySilly Gaming (2026)"
+      "seasonTeam": "SillySilly Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors k b_2026",
@@ -2162,7 +2377,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yuhe_2026",
@@ -2172,7 +2388,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "1116_2026",
@@ -2182,7 +2399,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Shadow Keepers Esports (2026)"
+      "seasonTeam": "Shadow Keepers Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zoey_2026",
@@ -2192,7 +2410,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gza chain1_2026",
@@ -2202,7 +2421,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "cid_2026",
@@ -2212,7 +2432,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bulukaka_2026",
@@ -2222,7 +2443,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nia_2026",
@@ -2232,7 +2454,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sinian_2026",
@@ -2242,7 +2465,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "giaqui_2026",
@@ -2252,7 +2476,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "aisyl_2026",
@@ -2262,7 +2487,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "npc_2026",
@@ -2272,7 +2498,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "emo_2026",
@@ -2282,7 +2509,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vin_2026",
@@ -2292,7 +2520,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "clyde_2026",
@@ -2302,7 +2531,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "mvka hy_2026",
@@ -2312,7 +2542,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hy_2026",
@@ -2322,7 +2553,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "chain1_2026",
@@ -2332,7 +2564,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -2344,7 +2577,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "aiming_2026",
@@ -2354,7 +2588,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "photic_2026",
@@ -2364,7 +2599,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "elk_2026",
@@ -2374,7 +2610,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "smash_2026",
@@ -2384,7 +2621,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 0
     },
     {
       "id": "teddy_2026",
@@ -2394,7 +2632,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gala_2026",
@@ -2404,7 +2643,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2026)"
+      "seasonTeam": "JD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jiaqi_2026",
@@ -2414,7 +2654,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hena_2026",
@@ -2424,7 +2665,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "shaoye_2026",
@@ -2434,7 +2676,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jiwoo_2026",
@@ -2444,7 +2687,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2026",
@@ -2454,7 +2698,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2026)"
+      "seasonTeam": "Gen.G (2026)",
+      "worldsWins": 1
     },
     {
       "id": "hope_2026",
@@ -2464,7 +2709,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2026)"
+      "seasonTeam": "Anyone's Legend (2026)",
+      "worldsWins": 0
     },
     {
       "id": "taeyoon_2026",
@@ -2474,7 +2720,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 0
     },
     {
       "id": "diable_2026",
@@ -2484,7 +2731,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "viper_2026",
@@ -2492,9 +2740,10 @@
       "team": "Bilibili Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Viper_profileicon.png",
       "years": "2026",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2026)"
+      "seasonTeam": "Bilibili Gaming (2026)",
+      "worldsWins": 1
     },
     {
       "id": "starry_2026",
@@ -2504,7 +2753,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "1xn_2026",
@@ -2514,7 +2764,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2026)"
+      "seasonTeam": "LNG Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "peyz_2026",
@@ -2524,7 +2775,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2026)"
+      "seasonTeam": "T1 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gumayusi_2026",
@@ -2534,7 +2786,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 3
     },
     {
       "id": "leave_2026",
@@ -2544,7 +2797,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "about_2026",
@@ -2554,7 +2808,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "upset_2026",
@@ -2564,7 +2819,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2026)"
+      "seasonTeam": "Fnatic (2026)",
+      "worldsWins": 0
     },
     {
       "id": "crownie_2026",
@@ -2574,7 +2830,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Los Ratones (2026)"
+      "seasonTeam": "Los Ratones (2026)",
+      "worldsWins": 0
     },
     {
       "id": "noah_2026",
@@ -2584,7 +2841,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "GiantX (2026)"
+      "seasonTeam": "GiantX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "paduck_2026",
@@ -2594,7 +2852,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ice_2026",
@@ -2604,7 +2863,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "samd_2026",
@@ -2614,7 +2874,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Natus Vincere (2026)"
+      "seasonTeam": "Natus Vincere (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jopa_2026",
@@ -2624,7 +2885,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2026)"
+      "seasonTeam": "SK Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "carzzy_2026",
@@ -2634,7 +2896,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2026)"
+      "seasonTeam": "Team Vitality (2026)",
+      "worldsWins": 0
     },
     {
       "id": "caliste_2026",
@@ -2644,7 +2907,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp (2026)"
+      "seasonTeam": "Karmine Corp (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hazel_2026",
@@ -2654,7 +2918,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp Blue (2026)"
+      "seasonTeam": "Karmine Corp Blue (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2026",
@@ -2664,7 +2929,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2026)"
+      "seasonTeam": "G2 Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "supa_2026",
@@ -2674,7 +2940,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Movistar KOI (2026)"
+      "seasonTeam": "Movistar KOI (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ryan3_2026",
@@ -2684,7 +2951,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "assum_2026",
@@ -2694,7 +2962,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2026)"
+      "seasonTeam": "Ninjas in Pyjamas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yeon_2026",
@@ -2704,7 +2973,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2026)"
+      "seasonTeam": "Team Liquid (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2026",
@@ -2714,7 +2984,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2026)"
+      "seasonTeam": "Cloud9 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "sajed_2026",
@@ -2724,7 +2995,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rahel_2026",
@@ -2734,7 +3006,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Sentinels (2026)"
+      "seasonTeam": "Sentinels (2026)",
+      "worldsWins": 0
     },
     {
       "id": "massu_2026",
@@ -2744,7 +3017,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2026)"
+      "seasonTeam": "FlyQuest (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bvoy_2026",
@@ -2754,7 +3028,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Shopify Rebellion (2026)"
+      "seasonTeam": "Shopify Rebellion (2026)",
+      "worldsWins": 0
     },
     {
       "id": "berserker_2026",
@@ -2764,7 +3039,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "mobility_2026",
@@ -2774,7 +3050,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "fbi_2026",
@@ -2784,7 +3061,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "j1n5_2026",
@@ -2794,7 +3072,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "harky_2026",
@@ -2804,7 +3083,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "okyu_2026",
@@ -2814,7 +3094,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "arrietty_2026",
@@ -2824,7 +3105,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hưng two_2026",
@@ -2834,7 +3116,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "nuna_2026",
@@ -2844,7 +3127,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "aisyl_2026",
@@ -2854,7 +3138,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vietthanh_2026",
@@ -2864,7 +3149,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jiaqi_2026",
@@ -2874,7 +3160,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jackeylove_2026",
@@ -2884,7 +3171,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 1
     },
     {
       "id": "lazyfeel_2026",
@@ -2894,7 +3182,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ahn_2026",
@@ -2904,7 +3193,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "photic_2026",
@@ -2914,7 +3204,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "x1aochiao_2026",
@@ -2924,7 +3215,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "mnm_2026",
@@ -2934,7 +3226,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2026)"
+      "seasonTeam": "Frank Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hermes_2026",
@@ -2944,7 +3237,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SillySilly Gaming (2026)"
+      "seasonTeam": "SillySilly Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors micinb_2026",
@@ -2954,7 +3248,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tracy_2026",
@@ -2964,7 +3259,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "prage_2026",
@@ -2974,7 +3270,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Shadow Keepers Esports (2026)"
+      "seasonTeam": "Shadow Keepers Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lucifer_2026",
@@ -2984,7 +3281,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gza 0131_2026",
@@ -2994,7 +3292,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "dotmm_2026",
@@ -3004,7 +3303,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     },
     {
       "id": "maddogg9_2026",
@@ -3014,7 +3314,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "slayer_2026",
@@ -3024,7 +3325,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "diable_2026",
@@ -3034,7 +3336,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 0
     },
     {
       "id": "taeyoon_2026",
@@ -3044,7 +3347,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "charlington_2026",
@@ -3054,7 +3358,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "aomine_2026",
@@ -3064,7 +3369,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "enosh_2026",
@@ -3074,7 +3380,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "skyk_2026",
@@ -3084,7 +3391,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "dino yashiro2_2026",
@@ -3094,7 +3402,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vit_2026",
@@ -3104,7 +3413,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "fenrir_2026",
@@ -3114,7 +3424,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "easylove_2026",
@@ -3124,7 +3435,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -3136,7 +3448,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "pollu_2026",
@@ -3146,7 +3459,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ghost_2026",
@@ -3156,7 +3470,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jwei_2026",
@@ -3166,7 +3481,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "erha_2026",
@@ -3176,7 +3492,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "career_2026",
@@ -3186,7 +3503,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Dplus Kia (2026)"
+      "seasonTeam": "Dplus Kia (2026)",
+      "worldsWins": 0
     },
     {
       "id": "namgung_2026",
@@ -3196,7 +3514,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "HANJIN BRION (2026)"
+      "seasonTeam": "HANJIN BRION (2026)",
+      "worldsWins": 0
     },
     {
       "id": "vampire_2026",
@@ -3206,7 +3525,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2026)"
+      "seasonTeam": "JD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "fengyue_2026",
@@ -3216,7 +3536,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Top Esports (2026)"
+      "seasonTeam": "Top Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoxia_2026",
@@ -3226,7 +3547,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ultra Prime (2026)"
+      "seasonTeam": "Ultra Prime (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ycx_2026",
@@ -3236,7 +3558,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2026)"
+      "seasonTeam": "LGD Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "andil_2026",
@@ -3246,7 +3569,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kiwoom DRX (2026)"
+      "seasonTeam": "Kiwoom DRX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "duro_2026",
@@ -3256,7 +3580,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Gen.G (2026)"
+      "seasonTeam": "Gen.G (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kael_2026",
@@ -3266,7 +3591,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Anyone's Legend (2026)"
+      "seasonTeam": "Anyone's Legend (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lehends_2026",
@@ -3276,7 +3602,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kellin_2026",
@@ -3286,7 +3613,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "BNK FEARX (2026)"
+      "seasonTeam": "BNK FEARX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "on_2026",
@@ -3296,7 +3624,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Bilibili Gaming (2026)"
+      "seasonTeam": "Bilibili Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "moham_2026",
@@ -3306,7 +3635,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2026)"
+      "seasonTeam": "Oh My God (2026)",
+      "worldsWins": 0
     },
     {
       "id": "missing_2026",
@@ -3316,7 +3646,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LNG Esports (2026)"
+      "seasonTeam": "LNG Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "keria_2026",
@@ -3326,7 +3657,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "T1 (2026)"
+      "seasonTeam": "T1 (2026)",
+      "worldsWins": 3
     },
     {
       "id": "delight_2026",
@@ -3336,7 +3668,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "parukia_2026",
@@ -3346,7 +3679,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yaoyao_2026",
@@ -3356,7 +3690,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lospa_2026",
@@ -3366,7 +3701,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Fnatic (2026)"
+      "seasonTeam": "Fnatic (2026)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2026",
@@ -3376,7 +3712,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Los Ratones (2026)"
+      "seasonTeam": "Los Ratones (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jun_2026",
@@ -3386,7 +3723,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "GiantX (2026)"
+      "seasonTeam": "GiantX (2026)",
+      "worldsWins": 0
     },
     {
       "id": "trymbi_2026",
@@ -3396,7 +3734,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Shifters (2026)"
+      "seasonTeam": "Shifters (2026)",
+      "worldsWins": 0
     },
     {
       "id": "stend_2026",
@@ -3406,7 +3745,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "parus_2026",
@@ -3416,7 +3756,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Natus Vincere (2026)"
+      "seasonTeam": "Natus Vincere (2026)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2026",
@@ -3426,7 +3767,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "SK Gaming (2026)"
+      "seasonTeam": "SK Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "fleshy_2026",
@@ -3436,7 +3778,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Vitality (2026)"
+      "seasonTeam": "Team Vitality (2026)",
+      "worldsWins": 0
     },
     {
       "id": "busio_2026",
@@ -3446,7 +3789,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp (2026)"
+      "seasonTeam": "Karmine Corp (2026)",
+      "worldsWins": 0
     },
     {
       "id": "prime_2026",
@@ -3456,7 +3800,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Karmine Corp Blue (2026)"
+      "seasonTeam": "Karmine Corp Blue (2026)",
+      "worldsWins": 0
     },
     {
       "id": "labrov_2026",
@@ -3466,7 +3811,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "G2 Esports (2026)"
+      "seasonTeam": "G2 Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "alvaro_2026",
@@ -3476,7 +3822,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Movistar KOI (2026)"
+      "seasonTeam": "Movistar KOI (2026)",
+      "worldsWins": 0
     },
     {
       "id": "feather_2026",
@@ -3486,7 +3833,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "ThunderTalk Gaming (2026)"
+      "seasonTeam": "ThunderTalk Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zhuo_2026",
@@ -3496,7 +3844,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Ninjas in Pyjamas (2026)"
+      "seasonTeam": "Ninjas in Pyjamas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "peter_2026",
@@ -3506,7 +3855,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2026",
@@ -3514,9 +3864,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/CoreJJ_profileicon.png",
       "years": "2026",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Team Liquid (2026)"
+      "seasonTeam": "Team Liquid (2026)",
+      "worldsWins": 1
     },
     {
       "id": "vulcan_2026",
@@ -3526,7 +3877,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Cloud9 (2026)"
+      "seasonTeam": "Cloud9 (2026)",
+      "worldsWins": 0
     },
     {
       "id": "lyonz_2026",
@@ -3536,7 +3888,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Disguised (2026)"
+      "seasonTeam": "Disguised (2026)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2026",
@@ -3546,7 +3899,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Sentinels (2026)"
+      "seasonTeam": "Sentinels (2026)",
+      "worldsWins": 0
     },
     {
       "id": "cryogen_2026",
@@ -3556,7 +3910,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "FlyQuest (2026)"
+      "seasonTeam": "FlyQuest (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ceos_2026",
@@ -3566,7 +3921,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Shopify Rebellion (2026)"
+      "seasonTeam": "Shopify Rebellion (2026)",
+      "worldsWins": 0
     },
     {
       "id": "isles_2026",
@@ -3576,7 +3932,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "LYON (2026)"
+      "seasonTeam": "LYON (2026)",
+      "worldsWins": 0
     },
     {
       "id": "breezy_2026",
@@ -3586,7 +3943,8 @@
       "years": "2026",
       "nationality": "US",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2026",
@@ -3594,9 +3952,10 @@
       "team": "Dignitas",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ignar_profileicon.png",
       "years": "2026",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "LCS",
-      "seasonTeam": "Dignitas (2026)"
+      "seasonTeam": "Dignitas (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ldk_2026",
@@ -3606,7 +3965,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "siuloong_2026",
@@ -3616,7 +3976,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "hieu3_2026",
@@ -3626,7 +3987,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "yume_2026",
@@ -3636,7 +3998,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "blue_2026",
@@ -3646,7 +4009,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Ngựa Hí Esports (2026)"
+      "seasonTeam": "Ngựa Hí Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "9g dara67_2026",
@@ -3656,7 +4020,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "callian_2026",
@@ -3666,7 +4031,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "MVK Esports Academy (2026)"
+      "seasonTeam": "MVK Esports Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "dara2_2026",
@@ -3676,7 +4042,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "luther_2026",
@@ -3686,7 +4053,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kairi_2026",
@@ -3696,7 +4064,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Warriors (2026)"
+      "seasonTeam": "Saigon Warriors (2026)",
+      "worldsWins": 0
     },
     {
       "id": "way_2026",
@@ -3706,7 +4075,8 @@
       "years": "2026",
       "nationality": "EU",
       "league": "LEC",
-      "seasonTeam": "Team Heretics (2026)"
+      "seasonTeam": "Team Heretics (2026)",
+      "worldsWins": 0
     },
     {
       "id": "effort_2026",
@@ -3716,7 +4086,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2026)"
+      "seasonTeam": "KT Rolster (2026)",
+      "worldsWins": 0
     },
     {
       "id": "meiko_2026",
@@ -3726,7 +4097,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2026)"
+      "seasonTeam": "Invictus Gaming (2026)",
+      "worldsWins": 1
     },
     {
       "id": "hang_2026",
@@ -3736,7 +4108,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "erha_2026",
@@ -3746,7 +4119,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2026)"
+      "seasonTeam": "Team WE (2026)",
+      "worldsWins": 0
     },
     {
       "id": "jwei_2026",
@@ -3756,7 +4130,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2026)"
+      "seasonTeam": "EDward Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "quantum_2026",
@@ -3766,7 +4141,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "DN SOOPers (2026)"
+      "seasonTeam": "DN SOOPers (2026)",
+      "worldsWins": 0
     },
     {
       "id": "xjb acheron_2026",
@@ -3776,7 +4152,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "kingpo54_2026",
@@ -3786,7 +4163,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Frank Esports (2026)"
+      "seasonTeam": "Frank Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "en_2026",
@@ -3796,7 +4174,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "SillySilly Gaming (2026)"
+      "seasonTeam": "SillySilly Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors redamntion_2026",
@@ -3806,7 +4185,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "acheron_2026",
@@ -3816,7 +4196,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Xu Ji Basalt (2026)"
+      "seasonTeam": "Xu Ji Basalt (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ors foreverlim_2026",
@@ -3826,7 +4207,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "One Round Specialists (2026)"
+      "seasonTeam": "One Round Specialists (2026)",
+      "worldsWins": 0
     },
     {
       "id": "2274_2026",
@@ -3836,7 +4218,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "ashlomailma_2026",
@@ -3846,7 +4229,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Shadow Keepers Esports (2026)"
+      "seasonTeam": "Shadow Keepers Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "mese_2026",
@@ -3856,7 +4240,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Equinox Core (2026)"
+      "seasonTeam": "Equinox Core (2026)",
+      "worldsWins": 0
     },
     {
       "id": "gza peanutcoco_2026",
@@ -3866,7 +4251,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Ground Zero Academy (2026)"
+      "seasonTeam": "Ground Zero Academy (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tns_2026",
@@ -3876,7 +4262,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     },
     {
       "id": "keres_2026",
@@ -3886,7 +4273,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "thehank_2026",
@@ -3896,7 +4284,8 @@
       "years": "2026",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Weibo Gaming (2026)"
+      "seasonTeam": "Weibo Gaming (2026)",
+      "worldsWins": 0
     },
     {
       "id": "pleata_2026",
@@ -3906,7 +4295,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Nongshim RedForce (2026)"
+      "seasonTeam": "Nongshim RedForce (2026)",
+      "worldsWins": 0
     },
     {
       "id": "zin_2026",
@@ -3916,7 +4306,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "ZEN Esports (2026)"
+      "seasonTeam": "ZEN Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "elio_2026",
@@ -3926,7 +4317,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "Saigon Dino (2026)"
+      "seasonTeam": "Saigon Dino (2026)",
+      "worldsWins": 0
     },
     {
       "id": "shogun_2026",
@@ -3936,7 +4328,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "SN CyberCore Esports (2026)"
+      "seasonTeam": "SN CyberCore Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "tahahy_2026",
@@ -3946,7 +4339,8 @@
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
-      "seasonTeam": "9Gaming Esports (2026)"
+      "seasonTeam": "9Gaming Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "bluffing_2026",
@@ -3956,7 +4350,8 @@
       "years": "2026",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Hanwha Life Esports (2026)"
+      "seasonTeam": "Hanwha Life Esports (2026)",
+      "worldsWins": 0
     },
     {
       "id": "anks_2026",
@@ -3966,7 +4361,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "Viper Night Raider (2026)"
+      "seasonTeam": "Viper Night Raider (2026)",
+      "worldsWins": 0
     },
     {
       "id": "feng55_2026",
@@ -3976,7 +4372,8 @@
       "years": "2026",
       "nationality": "TW",
       "league": "PCS",
-      "seasonTeam": "wangting (2026)"
+      "seasonTeam": "wangting (2026)",
+      "worldsWins": 0
     }
   ]
 }

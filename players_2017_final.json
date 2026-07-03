@@ -8,7 +8,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "smeb_2017",
@@ -18,7 +19,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2017)"
+      "seasonTeam": "KT Rolster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "expession_2017",
@@ -28,7 +30,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cuvee_2017",
@@ -38,7 +41,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "ikssu_2017",
@@ -48,7 +52,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "huni_2017",
@@ -58,7 +63,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "add_2017",
@@ -68,7 +74,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2017)"
+      "seasonTeam": "MVP (2017)",
+      "worldsWins": 0
     },
     {
       "id": "crazy_2017",
@@ -78,7 +85,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "marin_2017",
@@ -88,7 +96,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 1
     },
     {
       "id": "amazingj_2017",
@@ -98,7 +107,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "letme_2017",
@@ -108,7 +118,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shy_2017",
@@ -118,7 +129,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "roach_2017",
@@ -128,7 +140,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "duke_2017",
@@ -136,9 +149,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Duke_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 1
     },
     {
       "id": "xiyang_2017",
@@ -148,7 +162,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "satorius_2017",
@@ -158,7 +173,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "odoamne_2017",
@@ -168,7 +184,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2017)"
+      "seasonTeam": "H2k-Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "expect_2017",
@@ -176,9 +193,10 @@
       "team": "G2 Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Expect_profileicon.png",
       "years": "2017",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "soaz_2017",
@@ -188,7 +206,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "957_2017",
@@ -198,7 +217,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "v_2017",
@@ -208,7 +228,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mouse_2017",
@@ -218,7 +239,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jotaro_2017",
@@ -228,7 +250,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "alphari_2017",
@@ -238,7 +261,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fjoompbun_2017",
@@ -248,7 +272,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2017",
@@ -258,7 +283,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "vizicsacsi_2017",
@@ -268,7 +294,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2017)"
+      "seasonTeam": "Unicorns of Love (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hauntzer_2017",
@@ -278,7 +305,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "impact_2017",
@@ -286,9 +314,10 @@
       "team": "Cloud9",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Impact_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 1
     },
     {
       "id": "looper_2017",
@@ -296,9 +325,10 @@
       "team": "Echo Fox",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Looper_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 1
     },
     {
       "id": "dshao_2017",
@@ -308,7 +338,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "funny_2017",
@@ -318,7 +349,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "flandre_2017",
@@ -328,7 +360,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "phaxi_2017",
@@ -338,7 +371,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2017",
@@ -348,7 +382,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "darshan_2017",
@@ -358,7 +393,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lourlo_2017",
@@ -368,7 +404,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "seraph_2017",
@@ -378,7 +415,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "balis_2017",
@@ -388,7 +426,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ssumday_2017",
@@ -396,9 +435,10 @@
       "team": "Dignitas",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ssumday_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "flame_2017",
@@ -406,9 +446,10 @@
       "team": "Immortals",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Flame_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kabe_2017",
@@ -418,7 +459,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gimgoon_2017",
@@ -426,9 +468,10 @@
       "team": "Game Talents",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/GimGoon_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "loong_2017",
@@ -438,7 +481,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "korol_2017",
@@ -448,7 +492,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ray_2017",
@@ -456,9 +501,10 @@
       "team": "Cloud9",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Ray_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sohwan_2017",
@@ -468,7 +514,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2017",
@@ -478,7 +525,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "morning_2017",
@@ -488,7 +536,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "2188_2017",
@@ -498,7 +547,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "3z_2017",
@@ -508,7 +558,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lofs_2017",
@@ -518,7 +569,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ziv_2017",
@@ -528,7 +580,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nexus_2017",
@@ -538,7 +591,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mmd_2017",
@@ -548,7 +602,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rlun_2017",
@@ -558,7 +613,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rins_2017",
@@ -568,7 +624,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "profit_2017",
@@ -578,7 +635,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "skye_2017",
@@ -588,7 +646,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rins_2017",
@@ -598,7 +657,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jinoo_2017",
@@ -608,7 +668,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "licorice_2017",
@@ -618,7 +679,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "solo_2017",
@@ -628,7 +690,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "part_2017",
@@ -638,7 +701,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kikis_2017",
@@ -648,7 +712,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic Academy (2017)"
+      "seasonTeam": "Fnatic Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bobo_2017",
@@ -658,7 +723,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jisu_2017",
@@ -668,7 +734,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Academy (2017)"
+      "seasonTeam": "Misfits Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "humble_2017",
@@ -678,7 +745,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pk_2017",
@@ -688,7 +756,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mist_2017",
@@ -698,7 +767,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Yetti (2017)"
+      "seasonTeam": "Team Yetti (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lies_2017",
@@ -708,7 +778,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "clowz_2017",
@@ -718,7 +789,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Young Miracles (2017)"
+      "seasonTeam": "Young Miracles (2017)",
+      "worldsWins": 0
     },
     {
       "id": "helper_2017",
@@ -728,7 +800,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "soul_2017",
@@ -738,7 +811,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "CJ Entus (2017)"
+      "seasonTeam": "CJ Entus (2017)",
+      "worldsWins": 0
     },
     {
       "id": "khan_2017",
@@ -748,7 +822,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "send0o_2017",
@@ -758,7 +833,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nexus_2017",
@@ -768,7 +844,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jisu_2017",
@@ -778,7 +855,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "profit_2017",
@@ -788,7 +866,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Ninjas in Pyjamas (2017)"
+      "seasonTeam": "Ninjas in Pyjamas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maplesnow_2017",
@@ -798,7 +877,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kabe_2017",
@@ -808,7 +888,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "aodi_2017",
@@ -818,7 +899,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "langx_2017",
@@ -828,7 +910,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rascal_2017",
@@ -838,7 +921,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "moonblack_2017",
@@ -848,7 +932,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "untara_2017",
@@ -858,7 +943,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "riris_2017",
@@ -868,7 +954,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "theshy_2017",
@@ -876,9 +963,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/TheShy_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "korol_2017",
@@ -888,7 +976,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kikis_2017",
@@ -898,7 +987,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "moyu_2017",
@@ -908,7 +998,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kiin_2017",
@@ -918,7 +1009,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "brandini_2017",
@@ -928,7 +1020,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rest_2017",
@@ -938,7 +1031,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shupian_2017",
@@ -948,7 +1042,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "allorim_2017",
@@ -958,7 +1053,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lz_2017",
@@ -968,7 +1064,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hjarnan_2017",
@@ -978,7 +1075,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2017",
@@ -988,7 +1086,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "betsy_2017",
@@ -998,7 +1097,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2017",
@@ -1008,7 +1108,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kobbe_2017",
@@ -1018,7 +1119,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2017",
@@ -1028,7 +1130,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jaeger_2017",
@@ -1038,7 +1141,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2017)"
+      "seasonTeam": "FC Schalke 04 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ruin_2017",
@@ -1048,7 +1152,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bobo_2017",
@@ -1058,7 +1163,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "liang_2017",
@@ -1068,7 +1174,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq Fighter (2017)"
+      "seasonTeam": "ahq Fighter (2017)",
+      "worldsWins": 0
     }
   ],
   "jungle": [
@@ -1080,7 +1187,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "score_2017",
@@ -1090,7 +1198,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2017)"
+      "seasonTeam": "KT Rolster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "crash_2017",
@@ -1100,7 +1209,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ambition_2017",
@@ -1110,7 +1220,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "haru_2017",
@@ -1120,7 +1231,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "umti_2017",
@@ -1130,7 +1242,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "peanut_2017",
@@ -1140,7 +1253,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "beyond_2017",
@@ -1150,7 +1264,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2017)"
+      "seasonTeam": "MVP (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bless_2017",
@@ -1160,7 +1275,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "spirit_2017",
@@ -1170,7 +1286,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ben4_2017",
@@ -1180,7 +1297,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mlxg_2017",
@@ -1190,7 +1308,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "punch_2017",
@@ -1200,7 +1319,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kid_2017",
@@ -1210,7 +1330,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "juejue_2017",
@@ -1220,7 +1341,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wisdom_2017",
@@ -1230,7 +1352,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jankos_2017",
@@ -1240,7 +1363,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2017)"
+      "seasonTeam": "H2k-Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "trick_2017",
@@ -1248,9 +1372,10 @@
       "team": "G2 Esports",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Trick_profileicon.png",
       "years": "2017",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "amazing_2017",
@@ -1260,7 +1385,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "condi_2017",
@@ -1270,7 +1396,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "swift_2017",
@@ -1280,7 +1407,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fireloli_2017",
@@ -1290,7 +1418,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bengi_2017",
@@ -1298,9 +1427,10 @@
       "team": "Vici Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Bengi_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 3
     },
     {
       "id": "kakao_2017",
@@ -1310,7 +1440,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "memento_2017",
@@ -1320,7 +1451,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "djoko_2017",
@@ -1330,7 +1462,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xerxe_2017",
@@ -1340,7 +1473,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2017)"
+      "seasonTeam": "Unicorns of Love (2017)",
+      "worldsWins": 0
     },
     {
       "id": "svenskeren_2017",
@@ -1350,7 +1484,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "contractz_2017",
@@ -1360,7 +1495,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "akaadian_2017",
@@ -1370,7 +1506,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "inori_2017",
@@ -1380,7 +1517,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "eimy_2017",
@@ -1390,7 +1528,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sofm_2017",
@@ -1400,7 +1539,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "baybay_2017",
@@ -1410,7 +1550,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maxlore_2017",
@@ -1420,7 +1561,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kold_2017",
@@ -1430,7 +1572,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xmithie_2017",
@@ -1440,7 +1583,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "reignover_2017",
@@ -1448,9 +1592,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Reignover_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ninja_2017",
@@ -1460,7 +1605,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "galen_2017",
@@ -1470,7 +1616,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chaser_2017",
@@ -1480,7 +1627,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2017",
@@ -1490,7 +1638,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "clid_2017",
@@ -1500,7 +1649,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wushuang_2017",
@@ -1510,7 +1660,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "blank_2017",
@@ -1520,7 +1671,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 1
     },
     {
       "id": "lira_2017",
@@ -1530,7 +1682,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mowgli_2017",
@@ -1540,7 +1693,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gemini_2017",
@@ -1550,7 +1704,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "achie_2017",
@@ -1560,7 +1715,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wind_2017",
@@ -1570,7 +1726,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "taizan_2017",
@@ -1580,7 +1737,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "broxah_2017",
@@ -1590,7 +1748,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "world6_2017",
@@ -1600,7 +1759,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "k_2017",
@@ -1610,7 +1770,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mountain_2017",
@@ -1620,7 +1781,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wulala_2017",
@@ -1630,7 +1792,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "1ntruder_2017",
@@ -1640,7 +1803,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kawa_2017",
@@ -1650,7 +1814,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "aqiu_2017",
@@ -1660,7 +1825,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "karsa_2017",
@@ -1670,7 +1836,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jcain_2017",
@@ -1680,7 +1847,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zzr_2017",
@@ -1690,7 +1858,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "meteos_2017",
@@ -1700,7 +1869,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xinyi_2017",
@@ -1710,7 +1880,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mint_2017",
@@ -1720,7 +1891,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "breaker_2017",
@@ -1730,7 +1902,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mightybear_2017",
@@ -1740,7 +1913,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "flawless_2017",
@@ -1750,7 +1924,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cinkrof_2017",
@@ -1760,7 +1935,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "epic_2017",
@@ -1770,7 +1946,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "papillon_2017",
@@ -1780,7 +1957,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "raise_2017",
@@ -1790,7 +1968,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "refra1n_2017",
@@ -1800,7 +1979,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "clearlove_2017",
@@ -1810,7 +1990,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "y1han_2017",
@@ -1820,7 +2001,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gilius_2017",
@@ -1830,7 +2012,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "santorin_2017",
@@ -1840,7 +2023,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "amazing_2017",
@@ -1850,7 +2034,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic Academy (2017)"
+      "seasonTeam": "Fnatic Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pridestalkr_2017",
@@ -1860,7 +2045,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Academy (2017)"
+      "seasonTeam": "Misfits Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rio_2017",
@@ -1870,7 +2056,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "laba_2017",
@@ -1880,7 +2067,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jjun_2017",
@@ -1890,7 +2078,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Yetti (2017)"
+      "seasonTeam": "Team Yetti (2017)",
+      "worldsWins": 0
     },
     {
       "id": "karin_2017",
@@ -1900,7 +2089,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ning_2017",
@@ -1910,7 +2100,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Young Miracles (2017)"
+      "seasonTeam": "Young Miracles (2017)",
+      "worldsWins": 0
     },
     {
       "id": "malrang_2017",
@@ -1920,7 +2111,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "winged_2017",
@@ -1930,7 +2122,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "CJ Entus (2017)"
+      "seasonTeam": "CJ Entus (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cuzz_2017",
@@ -1940,7 +2133,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maxlore_2017",
@@ -1950,7 +2144,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pridestalkr_2017",
@@ -1960,7 +2155,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "loulex_2017",
@@ -1970,7 +2166,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2017",
@@ -1980,7 +2177,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xmithie_2017",
@@ -1990,7 +2188,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "alex_2017",
@@ -2000,7 +2199,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lamabear_2017",
@@ -2010,7 +2210,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shook_2017",
@@ -2020,7 +2221,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Ninjas in Pyjamas (2017)"
+      "seasonTeam": "Ninjas in Pyjamas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gemini_2017",
@@ -2030,7 +2232,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wulala_2017",
@@ -2040,7 +2243,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "clid_2017",
@@ -2050,7 +2254,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xinyi_2017",
@@ -2060,7 +2265,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ning_2017",
@@ -2070,7 +2276,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "avoidless_2017",
@@ -2080,7 +2287,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "once_2017",
@@ -2090,7 +2298,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jiekou_2017",
@@ -2100,7 +2309,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "armao_2017",
@@ -2110,7 +2320,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shrimp_2017",
@@ -2120,7 +2331,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "h4cker_2017",
@@ -2130,7 +2342,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "refra1n_2017",
@@ -2140,7 +2353,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mikeyeung_2017",
@@ -2150,7 +2364,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hachani_2017",
@@ -2160,7 +2375,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "amazing_2017",
@@ -2170,7 +2386,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "inori_2017",
@@ -2180,7 +2397,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wisdomz_2017",
@@ -2190,7 +2408,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fishball_2017",
@@ -2200,7 +2419,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tbq_2017",
@@ -2210,7 +2430,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "omargod_2017",
@@ -2220,7 +2441,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dardoch_2017",
@@ -2230,7 +2452,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "godkwai_2017",
@@ -2240,7 +2463,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dandy_2017",
@@ -2248,9 +2472,10 @@
       "team": "eUnited",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/DanDy_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 1
     },
     {
       "id": "wadid_2017",
@@ -2260,7 +2485,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2017",
@@ -2270,7 +2496,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "phaxi_2017",
@@ -2280,7 +2507,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2017",
@@ -2290,7 +2518,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sencux_2017",
@@ -2300,7 +2529,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wunder_2017",
@@ -2310,7 +2540,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2017",
@@ -2320,7 +2551,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "memento_2017",
@@ -2330,7 +2562,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2017)"
+      "seasonTeam": "FC Schalke 04 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gilius_2017",
@@ -2340,7 +2573,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hanxuan_2017",
@@ -2350,7 +2584,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gengar_2017",
@@ -2360,7 +2595,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kawa_2017",
@@ -2370,7 +2606,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "benny_2017",
@@ -2380,7 +2617,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq Fighter (2017)"
+      "seasonTeam": "ahq Fighter (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bon0_2017",
@@ -2390,7 +2628,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     }
   ],
   "mid": [
@@ -2402,7 +2641,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pawn_2017",
@@ -2412,7 +2652,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2017)"
+      "seasonTeam": "KT Rolster (2017)",
+      "worldsWins": 1
     },
     {
       "id": "fly_2017",
@@ -2422,7 +2663,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "crown_2017",
@@ -2432,7 +2674,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "kuzan_2017",
@@ -2442,7 +2685,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "faker_2017",
@@ -2452,7 +2696,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 3
     },
     {
       "id": "ian_2017",
@@ -2462,7 +2707,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2017)"
+      "seasonTeam": "MVP (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tempt_2017",
@@ -2472,7 +2718,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kuro_2017",
@@ -2482,7 +2729,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "athena_2017",
@@ -2492,7 +2740,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xiaohu_2017",
@@ -2502,7 +2751,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "edge_2017",
@@ -2512,7 +2762,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rookie_2017",
@@ -2520,9 +2771,10 @@
       "team": "Invictus Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Rookie_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "icon_2017",
@@ -2532,7 +2784,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "naehyun_2017",
@@ -2542,7 +2795,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "febiven_2017",
@@ -2552,7 +2806,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2017)"
+      "seasonTeam": "H2k-Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "perkz_2017",
@@ -2562,7 +2817,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "caps_2017",
@@ -2572,7 +2828,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xiye_2017",
@@ -2582,7 +2839,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cool_2017",
@@ -2592,7 +2850,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "scout_2017",
@@ -2602,7 +2861,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "easyhoon_2017",
@@ -2612,7 +2872,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 1
     },
     {
       "id": "powerofevil_2017",
@@ -2622,7 +2883,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "night_2017",
@@ -2632,7 +2894,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2017",
@@ -2642,7 +2905,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "exile_2017",
@@ -2652,7 +2916,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2017)"
+      "seasonTeam": "Unicorns of Love (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bjergsen_2017",
@@ -2662,7 +2927,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jensen_2017",
@@ -2672,7 +2938,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "froggen_2017",
@@ -2682,7 +2949,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ryu_2017",
@@ -2692,7 +2960,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "godv_2017",
@@ -2702,7 +2971,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tank_2017",
@@ -2712,7 +2982,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zz1tai_2017",
@@ -2722,7 +2993,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "betsy_2017",
@@ -2732,7 +3004,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sencux_2017",
@@ -2742,7 +3015,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "huhi_2017",
@@ -2752,7 +3026,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "goldenglue_2017",
@@ -2762,7 +3037,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "alex ich_2017",
@@ -2772,7 +3048,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hai_2017",
@@ -2782,7 +3059,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "keane_2017",
@@ -2792,7 +3070,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pobelter_2017",
@@ -2802,7 +3081,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "doinb_2017",
@@ -2810,9 +3090,10 @@
       "team": "QG Reapers",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "grail_2017",
@@ -2822,7 +3103,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ninja_2017",
@@ -2832,7 +3114,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gear_2017",
@@ -2842,7 +3125,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fofo_2017",
@@ -2852,7 +3136,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2017",
@@ -2862,7 +3147,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "apex_2017",
@@ -2872,7 +3158,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gbm_2017",
@@ -2882,7 +3169,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "siusiu_2017",
@@ -2892,7 +3180,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chawy_2017",
@@ -2902,7 +3191,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "coco_2017",
@@ -2912,7 +3202,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chingz_2017",
@@ -2922,7 +3213,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maple_2017",
@@ -2932,7 +3224,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kuku_2017",
@@ -2942,7 +3235,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2017",
@@ -2952,7 +3246,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "piglet_2017",
@@ -2962,7 +3257,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shengbai_2017",
@@ -2972,7 +3268,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "peng_2017",
@@ -2982,7 +3279,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "juejue_2017",
@@ -2992,7 +3290,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jinoo_2017",
@@ -3002,7 +3301,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "siusiu_2017",
@@ -3012,7 +3312,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2017",
@@ -3022,7 +3323,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fox_2017",
@@ -3032,7 +3334,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fenix_2017",
@@ -3042,7 +3345,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nisqy_2017",
@@ -3052,7 +3356,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic Academy (2017)"
+      "seasonTeam": "Fnatic Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cozq_2017",
@@ -3062,7 +3367,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Academy (2017)"
+      "seasonTeam": "Misfits Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "westdoor_2017",
@@ -3072,7 +3378,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wuji_2017",
@@ -3082,7 +3389,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "joy_2017",
@@ -3092,7 +3400,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Yetti (2017)"
+      "seasonTeam": "Team Yetti (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ggoong_2017",
@@ -3102,7 +3411,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "knight_2017",
@@ -3112,7 +3422,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Young Miracles (2017)"
+      "seasonTeam": "Young Miracles (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cepted_2017",
@@ -3122,7 +3433,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "candy_2017",
@@ -3132,7 +3444,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "CJ Entus (2017)"
+      "seasonTeam": "CJ Entus (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bdd_2017",
@@ -3142,7 +3455,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "blanc_2017",
@@ -3152,7 +3466,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cozq_2017",
@@ -3162,7 +3477,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nagne_2017",
@@ -3172,7 +3488,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Ninjas in Pyjamas (2017)"
+      "seasonTeam": "Ninjas in Pyjamas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pirean_2017",
@@ -3182,7 +3499,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mission_2017",
@@ -3192,7 +3510,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "slooshi_2017",
@@ -3202,7 +3521,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wind_2017",
@@ -3212,7 +3532,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "doinb_2017",
@@ -3220,9 +3541,10 @@
       "team": "JD Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Doinb_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cool_2017",
@@ -3232,7 +3554,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dian_2017",
@@ -3242,7 +3565,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "corn_2017",
@@ -3252,7 +3576,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fenfen_2017",
@@ -3262,7 +3587,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kuku_2017",
@@ -3272,7 +3598,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nisqy_2017",
@@ -3282,7 +3609,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lava_2017",
@@ -3292,7 +3620,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "awei_2017",
@@ -3302,7 +3631,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "damonte_2017",
@@ -3312,7 +3642,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "guoguo_2017",
@@ -3322,7 +3653,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pirean_2017",
@@ -3332,7 +3664,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "crow_2017",
@@ -3342,7 +3675,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wulala_2017",
@@ -3352,7 +3686,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mickey_2017",
@@ -3362,7 +3697,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gbm_2017",
@@ -3372,7 +3708,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fly_2017",
@@ -3380,9 +3717,10 @@
       "team": "Gold Coin United",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Fly_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "phaxi_2017",
@@ -3392,7 +3730,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hjarnan_2017",
@@ -3402,7 +3741,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "djoko_2017",
@@ -3412,7 +3752,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2017",
@@ -3422,7 +3763,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2017",
@@ -3432,7 +3774,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "caedrel_2017",
@@ -3442,7 +3785,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2017)"
+      "seasonTeam": "FC Schalke 04 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jiizuke_2017",
@@ -3452,7 +3796,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "siusiu_2017",
@@ -3462,7 +3807,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "uniboy_2017",
@@ -3472,7 +3818,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq Fighter (2017)"
+      "seasonTeam": "ahq Fighter (2017)",
+      "worldsWins": 0
     }
   ],
   "adc": [
@@ -3484,7 +3831,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "deft_2017",
@@ -3494,7 +3842,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2017)"
+      "seasonTeam": "KT Rolster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pray_2017",
@@ -3504,7 +3853,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ruler_2017",
@@ -3514,7 +3864,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "teddy_2017",
@@ -3524,7 +3875,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bang_2017",
@@ -3534,7 +3886,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 2
     },
     {
       "id": "maha_2017",
@@ -3544,7 +3897,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2017)"
+      "seasonTeam": "MVP (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ghost_2017",
@@ -3554,7 +3908,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kramer_2017",
@@ -3564,7 +3919,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jinjiao_2017",
@@ -3574,7 +3930,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "uzi_2017",
@@ -3584,7 +3941,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ssol_2017",
@@ -3594,7 +3952,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "marge_2017",
@@ -3604,7 +3963,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "smlz_2017",
@@ -3614,7 +3974,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tabzz_2017",
@@ -3624,7 +3985,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nuclear_2017",
@@ -3634,7 +3996,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2017)"
+      "seasonTeam": "H2k-Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zven_2017",
@@ -3644,7 +4007,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rekkles_2017",
@@ -3654,7 +4018,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mystic_2017",
@@ -3664,7 +4029,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lwx_2017",
@@ -3674,7 +4040,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zet_2017",
@@ -3684,7 +4051,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xuanxuanpi_2017",
@@ -3694,7 +4062,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hans sama_2017",
@@ -3704,7 +4073,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "heaq_2017",
@@ -3714,7 +4084,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2017",
@@ -3724,7 +4095,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "samux_2017",
@@ -3734,7 +4106,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2017)"
+      "seasonTeam": "Unicorns of Love (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2017",
@@ -3744,7 +4117,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sneaky_2017",
@@ -3754,7 +4128,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "keith_2017",
@@ -3764,7 +4139,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "arrow_2017",
@@ -3772,9 +4148,10 @@
       "team": "Phoenix1",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Arrow_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "imp_2017",
@@ -3782,9 +4159,10 @@
       "team": "LGD Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/imp_profileicon.png",
       "years": "2017",
-      "nationality": "CN",
+      "nationality": "KR",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 1
     },
     {
       "id": "mint_2017",
@@ -3794,7 +4172,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ohq_2017",
@@ -3804,7 +4183,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hjarnan_2017",
@@ -3814,7 +4194,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kobbe_2017",
@@ -3824,7 +4205,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "stixxay_2017",
@@ -3834,7 +4216,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "piglet_2017",
@@ -3842,9 +4225,10 @@
       "team": "Team Liquid",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Piglet_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 1
     },
     {
       "id": "apollo_2017",
@@ -3854,7 +4238,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2017",
@@ -3864,7 +4249,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "b3nji_2017",
@@ -3874,7 +4260,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cody sun_2017",
@@ -3884,7 +4271,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "candyseven_2017",
@@ -3894,7 +4282,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wynn_2017",
@@ -3904,7 +4293,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "alone_2017",
@@ -3914,7 +4304,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "endless_2017",
@@ -3924,7 +4315,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "happy_2017",
@@ -3934,7 +4326,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "stitch_2017",
@@ -3944,7 +4337,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "godkwai_2017",
@@ -3954,7 +4348,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bebe_2017",
@@ -3964,7 +4359,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 1
     },
     {
       "id": "unified_2017",
@@ -3974,7 +4370,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dee_2017",
@@ -3984,7 +4381,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "breeze_2017",
@@ -3994,7 +4392,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "an_2017",
@@ -4004,7 +4403,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wako_2017",
@@ -4014,7 +4414,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "betty_2017",
@@ -4024,7 +4425,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "loken_2017",
@@ -4034,7 +4436,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lbb_2017",
@@ -4044,7 +4447,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "west_2017",
@@ -4054,7 +4458,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "youngbin_2017",
@@ -4064,7 +4469,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kryst4l_2017",
@@ -4074,7 +4480,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2017",
@@ -4084,7 +4491,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2017",
@@ -4094,7 +4502,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "windy_2017",
@@ -4104,7 +4513,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chen_2017",
@@ -4114,7 +4524,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pentaq_2017",
@@ -4124,7 +4535,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "deftly_2017",
@@ -4134,7 +4546,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mash_2017",
@@ -4144,7 +4557,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mrrallez_2017",
@@ -4154,7 +4568,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic Academy (2017)"
+      "seasonTeam": "Fnatic Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "yuuki60_2017",
@@ -4164,7 +4579,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Academy (2017)"
+      "seasonTeam": "Misfits Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kid_2017",
@@ -4174,7 +4590,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lilv_2017",
@@ -4184,7 +4601,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "holo_2017",
@@ -4194,7 +4612,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Yetti (2017)"
+      "seasonTeam": "Team Yetti (2017)",
+      "worldsWins": 0
     },
     {
       "id": "qiuqiu_2017",
@@ -4204,7 +4623,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "bvoy_2017",
@@ -4214,7 +4634,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Young Miracles (2017)"
+      "seasonTeam": "Young Miracles (2017)",
+      "worldsWins": 0
     },
     {
       "id": "deul_2017",
@@ -4224,7 +4645,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "veritas_2017",
@@ -4234,7 +4656,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "CJ Entus (2017)"
+      "seasonTeam": "CJ Entus (2017)",
+      "worldsWins": 0
     },
     {
       "id": "yuuki60_2017",
@@ -4244,7 +4667,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "heaq_2017",
@@ -4254,7 +4678,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Ninjas in Pyjamas (2017)"
+      "seasonTeam": "Ninjas in Pyjamas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wildturtle_2017",
@@ -4264,7 +4689,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "doublelift_2017",
@@ -4274,7 +4700,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "godkwai_2017",
@@ -4284,7 +4711,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lbb_2017",
@@ -4294,7 +4722,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wuxx_2017",
@@ -4304,7 +4733,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xiaoali_2017",
@@ -4314,7 +4744,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "loken_2017",
@@ -4324,7 +4755,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "west_2017",
@@ -4334,7 +4766,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fury_2017",
@@ -4344,7 +4777,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dan_2017",
@@ -4354,7 +4788,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "madwolf_2017",
@@ -4364,7 +4799,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "y4_2017",
@@ -4374,7 +4810,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "altec_2017",
@@ -4384,7 +4821,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "vas1lii_2017",
@@ -4394,7 +4832,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "unified_2017",
@@ -4404,7 +4843,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "enzz_2017",
@@ -4414,7 +4854,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "natz_2017",
@@ -4424,7 +4865,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ran_2017",
@@ -4434,7 +4876,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mash_2017",
@@ -4444,7 +4887,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "iboy_2017",
@@ -4454,7 +4898,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "babi9_2017",
@@ -4464,7 +4909,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rikara_2017",
@@ -4474,7 +4920,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pridestalkr_2017",
@@ -4484,7 +4931,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "alphari_2017",
@@ -4494,7 +4942,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wadid_2017",
@@ -4504,7 +4953,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2017",
@@ -4514,7 +4964,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sencux_2017",
@@ -4524,7 +4975,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cabochard_2017",
@@ -4534,7 +4986,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "upset_2017",
@@ -4544,7 +4997,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2017)"
+      "seasonTeam": "FC Schalke 04 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "attila_2017",
@@ -4554,7 +5008,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jiekou_2017",
@@ -4564,7 +5019,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pasa_2017",
@@ -4574,7 +5030,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "rock_2017",
@@ -4584,7 +5041,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq Fighter (2017)"
+      "seasonTeam": "ahq Fighter (2017)",
+      "worldsWins": 0
     }
   ],
   "support": [
@@ -4596,7 +5054,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "ROX Tigers (2017)"
+      "seasonTeam": "ROX Tigers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mata_2017",
@@ -4606,7 +5065,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "KT Rolster (2017)"
+      "seasonTeam": "KT Rolster (2017)",
+      "worldsWins": 1
     },
     {
       "id": "gorilla_2017",
@@ -4616,7 +5076,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Longzhu Gaming (2017)"
+      "seasonTeam": "Longzhu Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "corejj_2017",
@@ -4626,7 +5087,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 1
     },
     {
       "id": "snowflower_2017",
@@ -4636,7 +5098,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Jin Air Green Wings (2017)"
+      "seasonTeam": "Jin Air Green Wings (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wolf_2017",
@@ -4646,7 +5109,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "SK Telecom T1 (2017)"
+      "seasonTeam": "SK Telecom T1 (2017)",
+      "worldsWins": 2
     },
     {
       "id": "max_2017",
@@ -4656,7 +5120,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "MVP (2017)"
+      "seasonTeam": "MVP (2017)",
+      "worldsWins": 0
     },
     {
       "id": "totoro_2017",
@@ -4666,7 +5131,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "bbq Olivers (2017)"
+      "seasonTeam": "bbq Olivers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tusin_2017",
@@ -4676,7 +5142,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Afreeca Freecs (2017)"
+      "seasonTeam": "Afreeca Freecs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "road_2017",
@@ -4686,7 +5153,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ming_2017",
@@ -4696,7 +5164,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Royal Never Give Up (2017)"
+      "seasonTeam": "Royal Never Give Up (2017)",
+      "worldsWins": 0
     },
     {
       "id": "guger_2017",
@@ -4706,7 +5175,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "baolan_2017",
@@ -4716,7 +5186,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Invictus Gaming (2017)"
+      "seasonTeam": "Invictus Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cold_2017",
@@ -4726,7 +5197,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Oh My God (2017)"
+      "seasonTeam": "Oh My God (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hiiva_2017",
@@ -4736,7 +5208,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chei_2017",
@@ -4746,7 +5219,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "H2k-Gaming (2017)"
+      "seasonTeam": "H2k-Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mithy_2017",
@@ -4756,7 +5230,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "G2 Esports (2017)"
+      "seasonTeam": "G2 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jesiz_2017",
@@ -4766,7 +5241,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic (2017)"
+      "seasonTeam": "Fnatic (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zero_2017",
@@ -4776,7 +5252,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "crisp_2017",
@@ -4786,7 +5263,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "meiko_2017",
@@ -4796,7 +5274,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "EDward Gaming (2017)"
+      "seasonTeam": "EDward Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hetong_2017",
@@ -4806,7 +5285,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ignar_2017",
@@ -4814,9 +5294,10 @@
       "team": "Misfits Gaming",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/IgNar_profileicon.png",
       "years": "2017",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hustlin_2017",
@@ -4826,7 +5307,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hachani_2017",
@@ -4836,7 +5318,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hylissang_2017",
@@ -4846,7 +5329,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Unicorns of Love (2017)"
+      "seasonTeam": "Unicorns of Love (2017)",
+      "worldsWins": 0
     },
     {
       "id": "biofrost_2017",
@@ -4856,7 +5340,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "TSM (2017)"
+      "seasonTeam": "TSM (2017)",
+      "worldsWins": 0
     },
     {
       "id": "smoothie_2017",
@@ -4866,7 +5351,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Cloud9 (2017)"
+      "seasonTeam": "Cloud9 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "gate_2017",
@@ -4876,7 +5362,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Echo Fox (2017)"
+      "seasonTeam": "Echo Fox (2017)",
+      "worldsWins": 0
     },
     {
       "id": "adrian_2017",
@@ -4886,7 +5373,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pyl_2017",
@@ -4896,7 +5384,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "LGD Gaming (2017)"
+      "seasonTeam": "LGD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mo_2017",
@@ -4906,7 +5395,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wadid_2017",
@@ -4914,9 +5404,10 @@
       "team": "Team ROCCAT",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Wadid_profileicon.png",
       "years": "2017",
-      "nationality": "EU",
+      "nationality": "KR",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mikyx_2017",
@@ -4926,7 +5417,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "aphromoo_2017",
@@ -4936,7 +5428,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "matt elento_2017",
@@ -4946,7 +5439,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hakuho_2017",
@@ -4956,7 +5450,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team EnVyUs (2017)"
+      "seasonTeam": "Team EnVyUs (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lemonnation_2017",
@@ -4966,7 +5461,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "FlyQuest (2017)"
+      "seasonTeam": "FlyQuest (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xpecial_2017",
@@ -4976,7 +5472,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "olleh_2017",
@@ -4984,9 +5481,10 @@
       "team": "Immortals",
       "image": "https://lol.fandom.com/wiki/Special:FilePath/Olleh_profileicon.png",
       "years": "2017",
-      "nationality": "US",
+      "nationality": "KR",
       "league": "NA LCS",
-      "seasonTeam": "Immortals (2017)"
+      "seasonTeam": "Immortals (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cl0ud_2017",
@@ -4996,7 +5494,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "savoki_2017",
@@ -5006,7 +5505,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ali_2017",
@@ -5016,7 +5516,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "mor_2017",
@@ -5026,7 +5527,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Newbee (2017)"
+      "seasonTeam": "Newbee (2017)",
+      "worldsWins": 0
     },
     {
       "id": "wraith_2017",
@@ -5036,7 +5538,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Samsung Galaxy (2017)"
+      "seasonTeam": "Samsung Galaxy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nestea_2017",
@@ -5046,7 +5549,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chieh_2017",
@@ -5056,7 +5560,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "skull_2017",
@@ -5066,7 +5571,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Fireball (2017)"
+      "seasonTeam": "Fireball (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dreamer_2017",
@@ -5076,7 +5582,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Machi Esports (2017)"
+      "seasonTeam": "Machi Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "nukeduck_2017",
@@ -5086,7 +5593,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "chunx_2017",
@@ -5096,7 +5604,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "albis_2017",
@@ -5106,7 +5615,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq eSports Club (2017)"
+      "seasonTeam": "ahq eSports Club (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zest_2017",
@@ -5116,7 +5626,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "XGamers (2017)"
+      "seasonTeam": "XGamers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "swordart_2017",
@@ -5126,7 +5637,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Flash Wolves (2017)"
+      "seasonTeam": "Flash Wolves (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ben_2017",
@@ -5136,7 +5648,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Team WE (2017)"
+      "seasonTeam": "Team WE (2017)",
+      "worldsWins": 0
     },
     {
       "id": "stunt_2017",
@@ -5146,7 +5659,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "soul_2017",
@@ -5156,7 +5670,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Game Talents (2017)"
+      "seasonTeam": "Game Talents (2017)",
+      "worldsWins": 0
     },
     {
       "id": "aod_2017",
@@ -5166,7 +5681,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "sofm_2017",
@@ -5176,7 +5692,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xpeke_2017",
@@ -5186,7 +5703,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Origen (2017)"
+      "seasonTeam": "Origen (2017)",
+      "worldsWins": 0
     },
     {
       "id": "secret_2017",
@@ -5196,7 +5714,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Kongdoo Monster (2017)"
+      "seasonTeam": "Kongdoo Monster (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kryst4l_2017",
@@ -5206,7 +5725,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "stunt_2017",
@@ -5216,7 +5736,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "easyhoon_2017",
@@ -5226,7 +5747,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "starlight_2017",
@@ -5236,7 +5758,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "I May (2017)"
+      "seasonTeam": "I May (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ozoraveki_2017",
@@ -5246,7 +5769,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Esports (2017)"
+      "seasonTeam": "Hong Kong Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "k_2017",
@@ -5256,7 +5780,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "adrian_2017",
@@ -5266,7 +5791,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "duan_2017",
@@ -5276,7 +5802,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Vici Gaming (2017)"
+      "seasonTeam": "Vici Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "joey_2017",
@@ -5286,7 +5813,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Counter Logic Gaming (2017)"
+      "seasonTeam": "Counter Logic Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "shady_2017",
@@ -5296,7 +5824,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zeyzal_2017",
@@ -5306,7 +5835,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "eUnited (2017)"
+      "seasonTeam": "eUnited (2017)",
+      "worldsWins": 0
     },
     {
       "id": "madlife_2017",
@@ -5316,7 +5846,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "deceit_2017",
@@ -5326,7 +5857,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "QG Reapers (2017)"
+      "seasonTeam": "QG Reapers (2017)",
+      "worldsWins": 0
     },
     {
       "id": "klaj_2017",
@@ -5336,7 +5868,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Fnatic Academy (2017)"
+      "seasonTeam": "Fnatic Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dreams_2017",
@@ -5346,7 +5879,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Academy (2017)"
+      "seasonTeam": "Misfits Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "koala_2017",
@@ -5356,7 +5890,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Raise Gaming (2017)"
+      "seasonTeam": "Raise Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "coool_2017",
@@ -5366,7 +5901,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Team Yetti (2017)"
+      "seasonTeam": "Team Yetti (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cat_2017",
@@ -5376,7 +5912,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "killua_2017",
@@ -5386,7 +5923,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Young Miracles (2017)"
+      "seasonTeam": "Young Miracles (2017)",
+      "worldsWins": 0
     },
     {
       "id": "ella_2017",
@@ -5396,7 +5934,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pure_2017",
@@ -5406,7 +5945,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "CJ Entus (2017)"
+      "seasonTeam": "CJ Entus (2017)",
+      "worldsWins": 0
     },
     {
       "id": "vander_2017",
@@ -5416,7 +5956,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "zest_2017",
@@ -5426,7 +5967,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Wayi Spider (2017)"
+      "seasonTeam": "Wayi Spider (2017)",
+      "worldsWins": 0
     },
     {
       "id": "dreams_2017",
@@ -5436,7 +5978,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Mysterious Monkeys (2017)"
+      "seasonTeam": "Mysterious Monkeys (2017)",
+      "worldsWins": 0
     },
     {
       "id": "promisq_2017",
@@ -5446,7 +5989,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Ninjas in Pyjamas (2017)"
+      "seasonTeam": "Ninjas in Pyjamas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "big_2017",
@@ -5456,7 +6000,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hachani_2017",
@@ -5466,7 +6011,8 @@
       "years": "2017",
       "nationality": "KR",
       "league": "LCK",
-      "seasonTeam": "Ever8 Winners (2017)"
+      "seasonTeam": "Ever8 Winners (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kaiwing_2017",
@@ -5476,7 +6022,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "Hong Kong Attitude (2017)"
+      "seasonTeam": "Hong Kong Attitude (2017)",
+      "worldsWins": 0
     },
     {
       "id": "cl0ud_2017",
@@ -5486,7 +6033,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "lvmao_2017",
@@ -5496,7 +6044,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "JD Gaming (2017)"
+      "seasonTeam": "JD Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "yoon_2017",
@@ -5506,7 +6055,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "xpecial_2017",
@@ -5516,7 +6066,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Phoenix1 (2017)"
+      "seasonTeam": "Phoenix1 (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kwon_2017",
@@ -5526,7 +6077,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Team Liquid (2017)"
+      "seasonTeam": "Team Liquid (2017)",
+      "worldsWins": 0
     },
     {
       "id": "fage_2017",
@@ -5536,7 +6088,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "DAN Gaming (2017)"
+      "seasonTeam": "DAN Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "adrian_2017",
@@ -5546,7 +6099,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Dignitas (2017)"
+      "seasonTeam": "Dignitas (2017)",
+      "worldsWins": 0
     },
     {
       "id": "hudie_2017",
@@ -5556,7 +6110,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Snake Esports (2017)"
+      "seasonTeam": "Snake Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "banks_2017",
@@ -5566,7 +6121,8 @@
       "years": "2017",
       "nationality": "CN",
       "league": "LPL",
-      "seasonTeam": "Suning (2017)"
+      "seasonTeam": "Suning (2017)",
+      "worldsWins": 0
     },
     {
       "id": "whyin_2017",
@@ -5576,7 +6132,8 @@
       "years": "2017",
       "nationality": "US",
       "league": "NA LCS",
-      "seasonTeam": "Gold Coin United (2017)"
+      "seasonTeam": "Gold Coin United (2017)",
+      "worldsWins": 0
     },
     {
       "id": "betsy_2017",
@@ -5586,7 +6143,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "maxlore_2017",
@@ -5596,7 +6154,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Misfits Gaming (2017)"
+      "seasonTeam": "Misfits Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "pridestalkr_2017",
@@ -5606,7 +6165,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team ROCCAT (2017)"
+      "seasonTeam": "Team ROCCAT (2017)",
+      "worldsWins": 0
     },
     {
       "id": "steeelback_2017",
@@ -5616,7 +6176,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "kold_2017",
@@ -5626,7 +6187,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Splyce (2017)"
+      "seasonTeam": "Splyce (2017)",
+      "worldsWins": 0
     },
     {
       "id": "djoko_2017",
@@ -5636,7 +6198,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Team Vitality (2017)"
+      "seasonTeam": "Team Vitality (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tore_2017",
@@ -5646,7 +6209,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "FC Schalke 04 Esports (2017)"
+      "seasonTeam": "FC Schalke 04 Esports (2017)",
+      "worldsWins": 0
     },
     {
       "id": "jactroll_2017",
@@ -5656,7 +6220,8 @@
       "years": "2017",
       "nationality": "EU",
       "league": "EU LCS",
-      "seasonTeam": "Giants Gaming (2017)"
+      "seasonTeam": "Giants Gaming (2017)",
+      "worldsWins": 0
     },
     {
       "id": "breaker_2017",
@@ -5666,7 +6231,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "J Team (2017)"
+      "seasonTeam": "J Team (2017)",
+      "worldsWins": 0
     },
     {
       "id": "eason_2017",
@@ -5676,7 +6242,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "17 Academy (2017)"
+      "seasonTeam": "17 Academy (2017)",
+      "worldsWins": 0
     },
     {
       "id": "tuna_2017",
@@ -5686,7 +6253,8 @@
       "years": "2017",
       "nationality": "TW",
       "league": "LMS",
-      "seasonTeam": "ahq Fighter (2017)"
+      "seasonTeam": "ahq Fighter (2017)",
+      "worldsWins": 0
     }
   ]
 }
