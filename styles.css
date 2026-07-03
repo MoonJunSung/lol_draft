@@ -132,6 +132,14 @@ body {
     box-shadow: var(--btn-glow);
 }
 
+.icon-btn.text-btn {
+    width: auto;
+    padding: 0 14px;
+    border-radius: 17px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+
 
 header.hero {
     text-align: center;
