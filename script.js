@@ -59,7 +59,10 @@ const translations = {
         statTier: '팀 등급',
         randomFill: '🎲 랜덤 완성',
         share: '📋 로스터 공유',
-        closeTooltip: '닫기'
+        closeTooltip: '닫기',
+        musicTitle: '🎵 월즈 주제가',
+        musicTooltip: '월즈 주제가 듣기',
+        stopMusic: '⏹ 정지'
     },
     en: {
         eyebrow: 'LOL DRAFT - 2026 Latest Pro Player Data',
@@ -116,7 +119,10 @@ const translations = {
         statTier: 'Team Tier',
         randomFill: '🎲 Random Fill',
         share: '📋 Share Roster',
-        closeTooltip: 'Close'
+        closeTooltip: 'Close',
+        musicTitle: '🎵 Worlds Anthems',
+        musicTooltip: 'Play Worlds Anthems',
+        stopMusic: '⏹ Stop'
     }
 };
 
@@ -957,8 +963,78 @@ function showToast(message) {
 }
 
 // ============================================
-// 컬렉션 시스템
+// 월즈 주제가 플레이어 (Riot 공식 유튜브 임베드)
 // ============================================
+
+const WORLDS_ANTHEMS = [
+    { year: 2014, title: 'Warriors', artist: 'Imagine Dragons', videoId: 'fmI_Ndrxy14' },
+    { year: 2015, title: 'Worlds Collide', artist: 'Nicki Taylor', videoId: '4Twd965VzX4' },
+    { year: 2016, title: 'Ignite', artist: 'Zedd', videoId: 'Zasx9hjo4WY' },
+    { year: 2017, title: 'Legends Never Die', artist: 'Against The Current', videoId: 'r6zIGXun57U' },
+    { year: 2018, title: 'RISE', artist: 'The Glitch Mob, Mako, The Word Alive', videoId: 'fB8TyLTD7EE' },
+    { year: 2019, title: 'Phoenix', artist: 'Cailin Russo, Chrissy Costanza', videoId: 'i1IKnWDecwA' },
+    { year: 2020, title: 'Take Over', artist: 'Jeremy McKinnon, MAX, Henry', videoId: 'KbNL9ZyB49c' },
+    { year: 2021, title: 'Burn It All Down', artist: 'PVRIS', videoId: '1Z6CHioIn3s' },
+    { year: 2022, title: "STAR WALKIN'", artist: 'Lil Nas X', videoId: 'HYsz1hP0BFo' },
+    { year: 2023, title: 'GODS', artist: 'NewJeans', videoId: 'C3GouGa0noM' },
+    { year: 2024, title: 'Heavy Is The Crown', artist: 'Linkin Park', videoId: '5FrhtahQiRc' },
+    { year: 2025, title: 'Sacrifice', artist: 'G.E.M.', videoId: 'pzt6SmvGpXk' }
+];
+
+let currentAnthemId = null;
+
+function toggleMusicPanel() {
+    const panel = document.getElementById('musicPanel');
+    if (!panel) return;
+    panel.classList.toggle('active');
+}
+
+function renderMusicList() {
+    const list = document.getElementById('musicList');
+    if (!list) return;
+    list.innerHTML = WORLDS_ANTHEMS.map(song => `
+        <li class="music-item${song.videoId === currentAnthemId ? ' playing' : ''}" data-video-id="${song.videoId}">
+            <span class="music-year">${song.year}</span>
+            <span class="music-info">
+                <span class="music-song-title">${esc(song.title)}</span>
+                <span class="music-artist">${esc(song.artist)}</span>
+            </span>
+            <span class="music-eq" aria-hidden="true">${song.videoId === currentAnthemId ? '♪' : '▶'}</span>
+        </li>
+    `).join('');
+
+    const stopBtn = document.getElementById('musicStopBtn');
+    if (stopBtn) stopBtn.style.display = currentAnthemId ? '' : 'none';
+
+    const toggleBtn = document.getElementById('musicToggleBtn');
+    if (toggleBtn) toggleBtn.classList.toggle('music-playing', !!currentAnthemId);
+}
+
+function playAnthem(videoId) {
+    const wrap = document.getElementById('musicPlayerWrap');
+    if (!wrap) return;
+    const song = WORLDS_ANTHEMS.find(s => s.videoId === videoId);
+    if (!song) return;
+
+    currentAnthemId = videoId;
+    // 같은 곡을 무한 반복 재생 (loop는 playlist 파라미터가 필요)
+    wrap.innerHTML = `
+        <iframe
+            src="https://www.youtube.com/embed/${videoId}?autoplay=1&loop=1&playlist=${videoId}&playsinline=1"
+            title="${esc(song.title)}"
+            allow="autoplay; encrypted-media"
+            allowfullscreen
+        ></iframe>
+    `;
+    renderMusicList();
+}
+
+function stopAnthem() {
+    const wrap = document.getElementById('musicPlayerWrap');
+    if (wrap) wrap.innerHTML = '';
+    currentAnthemId = null;
+    renderMusicList();
+}
 
 let cardCollection = [];
 let savedRosters = [];
@@ -1099,6 +1175,12 @@ document.addEventListener('click', function (e) {
         e.stopPropagation();
         const card = deleteBtn.closest('.collection-card');
         if (card) deleteFromCollection(card.dataset.key);
+        return;
+    }
+
+    const musicItem = e.target.closest('.music-item');
+    if (musicItem) {
+        playAnthem(musicItem.dataset.videoId);
     }
 });
 
@@ -1262,6 +1344,7 @@ document.addEventListener('DOMContentLoaded', () => {
     updateLanguageUI();
     loadCollection();
     loadAllPlayers();
+    renderMusicList();
 
     document.querySelectorAll('.position-slot').forEach((slot) => {
         slot.addEventListener('click', () => {

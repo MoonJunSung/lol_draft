@@ -1091,6 +1091,156 @@ footer {
     }
 }
 
+/* Worlds Anthem Player */
+.music-panel {
+    display: none;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: min(340px, calc(100vw - 24px));
+    max-height: min(70vh, 560px);
+    flex-direction: column;
+    background: rgba(10, 17, 32, 0.97);
+    border: 1px solid rgba(109, 168, 255, 0.3);
+    border-radius: 14px;
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+    z-index: 45;
+    overflow: hidden;
+}
+
+.music-panel.active {
+    display: flex;
+}
+
+.music-panel-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--line);
+    font-weight: 700;
+    font-size: 0.95rem;
+}
+
+.music-panel-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.music-stop-btn {
+    padding: 5px 12px;
+    border-radius: 999px;
+    border: 1px solid rgba(239, 68, 68, 0.5);
+    background: rgba(239, 68, 68, 0.12);
+    color: #ef4444;
+    font-size: 0.75rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.music-stop-btn:hover {
+    background: #ef4444;
+    color: #fff;
+}
+
+.music-player-wrap:not(:empty) {
+    border-bottom: 1px solid var(--line);
+    background: #000;
+}
+
+.music-player-wrap iframe {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 0;
+}
+
+.music-list {
+    list-style: none;
+    margin: 0;
+    padding: 8px;
+    overflow-y: auto;
+}
+
+.music-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 9px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.15s ease;
+}
+
+.music-item:hover {
+    background: rgba(109, 168, 255, 0.1);
+}
+
+.music-item.playing {
+    background: rgba(214, 178, 92, 0.12);
+}
+
+.music-item.playing .music-song-title {
+    color: var(--gold);
+}
+
+.music-year {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 0.7rem;
+    color: var(--muted);
+    flex-shrink: 0;
+    width: 34px;
+}
+
+.music-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    min-width: 0;
+    flex: 1;
+}
+
+.music-song-title {
+    font-weight: 700;
+    font-size: 0.85rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.music-artist {
+    font-size: 0.72rem;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.music-eq {
+    flex-shrink: 0;
+    font-size: 0.75rem;
+    color: var(--accent);
+}
+
+.music-item.playing .music-eq {
+    color: var(--gold);
+    animation: eqPulse 1s ease-in-out infinite;
+}
+
+@keyframes eqPulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+}
+
+/* 재생 중일 때 상단바 음악 버튼 표시 */
+#musicToggleBtn.music-playing {
+    border-color: var(--gold);
+    color: var(--gold);
+    box-shadow: 0 0 12px rgba(214, 178, 92, 0.45);
+}
+
 /* Mobile Optimizations */
 @media (max-width: 768px) {
     .hero {
