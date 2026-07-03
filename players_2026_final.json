@@ -461,10 +461,10 @@
       "seasonTeam": "MVK Esports Academy (2026)"
     },
     {
-      "id": "choso_2026",
-      "name": "Choso",
+      "id": "virgo_2026",
+      "name": "Virgo",
       "team": "Saigon Dino",
-      "image": "https://lol.fandom.com/wiki/Special:FilePath/Choso_profileicon.png",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Virgo_profileicon.png",
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
@@ -539,6 +539,236 @@
       "nationality": "CN",
       "league": "LPL",
       "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "burdol_2026",
+      "name": "Burdol",
+      "team": "LGD Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Burdol_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "LGD Gaming (2026)"
+    },
+    {
+      "id": "sasi_2026",
+      "name": "sasi",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sasi_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "hedonist_2026",
+      "name": "Hedonist",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hedonist_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "yskm_2026",
+      "name": "YSKM",
+      "team": "Frank Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/YSKM_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Frank Esports (2026)"
+    },
+    {
+      "id": "hasu7_2026",
+      "name": "Hasu7",
+      "team": "SillySilly Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hasu7_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "SillySilly Gaming (2026)"
+    },
+    {
+      "id": "ors ner4_2026",
+      "name": "ORS ner4",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS ner4_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "ors liang_2026",
+      "name": "ORS Liang",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS Liang_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "sorrymbggff_2026",
+      "name": "Sorrymbggff",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sorrymbggff_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "zkai_2026",
+      "name": "Zkai",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zkai_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "weizhe_2026",
+      "name": "Weizhe",
+      "team": "Shadow Keepers Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Weizhe_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Shadow Keepers Esports (2026)"
+    },
+    {
+      "id": "yuji_2026",
+      "name": "Yuji",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuji_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "eqx xi lai_2026",
+      "name": "EQX XI LAI",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/EQX XI LAI_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "adizai_2026",
+      "name": "Adizai",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Adizai_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
+    },
+    {
+      "id": "rbow_2026",
+      "name": "Rbow",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rbow_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
+    },
+    {
+      "id": "zartheit1_2026",
+      "name": "Zartheit1",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zartheit1_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "srtty_2026",
+      "name": "Srtty",
+      "team": "Disguised",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Srtty_profileicon.png",
+      "years": "2026",
+      "nationality": "US",
+      "league": "LCS",
+      "seasonTeam": "Disguised (2026)"
+    },
+    {
+      "id": "castle_2026",
+      "name": "Castle",
+      "team": "LYON",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Castle_profileicon.png",
+      "years": "2026",
+      "nationality": "US",
+      "league": "LCS",
+      "seasonTeam": "LYON (2026)"
+    },
+    {
+      "id": "haaland_2026",
+      "name": "Haaland",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Haaland_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "solis_2026",
+      "name": "Solis",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Solis_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "copper_2026",
+      "name": "Copper",
+      "team": "MVK Esports Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Copper_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "MVK Esports Academy (2026)"
+    },
+    {
+      "id": "scbc ryuk2_2026",
+      "name": "SCBC RyuK2",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SCBC RyuK2_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "ryuk_2026",
+      "name": "Ryuk",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ryuk_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "xi lai_2026",
+      "name": "XI LAI",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XI LAI_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
     }
   ],
   "jungle": [
@@ -1083,10 +1313,10 @@
       "seasonTeam": "MVK Esports Academy (2026)"
     },
     {
-      "id": "monkey0_2026",
-      "name": "monkey0",
+      "id": "j1n5_2026",
+      "name": "j1n5",
       "team": "Saigon Warriors",
-      "image": "https://lol.fandom.com/wiki/Special:FilePath/monkey0_profileicon.png",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/j1n5_profileicon.png",
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
@@ -1111,6 +1341,236 @@
       "nationality": "CN",
       "league": "LPL",
       "seasonTeam": "Top Esports (2026)"
+    },
+    {
+      "id": "climber_2026",
+      "name": "Climber",
+      "team": "Ultra Prime",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Climber_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Ultra Prime (2026)"
+    },
+    {
+      "id": "daglas_2026",
+      "name": "Daglas",
+      "team": "Team Heretics",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Daglas_profileicon.png",
+      "years": "2026",
+      "nationality": "EU",
+      "league": "LEC",
+      "seasonTeam": "Team Heretics (2026)"
+    },
+    {
+      "id": "tyrion_2026",
+      "name": "Tyrion",
+      "team": "Team WE",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tyrion_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Team WE (2026)"
+    },
+    {
+      "id": "xjb raon_2026",
+      "name": "XJB Raon",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XJB Raon_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "holo_2026",
+      "name": "Holo",
+      "team": "Frank Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Holo_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Frank Esports (2026)"
+    },
+    {
+      "id": "tianzhen_2026",
+      "name": "Tianzhen",
+      "team": "SillySilly Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tianzhen_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "SillySilly Gaming (2026)"
+    },
+    {
+      "id": "ors liang_2026",
+      "name": "ORS Liang",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS Liang_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "ors ner4_2026",
+      "name": "ORS ner4",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS ner4_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "raon_2026",
+      "name": "Raon",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Raon_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "xin_2026",
+      "name": "xin",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/xin_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "cedric_2026",
+      "name": "Cedric",
+      "team": "Shadow Keepers Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cedric_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Shadow Keepers Esports (2026)"
+    },
+    {
+      "id": "epic_2026",
+      "name": "Epic",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Epic_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "renye_2026",
+      "name": "RenYe",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/RenYe_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
+    },
+    {
+      "id": "killer2_2026",
+      "name": "Killer2",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Killer2_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
+    },
+    {
+      "id": "listo_2026",
+      "name": "Listo",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Listo_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "sheo_2026",
+      "name": "Sheo",
+      "team": "Shifters",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sheo_profileicon.png",
+      "years": "2026",
+      "nationality": "EU",
+      "league": "LEC",
+      "seasonTeam": "Shifters (2026)"
+    },
+    {
+      "id": "scp_2026",
+      "name": "SCP",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SCP_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "ddoiv_2026",
+      "name": "DDoiV",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DDoiV_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "rayq_2026",
+      "name": "rayq",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/rayq_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
+    },
+    {
+      "id": "ntnt_2026",
+      "name": "NtNt",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NtNt_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "rikk_2026",
+      "name": "Rikk",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Rikk_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
+    },
+    {
+      "id": "leaky_2026",
+      "name": "Leaky",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Leaky_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "sharvel_2026",
+      "name": "Sharvel",
+      "team": "Dplus Kia",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Sharvel_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "Dplus Kia (2026)"
     }
   ],
   "mid": [
@@ -1625,10 +2085,10 @@
       "seasonTeam": "MVK Esports Academy (2026)"
     },
     {
-      "id": "choso_2026",
-      "name": "Choso",
+      "id": "virgo_2026",
+      "name": "Virgo",
       "team": "Saigon Dino",
-      "image": "https://lol.fandom.com/wiki/Special:FilePath/Choso_profileicon.png",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Virgo_profileicon.png",
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
@@ -1653,6 +2113,226 @@
       "nationality": "CN",
       "league": "LPL",
       "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "daystar_2026",
+      "name": "Daystar",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Daystar_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "roger_2026",
+      "name": "Roger",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Roger_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "pretender_2026",
+      "name": "Pretender",
+      "team": "Frank Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pretender_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Frank Esports (2026)"
+    },
+    {
+      "id": "xzz_2026",
+      "name": "Xzz",
+      "team": "SillySilly Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Xzz_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "SillySilly Gaming (2026)"
+    },
+    {
+      "id": "ors k b_2026",
+      "name": "ORS K B",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS K B_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "yuhe_2026",
+      "name": "Yuhe",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Yuhe_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "1116_2026",
+      "name": "1116",
+      "team": "Shadow Keepers Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/1116_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Shadow Keepers Esports (2026)"
+    },
+    {
+      "id": "zoey_2026",
+      "name": "Zoey",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zoey_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "gza chain1_2026",
+      "name": "GZA Chain1",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GZA Chain1_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
+    },
+    {
+      "id": "cid_2026",
+      "name": "Cid",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Cid_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
+    },
+    {
+      "id": "bulukaka_2026",
+      "name": "BuLuKaKa",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/BuLuKaKa_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "nia_2026",
+      "name": "Nia",
+      "team": "Invictus Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Nia_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Invictus Gaming (2026)"
+    },
+    {
+      "id": "sinian_2026",
+      "name": "sinian",
+      "team": "EDward Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/sinian_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "EDward Gaming (2026)"
+    },
+    {
+      "id": "giaqui_2026",
+      "name": "GiaQui",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GiaQui_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "aisyl_2026",
+      "name": "AisyL",
+      "team": "Saigon Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/AisyL_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Warriors (2026)"
+    },
+    {
+      "id": "npc_2026",
+      "name": "NPC",
+      "team": "MVK Esports Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/NPC_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "MVK Esports Academy (2026)"
+    },
+    {
+      "id": "emo_2026",
+      "name": "Emo",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Emo_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
+    },
+    {
+      "id": "vin_2026",
+      "name": "Vin",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vin_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "clyde_2026",
+      "name": "Clyde",
+      "team": "9Gaming Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Clyde_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "9Gaming Esports (2026)"
+    },
+    {
+      "id": "mvka hy_2026",
+      "name": "MVKA Hy",
+      "team": "MVK Esports Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MVKA Hy_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "MVK Esports Academy (2026)"
+    },
+    {
+      "id": "hy_2026",
+      "name": "Hy",
+      "team": "MVK Esports Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hy_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "MVK Esports Academy (2026)"
+    },
+    {
+      "id": "chain1_2026",
+      "name": "Chain1",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Chain1_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
     }
   ],
   "adc": [
@@ -2107,10 +2787,10 @@
       "seasonTeam": "Dignitas (2026)"
     },
     {
-      "id": "monkey0_2026",
-      "name": "monkey0",
+      "id": "j1n5_2026",
+      "name": "j1n5",
       "team": "Saigon Warriors",
-      "image": "https://lol.fandom.com/wiki/Special:FilePath/monkey0_profileicon.png",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/j1n5_profileicon.png",
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
@@ -2215,6 +2895,236 @@
       "nationality": "KR",
       "league": "LCK",
       "seasonTeam": "Kiwoom DRX (2026)"
+    },
+    {
+      "id": "ahn_2026",
+      "name": "Ahn",
+      "team": "ThunderTalk Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ahn_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "ThunderTalk Gaming (2026)"
+    },
+    {
+      "id": "photic_2026",
+      "name": "Photic",
+      "team": "Oh My God",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Photic_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Oh My God (2026)"
+    },
+    {
+      "id": "x1aochiao_2026",
+      "name": "X1aoCHiao",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/X1aoCHiao_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "mnm_2026",
+      "name": "MnM",
+      "team": "Frank Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MnM_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Frank Esports (2026)"
+    },
+    {
+      "id": "hermes_2026",
+      "name": "Hermes",
+      "team": "SillySilly Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hermes_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "SillySilly Gaming (2026)"
+    },
+    {
+      "id": "ors micinb_2026",
+      "name": "ORS Micinb",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS Micinb_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "tracy_2026",
+      "name": "Tracy",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tracy_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "prage_2026",
+      "name": "Prage",
+      "team": "Shadow Keepers Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Prage_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Shadow Keepers Esports (2026)"
+    },
+    {
+      "id": "lucifer_2026",
+      "name": "Lucifer",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Lucifer_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "gza 0131_2026",
+      "name": "GZA 0131",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GZA 0131_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
+    },
+    {
+      "id": "dotmm_2026",
+      "name": "Dotmm",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Dotmm_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
+    },
+    {
+      "id": "maddogg9_2026",
+      "name": "MadDogg9",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/MadDogg9_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "slayer_2026",
+      "name": "Slayer",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Slayer_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "diable_2026",
+      "name": "Diable",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Diable_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "taeyoon_2026",
+      "name": "Taeyoon",
+      "team": "BNK FEARX",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Taeyoon_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "BNK FEARX (2026)"
+    },
+    {
+      "id": "charlington_2026",
+      "name": "Charlington",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Charlington_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "aomine_2026",
+      "name": "Aomine",
+      "team": "Saigon Warriors",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Aomine_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Warriors (2026)"
+    },
+    {
+      "id": "enosh_2026",
+      "name": "Enosh",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Enosh_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "skyk_2026",
+      "name": "SkyK",
+      "team": "MVK Esports Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/SkyK_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "MVK Esports Academy (2026)"
+    },
+    {
+      "id": "dino yashiro2_2026",
+      "name": "DINO Yashiro2",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/DINO Yashiro2_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
+    },
+    {
+      "id": "vit_2026",
+      "name": "Vit",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Vit_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "fenrir_2026",
+      "name": "FenRir",
+      "team": "KT Rolster",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/FenRir_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "KT Rolster (2026)"
+    },
+    {
+      "id": "easylove_2026",
+      "name": "Easylove",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Easylove_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
     }
   ],
   "support": [
@@ -2710,9 +3620,9 @@
     },
     {
       "id": "hieu3_2026",
-      "name": "hieu3",
+      "name": "Hieu3",
       "team": "Saigon Dino",
-      "image": "https://lol.fandom.com/wiki/Special:FilePath/hieu3_profileicon.png",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Hieu3_profileicon.png",
       "years": "2026",
       "nationality": "VN",
       "league": "VCS",
@@ -2847,6 +3757,226 @@
       "nationality": "CN",
       "league": "LPL",
       "seasonTeam": "EDward Gaming (2026)"
+    },
+    {
+      "id": "quantum_2026",
+      "name": "Quantum",
+      "team": "DN SOOPers",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Quantum_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "DN SOOPers (2026)"
+    },
+    {
+      "id": "xjb acheron_2026",
+      "name": "XJB Acheron",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/XJB Acheron_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "kingpo54_2026",
+      "name": "kingpo54",
+      "team": "Frank Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/kingpo54_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Frank Esports (2026)"
+    },
+    {
+      "id": "en_2026",
+      "name": "En",
+      "team": "SillySilly Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/En_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "SillySilly Gaming (2026)"
+    },
+    {
+      "id": "ors redamntion_2026",
+      "name": "ORS RedamnTion",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS RedamnTion_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "acheron_2026",
+      "name": "Acheron",
+      "team": "Xu Ji Basalt",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Acheron_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Xu Ji Basalt (2026)"
+    },
+    {
+      "id": "ors foreverlim_2026",
+      "name": "ORS ForeverLim",
+      "team": "One Round Specialists",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ORS ForeverLim_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "One Round Specialists (2026)"
+    },
+    {
+      "id": "2274_2026",
+      "name": "2274",
+      "team": "CTBC Flying Oyster Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/2274_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "CTBC Flying Oyster Academy (2026)"
+    },
+    {
+      "id": "ashlomailma_2026",
+      "name": "Ashlomailma",
+      "team": "Shadow Keepers Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Ashlomailma_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Shadow Keepers Esports (2026)"
+    },
+    {
+      "id": "mese_2026",
+      "name": "Mese",
+      "team": "Equinox Core",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Mese_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Equinox Core (2026)"
+    },
+    {
+      "id": "gza peanutcoco_2026",
+      "name": "GZA PeanutCoco",
+      "team": "Ground Zero Academy",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/GZA PeanutCoco_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Ground Zero Academy (2026)"
+    },
+    {
+      "id": "tns_2026",
+      "name": "TNS",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TNS_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
+    },
+    {
+      "id": "keres_2026",
+      "name": "Keres",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Keres_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "thehank_2026",
+      "name": "TheHank",
+      "team": "Weibo Gaming",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/TheHank_profileicon.png",
+      "years": "2026",
+      "nationality": "CN",
+      "league": "LPL",
+      "seasonTeam": "Weibo Gaming (2026)"
+    },
+    {
+      "id": "pleata_2026",
+      "name": "Pleata",
+      "team": "Nongshim RedForce",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Pleata_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "Nongshim RedForce (2026)"
+    },
+    {
+      "id": "zin_2026",
+      "name": "Zin",
+      "team": "ZEN Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Zin_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "ZEN Esports (2026)"
+    },
+    {
+      "id": "elio_2026",
+      "name": "Elio",
+      "team": "Saigon Dino",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Elio_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "Saigon Dino (2026)"
+    },
+    {
+      "id": "shogun_2026",
+      "name": "Shogun",
+      "team": "SN CyberCore Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Shogun_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "SN CyberCore Esports (2026)"
+    },
+    {
+      "id": "tahahy_2026",
+      "name": "Tahahy",
+      "team": "9Gaming Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Tahahy_profileicon.png",
+      "years": "2026",
+      "nationality": "VN",
+      "league": "VCS",
+      "seasonTeam": "9Gaming Esports (2026)"
+    },
+    {
+      "id": "bluffing_2026",
+      "name": "Bluffing",
+      "team": "Hanwha Life Esports",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Bluffing_profileicon.png",
+      "years": "2026",
+      "nationality": "KR",
+      "league": "LCK",
+      "seasonTeam": "Hanwha Life Esports (2026)"
+    },
+    {
+      "id": "anks_2026",
+      "name": "ANKS",
+      "team": "Viper Night Raider",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/ANKS_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "Viper Night Raider (2026)"
+    },
+    {
+      "id": "feng55_2026",
+      "name": "Feng55",
+      "team": "wangting",
+      "image": "https://lol.fandom.com/wiki/Special:FilePath/Feng55_profileicon.png",
+      "years": "2026",
+      "nationality": "TW",
+      "league": "PCS",
+      "seasonTeam": "wangting (2026)"
     }
   ]
 }

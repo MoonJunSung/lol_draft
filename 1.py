@@ -71,7 +71,7 @@ def generate_roster_with_nationality():
                         result[mapped_pos].append(player_obj)
                         seen.add(key)
 
-            with open(f"players_{year}_nation.json", 'w', encoding='utf-8') as f:
+            with open(f"players_{year}_final.json", 'w', encoding='utf-8') as f:
                 json.dump(result, f, ensure_ascii=False, indent=2)
             print(f"✅ {year}년 완료! (국적 포함)")
 
