@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>시즌 시뮬레이터 | LOL DRAFT 감독 모드 - 리그 시즌 자동 시뮬레이션</title>
+    <meta name="description"
+        content="연도와 리그를 골라 그 해 실제 팀들로 정규시즌부터 플레이오프까지 자동 시뮬레이션하는 감독 모드. LCK, LPL, LEC 시즌을 직접 돌려보세요.">
+    <meta name="theme-color" content="#0b0f1a">
+    <link rel="canonical" href="https://loldraft.site/manager.html">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&family=Orbitron:wght@700;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="manager.css">
+
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="favicon.svg">
+</head>
+
+<body>
+    <div class="background-overlay"></div>
+
+    <header class="topbar">
+        <a class="brand" href="index.html" style="text-decoration:none;color:inherit;">
+            <span class="brand-icon">🏟️</span>
+            <span class="brand-name">LOL<span class="brand-accent">MANAGER</span></span>
+        </a>
+        <div class="top-actions">
+            <a class="icon-btn text-btn" href="index.html" title="드래프트로 돌아가기">← 드래프트</a>
+        </div>
+    </header>
+
+    <header class="hero">
+        <p class="eyebrow">감독 모드 · 시즌 시뮬레이터</p>
+        <h1 class="title">리그 시즌 시뮬레이션</h1>
+        <p class="subtitle">연도와 리그를 고르면 그 해 실제 팀들로 정규시즌부터 우승까지 자동으로 돌아갑니다</p>
+    </header>
+
+    <main class="sim-main">
+        <!-- Setup -->
+        <section id="setupPanel" class="sim-panel">
+            <div class="setup-row">
+                <div class="setup-field">
+                    <label for="yearSelect">시즌 연도</label>
+                    <select id="yearSelect"></select>
+                </div>
+                <div class="setup-field">
+                    <label for="leagueSelect">리그</label>
+                    <select id="leagueSelect"></select>
+                </div>
+                <button id="startSeasonBtn" class="action-btn primary">🏁 시즌 시작</button>
+            </div>
+            <p id="setupHint" class="setup-hint">연도를 고르면 해당 시즌 참가 리그가 나타납니다.</p>
+            <div id="teamPreview" class="team-preview"></div>
+        </section>
+
+        <!-- Season (regular + playoffs) -->
+        <section id="seasonPanel" class="sim-panel" hidden>
+            <div class="season-header">
+                <div class="season-title">
+                    <span id="seasonBadge" class="season-badge">LCK 2025</span>
+                    <span id="phaseLabel" class="phase-label">정규시즌</span>
+                </div>
+                <div id="progressLabel" class="progress-label">라운드 0 / 0</div>
+            </div>
+
+            <div class="season-controls">
+                <button id="nextMatchBtn" class="action-btn">▶ 다음 경기</button>
+                <button id="nextRoundBtn" class="action-btn">⏩ 이번 라운드</button>
+                <button id="simAllBtn" class="action-btn">⏭ 끝까지 시뮬</button>
+                <button id="restartBtn" class="action-btn ghost">↺ 새 시즌</button>
+            </div>
+
+            <div class="season-body">
+                <div class="standings-wrap">
+                    <h2 class="section-h">순위표</h2>
+                    <table class="standings">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th class="ta-l">팀</th>
+                                <th>승</th>
+                                <th>패</th>
+                                <th>세트</th>
+                                <th>전력</th>
+                            </tr>
+                        </thead>
+                        <tbody id="standingsBody"></tbody>
+                    </table>
+                </div>
+
+                <div class="feed-wrap">
+                    <h2 class="section-h">경기 결과</h2>
+                    <div id="matchFeed" class="match-feed"></div>
+                </div>
+            </div>
+
+            <div id="playoffsWrap" class="playoffs-wrap" hidden>
+                <h2 class="section-h">플레이오프</h2>
+                <div id="bracket" class="bracket"></div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Champion overlay -->
+    <div id="champOverlay" class="champ-overlay" hidden>
+        <div class="champ-card">
+            <div class="champ-trophy">🏆</div>
+            <p class="champ-eyebrow" id="champEyebrow">2025 시즌 우승</p>
+            <h2 class="champ-name" id="champName">T1</h2>
+            <div class="champ-roster" id="champRoster"></div>
+            <div class="champ-actions">
+                <button class="action-btn" onclick="document.getElementById('champOverlay').hidden=true">닫기</button>
+                <button class="action-btn ghost" id="champRestartBtn">↺ 새 시즌</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>© 2026 LOL DRAFT · 감독 모드 | 전력 수치와 경기 결과는 데이터 기반 추정 + 랜덤 시뮬레이션이며 실제와 무관합니다.</p>
+    </footer>
+
+    <script src="manager.js" defer></script>
+</body>
+
+</html>

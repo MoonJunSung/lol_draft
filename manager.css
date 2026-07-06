@@ -1,0 +1,513 @@
+/* ===== 감독 모드 · 시즌 시뮬레이터 스타일 ===== */
+
+.nav-sim-btn {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: linear-gradient(180deg, #12457e 0%, #0a1c36 100%);
+    border: 1px solid rgba(109, 168, 255, 0.4);
+}
+
+.sim-main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+    position: relative;
+    z-index: 1;
+}
+
+.sim-panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 22px;
+    margin-top: 18px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+
+/* ---- Setup ---- */
+.setup-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: flex-end;
+}
+
+.setup-field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.setup-field label {
+    font-size: 0.78rem;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+}
+
+.setup-field select {
+    background: #0c1626;
+    color: var(--text);
+    border: 1px solid var(--slot-border);
+    border-radius: var(--radius-sm);
+    padding: 11px 14px;
+    font-size: 1rem;
+    font-family: inherit;
+    min-width: 180px;
+    cursor: pointer;
+}
+
+.setup-field select:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.setup-hint {
+    color: var(--muted);
+    font-size: 0.85rem;
+    margin-top: 14px;
+}
+
+/* ---- Buttons ---- */
+.action-btn {
+    background: linear-gradient(180deg, #12457e 0%, #0a1c36 100%);
+    color: var(--text);
+    border: 1px solid rgba(109, 168, 255, 0.35);
+    border-radius: var(--radius-sm);
+    padding: 11px 18px;
+    font-size: 0.95rem;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    transition: transform 0.12s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.action-btn:hover:not(:disabled) {
+    transform: translateY(-2px);
+    box-shadow: var(--btn-glow);
+}
+
+.action-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+}
+
+.action-btn.primary {
+    background: linear-gradient(180deg, #3a7cff 0%, #12457e 100%);
+    border-color: var(--accent);
+}
+
+.action-btn.ghost {
+    background: transparent;
+    border-color: var(--slot-border);
+    color: var(--muted);
+}
+
+/* ---- Team preview ---- */
+.team-preview {
+    margin-top: 20px;
+}
+
+.section-h {
+    font-size: 1rem;
+    font-weight: 900;
+    margin-bottom: 12px;
+    color: var(--text);
+    letter-spacing: 0.02em;
+}
+
+.preview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    gap: 12px;
+}
+
+.preview-team {
+    background: var(--gradient-slot);
+    border: 1px solid var(--slot-border);
+    border-radius: var(--radius-sm);
+    padding: 12px 14px;
+}
+
+.pt-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.pt-name {
+    font-weight: 700;
+    font-size: 0.95rem;
+}
+
+.pt-rating {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    color: var(--gold);
+    font-size: 1.1rem;
+}
+
+.pt-roster {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.pt-slot {
+    font-size: 0.78rem;
+    color: var(--muted);
+}
+
+.pt-slot b {
+    color: var(--accent);
+    display: inline-block;
+    width: 34px;
+    font-weight: 700;
+}
+
+/* ---- Season header ---- */
+.season-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.season-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.season-badge {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: 1.2rem;
+    color: var(--text);
+}
+
+.phase-label {
+    background: rgba(109, 168, 255, 0.15);
+    border: 1px solid rgba(109, 168, 255, 0.3);
+    color: var(--accent);
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.progress-label {
+    color: var(--muted);
+    font-size: 0.85rem;
+}
+
+.season-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* ---- Season body ---- */
+.season-body {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 20px;
+}
+
+@media (max-width: 760px) {
+    .season-body {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ---- Standings ---- */
+.standings {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+
+.standings th {
+    color: var(--muted);
+    font-weight: 700;
+    font-size: 0.78rem;
+    text-align: center;
+    padding: 8px 6px;
+    border-bottom: 1px solid var(--line);
+}
+
+.standings td {
+    text-align: center;
+    padding: 9px 6px;
+    border-bottom: 1px solid var(--line);
+}
+
+.standings .ta-l {
+    text-align: left;
+}
+
+.standings .rank {
+    font-weight: 900;
+    color: var(--muted);
+    width: 28px;
+}
+
+.standings .team-cell {
+    font-weight: 700;
+}
+
+.standings tr.po-line td {
+    background: rgba(58, 124, 255, 0.06);
+}
+
+.po-tag {
+    display: inline-block;
+    margin-left: 6px;
+    font-size: 0.62rem;
+    color: var(--accent);
+    border: 1px solid rgba(109, 168, 255, 0.4);
+    border-radius: 4px;
+    padding: 0 4px;
+    vertical-align: middle;
+}
+
+.standings .muted {
+    color: var(--muted);
+    font-size: 0.82rem;
+}
+
+.rbar {
+    display: inline-block;
+    width: 46px;
+    height: 6px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 3px;
+    margin-right: 6px;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.rbar-fill {
+    display: block;
+    height: 100%;
+    background: linear-gradient(90deg, var(--accent-strong), var(--gold));
+    border-radius: 3px;
+}
+
+/* ---- Match feed ---- */
+.match-feed {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 520px;
+    overflow-y: auto;
+    padding-right: 4px;
+}
+
+.feed-item {
+    background: var(--gradient-slot);
+    border: 1px solid var(--slot-border);
+    border-radius: var(--radius-sm);
+    padding: 10px 12px;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.feed-item.just-in {
+    transform: translateX(14px);
+    opacity: 0;
+}
+
+.feed-teams {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+
+.ft {
+    flex: 1;
+    font-size: 0.88rem;
+    color: var(--muted);
+}
+
+.ft:last-child {
+    text-align: right;
+}
+
+.ft.win {
+    color: var(--text);
+    font-weight: 700;
+}
+
+.ft-score {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    color: var(--gold);
+    font-size: 0.95rem;
+}
+
+.feed-sub {
+    margin-top: 4px;
+    font-size: 0.72rem;
+    color: var(--muted);
+    letter-spacing: 0.06em;
+}
+
+/* ---- Playoffs bracket ---- */
+.playoffs-wrap {
+    margin-top: 26px;
+    border-top: 1px solid var(--line);
+    padding-top: 20px;
+}
+
+.bracket {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+}
+
+.br-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 14px;
+    min-width: 170px;
+}
+
+.br-title {
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0.08em;
+}
+
+.br-match {
+    background: var(--gradient-slot);
+    border: 1px solid var(--slot-border);
+    border-radius: var(--radius-sm);
+    padding: 8px 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.br-match.bye {
+    opacity: 0.7;
+}
+
+.brm-team {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+.brm-team b {
+    font-family: 'Orbitron', sans-serif;
+    color: var(--text);
+}
+
+.brm-team.win {
+    color: var(--text);
+    font-weight: 700;
+}
+
+.brm-team.win b {
+    color: var(--gold);
+}
+
+.brm-team.dim {
+    font-size: 0.72rem;
+    opacity: 0.6;
+}
+
+/* ---- Champion overlay ---- */
+.champ-overlay[hidden] {
+    display: none;
+}
+
+.champ-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(4, 8, 18, 0.9);
+    backdrop-filter: blur(8px);
+    padding: 20px;
+}
+
+.champ-card {
+    background: var(--gradient-filled);
+    border: 1px solid var(--gold);
+    border-radius: var(--radius-lg);
+    padding: 34px 30px;
+    text-align: center;
+    max-width: 420px;
+    width: 100%;
+    box-shadow: 0 30px 80px rgba(214, 178, 92, 0.25);
+    animation: champPop 0.5s cubic-bezier(0.2, 1.2, 0.4, 1);
+}
+
+@keyframes champPop {
+    from { transform: scale(0.8); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+
+.champ-trophy {
+    font-size: 3.4rem;
+    filter: drop-shadow(0 6px 16px rgba(214, 178, 92, 0.5));
+}
+
+.champ-eyebrow {
+    color: var(--gold);
+    font-size: 0.85rem;
+    letter-spacing: 0.1em;
+    margin-top: 8px;
+}
+
+.champ-name {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    font-size: 2.2rem;
+    margin: 6px 0 18px;
+}
+
+.champ-roster {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 22px;
+}
+
+.cr-slot {
+    display: flex;
+    justify-content: space-between;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    padding: 7px 14px;
+}
+
+.cr-pos {
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 0.82rem;
+}
+
+.cr-player {
+    font-weight: 700;
+}
+
+.champ-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}

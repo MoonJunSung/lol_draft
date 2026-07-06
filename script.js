@@ -62,7 +62,19 @@ const translations = {
         closeTooltip: '닫기',
         musicTitle: '🎵 월즈 주제가',
         musicTooltip: '월즈 주제가 듣기',
-        stopMusic: '⏹ 정지'
+        stopMusic: '⏹ 정지',
+        playerInfo: '선수 정보',
+        careerHistory: '커리어 / 이적 이력',
+        careerSpan: '활동 시즌',
+        teamsPlayed: '거쳐간 팀',
+        worldsTitles: '월즈 우승',
+        statusActive: '현역 (활동 중)',
+        statusRetired: '은퇴/비활동 추정',
+        lastSeen: '최근 기록 {year}',
+        oneClub: '한 팀에서만 활동한 원 클럽 선수',
+        transferCount: '총 {count}개 팀에서 활동',
+        noCareerData: '커리어 데이터가 없습니다',
+        detailHint: '카드를 눌러 선수 정보를 볼 수 있어요'
     },
     en: {
         eyebrow: 'LOL DRAFT - 2026 Latest Pro Player Data',
@@ -122,7 +134,19 @@ const translations = {
         closeTooltip: 'Close',
         musicTitle: '🎵 Worlds Anthems',
         musicTooltip: 'Play Worlds Anthems',
-        stopMusic: '⏹ Stop'
+        stopMusic: '⏹ Stop',
+        playerInfo: 'Player Info',
+        careerHistory: 'Career / Transfer History',
+        careerSpan: 'Active Seasons',
+        teamsPlayed: 'Teams',
+        worldsTitles: 'Worlds Wins',
+        statusActive: 'Active',
+        statusRetired: 'Likely Retired/Inactive',
+        lastSeen: 'last seen {year}',
+        oneClub: 'One-club player',
+        transferCount: 'Played for {count} teams',
+        noCareerData: 'No career data available',
+        detailHint: 'Tap the card to view player info'
     }
 };
 
@@ -672,6 +696,41 @@ function getTeamAbbreviation(teamName) {
     return words.map((w) => w[0]).join('').slice(0, 4).toUpperCase();
 }
 
+// ===== 역대 팀명 보정 =====
+// 일부 데이터가 현재 팀명으로 통일돼 과거 명칭이 사라진 경우, 연도별 실제 팀명으로 되돌린다.
+// 계보(lineage)별로 "해당 연도까지는 이 이름"을 정의. 새 조직은 아래 두 맵에 추가하면 된다.
+const TEAM_LINEAGES = {
+    // DAMWON → DWG KIA → Dplus Kia
+    dplus: [
+        { until: 2020, name: 'DAMWON Gaming' },
+        { until: 2022, name: 'DWG KIA' },
+        { until: 9999, name: 'Dplus Kia' }
+    ]
+};
+// 데이터에 등장할 수 있는 여러 표기(대문자 키)를 계보 키로 매핑
+const TEAM_LINEAGE_KEYS = {
+    'DAMWON GAMING': 'dplus',
+    'DAMWON': 'dplus',
+    'DWG KIA': 'dplus',
+    'DWG': 'dplus',
+    'DPLUS KIA': 'dplus',
+    'DPLUS': 'dplus',
+    'DK': 'dplus'
+};
+
+function resolveHistoricalTeamName(teamName, year) {
+    const clean = cleanTeamName(teamName);
+    if (!clean) return clean;
+    const lineageKey = TEAM_LINEAGE_KEYS[clean.toUpperCase()];
+    const y = Number(year);
+    if (lineageKey && TEAM_LINEAGES[lineageKey] && y) {
+        for (const era of TEAM_LINEAGES[lineageKey]) {
+            if (y <= era.until) return era.name;
+        }
+    }
+    return clean;
+}
+
 // ===== 가중치 뽑기 =====
 
 function weightedPick(list) {
@@ -706,8 +765,8 @@ function setRevealContent(player) {
     const nation = resolveNationality(player);
     const league = leagueMap[player.league] || player.league || '-';
     const teamRaw = player.seasonTeam || player.team || '-';
-    const team = cleanTeamName(teamRaw) || teamRaw;
     const seasonYear = resolveCardYear(player);
+    const team = resolveHistoricalTeamName(teamRaw, seasonYear) || cleanTeamName(teamRaw) || teamRaw;
     const teamColor = getTeamColor(team);
     const worldsWins = Number(player.worldsWins || 0);
 
@@ -716,7 +775,7 @@ function setRevealContent(player) {
     document.getElementById('revealLeagueName').textContent = league;
     const revealTeamLogo = document.getElementById('revealTeamLogo');
     if (revealTeamLogo) {
-        revealTeamLogo.textContent = getTeamAbbreviation(teamRaw) || team;
+        revealTeamLogo.textContent = getTeamAbbreviation(team) || team;
         revealTeamLogo.style.color = teamColor;
     }
     document.getElementById('revealTeamName').textContent = team;
@@ -793,6 +852,136 @@ function closeReveal() {
     pendingRevealPick = null;
 }
 
+// ===== 선수 상세 정보 (커리어 / 이적 이력) =====
+
+// 같은 선수를 여러 연도 데이터에서 묶기 위한 기준 키 (id에서 _YYYY 제거)
+function playerBaseId(p) {
+    if (p && p.id) {
+        const m = String(p.id).match(/^(.*)_\d{4}$/);
+        return (m ? m[1] : String(p.id)).toLowerCase();
+    }
+    return (p && p.name ? String(p.name) : '').toLowerCase();
+}
+
+// 모든 연도 데이터를 훑어 해당 선수의 연도별 커리어 타임라인을 만든다.
+function buildCareerTimeline(player) {
+    const baseId = playerBaseId(player);
+    const byYear = new Map();
+    POSITIONS.forEach((pos) => {
+        (players[pos] || []).forEach((p) => {
+            if (playerBaseId(p) !== baseId) return;
+            const year = Number(resolveCardYear(p));
+            if (!year) return;
+            const teamName = resolveHistoricalTeamName(p.seasonTeam || p.team, year)
+                || cleanTeamName(p.team) || p.team || '-';
+            if (!byYear.has(year)) {
+                byYear.set(year, { year, teams: new Set(), leagues: new Set(), positions: new Set(), worldsWins: 0 });
+            }
+            const e = byYear.get(year);
+            if (teamName) e.teams.add(teamName);
+            if (p.league) e.leagues.add(p.league);
+            e.positions.add(pos);
+            e.worldsWins = Math.max(e.worldsWins, Number(p.worldsWins || 0));
+        });
+    });
+    return [...byYear.values()].sort((a, b) => a.year - b.year);
+}
+
+const POSITION_LABEL = { top: 'TOP', jungle: 'JGL', mid: 'MID', adc: 'ADC', support: 'SUP' };
+
+function openPlayerDetail(player) {
+    if (!player) return;
+    const modal = document.getElementById('playerDetailModal');
+    const body = document.getElementById('playerDetailBody');
+    if (!modal || !body) return;
+
+    const timeline = buildCareerTimeline(player);
+    const nation = resolveNationality(player);
+    const currentYear = Number(resolveCardYear(player));
+    const currentTeam = resolveHistoricalTeamName(player.seasonTeam || player.team, currentYear)
+        || cleanTeamName(player.team) || player.team || '-';
+    const teamColor = getTeamColor(currentTeam);
+
+    // 커리어 요약
+    const years = timeline.map((e) => e.year);
+    const firstYear = years.length ? years[0] : currentYear;
+    const lastYear = years.length ? years[years.length - 1] : currentYear;
+    const allTeams = [];
+    timeline.forEach((e) => e.teams.forEach((tn) => { if (!allTeams.includes(tn)) allTeams.push(tn); }));
+    const maxWorlds = timeline.reduce((m, e) => Math.max(m, e.worldsWins), Number(player.worldsWins || 0));
+
+    // 현역 / 은퇴 추정 (데이터 최신 시즌 대비)
+    const latestData = availableYears[availableYears.length - 1];
+    const active = lastYear >= latestData - 1;
+    const statusText = active
+        ? t('statusActive')
+        : `${t('statusRetired')} · ${t('lastSeen').replace('{year}', lastYear)}`;
+
+    const teamsCount = allTeams.length;
+    const transferNote = teamsCount <= 1
+        ? t('oneClub')
+        : t('transferCount').replace('{count}', teamsCount);
+
+    const timelineHtml = timeline.length
+        ? timeline.map((e) => {
+            const teamsStr = [...e.teams].join(', ');
+            const league = [...e.leagues][0] || '';
+            const posStr = [...e.positions].map((p) => POSITION_LABEL[p] || p.toUpperCase()).join('/');
+            const trophy = e.worldsWins > 0 ? ' 🏆' : '';
+            const col = getTeamColor([...e.teams][0] || teamsStr);
+            return `
+                <li class="career-item">
+                    <span class="career-year">${e.year}</span>
+                    <span class="career-dot" style="background:${col}"></span>
+                    <span class="career-info">
+                        <span class="career-team">${esc(teamsStr)}${trophy}</span>
+                        <span class="career-meta">${esc(league)}${posStr ? ' · ' + esc(posStr) : ''}</span>
+                    </span>
+                </li>`;
+        }).join('')
+        : `<li class="career-item"><span class="career-info"><span class="career-team">${t('noCareerData')}</span></span></li>`;
+
+    const imgHtml = player.image
+        ? `<img src="${esc(player.image)}" alt="${esc(player.name)}" class="detail-avatar" loading="lazy" onerror="this.style.display='none'">`
+        : '';
+
+    body.innerHTML = `
+        <div class="detail-top" style="--team-color:${teamColor}">
+            ${imgHtml}
+            <div class="detail-head">
+                <div class="detail-name">${esc(player.name)}</div>
+                <div class="detail-sub">
+                    <span class="detail-flag">${nation.flag}</span>
+                    <span>${esc(nation.name)}</span>
+                    <span class="detail-pos-chip">${esc(POSITION_LABEL[player.position] || (player.position || '').toUpperCase())}</span>
+                </div>
+                <div class="detail-current" style="color:${teamColor}">${esc(currentTeam)}${currentYear ? ` · ${currentYear}` : ''}</div>
+            </div>
+        </div>
+        <div class="detail-stats-row">
+            <div class="detail-stat"><span class="ds-label">${t('careerSpan')}</span><span class="ds-value">${firstYear}${lastYear !== firstYear ? '–' + lastYear : ''}</span></div>
+            <div class="detail-stat"><span class="ds-label">${t('teamsPlayed')}</span><span class="ds-value">${teamsCount}</span></div>
+            <div class="detail-stat"><span class="ds-label">${t('worldsTitles')}</span><span class="ds-value">${maxWorlds}${maxWorlds > 0 ? ' 🏆' : ''}</span></div>
+        </div>
+        <div class="detail-status ${active ? 'is-active' : 'is-retired'}">${statusText}</div>
+        <div class="detail-transfer-note">${transferNote}</div>
+        <h3 class="detail-section-title">${t('careerHistory')}</h3>
+        <ul class="career-timeline">${timelineHtml}</ul>
+    `;
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function closePlayerDetail() {
+    const modal = document.getElementById('playerDetailModal');
+    if (modal) modal.classList.remove('active');
+    // 리빌 오버레이가 열려있으면 스크롤 잠금 유지
+    if (!revealActive && !document.getElementById('collectionModal').classList.contains('active')) {
+        document.body.style.overflow = '';
+    }
+}
+
 // ===== 뽑기 / 확정 =====
 
 function summonForPosition(position) {
@@ -830,7 +1019,7 @@ function updateSlotDisplay(position, player) {
     if (player) {
         slot.classList.add('filled');
         const seasonYear = resolveCardYear(player);
-        const teamName = cleanTeamName(player.team) || player.team;
+        const teamName = resolveHistoricalTeamName(player.seasonTeam || player.team, seasonYear) || cleanTeamName(player.team) || player.team;
         const teamColor = getTeamColor(teamName);
         slot.style.setProperty('--team-color', teamColor);
         playerDisplay.innerHTML = `
@@ -927,7 +1116,7 @@ function shareRoster() {
     POSITIONS.forEach(pos => {
         const player = currentRoster[pos];
         if (player) {
-            const teamName = cleanTeamName(player.team) || player.team;
+            const teamName = resolveHistoricalTeamName(player.seasonTeam || player.team, resolveCardYear(player)) || cleanTeamName(player.team) || player.team;
             shareText += `${t(pos)}: ${player.name} (${teamName})\n`;
         }
     });
@@ -1350,10 +1539,33 @@ document.addEventListener('DOMContentLoaded', () => {
         slot.addEventListener('click', () => {
             if (revealActive) return;
             const position = slot.getAttribute('data-position');
-            if (!position || slot.classList.contains('filled')) return;
+            if (!position) return;
+            // 이미 채워진 슬롯이면 선수 상세 정보, 아니면 새로 뽑기
+            if (slot.classList.contains('filled')) {
+                if (currentRoster[position]) openPlayerDetail(currentRoster[position]);
+                return;
+            }
             summonForPosition(position);
         });
     });
+
+    // 리빌 카드 클릭 → 선수 상세 정보
+    const finalCard = document.getElementById('finalCardElement');
+    if (finalCard) {
+        finalCard.style.cursor = 'pointer';
+        finalCard.setAttribute('title', t('detailHint'));
+        finalCard.addEventListener('click', () => {
+            if (pendingRevealPick) openPlayerDetail(pendingRevealPick);
+        });
+    }
+
+    // 선수 상세 모달 외부 클릭 닫기
+    const detailModal = document.getElementById('playerDetailModal');
+    if (detailModal) {
+        detailModal.addEventListener('click', (e) => {
+            if (e.target.id === 'playerDetailModal') closePlayerDetail();
+        });
+    }
 
     const signBtn = document.querySelector('.sign-btn');
     if (signBtn) {
